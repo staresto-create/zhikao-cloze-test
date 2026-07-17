@@ -2,7 +2,7 @@
   {
     "id": "Z91_17",
     "year": "91年",
-    "passageId": "Z91_17_solo",
+    "passageId": "91_16-20",
     "blankNum": 17,
     "category": "代名詞",
     "options": {
@@ -17,7 +17,7 @@
   {
     "id": "Z91_19",
     "year": "91年",
-    "passageId": "Z91_19_solo",
+    "passageId": "91_16-20",
     "blankNum": 19,
     "category": "連接詞／轉承語",
     "options": {
@@ -32,7 +32,7 @@
   {
     "id": "Z91_20",
     "year": "91年",
-    "passageId": "Z91_20_solo",
+    "passageId": "91_16-20",
     "blankNum": 20,
     "category": "介系詞",
     "options": {
@@ -47,7 +47,7 @@
   {
     "id": "Z91_22",
     "year": "91年",
-    "passageId": "Z91_22_solo",
+    "passageId": "91_21-25",
     "blankNum": 22,
     "category": "主詞與動詞一致",
     "options": {
@@ -62,7 +62,7 @@
   {
     "id": "Z91_26",
     "year": "91年",
-    "passageId": "Z91_26_solo",
+    "passageId": "91_26-30",
     "blankNum": 26,
     "category": "分詞／動狀詞",
     "options": {
@@ -77,7 +77,7 @@
   {
     "id": "Z91_28",
     "year": "91年",
-    "passageId": "Z91_28_solo",
+    "passageId": "91_26-30",
     "blankNum": 28,
     "category": "慣用語／片語",
     "options": {
@@ -92,7 +92,7 @@
   {
     "id": "Z91_16",
     "year": "91年",
-    "passageId": "Z91_16_solo",
+    "passageId": "91_16-20",
     "blankNum": 16,
     "category": "慣用語／片語",
     "options": {
@@ -107,7 +107,7 @@
   {
     "id": "Z91_25",
     "year": "91年",
-    "passageId": "Z91_25_solo",
+    "passageId": "91_21-25",
     "blankNum": 25,
     "category": "連接詞／轉承語",
     "options": {
@@ -122,7 +122,7 @@
   {
     "id": "Z91_29",
     "year": "91年",
-    "passageId": "Z91_29_solo",
+    "passageId": "91_26-30",
     "blankNum": 29,
     "category": "連接詞／轉承語",
     "options": {
@@ -137,7 +137,7 @@
   {
     "id": "Z92_27",
     "year": "92年",
-    "passageId": "Z92_27_solo",
+    "passageId": "92_24-30",
     "blankNum": 27,
     "category": "介系詞",
     "options": {
@@ -152,7 +152,7 @@
   {
     "id": "Z92_29",
     "year": "92年",
-    "passageId": "Z92_29_solo",
+    "passageId": "92_24-30",
     "blankNum": 29,
     "category": "時態／語態",
     "options": {
@@ -167,7 +167,7 @@
   {
     "id": "Z92_22",
     "year": "92年",
-    "passageId": "Z92_22_solo",
+    "passageId": "92_16-23",
     "blankNum": 22,
     "category": "連接詞／轉承語",
     "options": {
@@ -182,7 +182,7 @@
   {
     "id": "Z92_23",
     "year": "92年",
-    "passageId": "Z92_23_solo",
+    "passageId": "92_16-23",
     "blankNum": 23,
     "category": "代名詞",
     "options": {
@@ -197,7 +197,7 @@
   {
     "id": "Z92_24",
     "year": "92年",
-    "passageId": "Z92_24_solo",
+    "passageId": "92_24-30",
     "blankNum": 24,
     "category": "連接詞／轉承語",
     "options": {
@@ -212,7 +212,7 @@
   {
     "id": "Z92_26",
     "year": "92年",
-    "passageId": "Z92_26_solo",
+    "passageId": "92_24-30",
     "blankNum": 26,
     "category": "介系詞／慣用語",
     "options": {
@@ -227,7 +227,7 @@
   {
     "id": "Z93_16",
     "year": "93年",
-    "passageId": "Z93_16_solo",
+    "passageId": "93_16-20",
     "blankNum": 16,
     "category": "慣用語／片語",
     "options": {
@@ -242,7 +242,7 @@
   {
     "id": "Z93_17",
     "year": "93年",
-    "passageId": "Z93_17_solo",
+    "passageId": "93_16-20",
     "blankNum": 17,
     "category": "分詞／動狀詞",
     "options": {
@@ -257,7 +257,7 @@
   {
     "id": "Z93_24",
     "year": "93年",
-    "passageId": "Z93_24_solo",
+    "passageId": "93_21-25",
     "blankNum": 24,
     "category": "介系詞",
     "options": {
@@ -272,7 +272,7 @@
   {
     "id": "Z93_25",
     "year": "93年",
-    "passageId": "Z93_25_solo",
+    "passageId": "93_21-25",
     "blankNum": 25,
     "category": "分詞／動狀詞",
     "options": {
@@ -287,7 +287,7 @@
   {
     "id": "Z93_27",
     "year": "93年",
-    "passageId": "Z93_27_solo",
+    "passageId": "93_26-30",
     "blankNum": 27,
     "category": "助動詞",
     "options": {
@@ -302,7 +302,7 @@
   {
     "id": "Z93_29",
     "year": "93年",
-    "passageId": "Z93_29_solo",
+    "passageId": "93_26-30",
     "blankNum": 29,
     "category": "關係子句／疑問詞",
     "options": {
@@ -317,7 +317,7 @@
   {
     "id": "Z93_19",
     "year": "93年",
-    "passageId": "Z93_19_solo",
+    "passageId": "93_16-20",
     "blankNum": 19,
     "category": "代名詞",
     "options": {
@@ -332,7 +332,7 @@
   {
     "id": "Z93_20",
     "year": "93年",
-    "passageId": "Z93_20_solo",
+    "passageId": "93_16-20",
     "blankNum": 20,
     "category": "字彙選義",
     "options": {
@@ -347,7 +347,7 @@
   {
     "id": "Z93_22",
     "year": "93年",
-    "passageId": "Z93_22_solo",
+    "passageId": "93_21-25",
     "blankNum": 22,
     "category": "連接詞／轉承語",
     "options": {
@@ -362,7 +362,7 @@
   {
     "id": "Z93_26",
     "year": "93年",
-    "passageId": "Z93_26_solo",
+    "passageId": "93_26-30",
     "blankNum": 26,
     "category": "連接詞／轉承語",
     "options": {
@@ -377,7 +377,7 @@
   {
     "id": "Z93_28",
     "year": "93年",
-    "passageId": "Z93_28_solo",
+    "passageId": "93_26-30",
     "blankNum": 28,
     "category": "慣用語／片語",
     "options": {
@@ -392,7 +392,7 @@
   {
     "id": "Z93_30",
     "year": "93年",
-    "passageId": "Z93_30_solo",
+    "passageId": "93_26-30",
     "blankNum": 30,
     "category": "連接詞／轉承語",
     "options": {
@@ -407,7 +407,7 @@
   {
     "id": "Z93M_18",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_18_solo",
+    "passageId": "93M_16-20",
     "blankNum": 18,
     "category": "關係子句／疑問詞",
     "options": {
@@ -422,7 +422,7 @@
   {
     "id": "Z93M_21",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_21_solo",
+    "passageId": "93M_21-25",
     "blankNum": 21,
     "category": "關係子句／疑問詞",
     "options": {
@@ -437,7 +437,7 @@
   {
     "id": "Z93M_22",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_22_solo",
+    "passageId": "93M_21-25",
     "blankNum": 22,
     "category": "介系詞",
     "options": {
@@ -452,7 +452,7 @@
   {
     "id": "Z93M_23",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_23_solo",
+    "passageId": "93M_21-25",
     "blankNum": 23,
     "category": "慣用語／片語",
     "options": {
@@ -467,7 +467,7 @@
   {
     "id": "Z93M_27",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_27_solo",
+    "passageId": "93M_26-30",
     "blankNum": 27,
     "category": "慣用語／片語",
     "options": {
@@ -482,7 +482,7 @@
   {
     "id": "Z93M_16",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_16_solo",
+    "passageId": "93M_16-20",
     "blankNum": 16,
     "category": "慣用語／片語",
     "options": {
@@ -497,7 +497,7 @@
   {
     "id": "Z93M_17",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_17_solo",
+    "passageId": "93M_16-20",
     "blankNum": 17,
     "category": "連接詞／轉承語",
     "options": {
@@ -512,7 +512,7 @@
   {
     "id": "Z93M_28",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_28_solo",
+    "passageId": "93M_26-30",
     "blankNum": 28,
     "category": "字彙選義",
     "options": {
@@ -527,7 +527,7 @@
   {
     "id": "Z93M_29",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_29_solo",
+    "passageId": "93M_26-30",
     "blankNum": 29,
     "category": "連接詞／疑問詞",
     "options": {
@@ -542,7 +542,7 @@
   {
     "id": "Z93M_26",
     "year": "93年指考(敏督利颱風應變試題)",
-    "passageId": "Z93M_26_solo",
+    "passageId": "93M_26-30",
     "blankNum": 26,
     "category": "慣用語／片語",
     "options": {
@@ -557,7 +557,7 @@
   {
     "id": "Z94_19",
     "year": "94年",
-    "passageId": "Z94_19_solo",
+    "passageId": "94_16-20",
     "blankNum": 19,
     "category": "分詞／動狀詞",
     "options": {
@@ -572,7 +572,7 @@
   {
     "id": "Z94_20",
     "year": "94年",
-    "passageId": "Z94_20_solo",
+    "passageId": "94_16-20",
     "blankNum": 20,
     "category": "字彙選義",
     "options": {
@@ -587,7 +587,7 @@
   {
     "id": "Z94_21",
     "year": "94年",
-    "passageId": "Z94_21_solo",
+    "passageId": "94_21-25",
     "blankNum": 21,
     "category": "關係子句／疑問詞",
     "options": {
@@ -602,7 +602,7 @@
   {
     "id": "Z94_22",
     "year": "94年",
-    "passageId": "Z94_22_solo",
+    "passageId": "94_21-25",
     "blankNum": 22,
     "category": "介系詞",
     "options": {
@@ -617,7 +617,7 @@
   {
     "id": "Z94_23",
     "year": "94年",
-    "passageId": "Z94_23_solo",
+    "passageId": "94_21-25",
     "blankNum": 23,
     "category": "關係子句／疑問詞",
     "options": {
@@ -632,7 +632,7 @@
   {
     "id": "Z94_28",
     "year": "94年",
-    "passageId": "Z94_28_solo",
+    "passageId": "94_26-30",
     "blankNum": 28,
     "category": "分詞／動狀詞",
     "options": {
@@ -647,7 +647,7 @@
   {
     "id": "Z94_29",
     "year": "94年",
-    "passageId": "Z94_29_solo",
+    "passageId": "94_26-30",
     "blankNum": 29,
     "category": "介系詞",
     "options": {
@@ -662,7 +662,7 @@
   {
     "id": "Z94_13",
     "year": "94年",
-    "passageId": "Z94_13_solo",
+    "passageId": "94_11-15",
     "blankNum": 13,
     "category": "字彙選義",
     "options": {
@@ -671,13 +671,13 @@
       "C": "finally",
       "D": "mainly"
     },
-    "answer": "A",
-    "explanation": "hardly 在此表示「差一點沒有」，hardly stopped 強調計程車幾乎沒能及時停下來（最後只差幾公分就撞上櫥窗），符合驚險畫面的語境。likely（可能地）、finally（最後）、mainly（主要地）都無法表達這種「千鈞一髮」的語意。"
+    "answer": "C",
+    "explanation": "finally（最終、終於）呼應計程車失控後「最後終於」在距離櫥窗僅幾公分處停下的驚險畫面，符合故事的敘事邏輯。hardly（幾乎不）在語意上與後文「車子確實停了下來、司機開口說話」矛盾；likely（可能地）、mainly（主要地）皆無法表達這種「有驚無險、終於停住」的語意。"
   },
   {
     "id": "Z94_18",
     "year": "94年",
-    "passageId": "Z94_18_solo",
+    "passageId": "94_16-20",
     "blankNum": 18,
     "category": "慣用語／片語",
     "options": {
@@ -692,7 +692,7 @@
   {
     "id": "Z94_25",
     "year": "94年",
-    "passageId": "Z94_25_solo",
+    "passageId": "94_21-25",
     "blankNum": 25,
     "category": "慣用語／片語",
     "options": {
@@ -707,7 +707,7 @@
   {
     "id": "Z95_19",
     "year": "95年",
-    "passageId": "Z95_19_solo",
+    "passageId": "95_16-20",
     "blankNum": 19,
     "category": "連接詞／轉承語",
     "options": {
@@ -722,7 +722,7 @@
   {
     "id": "Z95_12",
     "year": "95年",
-    "passageId": "Z95_12_solo",
+    "passageId": "95_11-15",
     "blankNum": 12,
     "category": "連接詞／轉承語",
     "options": {
@@ -737,7 +737,7 @@
   {
     "id": "Z95_13",
     "year": "95年",
-    "passageId": "Z95_13_solo",
+    "passageId": "95_11-15",
     "blankNum": 13,
     "category": "字彙選義",
     "options": {
@@ -752,7 +752,7 @@
   {
     "id": "Z95_14",
     "year": "95年",
-    "passageId": "Z95_14_solo",
+    "passageId": "95_11-15",
     "blankNum": 14,
     "category": "慣用語／片語",
     "options": {
@@ -767,7 +767,7 @@
   {
     "id": "Z95_16",
     "year": "95年",
-    "passageId": "Z95_16_solo",
+    "passageId": "95_16-20",
     "blankNum": 16,
     "category": "慣用語／片語",
     "options": {
@@ -782,7 +782,7 @@
   {
     "id": "Z95_17",
     "year": "95年",
-    "passageId": "Z95_17_solo",
+    "passageId": "95_16-20",
     "blankNum": 17,
     "category": "慣用語／片語",
     "options": {
@@ -797,7 +797,7 @@
   {
     "id": "Z95_18",
     "year": "95年",
-    "passageId": "Z95_18_solo",
+    "passageId": "95_16-20",
     "blankNum": 18,
     "category": "連接詞／轉承語",
     "options": {
@@ -812,7 +812,7 @@
   {
     "id": "Z95_22",
     "year": "95年",
-    "passageId": "Z95_22_solo",
+    "passageId": "95_21-25",
     "blankNum": 22,
     "category": "比較級",
     "options": {
@@ -827,7 +827,7 @@
   {
     "id": "Z95_25",
     "year": "95年",
-    "passageId": "Z95_25_solo",
+    "passageId": "95_21-25",
     "blankNum": 25,
     "category": "慣用語／片語",
     "options": {
@@ -842,7 +842,7 @@
   {
     "id": "Z95_27",
     "year": "95年",
-    "passageId": "Z95_27_solo",
+    "passageId": "95_26-30",
     "blankNum": 27,
     "category": "慣用語／片語",
     "options": {
@@ -857,7 +857,7 @@
   {
     "id": "Z95_29",
     "year": "95年",
-    "passageId": "Z95_29_solo",
+    "passageId": "95_26-30",
     "blankNum": 29,
     "category": "字彙選義",
     "options": {
@@ -868,111 +868,6 @@
     },
     "answer": "B",
     "explanation": "somehow able to fly（不知用什麼方法能夠飛行）表示「用某種未知的方式」，呼應後文「也許是搭乘熱氣球」這種推測語氣。someday（未來某天）、sometime（某個時候）、somewhere（某個地方）都不符合這裡「以某種方式」的語意。"
-  },
-  {
-    "id": "Z95K_16",
-    "year": "95課綱(98年施測)指考參考卷",
-    "passageId": "Z95K_16_solo",
-    "blankNum": 16,
-    "category": "介系詞",
-    "options": {
-      "A": "as",
-      "B": "or",
-      "C": "of",
-      "D": "like"
-    },
-    "answer": "A",
-    "explanation": "【句型】regard/see A as B 概念延伸，as 表示「作為……的身分／角色」，architecture as an art 意指「建築作為一門藝術」，符合「人們對建築（作為藝術的一種）及其帶來的樂趣普遍不敏感」的語意。or（或者）、of（的）、like（像）都不符合這種「視為……」的語法搭配。"
-  },
-  {
-    "id": "Z95K_11",
-    "year": "95課綱(98年施測)指考參考卷",
-    "passageId": "Z95K_11_solo",
-    "blankNum": 11,
-    "category": "字彙選義",
-    "options": {
-      "A": "grace",
-      "B": "source",
-      "C": "problem",
-      "D": "advantage"
-    },
-    "answer": "D",
-    "explanation": "advantage（優點）呼應後文正面描述化石燃料的好處（產能高、易取得），符合段落列舉化石燃料優點的語境。grace（優雅）、source（來源）、problem（問題，與後文語氣矛盾）都不符合。"
-  },
-  {
-    "id": "Z95K_12",
-    "year": "95課綱(98年施測)指考參考卷",
-    "passageId": "Z95K_12_solo",
-    "blankNum": 12,
-    "category": "連接詞／轉承語",
-    "options": {
-      "A": "Likely",
-      "B": "Besides",
-      "C": "In sum",
-      "D": "On the contrary"
-    },
-    "answer": "B",
-    "explanation": "Besides（此外）承接前句提到的第一個優點（能大量產能），繼續列舉化石燃料的第二個優點（容易取得且量多）。Likely（可能地）、In sum（總之，總結用語）、On the contrary（相反地）都不符合這裡「繼續列舉優點」的語意。"
-  },
-  {
-    "id": "Z95K_13",
-    "year": "95課綱(98年施測)指考參考卷",
-    "passageId": "Z95K_13_solo",
-    "blankNum": 13,
-    "category": "慣用語／片語",
-    "options": {
-      "A": "in advance",
-      "B": "in contrast",
-      "C": "in particular",
-      "D": "in charge"
-    },
-    "answer": "C",
-    "explanation": "in particular（尤其是）強調在各種化石燃料依賴中，「石油依賴」特別導致了壟斷、戰爭與社會政治不穩定，是從一般到特定的聚焦。in advance（事先）、in contrast（相比之下）、in charge（負責）都不符合這裡「特別指出」的語意。"
-  },
-  {
-    "id": "Z95K_15",
-    "year": "95課綱(98年施測)指考參考卷",
-    "passageId": "Z95K_15_solo",
-    "blankNum": 15,
-    "category": "慣用語／片語",
-    "options": {
-      "A": "in effect",
-      "B": "by all means",
-      "C": "at a rate",
-      "D": "on the point of"
-    },
-    "answer": "C",
-    "explanation": "【句型】at a rate + 倍數比較，固定搭配，表示「以……的速率」，符合描述消耗速度比形成速度快10萬倍的語意。in effect（實際上）、by all means（務必）、on the point of（即將）都不符合這種速率表達的語法位置。"
-  },
-  {
-    "id": "Z95K_18",
-    "year": "95課綱(98年施測)指考參考卷",
-    "passageId": "Z95K_18_solo",
-    "blankNum": 18,
-    "category": "連接詞／轉承語",
-    "options": {
-      "A": "although",
-      "B": "because",
-      "C": "likewise",
-      "D": "therefore"
-    },
-    "answer": "B",
-    "explanation": "because...and because... 對等並列，第二個 because 承接第一個，列出「我們容易只把房子當作居住場所」的兩個原因（建築天天陪伴我們、我們必須有房子住）。although（雖然）、likewise（同樣地）、therefore（因此）都無法與前面的 because 對等並列。"
-  },
-  {
-    "id": "Z95K_19",
-    "year": "95課綱(98年施測)指考參考卷",
-    "passageId": "Z95K_19_solo",
-    "blankNum": 19,
-    "category": "連接詞／轉承語",
-    "options": {
-      "A": "not",
-      "B": "but",
-      "C": "often",
-      "D": "then"
-    },
-    "answer": "A",
-    "explanation": "not 在此否定後半段，表示「（我們認為建築跟法國大教堂、義大利宮殿有關），而不是跟紐約、芝加哥街道有關」，呼應段落主旨（人們誤以為建築只存在於古蹟，而非日常街景）。but／often／then 都不符合這種單純否定的語法位置（此處不需轉折連接詞，因為前面已經用逗點連接，不是對等子句）。"
   },
   {
     "id": "Z96_11",
@@ -2623,5 +2518,35 @@
     },
     "answer": "A",
     "explanation": "本句以having to do with X, not with Y的結構表達對比：我們誤以為建築只和歐洲古蹟有關，而非和紐約、芝加哥街道有關，故填入not以形成「與X有關、而非與Y有關」的對比句構；but／often／then皆不符合此處的對比邏輯。"
+  },
+  {
+    "id": "Z95K_11",
+    "year": "95課綱(98年施測)指考參考卷",
+    "passageId": "Z98參_11-15",
+    "blankNum": 11,
+    "category": "字彙選義",
+    "options": {
+      "A": "grace",
+      "B": "source",
+      "C": "problem",
+      "D": "advantage"
+    },
+    "answer": "D",
+    "explanation": "advantage（優點）呼應後文正面描述化石燃料的好處（產能高、易取得），符合段落列舉化石燃料優點的語境。grace（優雅）、source（來源）、problem（問題，與後文語氣矛盾）都不符合。"
+  },
+  {
+    "id": "Z95K_16",
+    "year": "95課綱(98年施測)指考參考卷",
+    "passageId": "Z98參_16-20",
+    "blankNum": 16,
+    "category": "介系詞",
+    "options": {
+      "A": "as",
+      "B": "or",
+      "C": "of",
+      "D": "like"
+    },
+    "answer": "A",
+    "explanation": "【句型】regard/see A as B 概念延伸，as 表示「作為……的身分／角色」，architecture as an art 意指「建築作為一門藝術」，符合「人們對建築（作為藝術的一種）及其帶來的樂趣普遍不敏感」的語意。or（或者）、of（的）、like（像）都不符合這種「視為……」的語法搭配。"
   }
 ]
