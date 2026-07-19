@@ -17,7 +17,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_16-20",
-    "accuracyRate": 42
+    "accuracyRate": 42,
+    "discrimination": 26
   },
   {
     "id": "Z91_19",
@@ -38,7 +39,8 @@
     "hasFullPassage": false,
     "passageId": "91_16-20",
     "accuracyRate": 26,
-    "note": "Even where 表示「即使在…的地方」，where 這裡引導的是抽象的「情況/地方」子句，不是只能指具體地點。很多學生看到 where 只會直覺聯想到「某個實體地點」，沒想到它也能用在「供給充足的（抽象）情境」，因而在 how/why/what/where 之間猜錯。\n常考搭配：Even where + S+V（即使在…的情況下）。"
+    "note": "Even where 表示「即使在…的地方」，where 這裡引導的是抽象的「情況/地方」子句，不是只能指具體地點。很多學生看到 where 只會直覺聯想到「某個實體地點」，沒想到它也能用在「供給充足的（抽象）情境」，因而在 how/why/what/where 之間猜錯。\n常考搭配：Even where + S+V（即使在…的情況下）。",
+    "discrimination": 25
   },
   {
     "id": "Z91_20",
@@ -58,7 +60,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_16-20",
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 35
   },
   {
     "id": "Z91_22",
@@ -78,7 +81,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_21-25",
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 61
   },
   {
     "id": "Z91_26",
@@ -98,7 +102,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_26-30",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 34
   },
   {
     "id": "Z91_28",
@@ -118,7 +123,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_26-30",
-    "accuracyRate": 66
+    "accuracyRate": 66,
+    "discrimination": 40
   },
   {
     "id": "Z91_16",
@@ -138,7 +144,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_16-20",
-    "accuracyRate": 59
+    "accuracyRate": 59,
+    "discrimination": 31
   },
   {
     "id": "Z91_25",
@@ -158,7 +165,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_21-25",
-    "accuracyRate": 42
+    "accuracyRate": 42,
+    "discrimination": 19
   },
   {
     "id": "Z91_29",
@@ -178,7 +186,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "91_26-30",
-    "accuracyRate": 63
+    "accuracyRate": 63,
+    "discrimination": 34
   },
   {
     "id": "Z92_27",
@@ -198,7 +207,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "92_24-30",
-    "accuracyRate": 49
+    "accuracyRate": 49,
+    "discrimination": 55
   },
   {
     "id": "Z92_29",
@@ -218,7 +228,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "92_24-30",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 55
   },
   {
     "id": "Z92_22",
@@ -238,7 +249,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "92_16-23",
-    "accuracyRate": 42
+    "accuracyRate": 42,
+    "discrimination": 49
   },
   {
     "id": "Z92_23",
@@ -258,7 +270,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "92_16-23",
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 19
   },
   {
     "id": "Z92_24",
@@ -278,7 +291,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "92_24-30",
-    "accuracyRate": 65
+    "accuracyRate": 65,
+    "discrimination": 61
   },
   {
     "id": "Z92_26",
@@ -298,7 +312,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "92_24-30",
-    "accuracyRate": 66
+    "accuracyRate": 66,
+    "discrimination": 63
   },
   {
     "id": "Z93_16",
@@ -318,7 +333,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_16-20",
-    "accuracyRate": 72
+    "accuracyRate": 72,
+    "discrimination": 54
   },
   {
     "id": "Z93_17",
@@ -338,7 +354,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_16-20",
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 29
   },
   {
     "id": "Z93_24",
@@ -359,7 +376,8 @@
     "hasFullPassage": false,
     "passageId": "93_21-25",
     "accuracyRate": 28,
-    "note": "beyond the obvious 是固定搭配，意思是「超越表面所見的（深層含意）」。這是進階字彙 beyond 的抽象用法，容易被 among（在…之中）干擾，因為學生對 among 更熟悉，但 among the obvious 邏輯不通，要能理解「言外之意」這種抽象概念才能選對 beyond。\n常考搭配：beyond the obvious（超越表面所見）。"
+    "note": "beyond the obvious 是固定搭配，意思是「超越表面所見的（深層含意）」。這是進階字彙 beyond 的抽象用法，容易被 among（在…之中）干擾，因為學生對 among 更熟悉，但 among the obvious 邏輯不通，要能理解「言外之意」這種抽象概念才能選對 beyond。\n常考搭配：beyond the obvious（超越表面所見）。",
+    "discrimination": 10
   },
   {
     "id": "Z93_25",
@@ -379,7 +397,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_21-25",
-    "accuracyRate": 72
+    "accuracyRate": 72,
+    "discrimination": 38
   },
   {
     "id": "Z93_27",
@@ -399,7 +418,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_26-30",
-    "accuracyRate": 51
+    "accuracyRate": 51,
+    "discrimination": 37
   },
   {
     "id": "Z93_29",
@@ -419,7 +439,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_26-30",
-    "accuracyRate": 43
+    "accuracyRate": 43,
+    "discrimination": 56
   },
   {
     "id": "Z93_19",
@@ -439,7 +460,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_16-20",
-    "accuracyRate": 53
+    "accuracyRate": 53,
+    "discrimination": 48
   },
   {
     "id": "Z93_20",
@@ -459,7 +481,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_16-20",
-    "accuracyRate": 73
+    "accuracyRate": 73,
+    "discrimination": 49
   },
   {
     "id": "Z93_22",
@@ -479,7 +502,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_21-25",
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 41
   },
   {
     "id": "Z93_26",
@@ -500,7 +524,8 @@
     "hasFullPassage": false,
     "passageId": "93_26-30",
     "accuracyRate": 26,
-    "note": "While 在這裡是「雖然、然而」的讓步/對比用法，不是我們更熟悉的「當…同時」的時間用法。學生大多先學到 while 表示「同時」的意思，看到句子需要轉折語意時，容易誤選語意上更直覺的 Since（因為），沒意識到 While 本身就能表達「雖然」的對比語氣。\n常考搭配：While S+V1, S+V2（雖然…，但…，表對比）。"
+    "note": "While 在這裡是「雖然、然而」的讓步/對比用法，不是我們更熟悉的「當…同時」的時間用法。學生大多先學到 while 表示「同時」的意思，看到句子需要轉折語意時，容易誤選語意上更直覺的 Since（因為），沒意識到 While 本身就能表達「雖然」的對比語氣。\n常考搭配：While S+V1, S+V2（雖然…，但…，表對比）。",
+    "discrimination": 7
   },
   {
     "id": "Z93_28",
@@ -520,7 +545,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_26-30",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 45
   },
   {
     "id": "Z93_30",
@@ -540,7 +566,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "93_26-30",
-    "accuracyRate": 66
+    "accuracyRate": 66,
+    "discrimination": 53
   },
   {
     "id": "Z93M_18",
@@ -751,7 +778,8 @@
     "hasFullPassage": false,
     "passageId": "94_16-20",
     "accuracyRate": 33,
-    "note": "Frustrated 放在句首是分詞構句，省略了 Being，表示被動語意「（他）被搞得很挫折」。frustrate 屬於一種特殊的「情緒動詞」（像 interest, excite, frustrate），這類動詞的分詞要看主詞是「造成情緒」還是「感受情緒」來決定用現在分詞還是過去分詞，這裡人是感受挫折的一方，所以要用過去分詞 Frustrated，容易跟主動的 Having frustrated 搞混。\n常考搭配：(Being) Frustrated by + N（因…而感到挫折）。"
+    "note": "Frustrated 放在句首是分詞構句，省略了 Being，表示被動語意「（他）被搞得很挫折」。frustrate 屬於一種特殊的「情緒動詞」（像 interest, excite, frustrate），這類動詞的分詞要看主詞是「造成情緒」還是「感受情緒」來決定用現在分詞還是過去分詞，這裡人是感受挫折的一方，所以要用過去分詞 Frustrated，容易跟主動的 Having frustrated 搞混。\n常考搭配：(Being) Frustrated by + N（因…而感到挫折）。",
+    "discrimination": 35
   },
   {
     "id": "Z94_20",
@@ -771,7 +799,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "94_16-20",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 58
   },
   {
     "id": "Z94_21",
@@ -791,7 +820,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "94_21-25",
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 61
   },
   {
     "id": "Z94_22",
@@ -811,7 +841,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "94_21-25",
-    "accuracyRate": 65
+    "accuracyRate": 65,
+    "discrimination": 56
   },
   {
     "id": "Z94_23",
@@ -831,7 +862,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "94_21-25",
-    "accuracyRate": 53
+    "accuracyRate": 53,
+    "discrimination": 61
   },
   {
     "id": "Z94_28",
@@ -851,7 +883,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "94_26-30",
-    "accuracyRate": 67
+    "accuracyRate": 67,
+    "discrimination": 50
   },
   {
     "id": "Z94_29",
@@ -872,7 +905,8 @@
     "hasFullPassage": false,
     "passageId": "94_26-30",
     "accuracyRate": 31,
-    "note": "By age 21 是固定搭配，意思是「到21歲時（為止）」，常搭配過去完成式（had already published）表示「在某時間點之前已經完成的事」。容易被 With 干擾，因為 With 是學生更常用的介系詞，但只有 By 能表達這種「時間截止點」的語意。\n常考搭配：By + 年齡/時間點, had already + p.p.（到…時，已經…）。"
+    "note": "By age 21 是固定搭配，意思是「到21歲時（為止）」，常搭配過去完成式（had already published）表示「在某時間點之前已經完成的事」。容易被 With 干擾，因為 With 是學生更常用的介系詞，但只有 By 能表達這種「時間截止點」的語意。\n常考搭配：By + 年齡/時間點, had already + p.p.（到…時，已經…）。",
+    "discrimination": 44
   },
   {
     "id": "Z94_13",
@@ -892,7 +926,8 @@
     "answer_source": "official_key_corrected",
     "hasFullPassage": false,
     "passageId": "94_11-15",
-    "accuracyRate": 66
+    "accuracyRate": 66,
+    "discrimination": 49
   },
   {
     "id": "Z94_18",
@@ -912,7 +947,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "94_16-20",
-    "accuracyRate": 61
+    "accuracyRate": 61,
+    "discrimination": 23
   },
   {
     "id": "Z94_25",
@@ -933,7 +969,8 @@
     "hasFullPassage": false,
     "passageId": "94_21-25",
     "accuracyRate": 23,
-    "note": "Except for 表示「除了…之外」，是一種「排除」的邏輯——除了搬不動的大型文物，其他都被複製品取代。容易被 Owing to（因為）干擾，因為學生沒有先判斷這句話到底是在講「原因」還是在講「例外」，這兩種邏輯功能完全不同，要先分清楚句子要的是哪一種轉折。\n常考搭配：Except for + N, S+V（除了…之外，…）。"
+    "note": "Except for 表示「除了…之外」，是一種「排除」的邏輯——除了搬不動的大型文物，其他都被複製品取代。容易被 Owing to（因為）干擾，因為學生沒有先判斷這句話到底是在講「原因」還是在講「例外」，這兩種邏輯功能完全不同，要先分清楚句子要的是哪一種轉折。\n常考搭配：Except for + N, S+V（除了…之外，…）。",
+    "discrimination": 21
   },
   {
     "id": "Z95_19",
@@ -953,7 +990,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_16-20",
-    "accuracyRate": 56
+    "accuracyRate": 56,
+    "discrimination": 51
   },
   {
     "id": "Z95_12",
@@ -973,7 +1011,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_11-15",
-    "accuracyRate": 56
+    "accuracyRate": 56,
+    "discrimination": 51
   },
   {
     "id": "Z95_13",
@@ -993,7 +1032,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_11-15",
-    "accuracyRate": 42
+    "accuracyRate": 42,
+    "discrimination": 48
   },
   {
     "id": "Z95_14",
@@ -1013,7 +1053,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_11-15",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 42
   },
   {
     "id": "Z95_16",
@@ -1033,7 +1074,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_16-20",
-    "accuracyRate": 56
+    "accuracyRate": 56,
+    "discrimination": 34
   },
   {
     "id": "Z95_17",
@@ -1053,7 +1095,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_16-20",
-    "accuracyRate": 75
+    "accuracyRate": 75,
+    "discrimination": 30
   },
   {
     "id": "Z95_18",
@@ -1073,7 +1116,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_16-20",
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 60
   },
   {
     "id": "Z95_22",
@@ -1093,7 +1137,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_21-25",
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 66
   },
   {
     "id": "Z95_25",
@@ -1113,7 +1158,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_21-25",
-    "accuracyRate": 59
+    "accuracyRate": 59,
+    "discrimination": 44
   },
   {
     "id": "Z95_27",
@@ -1133,7 +1179,8 @@
     "answer_source": "manual",
     "hasFullPassage": false,
     "passageId": "95_26-30",
-    "accuracyRate": 44
+    "accuracyRate": 44,
+    "discrimination": 48
   },
   {
     "id": "Z95_29",
@@ -1154,7 +1201,8 @@
     "hasFullPassage": false,
     "passageId": "95_26-30",
     "accuracyRate": 34,
-    "note": "somehow 意思是「以某種（未知的）方式」，這裡強調「不知道用什麼方法能夠飛行」。容易跟字形很像的 someday（未來某天）、sometime（某個時候）、somewhere（某個地方）搞混——這幾個 some+疑問詞的複合字，要分清楚 how（方式）、day/time（時間）、where（地點）各自對應的語意才不會選錯。\n常考搭配：somehow + V（不知用何法…）。"
+    "note": "somehow 意思是「以某種（未知的）方式」，這裡強調「不知道用什麼方法能夠飛行」。容易跟字形很像的 someday（未來某天）、sometime（某個時候）、somewhere（某個地方）搞混——這幾個 some+疑問詞的複合字，要分清楚 how（方式）、day/time（時間）、where（地點）各自對應的語意才不會選錯。\n常考搭配：somehow + V（不知用何法…）。",
+    "discrimination": 38
   },
   {
     "id": "Z96_11",
@@ -1175,7 +1223,8 @@
     "passageId": "96_11-15",
     "fullPassage": "Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are __11__ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people __12__ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. __13__, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men __14__ in life. The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.",
     "hasFullPassage": true,
-    "accuracyRate": 48
+    "accuracyRate": 48,
+    "discrimination": 40
   },
   {
     "id": "Z96_13",
@@ -1196,7 +1245,8 @@
     "passageId": "96_11-15",
     "fullPassage": "Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are __11__ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people __12__ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. __13__, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men __14__ in life. The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.",
     "hasFullPassage": true,
-    "accuracyRate": 44
+    "accuracyRate": 44,
+    "discrimination": 40
   },
   {
     "id": "Z96_14",
@@ -1218,7 +1268,8 @@
     "fullPassage": "Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are __11__ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people __12__ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. __13__, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men __14__ in life. The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.",
     "hasFullPassage": true,
     "accuracyRate": 32,
-    "note": "later in life 意思是「在人生較晚的階段」，呼應前文「女性的低潮持續到30、40歲，之後才回升」的時間脈絡。這題要靠讀懂前後文的時間線索才能判斷方向，如果沒抓住「低潮持續很久、很晚才回升」這個線索，容易誤選語意相反的 sooner（較早）。\n常考搭配：later in life（在人生較晚階段）。"
+    "note": "later in life 意思是「在人生較晚的階段」，呼應前文「女性的低潮持續到30、40歲，之後才回升」的時間脈絡。這題要靠讀懂前後文的時間線索才能判斷方向，如果沒抓住「低潮持續很久、很晚才回升」這個線索，容易誤選語意相反的 sooner（較早）。\n常考搭配：later in life（在人生較晚階段）。",
+    "discrimination": 36
   },
   {
     "id": "Z96_15",
@@ -1240,7 +1291,8 @@
     "fullPassage": "Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are __11__ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people __12__ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. __13__, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men __14__ in life. The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.",
     "hasFullPassage": true,
     "accuracyRate": 12,
-    "note": "once 在這裡是連接詞，意思是「一旦」，很多學生只學過 once 當副詞「曾經」的用法，沒意識到它也能引導副詞子句表示「一旦…就」，看到句子需要連接詞時反而聯想不到這個字。\n常考搭配：once + S + V（一旦…）。"
+    "note": "once 在這裡是連接詞，意思是「一旦」，很多學生只學過 once 當副詞「曾經」的用法，沒意識到它也能引導副詞子句表示「一旦…就」，看到句子需要連接詞時反而聯想不到這個字。\n常考搭配：once + S + V（一旦…）。",
+    "discrimination": 7
   },
   {
     "id": "Z96_16",
@@ -1261,7 +1313,8 @@
     "passageId": "96_16-20",
     "fullPassage": "The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. Science is still not certain __16__ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. __17__, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway __18__ while flames of red, orange, green, and blue play up and down the moving folds. According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth. It is seen __20__ around the Hudson Bay region in Canada, in northern Scotland, and in southern Norway and Sweden.",
     "hasFullPassage": true,
-    "accuracyRate": 40
+    "accuracyRate": 40,
+    "discrimination": 48
   },
   {
     "id": "Z96_17",
@@ -1282,7 +1335,8 @@
     "passageId": "96_16-20",
     "fullPassage": "The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. Science is still not certain __16__ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. __17__, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway __18__ while flames of red, orange, green, and blue play up and down the moving folds. According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth. It is seen __20__ around the Hudson Bay region in Canada, in northern Scotland, and in southern Norway and Sweden.",
     "hasFullPassage": true,
-    "accuracyRate": 39
+    "accuracyRate": 39,
+    "discrimination": 40
   },
   {
     "id": "Z96_18",
@@ -1303,7 +1357,8 @@
     "passageId": "96_16-20",
     "fullPassage": "The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. Science is still not certain __16__ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. __17__, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway __18__ while flames of red, orange, green, and blue play up and down the moving folds. According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth. It is seen __20__ around the Hudson Bay region in Canada, in northern Scotland, and in southern Norway and Sweden.",
     "hasFullPassage": true,
-    "accuracyRate": 39
+    "accuracyRate": 39,
+    "discrimination": 49
   },
   {
     "id": "Z96_19",
@@ -1324,7 +1379,8 @@
     "passageId": "96_16-20",
     "fullPassage": "The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. Science is still not certain __16__ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. __17__, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway __18__ while flames of red, orange, green, and blue play up and down the moving folds. According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth. It is seen __20__ around the Hudson Bay region in Canada, in northern Scotland, and in southern Norway and Sweden.",
     "hasFullPassage": true,
-    "accuracyRate": 43
+    "accuracyRate": 43,
+    "discrimination": 54
   },
   {
     "id": "Z96_20",
@@ -1346,7 +1402,8 @@
     "fullPassage": "The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. Science is still not certain __16__ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. __17__, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway __18__ while flames of red, orange, green, and blue play up and down the moving folds. According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth. It is seen __20__ around the Hudson Bay region in Canada, in northern Scotland, and in southern Norway and Sweden.",
     "hasFullPassage": true,
     "accuracyRate": 20,
-    "note": "at its best 是固定片語，意思是「處於最佳/最壯觀狀態」。容易被 in the least（一點也不）干擾，因為這個片語常在其他考題的否定句情境中出現、很眼熟，但這裡的語境是「極光被看見時最壯觀的樣子」，是正面描述，跟通常搭配否定句的 in the least 語意方向完全相反。\n常考搭配：at its best（處於最佳狀態）。"
+    "note": "at its best 是固定片語，意思是「處於最佳/最壯觀狀態」。容易被 in the least（一點也不）干擾，因為這個片語常在其他考題的否定句情境中出現、很眼熟，但這裡的語境是「極光被看見時最壯觀的樣子」，是正面描述，跟通常搭配否定句的 in the least 語意方向完全相反。\n常考搭配：at its best（處於最佳狀態）。",
+    "discrimination": 28
   },
   {
     "id": "Z96_22",
@@ -1367,7 +1424,8 @@
     "passageId": "96_21-25",
     "fullPassage": "Average global temperature has increased by almost 1°F over the past century. Scientists expect it to increase an __21__ 2° to 6°F over the next one hundred years. This may not sound like much, but it could change the Earth's climate as __22__ before. Climate change may affect people's health both directly and indirectly. For instance, heat stress and other heat-related health problems are caused directly by very warm temperatures. __23__, human health can also be affected by ecological disturbances, changes in food and water supplies, as well as coastal flooding. How people and nature __24__ climate change will determine how seriously it affects human health. Generally, poor people and poor countries are __25__ probable to have the money and resources they need to cope with health problems due to climate change.",
     "hasFullPassage": true,
-    "accuracyRate": 39
+    "accuracyRate": 39,
+    "discrimination": 10
   },
   {
     "id": "Z96_23",
@@ -1388,7 +1446,8 @@
     "passageId": "96_21-25",
     "fullPassage": "Average global temperature has increased by almost 1°F over the past century. Scientists expect it to increase an __21__ 2° to 6°F over the next one hundred years. This may not sound like much, but it could change the Earth's climate as __22__ before. Climate change may affect people's health both directly and indirectly. For instance, heat stress and other heat-related health problems are caused directly by very warm temperatures. __23__, human health can also be affected by ecological disturbances, changes in food and water supplies, as well as coastal flooding. How people and nature __24__ climate change will determine how seriously it affects human health. Generally, poor people and poor countries are __25__ probable to have the money and resources they need to cope with health problems due to climate change.",
     "hasFullPassage": true,
-    "accuracyRate": 39
+    "accuracyRate": 39,
+    "discrimination": 51
   },
   {
     "id": "Z96_25",
@@ -1409,7 +1468,8 @@
     "passageId": "96_21-25",
     "fullPassage": "Average global temperature has increased by almost 1°F over the past century. Scientists expect it to increase an __21__ 2° to 6°F over the next one hundred years. This may not sound like much, but it could change the Earth's climate as __22__ before. Climate change may affect people's health both directly and indirectly. For instance, heat stress and other heat-related health problems are caused directly by very warm temperatures. __23__, human health can also be affected by ecological disturbances, changes in food and water supplies, as well as coastal flooding. How people and nature __24__ climate change will determine how seriously it affects human health. Generally, poor people and poor countries are __25__ probable to have the money and resources they need to cope with health problems due to climate change.",
     "hasFullPassage": true,
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 57
   },
   {
     "id": "Z96_26",
@@ -1431,7 +1491,8 @@
     "fullPassage": "The Kingdom of Bhutan is a landlocked nation situated between India and China. The entire country is mountainous, __26__ a small strip of subtropical plains in the extreme south. The elevation gain from the subtropical plains to the glacier-covered Himalayan heights exceeds 7,000 m. Its traditional __27__ is based on forestry, animal husbandry and subsistence agriculture. However, these __28__ less than 50% of the GDP now that Bhutan has become an exporter of hydroelectricity. Besides, cash crops and tourism are also __29__. Bhutan is one of the most isolated nations in the world, __30__ foreign influences and tourism regulated by the government to preserve its traditional Tibetan Buddhist culture. It is often described as the last surviving refuge of traditional Himalayan Buddhist culture.",
     "hasFullPassage": true,
     "accuracyRate": 23,
-    "note": "with the exception of 意思是「除了…之外」，用法跟 Except for 是同一類「例外」邏輯，這裡指「整個國家都是山地，除了南端一小塊平原」。容易被 in terms of（就…而言）干擾，因為兩者都是常見的正式片語開頭，但只有 with the exception of 表達「唯一的例外」這種邏輯。\n常考搭配：with the exception of + N（除了…之外）。"
+    "note": "with the exception of 意思是「除了…之外」，用法跟 Except for 是同一類「例外」邏輯，這裡指「整個國家都是山地，除了南端一小塊平原」。容易被 in terms of（就…而言）干擾，因為兩者都是常見的正式片語開頭，但只有 with the exception of 表達「唯一的例外」這種邏輯。\n常考搭配：with the exception of + N（除了…之外）。",
+    "discrimination": 18
   },
   {
     "id": "Z96_30",
@@ -1452,7 +1513,8 @@
     "passageId": "96_26-30",
     "fullPassage": "The Kingdom of Bhutan is a landlocked nation situated between India and China. The entire country is mountainous, __26__ a small strip of subtropical plains in the extreme south. The elevation gain from the subtropical plains to the glacier-covered Himalayan heights exceeds 7,000 m. Its traditional __27__ is based on forestry, animal husbandry and subsistence agriculture. However, these __28__ less than 50% of the GDP now that Bhutan has become an exporter of hydroelectricity. Besides, cash crops and tourism are also __29__. Bhutan is one of the most isolated nations in the world, __30__ foreign influences and tourism regulated by the government to preserve its traditional Tibetan Buddhist culture. It is often described as the last surviving refuge of traditional Himalayan Buddhist culture.",
     "hasFullPassage": true,
-    "accuracyRate": 48
+    "accuracyRate": 48,
+    "discrimination": 28
   },
   {
     "id": "Z97_13",
@@ -1473,7 +1535,8 @@
     "answer_source": "official_key_corrected",
     "fullPassage": "The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different—they may not even be __11__. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and __12__ functions, and users may interact with them in new ways, too. __13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may __14__ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. __15__, they will be “the remote-control for life.”",
     "hasFullPassage": true,
-    "accuracyRate": 56
+    "accuracyRate": 56,
+    "discrimination": 43
   },
   {
     "id": "Z97_14",
@@ -1494,7 +1557,8 @@
     "answer_source": "official_key",
     "fullPassage": "The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different—they may not even be __11__. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and __12__ functions, and users may interact with them in new ways, too. __13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may __14__ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. __15__, they will be “the remote-control for life.”",
     "hasFullPassage": true,
-    "accuracyRate": 62
+    "accuracyRate": 62,
+    "discrimination": 63
   },
   {
     "id": "Z97_15",
@@ -1515,7 +1579,8 @@
     "answer_source": "official_key",
     "fullPassage": "The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different—they may not even be __11__. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and __12__ functions, and users may interact with them in new ways, too. __13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may __14__ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. __15__, they will be “the remote-control for life.”",
     "hasFullPassage": true,
-    "accuracyRate": 63
+    "accuracyRate": 63,
+    "discrimination": 61
   },
   {
     "id": "Z97_16",
@@ -1536,7 +1601,8 @@
     "answer_source": "official_key",
     "fullPassage": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__, are not there only to attract attention. They perform another important function for the plants. Research shows that the substances __17__ these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, __18__ may cause harmful elements to form within the plant cells. When we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has __19__ of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more __20__. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.",
     "hasFullPassage": true,
-    "accuracyRate": 68
+    "accuracyRate": 68,
+    "discrimination": 60
   },
   {
     "id": "Z97_18",
@@ -1557,7 +1623,8 @@
     "answer_source": "official_key",
     "fullPassage": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__, are not there only to attract attention. They perform another important function for the plants. Research shows that the substances __17__ these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, __18__ may cause harmful elements to form within the plant cells. When we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has __19__ of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more __20__. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.",
     "hasFullPassage": true,
-    "accuracyRate": 74
+    "accuracyRate": 74,
+    "discrimination": 50
   },
   {
     "id": "Z97_19",
@@ -1578,7 +1645,8 @@
     "answer_source": "official_key",
     "fullPassage": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__, are not there only to attract attention. They perform another important function for the plants. Research shows that the substances __17__ these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, __18__ may cause harmful elements to form within the plant cells. When we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has __19__ of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more __20__. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.",
     "hasFullPassage": true,
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 59
   },
   {
     "id": "Z97_21",
@@ -1599,7 +1667,8 @@
     "answer_source": "official_key",
     "fullPassage": "Recent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that __21__ them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it __22__ over drinking. Habitual drinkers may find alcohol not stimulating enough __23__ and want to seek other more stimulating substances. __24__ a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the __25__ of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.",
     "hasFullPassage": true,
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 30
   },
   {
     "id": "Z97_23",
@@ -1620,7 +1689,8 @@
     "answer_source": "official_key",
     "fullPassage": "Recent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that __21__ them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it __22__ over drinking. Habitual drinkers may find alcohol not stimulating enough __23__ and want to seek other more stimulating substances. __24__ a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the __25__ of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.",
     "hasFullPassage": true,
-    "accuracyRate": 37
+    "accuracyRate": 37,
+    "discrimination": 44
   },
   {
     "id": "Z97_24",
@@ -1641,7 +1711,8 @@
     "answer_source": "official_key",
     "fullPassage": "Recent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that __21__ them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it __22__ over drinking. Habitual drinkers may find alcohol not stimulating enough __23__ and want to seek other more stimulating substances. __24__ a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the __25__ of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.",
     "hasFullPassage": true,
-    "accuracyRate": 42
+    "accuracyRate": 42,
+    "discrimination": 54
   },
   {
     "id": "Z97_26",
@@ -1662,7 +1733,8 @@
     "answer_source": "official_key",
     "fullPassage": "A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way __26__ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could __27__ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced __28__ the event. Recycling cans were also provided for items such as __29__ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's $250 award for the most creative memory destined for __30__. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.",
     "hasFullPassage": true,
-    "accuracyRate": 67
+    "accuracyRate": 67,
+    "discrimination": 39
   },
   {
     "id": "Z97_28",
@@ -1684,7 +1756,8 @@
     "fullPassage": "A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way __26__ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could __27__ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced __28__ the event. Recycling cans were also provided for items such as __29__ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's $250 award for the most creative memory destined for __30__. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.",
     "hasFullPassage": true,
     "accuracyRate": 23,
-    "note": "prior to 是介系詞片語，意思是「在…之前」，後面直接接名詞 the event。容易被意思相近的 beforehand 干擾——這題的陷阱其實是詞性，不是語意：beforehand 是副詞，不能像介系詞一樣直接接受詞，很多學生只確認語意對不對，沒有檢查這個字能不能直接接名詞。\n常考搭配：prior to + N（在…之前）。"
+    "note": "prior to 是介系詞片語，意思是「在…之前」，後面直接接名詞 the event。容易被意思相近的 beforehand 干擾——這題的陷阱其實是詞性，不是語意：beforehand 是副詞，不能像介系詞一樣直接接受詞，很多學生只確認語意對不對，沒有檢查這個字能不能直接接名詞。\n常考搭配：prior to + N（在…之前）。",
+    "discrimination": 13
   },
   {
     "id": "Z97_30",
@@ -1705,7 +1778,8 @@
     "answer_source": "official_key",
     "fullPassage": "A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way __26__ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could __27__ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced __28__ the event. Recycling cans were also provided for items such as __29__ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's $250 award for the most creative memory destined for __30__. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.",
     "hasFullPassage": true,
-    "accuracyRate": 51
+    "accuracyRate": 51,
+    "discrimination": 40
   },
   {
     "id": "Z98_13",
@@ -1726,7 +1800,8 @@
     "answer_source": "official_key",
     "fullPassage": "Keele University in the United Kingdom has developed a “virtual patient,” created by a computer, to help train the pharmacists of the future. Students in the university's School of __11__ work with the “patient” to gain experience in effective communication and decision-making. Students talk with the “patient” directly or by typing questions into a computer. The “patient” responds verbally or with gestures to indicate __12__ such as pain, stress or anxiety. As a result, students are forced to communicate clearly __13__ that the “patient” understands them completely. The Virtual Patient can also be used to explore various medical situations. For example, the “patient” can be programmed to be allergic to certain medicine and can __14__ serious reactions if student learners are not aware of the situation. This kind of practice allows students to learn from mistakes in a safe environment that would not be __15__ with textbooks alone. The unique system can both be used in a classroom setting or for distance learning.",
     "hasFullPassage": true,
-    "accuracyRate": 53
+    "accuracyRate": 53,
+    "discrimination": 55
   },
   {
     "id": "Z98_16",
@@ -1747,7 +1822,8 @@
     "answer_source": "official_key",
     "fullPassage": "In spite of modernization and the increasing role of women in all walks of life, the practice of the dowry in India is still widespread. The dowry system, money or property brought by a bride to her husband at marriage, was started centuries ago with the intention of providing security for a girl __16__ difficulties and unexpected circumstances after marriage. For this purpose, the parents gave __17__ they could to their daughter, which consequently went to the groom's family. By the beginning of the 21st century, however, the custom had deteriorated to a point whereby the groom and his family had become very __18__. When demands for dowry are not met, the bride is __19__ torture, and often even killed. The more educated a man is, the __20__ is the expectation for dowry at the time of marriage. Girls who are highly educated are required to have larger dowries because they usually marry more educated men.",
     "hasFullPassage": true,
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 39
   },
   {
     "id": "Z98_17",
@@ -1768,7 +1844,8 @@
     "answer_source": "official_key",
     "fullPassage": "In spite of modernization and the increasing role of women in all walks of life, the practice of the dowry in India is still widespread. The dowry system, money or property brought by a bride to her husband at marriage, was started centuries ago with the intention of providing security for a girl __16__ difficulties and unexpected circumstances after marriage. For this purpose, the parents gave __17__ they could to their daughter, which consequently went to the groom's family. By the beginning of the 21st century, however, the custom had deteriorated to a point whereby the groom and his family had become very __18__. When demands for dowry are not met, the bride is __19__ torture, and often even killed. The more educated a man is, the __20__ is the expectation for dowry at the time of marriage. Girls who are highly educated are required to have larger dowries because they usually marry more educated men.",
     "hasFullPassage": true,
-    "accuracyRate": 69
+    "accuracyRate": 69,
+    "discrimination": 50
   },
   {
     "id": "Z98_20",
@@ -1789,7 +1866,8 @@
     "answer_source": "official_key",
     "fullPassage": "In spite of modernization and the increasing role of women in all walks of life, the practice of the dowry in India is still widespread. The dowry system, money or property brought by a bride to her husband at marriage, was started centuries ago with the intention of providing security for a girl __16__ difficulties and unexpected circumstances after marriage. For this purpose, the parents gave __17__ they could to their daughter, which consequently went to the groom's family. By the beginning of the 21st century, however, the custom had deteriorated to a point whereby the groom and his family had become very __18__. When demands for dowry are not met, the bride is __19__ torture, and often even killed. The more educated a man is, the __20__ is the expectation for dowry at the time of marriage. Girls who are highly educated are required to have larger dowries because they usually marry more educated men.",
     "hasFullPassage": true,
-    "accuracyRate": 45
+    "accuracyRate": 45,
+    "discrimination": 55
   },
   {
     "id": "Z99_12",
@@ -1810,7 +1888,8 @@
     "answer_source": "official_key",
     "fullPassage": "The sun is an extraordinarily powerful source of energy. In fact, the Earth __11__ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it __12__ all the power needed throughout the world. We can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly __13__ electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible. Solar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release __14__ substances into the air when they are burned. __15__, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "hasFullPassage": true,
-    "accuracyRate": 70
+    "accuracyRate": 70,
+    "discrimination": 58
   },
   {
     "id": "Z99_13",
@@ -1831,7 +1910,8 @@
     "answer_source": "official_key",
     "fullPassage": "The sun is an extraordinarily powerful source of energy. In fact, the Earth __11__ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it __12__ all the power needed throughout the world. We can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly __13__ electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible. Solar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release __14__ substances into the air when they are burned. __15__, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "hasFullPassage": true,
-    "accuracyRate": 79
+    "accuracyRate": 79,
+    "discrimination": 51
   },
   {
     "id": "Z99_15",
@@ -1852,7 +1932,8 @@
     "answer_source": "official_key",
     "fullPassage": "The sun is an extraordinarily powerful source of energy. In fact, the Earth __11__ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it __12__ all the power needed throughout the world. We can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly __13__ electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible. Solar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release __14__ substances into the air when they are burned. __15__, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "hasFullPassage": true,
-    "accuracyRate": 51
+    "accuracyRate": 51,
+    "discrimination": 68
   },
   {
     "id": "Z99_17",
@@ -1873,7 +1954,8 @@
     "answer_source": "official_key",
     "fullPassage": "Signs asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to __16__ the works. The Louvre's Tactile Gallery, targeted at the blind and visually __17__, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a __18__ of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called “Animals, Symbols of Power,” the exhibit __19__ animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, __20__ scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.",
     "hasFullPassage": true,
-    "accuracyRate": 61
+    "accuracyRate": 61,
+    "discrimination": 35
   },
   {
     "id": "Z99_20",
@@ -1895,7 +1977,8 @@
     "fullPassage": "Signs asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to __16__ the works. The Louvre's Tactile Gallery, targeted at the blind and visually __17__, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a __18__ of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called “Animals, Symbols of Power,” the exhibit __19__ animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, __20__ scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.",
     "hasFullPassage": true,
     "accuracyRate": 17,
-    "note": "這題的陷阱在句子結構——opened in December 2008 其實是插入的分詞片語（修飾 exhibit），不是主要動詞，句子仍然缺一個限定動詞。學生若沒看穿這個插入結構，容易誤以為 opened 已經是主要動詞，句子已經完整，因而選擇不能單獨作主要動詞的 being。\n常考搭配：be scheduled to V（被排定要做…）。"
+    "note": "這題的陷阱在句子結構——opened in December 2008 其實是插入的分詞片語（修飾 exhibit），不是主要動詞，句子仍然缺一個限定動詞。學生若沒看穿這個插入結構，容易誤以為 opened 已經是主要動詞，句子已經完整，因而選擇不能單獨作主要動詞的 being。\n常考搭配：be scheduled to V（被排定要做…）。",
+    "discrimination": 27
   },
   {
     "id": "Z100_11",
@@ -1917,7 +2000,8 @@
     "fullPassage": "Handling customer claims is a common task for most business firms. These claims include requests to exchange merchandise, requests for refunds, requests that work __11__, and other requests for adjustments. Most of these claims are approved because they are legitimate. However, some requests for adjustment must be __12__, and an adjustment refusal message must be sent. Adjustment refusals are negative messages for the customer. They are necessary when the customer is __13__ or when the vendor has done all that can reasonably or legally be expected. An adjustment refusal message requires your best communication skills __14__ it is bad news to the receiver. You have to refuse the claim and retain the customer __15__. You may refuse the request for adjustment and even try to sell the customer more merchandise or service. All this is happening when the customer is probably angry, disappointed, or inconvenienced.",
     "hasFullPassage": true,
     "accuracyRate": 26,
-    "note": "這題結合了兩個文法點：request that 後面的子句要用「(should) + 原形動詞」的假設語氣，而且這裡的「work（產品）」是被修正的對象，所以還要用被動的原形 be corrected。學生容易只想到假設語氣要用原形動詞，卻忘記同時要處理被動語態，選成主動的限定動詞形式。\n常考搭配：request/demand/suggest that + S + (should) + 原形動詞（要求…要做…）。"
+    "note": "這題結合了兩個文法點：request that 後面的子句要用「(should) + 原形動詞」的假設語氣，而且這裡的「work（產品）」是被修正的對象，所以還要用被動的原形 be corrected。學生容易只想到假設語氣要用原形動詞，卻忘記同時要處理被動語態，選成主動的限定動詞形式。\n常考搭配：request/demand/suggest that + S + (should) + 原形動詞（要求…要做…）。",
+    "discrimination": 26
   },
   {
     "id": "Z100_14",
@@ -1938,7 +2022,8 @@
     "answer_source": "official_key",
     "fullPassage": "Handling customer claims is a common task for most business firms. These claims include requests to exchange merchandise, requests for refunds, requests that work __11__, and other requests for adjustments. Most of these claims are approved because they are legitimate. However, some requests for adjustment must be __12__, and an adjustment refusal message must be sent. Adjustment refusals are negative messages for the customer. They are necessary when the customer is __13__ or when the vendor has done all that can reasonably or legally be expected. An adjustment refusal message requires your best communication skills __14__ it is bad news to the receiver. You have to refuse the claim and retain the customer __15__. You may refuse the request for adjustment and even try to sell the customer more merchandise or service. All this is happening when the customer is probably angry, disappointed, or inconvenienced.",
     "hasFullPassage": true,
-    "accuracyRate": 63
+    "accuracyRate": 63,
+    "discrimination": 50
   },
   {
     "id": "Z100_15",
@@ -1959,7 +2044,8 @@
     "answer_source": "official_key",
     "fullPassage": "Handling customer claims is a common task for most business firms. These claims include requests to exchange merchandise, requests for refunds, requests that work __11__, and other requests for adjustments. Most of these claims are approved because they are legitimate. However, some requests for adjustment must be __12__, and an adjustment refusal message must be sent. Adjustment refusals are negative messages for the customer. They are necessary when the customer is __13__ or when the vendor has done all that can reasonably or legally be expected. An adjustment refusal message requires your best communication skills __14__ it is bad news to the receiver. You have to refuse the claim and retain the customer __15__. You may refuse the request for adjustment and even try to sell the customer more merchandise or service. All this is happening when the customer is probably angry, disappointed, or inconvenienced.",
     "hasFullPassage": true,
-    "accuracyRate": 63
+    "accuracyRate": 63,
+    "discrimination": 45
   },
   {
     "id": "Z100_16",
@@ -1980,7 +2066,8 @@
     "answer_source": "official_key",
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
-    "accuracyRate": 64
+    "accuracyRate": 64,
+    "discrimination": 43
   },
   {
     "id": "Z100_17",
@@ -2001,7 +2088,8 @@
     "answer_source": "official_key",
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
-    "accuracyRate": 40
+    "accuracyRate": 40,
+    "discrimination": 26
   },
   {
     "id": "Z100_18",
@@ -2022,7 +2110,8 @@
     "answer_source": "official_key",
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 55
   },
   {
     "id": "Z100_19",
@@ -2043,7 +2132,8 @@
     "answer_source": "official_key",
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
-    "accuracyRate": 63
+    "accuracyRate": 63,
+    "discrimination": 46
   },
   {
     "id": "Z100_20",
@@ -2064,7 +2154,8 @@
     "answer_source": "official_key",
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 45
   },
   {
     "id": "Z101_12",
@@ -2085,7 +2176,8 @@
     "answer_source": "official_key",
     "fullPassage": "The Nobel Peace Center is located in an old train station building close to the Oslo City Hall and overlooking the harbor. It was officially opened on June 11, 2005 as part of the celebrations to __11__ Norway's centenary as an independent country. It is a center where you can experience and learn about the various Nobel Peace Prize Laureates and their activities __12__ the remarkable history of Alfred Nobel, the founder of the Nobel Prize. In addition, it serves as a meeting place where exhibits, discussions, and reflections __13__ to war, peace, and conflict resolution are in focus. The Center combines exhibits and films with digital communication and interactive installations and has already received attention for its use of state-of-the-art technology. Visitors are welcome to experience the Center __14__ or join a guided tour. Since its opening, the Nobel Peace Center has been educating, inspiring and entertaining its visitors __15__ exhibitions, activities, lectures, and cultural events. The Center is financed by private and public institutions.",
     "hasFullPassage": true,
-    "accuracyRate": 63
+    "accuracyRate": 63,
+    "discrimination": 44
   },
   {
     "id": "Z101_14",
@@ -2106,7 +2198,8 @@
     "answer_source": "official_key",
     "fullPassage": "The Nobel Peace Center is located in an old train station building close to the Oslo City Hall and overlooking the harbor. It was officially opened on June 11, 2005 as part of the celebrations to __11__ Norway's centenary as an independent country. It is a center where you can experience and learn about the various Nobel Peace Prize Laureates and their activities __12__ the remarkable history of Alfred Nobel, the founder of the Nobel Prize. In addition, it serves as a meeting place where exhibits, discussions, and reflections __13__ to war, peace, and conflict resolution are in focus. The Center combines exhibits and films with digital communication and interactive installations and has already received attention for its use of state-of-the-art technology. Visitors are welcome to experience the Center __14__ or join a guided tour. Since its opening, the Nobel Peace Center has been educating, inspiring and entertaining its visitors __15__ exhibitions, activities, lectures, and cultural events. The Center is financed by private and public institutions.",
     "hasFullPassage": true,
-    "accuracyRate": 76
+    "accuracyRate": 76,
+    "discrimination": 50
   },
   {
     "id": "Z101_15",
@@ -2127,7 +2220,8 @@
     "answer_source": "official_key",
     "fullPassage": "The Nobel Peace Center is located in an old train station building close to the Oslo City Hall and overlooking the harbor. It was officially opened on June 11, 2005 as part of the celebrations to __11__ Norway's centenary as an independent country. It is a center where you can experience and learn about the various Nobel Peace Prize Laureates and their activities __12__ the remarkable history of Alfred Nobel, the founder of the Nobel Prize. In addition, it serves as a meeting place where exhibits, discussions, and reflections __13__ to war, peace, and conflict resolution are in focus. The Center combines exhibits and films with digital communication and interactive installations and has already received attention for its use of state-of-the-art technology. Visitors are welcome to experience the Center __14__ or join a guided tour. Since its opening, the Nobel Peace Center has been educating, inspiring and entertaining its visitors __15__ exhibitions, activities, lectures, and cultural events. The Center is financed by private and public institutions.",
     "hasFullPassage": true,
-    "accuracyRate": 45
+    "accuracyRate": 45,
+    "discrimination": 67
   },
   {
     "id": "Z101_18",
@@ -2148,7 +2242,8 @@
     "answer_source": "official_key",
     "fullPassage": "In 1985, a riot at a Brussels soccer match occurred, in which many fans lost their lives. The __16__ began 45 minutes before the start of the European Cup final. The British team was scheduled to __17__ the Italian team in the game. Noisy British fans, after setting off some rockets and fireworks to cheer for __18__ team, broke through a thin wire fence and started to attack the Italian fans. The Italians, in panic, __19__ the main exit in their section when a six-foot concrete wall collapsed. By the end of the night, 38 soccer fans had died and 437 were injured. The majority of the deaths resulted from people __20__ trampled underfoot or crushed against barriers in the stadium. As a result of this 1985 soccer incident, security measures have since been tightened at major sports competitions to prevent similar events from happening.",
     "hasFullPassage": true,
-    "accuracyRate": 80
+    "accuracyRate": 80,
+    "discrimination": 40
   },
   {
     "id": "Z101_20",
@@ -2169,7 +2264,8 @@
     "answer_source": "official_key",
     "fullPassage": "In 1985, a riot at a Brussels soccer match occurred, in which many fans lost their lives. The __16__ began 45 minutes before the start of the European Cup final. The British team was scheduled to __17__ the Italian team in the game. Noisy British fans, after setting off some rockets and fireworks to cheer for __18__ team, broke through a thin wire fence and started to attack the Italian fans. The Italians, in panic, __19__ the main exit in their section when a six-foot concrete wall collapsed. By the end of the night, 38 soccer fans had died and 437 were injured. The majority of the deaths resulted from people __20__ trampled underfoot or crushed against barriers in the stadium. As a result of this 1985 soccer incident, security measures have since been tightened at major sports competitions to prevent similar events from happening.",
     "hasFullPassage": true,
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 43
   },
   {
     "id": "Z102_12",
@@ -2190,7 +2286,8 @@
     "hasFullPassage": true,
     "passageId": "102_11-15",
     "fullPassage": "The undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of __11__ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off __12__ fish and even divers. Another discovery about fish sounds is that not all fish are __13__ \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is __15__ . Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.",
-    "accuracyRate": 64
+    "accuracyRate": 64,
+    "discrimination": 38
   },
   {
     "id": "Z102_13",
@@ -2211,7 +2308,8 @@
     "hasFullPassage": true,
     "passageId": "102_11-15",
     "fullPassage": "The undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of __11__ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off __12__ fish and even divers. Another discovery about fish sounds is that not all fish are __13__ \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is __15__ . Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 46
   },
   {
     "id": "Z102_14",
@@ -2232,7 +2330,8 @@
     "hasFullPassage": true,
     "passageId": "102_11-15",
     "fullPassage": "The undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of __11__ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off __12__ fish and even divers. Another discovery about fish sounds is that not all fish are __13__ \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is __15__ . Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.",
-    "accuracyRate": 37
+    "accuracyRate": 37,
+    "discrimination": 48
   },
   {
     "id": "Z102_16",
@@ -2253,7 +2352,8 @@
     "hasFullPassage": true,
     "passageId": "102_16-20",
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
-    "accuracyRate": 65
+    "accuracyRate": 65,
+    "discrimination": 31
   },
   {
     "id": "Z102_19",
@@ -2274,7 +2374,8 @@
     "hasFullPassage": true,
     "passageId": "102_16-20",
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
-    "accuracyRate": 48
+    "accuracyRate": 48,
+    "discrimination": 30
   },
   {
     "id": "Z102_20",
@@ -2295,7 +2396,8 @@
     "hasFullPassage": true,
     "passageId": "102_16-20",
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
-    "accuracyRate": 80
+    "accuracyRate": 80,
+    "discrimination": 45
   },
   {
     "id": "Z103_12",
@@ -2316,7 +2418,8 @@
     "hasFullPassage": true,
     "passageId": "103_11-15",
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 13
   },
   {
     "id": "Z103_13",
@@ -2337,7 +2440,8 @@
     "hasFullPassage": true,
     "passageId": "103_11-15",
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
-    "accuracyRate": 84
+    "accuracyRate": 84,
+    "discrimination": 41
   },
   {
     "id": "Z103_14",
@@ -2358,7 +2462,8 @@
     "hasFullPassage": true,
     "passageId": "103_11-15",
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
-    "accuracyRate": 83
+    "accuracyRate": 83,
+    "discrimination": 39
   },
   {
     "id": "Z103_15",
@@ -2379,7 +2484,8 @@
     "hasFullPassage": true,
     "passageId": "103_11-15",
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
-    "accuracyRate": 66
+    "accuracyRate": 66,
+    "discrimination": 16
   },
   {
     "id": "Z103_17",
@@ -2400,7 +2506,8 @@
     "hasFullPassage": true,
     "passageId": "103_16-20",
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
-    "accuracyRate": 49
+    "accuracyRate": 49,
+    "discrimination": 42
   },
   {
     "id": "Z103_18",
@@ -2421,7 +2528,8 @@
     "hasFullPassage": true,
     "passageId": "103_16-20",
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
-    "accuracyRate": 77
+    "accuracyRate": 77,
+    "discrimination": 55
   },
   {
     "id": "Z103_20",
@@ -2442,7 +2550,8 @@
     "hasFullPassage": true,
     "passageId": "103_16-20",
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
-    "accuracyRate": 61
+    "accuracyRate": 61,
+    "discrimination": 32
   },
   {
     "id": "Z104_11",
@@ -2464,7 +2573,8 @@
     "passageId": "104_11-15",
     "fullPassage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as __11__ his life of adventure.\nHemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to __12__ such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been __13__ .\nHemingway liked to portray soldiers, hunters, bullfighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this __14__ lose hope and faith. His straightforward prose is particularly effective in his short stories, some of __15__ are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
     "accuracyRate": 14,
-    "note": "as did his life of adventure 是「as + 助動詞 + 主詞」的倒裝句，did 代替前面的動詞 influenced，這種倒裝結構很多學生沒學過，看到 as 後面沒有動詞，容易誤以為句子還缺一個一般動詞而選 was，卻不知道 did 本身就是代替 influenced 的助動詞用法。\n常考搭配：as + 助動詞 + S（…也是如此）。"
+    "note": "as did his life of adventure 是「as + 助動詞 + 主詞」的倒裝句，did 代替前面的動詞 influenced，這種倒裝結構很多學生沒學過，看到 as 後面沒有動詞，容易誤以為句子還缺一個一般動詞而選 was，卻不知道 did 本身就是代替 influenced 的助動詞用法。\n常考搭配：as + 助動詞 + S（…也是如此）。",
+    "discrimination": 7
   },
   {
     "id": "Z104_15",
@@ -2485,7 +2595,8 @@
     "hasFullPassage": true,
     "passageId": "104_11-15",
     "fullPassage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as __11__ his life of adventure.\nHemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to __12__ such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been __13__ .\nHemingway liked to portray soldiers, hunters, bullfighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this __14__ lose hope and faith. His straightforward prose is particularly effective in his short stories, some of __15__ are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
-    "accuracyRate": 55
+    "accuracyRate": 55,
+    "discrimination": 52
   },
   {
     "id": "Z104_19",
@@ -2507,7 +2618,8 @@
     "passageId": "104_16-20",
     "fullPassage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common __16__ for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it __17__ all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class __18__ . Sometimes it may also include wheelchair entrants.\nRoad running often offers those __19__ a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. __20__ , Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
     "accuracyRate": 26,
-    "note": "those involved 是固定用法，意思是「參與其中的人」，過去分詞 involved 作形容詞修飾 those，是被動語意「被牽涉進去的」。容易跟 involving（現在分詞，主動「使…涉入」）搞混，這是典型的「事物使人產生某情緒/狀態」動詞（像 interest, frustrate, involve）的主被動分詞選擇陷阱。\n常考搭配：those involved（參與其中的人）。"
+    "note": "those involved 是固定用法，意思是「參與其中的人」，過去分詞 involved 作形容詞修飾 those，是被動語意「被牽涉進去的」。容易跟 involving（現在分詞，主動「使…涉入」）搞混，這是典型的「事物使人產生某情緒/狀態」動詞（像 interest, frustrate, involve）的主被動分詞選擇陷阱。\n常考搭配：those involved（參與其中的人）。",
+    "discrimination": 8
   },
   {
     "id": "Z104_20",
@@ -2528,7 +2640,8 @@
     "hasFullPassage": true,
     "passageId": "104_16-20",
     "fullPassage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common __16__ for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it __17__ all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class __18__ . Sometimes it may also include wheelchair entrants.\nRoad running often offers those __19__ a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. __20__ , Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
-    "accuracyRate": 74
+    "accuracyRate": 74,
+    "discrimination": 53
   },
   {
     "id": "Z105_13",
@@ -2550,7 +2663,8 @@
     "passageId": "105_11-15",
     "fullPassage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have __11__ you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated. According to scientists, personal space involves certain invisible forces imposed on you through all the __12__. For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare. In certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their __13__ distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing __14__ them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may __15__ to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
     "accuracyRate": 21,
-    "note": "preferred distance 是「過去分詞當形容詞」的固定用法，意思是「偏好的/理想的距離」。學生對 prefer 這個動詞很熟悉，但容易忽略名詞前面要用分詞形式 preferred 才能當形容詞，直覺地選了原形動詞 prefer，卻不知道原形動詞不能直接修飾名詞。\n常考搭配：preferred + N（偏好的…）。"
+    "note": "preferred distance 是「過去分詞當形容詞」的固定用法，意思是「偏好的/理想的距離」。學生對 prefer 這個動詞很熟悉，但容易忽略名詞前面要用分詞形式 preferred 才能當形容詞，直覺地選了原形動詞 prefer，卻不知道原形動詞不能直接修飾名詞。\n常考搭配：preferred + N（偏好的…）。",
+    "discrimination": 18
   },
   {
     "id": "Z105_17",
@@ -2571,7 +2685,8 @@
     "hasFullPassage": true,
     "passageId": "105_16-20",
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
-    "accuracyRate": 67
+    "accuracyRate": 67,
+    "discrimination": 59
   },
   {
     "id": "Z105_18",
@@ -2592,7 +2707,8 @@
     "hasFullPassage": true,
     "passageId": "105_16-20",
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
-    "accuracyRate": 51
+    "accuracyRate": 51,
+    "discrimination": 23
   },
   {
     "id": "Z105_14",
@@ -2613,7 +2729,8 @@
     "hasFullPassage": true,
     "passageId": "105_11-15",
     "fullPassage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have __11__ you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated. According to scientists, personal space involves certain invisible forces imposed on you through all the __12__. For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare. In certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their __13__ distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing __14__ them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may __15__ to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
-    "accuracyRate": 74
+    "accuracyRate": 74,
+    "discrimination": 43
   },
   {
     "id": "Z105_19",
@@ -2634,7 +2751,8 @@
     "hasFullPassage": true,
     "passageId": "105_16-20",
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
-    "accuracyRate": 44
+    "accuracyRate": 44,
+    "discrimination": 39
   },
   {
     "id": "Z106_16",
@@ -2655,7 +2773,8 @@
     "hasFullPassage": true,
     "passageId": "106_16-20",
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
-    "accuracyRate": 51
+    "accuracyRate": 51,
+    "discrimination": 58
   },
   {
     "id": "Z106_17",
@@ -2676,7 +2795,8 @@
     "hasFullPassage": true,
     "passageId": "106_16-20",
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
-    "accuracyRate": 41
+    "accuracyRate": 41,
+    "discrimination": 24
   },
   {
     "id": "Z106_18",
@@ -2698,7 +2818,8 @@
     "passageId": "106_16-20",
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
     "accuracyRate": 31,
-    "note": "at all 是固定用法，加在條件句尾用來加強語氣，意思是「究竟是否能夠」。這種放在句尾的加強語氣用法，沒辦法從字面「在全部」直接猜出意思，是需要背下來的固定搭配，容易跟同樣是 at+名詞結構的 at hand、at first、at ease 搞混。\n常考搭配：if S + V + at all（如果究竟能夠…的話）。"
+    "note": "at all 是固定用法，加在條件句尾用來加強語氣，意思是「究竟是否能夠」。這種放在句尾的加強語氣用法，沒辦法從字面「在全部」直接猜出意思，是需要背下來的固定搭配，容易跟同樣是 at+名詞結構的 at hand、at first、at ease 搞混。\n常考搭配：if S + V + at all（如果究竟能夠…的話）。",
+    "discrimination": 4
   },
   {
     "id": "Z106_19",
@@ -2719,7 +2840,8 @@
     "hasFullPassage": true,
     "passageId": "106_16-20",
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
-    "accuracyRate": 79
+    "accuracyRate": 79,
+    "discrimination": 44
   },
   {
     "id": "Z107_12",
@@ -2741,7 +2863,8 @@
     "passageId": "107_11-15",
     "fullPassage": "\"Keeping up with the Joneses\" is a catchphrase in many parts of the English-speaking world. Just like \"keeping up appearances,\" it refers to the __11__ to one's neighbors as a standard for social status or the accumulation of material goods. Generally speaking, the more luxuries people have, the higher their value or social status—or __12__ they believe. To fail to \"keep up with the Joneses\" is thus perceived as revealing socio-economic inferiority or, as the Chinese would put it, a great loss of face.\nThe __13__ was popularized when a comic strip of the same name was created by cartoonist Arthur R. \"Pop\" Momand. The strip was first published in 1916 in the New York World, and ran in American newspapers for 28 years before it was eventually __14__ into books, films, and musical comedies. The \"Joneses\" of the title were rich neighbors of the strip's main characters and, interestingly, they were merely __15__ but never actually seen in person in the comic strip.",
     "accuracyRate": 30,
-    "note": "or so they believe 是固定的口語慣用語，意思是「至少他們是這麼認為的」，帶有一點保留、存疑的語氣，這種用法沒辦法從字面 or 和 so 直接拼湊出意思，是純粹要背下來的固定搭配。\n常考搭配：..., or so + S + believe/think（至少…是這麼認為的）。"
+    "note": "or so they believe 是固定的口語慣用語，意思是「至少他們是這麼認為的」，帶有一點保留、存疑的語氣，這種用法沒辦法從字面 or 和 so 直接拼湊出意思，是純粹要背下來的固定搭配。\n常考搭配：..., or so + S + believe/think（至少…是這麼認為的）。",
+    "discrimination": 38
   },
   {
     "id": "Z107_16",
@@ -2763,7 +2886,8 @@
     "passageId": "107_16-20",
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
     "accuracyRate": 34,
-    "note": "這題是省略句，isn't 後面省略了重複的 serious（呼應前一句 sounds pretty serious），意思是「（這個病症）通常並不（嚴重）」。學生若沒看出前後兩句話用的是同一個形容詞 serious，只是後面省略沒有重複講，容易在 isn't／doesn't／couldn't／wouldn't 這幾個看起來都通順的助動詞裡選錯，因為只有 isn't 才能對應前面 sounds（連綴動詞）的邏輯。\n常考搭配：sounds + adj., ...+ isn't（+ 省略的adj.）（聽起來…，但其實並不…）。"
+    "note": "這題是省略句，isn't 後面省略了重複的 serious（呼應前一句 sounds pretty serious），意思是「（這個病症）通常並不（嚴重）」。學生若沒看出前後兩句話用的是同一個形容詞 serious，只是後面省略沒有重複講，容易在 isn't／doesn't／couldn't／wouldn't 這幾個看起來都通順的助動詞裡選錯，因為只有 isn't 才能對應前面 sounds（連綴動詞）的邏輯。\n常考搭配：sounds + adj., ...+ isn't（+ 省略的adj.）（聽起來…，但其實並不…）。",
+    "discrimination": 14
   },
   {
     "id": "Z107_17",
@@ -2784,7 +2908,8 @@
     "hasFullPassage": true,
     "passageId": "107_16-20",
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
-    "accuracyRate": 45
+    "accuracyRate": 45,
+    "discrimination": 28
   },
   {
     "id": "Z107_19",
@@ -2805,7 +2930,8 @@
     "hasFullPassage": true,
     "passageId": "107_16-20",
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
-    "accuracyRate": 59
+    "accuracyRate": 59,
+    "discrimination": 34
   },
   {
     "id": "Z108_11",
@@ -2826,7 +2952,9 @@
     "hasFullPassage": true,
     "passageId": "108_11-15",
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
-    "accuracyRate": 65
+    "accuracyRate": 65,
+    "discrimination": -3,
+    "discriminationNote": "答對率65%屬於中等偏易，鑑別度卻是小幅負值(-3)，這正好符合大考中心官方說明「答對率較高的易題，鑑別度數值容易偏小」的現象——當多數考生（不分程度）都能答對時，高低分群的差距自然就會縮小，屬於統計上的正常波動，不代表題目本身有嚴重瑕疵。"
   },
   {
     "id": "Z108_12",
@@ -2847,7 +2975,8 @@
     "hasFullPassage": true,
     "passageId": "108_11-15",
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
-    "accuracyRate": 84
+    "accuracyRate": 84,
+    "discrimination": 39
   },
   {
     "id": "Z108_13",
@@ -2868,7 +2997,8 @@
     "hasFullPassage": true,
     "passageId": "108_11-15",
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
-    "accuracyRate": 62
+    "accuracyRate": 62,
+    "discrimination": 53
   },
   {
     "id": "Z108_16",
@@ -2889,7 +3019,8 @@
     "hasFullPassage": true,
     "passageId": "108_16-20",
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
-    "accuracyRate": 71
+    "accuracyRate": 71,
+    "discrimination": 43
   },
   {
     "id": "Z108_17",
@@ -2910,7 +3041,8 @@
     "hasFullPassage": true,
     "passageId": "108_16-20",
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
-    "accuracyRate": 55
+    "accuracyRate": 55,
+    "discrimination": 54
   },
   {
     "id": "Z108_18",
@@ -2931,7 +3063,8 @@
     "hasFullPassage": true,
     "passageId": "108_16-20",
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
-    "accuracyRate": 49
+    "accuracyRate": 49,
+    "discrimination": 51
   },
   {
     "id": "Z107_18",
@@ -2952,7 +3085,8 @@
     "hasFullPassage": true,
     "passageId": "107_16-20",
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
-    "accuracyRate": 45
+    "accuracyRate": 45,
+    "discrimination": 41
   },
   {
     "id": "Z109_14",
@@ -2973,7 +3107,8 @@
     "hasFullPassage": true,
     "passageId": "109_11-15",
     "fullPassage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, __11__ the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and __12__ pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in __13__ with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements __14__ to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. __15__ its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
-    "accuracyRate": 38
+    "accuracyRate": 38,
+    "discrimination": 26
   },
   {
     "id": "Z109_17",
@@ -2994,7 +3129,8 @@
     "hasFullPassage": true,
     "passageId": "109_16-20",
     "fullPassage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this __16__ proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he __17__ in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long __18__ dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to __19__ the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance __20__ , however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
-    "accuracyRate": 64
+    "accuracyRate": 64,
+    "discrimination": 40
   },
   {
     "id": "Z109_15",
@@ -3015,7 +3151,8 @@
     "hasFullPassage": true,
     "passageId": "109_11-15",
     "fullPassage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, __11__ the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and __12__ pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in __13__ with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements __14__ to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. __15__ its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
-    "accuracyRate": 76
+    "accuracyRate": 76,
+    "discrimination": 54
   },
   {
     "id": "Z109_20",
@@ -3037,7 +3174,8 @@
     "passageId": "109_16-20",
     "fullPassage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this __16__ proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he __17__ in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long __18__ dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to __19__ the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance __20__ , however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
     "accuracyRate": 21,
-    "note": "alone 在這裡的意思是「單靠…」，修飾前面的 Chance，強調「光靠運氣」。這題的陷阱是拼字很像的 alike（相似地）——兩個字只差兩個字母，很容易看錯行而選錯，是典型的形似字陷阱。\n常考搭配：N + alone（單靠…）。"
+    "note": "alone 在這裡的意思是「單靠…」，修飾前面的 Chance，強調「光靠運氣」。這題的陷阱是拼字很像的 alike（相似地）——兩個字只差兩個字母，很容易看錯行而選錯，是典型的形似字陷阱。\n常考搭配：N + alone（單靠…）。",
+    "discrimination": 19
   },
   {
     "id": "Z109R_15",
@@ -3157,7 +3295,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
-    "accuracyRate": 79
+    "accuracyRate": 79,
+    "discrimination": 26
   },
   {
     "id": "Z110_14",
@@ -3177,7 +3316,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 32
   },
   {
     "id": "Z110_15",
@@ -3197,7 +3337,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
-    "accuracyRate": 44
+    "accuracyRate": 44,
+    "discrimination": 55
   },
   {
     "id": "Z110_17",
@@ -3217,7 +3358,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
-    "accuracyRate": 58
+    "accuracyRate": 58,
+    "discrimination": 56
   },
   {
     "id": "Z110_20",
@@ -3237,7 +3379,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
-    "accuracyRate": 82
+    "accuracyRate": 82,
+    "discrimination": 43
   },
   {
     "id": "Z107參_12",
@@ -3467,7 +3610,8 @@
     "hasFullPassage": true,
     "passageId": "91_16-20",
     "accuracyRate": 34,
-    "note": "這題的陷阱在句子的對比邏輯——numerous（數量繁多）看似跟後文「只是杯水車薪」矛盾，但其實整句話是「表面上看起來數量很多，但實際上遠遠不足」的對比句型，重點在 but 前後的轉折。如果沒抓住這個 but 轉折，容易誤以為前面應該直接講「稀少」(scarce)，反而選了語意上更直覺、卻跟句子邏輯結構不合的字。\n常考搭配：seem + adj., but + 對比（表面上…，但實際上…）。"
+    "note": "這題的陷阱在句子的對比邏輯——numerous（數量繁多）看似跟後文「只是杯水車薪」矛盾，但其實整句話是「表面上看起來數量很多，但實際上遠遠不足」的對比句型，重點在 but 前後的轉折。如果沒抓住這個 but 轉折，容易誤以為前面應該直接講「稀少」(scarce)，反而選了語意上更直覺、卻跟句子邏輯結構不合的字。\n常考搭配：seem + adj., but + 對比（表面上…，但實際上…）。",
+    "discrimination": 47
   },
   {
     "id": "Z91_21",
@@ -3487,7 +3631,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_21-25",
-    "accuracyRate": 45
+    "accuracyRate": 45,
+    "discrimination": 47
   },
   {
     "id": "Z91_23",
@@ -3507,7 +3652,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_21-25",
-    "accuracyRate": 38
+    "accuracyRate": 38,
+    "discrimination": 46
   },
   {
     "id": "Z91_24",
@@ -3527,7 +3673,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_21-25",
-    "accuracyRate": 50
+    "accuracyRate": 50,
+    "discrimination": 50
   },
   {
     "id": "Z91_27",
@@ -3547,7 +3694,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_26-30",
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 42
   },
   {
     "id": "Z91_30",
@@ -3567,7 +3715,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_26-30",
-    "accuracyRate": 52
+    "accuracyRate": 52,
+    "discrimination": 54
   },
   {
     "id": "Z92_16",
@@ -3587,7 +3736,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
-    "accuracyRate": 56
+    "accuracyRate": 56,
+    "discrimination": 55
   },
   {
     "id": "Z92_17",
@@ -3607,7 +3757,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
-    "accuracyRate": 45
+    "accuracyRate": 45,
+    "discrimination": 54
   },
   {
     "id": "Z92_18",
@@ -3627,7 +3778,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
-    "accuracyRate": 55
+    "accuracyRate": 55,
+    "discrimination": 43
   },
   {
     "id": "Z92_19",
@@ -3647,7 +3799,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
-    "accuracyRate": 43
+    "accuracyRate": 43,
+    "discrimination": 53
   },
   {
     "id": "Z92_20",
@@ -3667,7 +3820,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
-    "accuracyRate": 35
+    "accuracyRate": 35,
+    "discrimination": 34
   },
   {
     "id": "Z92_21",
@@ -3687,7 +3841,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
-    "accuracyRate": 68
+    "accuracyRate": 68,
+    "discrimination": 56
   },
   {
     "id": "Z92_25",
@@ -3707,7 +3862,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_24-30",
-    "accuracyRate": 53
+    "accuracyRate": 53,
+    "discrimination": 64
   },
   {
     "id": "Z92_28",
@@ -3727,7 +3883,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_24-30",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 70
   },
   {
     "id": "Z92_30",
@@ -3747,7 +3904,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_24-30",
-    "accuracyRate": 42
+    "accuracyRate": 42,
+    "discrimination": 48
   },
   {
     "id": "Z93_18",
@@ -3768,7 +3926,8 @@
     "hasFullPassage": true,
     "passageId": "93_16-20",
     "accuracyRate": 33,
-    "note": "squeezed out 意思是「被擠出」，指紙團裡的水分被擠壓出來。容易被 boiled down（熬煮濃縮）干擾，因為兩者都跟液體處理有關，但製作再生柴火的流程是「浸泡→壓成球→擠出水分→曬乾」，沒有加熱熬煮這個步驟，要抓住整段流程描述才能選對。\n常考搭配：squeeze out + 液體（擠出…）。"
+    "note": "squeezed out 意思是「被擠出」，指紙團裡的水分被擠壓出來。容易被 boiled down（熬煮濃縮）干擾，因為兩者都跟液體處理有關，但製作再生柴火的流程是「浸泡→壓成球→擠出水分→曬乾」，沒有加熱熬煮這個步驟，要抓住整段流程描述才能選對。\n常考搭配：squeeze out + 液體（擠出…）。",
+    "discrimination": 37
   },
   {
     "id": "Z93_21",
@@ -3788,7 +3947,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93_21-25",
-    "accuracyRate": 40
+    "accuracyRate": 40,
+    "discrimination": 45
   },
   {
     "id": "Z93_23",
@@ -3808,7 +3968,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93_21-25",
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 60
   },
   {
     "id": "Z93M_19",
@@ -3923,7 +4084,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_11-15",
-    "accuracyRate": 46
+    "accuracyRate": 46,
+    "discrimination": 57
   },
   {
     "id": "Z94_12",
@@ -3943,7 +4105,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_11-15",
-    "accuracyRate": 46
+    "accuracyRate": 46,
+    "discrimination": 28
   },
   {
     "id": "Z94_14",
@@ -3963,7 +4126,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_11-15",
-    "accuracyRate": 50
+    "accuracyRate": 50,
+    "discrimination": 31
   },
   {
     "id": "Z94_15",
@@ -3983,7 +4147,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_11-15",
-    "accuracyRate": 75
+    "accuracyRate": 75,
+    "discrimination": 52
   },
   {
     "id": "Z94_16",
@@ -4003,7 +4168,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_16-20",
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 27
   },
   {
     "id": "Z94_17",
@@ -4024,7 +4190,8 @@
     "hasFullPassage": true,
     "passageId": "94_16-20",
     "accuracyRate": 23,
-    "note": "single out 是「挑選出」的意思，字面上「single」加「out」不容易直接聯想到這個意思，是需要死背的片語動詞。容易被 takes over（接管）干擾，因為兩者都是常見片語動詞，但沒有實際學過 single out 這個特定搭配的話，很難靠拆解字面猜出正確意思。\n常考搭配：single out + N（從中挑選出…）。"
+    "note": "single out 是「挑選出」的意思，字面上「single」加「out」不容易直接聯想到這個意思，是需要死背的片語動詞。容易被 takes over（接管）干擾，因為兩者都是常見片語動詞，但沒有實際學過 single out 這個特定搭配的話，很難靠拆解字面猜出正確意思。\n常考搭配：single out + N（從中挑選出…）。",
+    "discrimination": 20
   },
   {
     "id": "Z94_24",
@@ -4045,7 +4212,8 @@
     "hasFullPassage": true,
     "passageId": "94_21-25",
     "accuracyRate": 33,
-    "note": "fakes 在這裡是名詞，意思是「仿製品、複製品」。學生通常只認識 fake 當形容詞「假的」的用法（a fake watch），比較少見到它直接當名詞使用，看到 concrete fakes 這種名詞用法容易反應不過來。\n常考搭配：concrete fakes（水泥仿製品）。"
+    "note": "fakes 在這裡是名詞，意思是「仿製品、複製品」。學生通常只認識 fake 當形容詞「假的」的用法（a fake watch），比較少見到它直接當名詞使用，看到 concrete fakes 這種名詞用法容易反應不過來。\n常考搭配：concrete fakes（水泥仿製品）。",
+    "discrimination": 48
   },
   {
     "id": "Z94_26",
@@ -4065,7 +4233,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_26-30",
-    "accuracyRate": 36
+    "accuracyRate": 36,
+    "discrimination": 21
   },
   {
     "id": "Z94_27",
@@ -4085,7 +4254,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_26-30",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 53
   },
   {
     "id": "Z94_30",
@@ -4106,7 +4276,8 @@
     "hasFullPassage": true,
     "passageId": "94_26-30",
     "accuracyRate": 13,
-    "note": "sought to V 意思是「追求、設法做…」，強調終其一生的努力。容易被 tended（傾向於）干擾，因為 tend to V 是學生更熟悉、更常被操練的固定句型，容易在沒細看語意的情況下直接套用這個更眼熟的搭配，忽略了「終身追求建立學說」的語氣比「傾向於」強烈得多。\n常考搭配：seek to V（追求、設法做…）。"
+    "note": "sought to V 意思是「追求、設法做…」，強調終其一生的努力。容易被 tended（傾向於）干擾，因為 tend to V 是學生更熟悉、更常被操練的固定句型，容易在沒細看語意的情況下直接套用這個更眼熟的搭配，忽略了「終身追求建立學說」的語氣比「傾向於」強烈得多。\n常考搭配：seek to V（追求、設法做…）。",
+    "discrimination": 4
   },
   {
     "id": "Z95_11",
@@ -4126,7 +4297,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_11-15",
-    "accuracyRate": 61
+    "accuracyRate": 61,
+    "discrimination": 57
   },
   {
     "id": "Z95_15",
@@ -4146,7 +4318,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_11-15",
-    "accuracyRate": 40
+    "accuracyRate": 40,
+    "discrimination": 46
   },
   {
     "id": "Z95_20",
@@ -4167,7 +4340,8 @@
     "hasFullPassage": true,
     "passageId": "95_16-20",
     "accuracyRate": 18,
-    "note": "go after 是「追逐、圖謀」的意思，這裡指江湖郎中「圖謀」觀光客的錢財。學生比較熟悉 go after 字面上「追趕」的具體動作，沒學過它也能用在「圖謀金錢/目標」這種抽象意涵，看到 quick money 時反而聯想不到這個片語動詞。\n常考搭配：go after + money/goal（圖謀、追求…）。"
+    "note": "go after 是「追逐、圖謀」的意思，這裡指江湖郎中「圖謀」觀光客的錢財。學生比較熟悉 go after 字面上「追趕」的具體動作，沒學過它也能用在「圖謀金錢/目標」這種抽象意涵，看到 quick money 時反而聯想不到這個片語動詞。\n常考搭配：go after + money/goal（圖謀、追求…）。",
+    "discrimination": 25
   },
   {
     "id": "Z95_21",
@@ -4187,7 +4361,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_21-25",
-    "accuracyRate": 71
+    "accuracyRate": 71,
+    "discrimination": 58
   },
   {
     "id": "Z95_23",
@@ -4207,7 +4382,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_21-25",
-    "accuracyRate": 46
+    "accuracyRate": 46,
+    "discrimination": 61
   },
   {
     "id": "Z95_24",
@@ -4227,7 +4403,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_21-25",
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 67
   },
   {
     "id": "Z95_26",
@@ -4247,7 +4424,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_26-30",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 36
   },
   {
     "id": "Z95_28",
@@ -4267,7 +4445,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_26-30",
-    "accuracyRate": 62
+    "accuracyRate": 62,
+    "discrimination": 64
   },
   {
     "id": "Z95_30",
@@ -4287,7 +4466,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_26-30",
-    "accuracyRate": 43
+    "accuracyRate": 43,
+    "discrimination": 54
   },
   {
     "id": "Z96_12",
@@ -4307,7 +4487,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "96_11-15",
-    "accuracyRate": 35
+    "accuracyRate": 35,
+    "discrimination": 28
   },
   {
     "id": "Z96_21",
@@ -4327,7 +4508,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "96_21-25",
-    "accuracyRate": 49
+    "accuracyRate": 49,
+    "discrimination": 39
   },
   {
     "id": "Z96_24",
@@ -4347,7 +4529,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "96_21-25",
-    "accuracyRate": 48
+    "accuracyRate": 48,
+    "discrimination": 37
   },
   {
     "id": "Z97_11",
@@ -4367,7 +4550,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "97_11-15",
-    "accuracyRate": 62
+    "accuracyRate": 62,
+    "discrimination": 62
   },
   {
     "id": "Z97_12",
@@ -4388,7 +4572,8 @@
     "hasFullPassage": true,
     "passageId": "97_11-15",
     "accuracyRate": 26,
-    "note": "novel 在這裡是形容詞，意思是「新穎的」，novel functions 指「新穎的功能」。容易被 remote 干擾——現在學生對 remote 這個字很熟悉（remote work、remote control），比較不熟悉 novel 這個進階字彙，容易因為對 remote 更有把握而誤選，忽略了 remote 在這裡語意不合。\n常考搭配：novel functions/ideas（新穎的功能/想法）。"
+    "note": "novel 在這裡是形容詞，意思是「新穎的」，novel functions 指「新穎的功能」。容易被 remote 干擾——現在學生對 remote 這個字很熟悉（remote work、remote control），比較不熟悉 novel 這個進階字彙，容易因為對 remote 更有把握而誤選，忽略了 remote 在這裡語意不合。\n常考搭配：novel functions/ideas（新穎的功能/想法）。",
+    "discrimination": 29
   },
   {
     "id": "Z97_17",
@@ -4409,7 +4594,8 @@
     "hasFullPassage": true,
     "passageId": "97_16-20",
     "accuracyRate": 19,
-    "note": "responsible for 這裡的意思是「造成」，不是我們最熟悉的「負責任」。學生通常只學過 be responsible for + 職責/任務（對…負責）這個用法，沒意識到當主詞是「物質」這種非人的東西時，responsible for 其實是在講因果關係「造成」，而不是「盡責任」。\n常考搭配：be responsible for + 結果（造成…）。"
+    "note": "responsible for 這裡的意思是「造成」，不是我們最熟悉的「負責任」。學生通常只學過 be responsible for + 職責/任務（對…負責）這個用法，沒意識到當主詞是「物質」這種非人的東西時，responsible for 其實是在講因果關係「造成」，而不是「盡責任」。\n常考搭配：be responsible for + 結果（造成…）。",
+    "discrimination": 17
   },
   {
     "id": "Z97_20",
@@ -4429,7 +4615,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "97_16-20",
-    "accuracyRate": 68
+    "accuracyRate": 68,
+    "discrimination": 57
   },
   {
     "id": "Z97_22",
@@ -4449,7 +4636,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "97_21-25",
-    "accuracyRate": 64
+    "accuracyRate": 64,
+    "discrimination": 57
   },
   {
     "id": "Z97_25",
@@ -4470,7 +4658,8 @@
     "hasFullPassage": true,
     "passageId": "97_21-25",
     "accuracyRate": 33,
-    "note": "population 意思是「（青少年）族群、人口」，這題的陷阱是拼字非常相似的 popularity（受歡迎程度）——兩個字長得很像，很容易在閱讀時看錯而選錯，是典型的形似字陷阱，要仔細分辨字尾 -ation 跟 -arity 的差異。\n常考搭配：the population of + 群體（…的族群/人口）。"
+    "note": "population 意思是「（青少年）族群、人口」，這題的陷阱是拼字非常相似的 popularity（受歡迎程度）——兩個字長得很像，很容易在閱讀時看錯而選錯，是典型的形似字陷阱，要仔細分辨字尾 -ation 跟 -arity 的差異。\n常考搭配：the population of + 群體（…的族群/人口）。",
+    "discrimination": 19
   },
   {
     "id": "Z97_27",
@@ -4490,7 +4679,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "97_26-30",
-    "accuracyRate": 67
+    "accuracyRate": 67,
+    "discrimination": 65
   },
   {
     "id": "Z97_29",
@@ -4511,7 +4701,8 @@
     "hasFullPassage": true,
     "passageId": "97_26-30",
     "accuracyRate": 33,
-    "note": "annoying 意思是「令人厭煩的」，這裡呼應「要拿去回收/丟棄」的負面語境——放進回收桶的東西通常是不想要的、令人厭煩的。如果沒有抓住「回收桶」這個關鍵情境暗示要選負面字，容易被字面上也算常見的 amusing（有趣的）這種正面字干擾。\n常考搭配：annoying + N（令人厭煩的…）。"
+    "note": "annoying 意思是「令人厭煩的」，這裡呼應「要拿去回收/丟棄」的負面語境——放進回收桶的東西通常是不想要的、令人厭煩的。如果沒有抓住「回收桶」這個關鍵情境暗示要選負面字，容易被字面上也算常見的 amusing（有趣的）這種正面字干擾。\n常考搭配：annoying + N（令人厭煩的…）。",
+    "discrimination": 46
   },
   {
     "id": "Z98_11",
@@ -4531,7 +4722,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "98_11-15",
-    "accuracyRate": 42
+    "accuracyRate": 42,
+    "discrimination": 54
   },
   {
     "id": "Z98_12",
@@ -4551,7 +4743,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "98_11-15",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 29
   },
   {
     "id": "Z98_14",
@@ -4572,7 +4765,8 @@
     "hasFullPassage": true,
     "passageId": "98_11-15",
     "accuracyRate": 34,
-    "note": "suffer from 意思是「遭受（負面反應）」，這裡指虛擬病人會出現嚴重的過敏反應。容易被 provide with（提供）干擾——雖然 provide sb with sth 是常見固定搭配，但「提供嚴重反應」邏輯不通，要注意句子的主詞（虛擬病人）是「承受」反應的一方，不是「提供」反應的一方。\n常考搭配：suffer from + 負面反應（遭受…）。"
+    "note": "suffer from 意思是「遭受（負面反應）」，這裡指虛擬病人會出現嚴重的過敏反應。容易被 provide with（提供）干擾——雖然 provide sb with sth 是常見固定搭配，但「提供嚴重反應」邏輯不通，要注意句子的主詞（虛擬病人）是「承受」反應的一方，不是「提供」反應的一方。\n常考搭配：suffer from + 負面反應（遭受…）。",
+    "discrimination": 29
   },
   {
     "id": "Z98_15",
@@ -4593,7 +4787,8 @@
     "hasFullPassage": true,
     "passageId": "98_11-15",
     "accuracyRate": 28,
-    "note": "possible 這題的陷阱不在單字本身，而在句子的雙重否定結構——would not be possible with textbooks alone（單靠課本不可能做到），學生容易在閱讀長句時弄丟前面的 not，只看到後半段「textbooks alone」就直覺選一個聽起來也通順的字，沒有把整句的否定邏輯讀完整。\n常考搭配：would not be possible（不可能做到）。"
+    "note": "possible 這題的陷阱不在單字本身，而在句子的雙重否定結構——would not be possible with textbooks alone（單靠課本不可能做到），學生容易在閱讀長句時弄丟前面的 not，只看到後半段「textbooks alone」就直覺選一個聽起來也通順的字，沒有把整句的否定邏輯讀完整。\n常考搭配：would not be possible（不可能做到）。",
+    "discrimination": 25
   },
   {
     "id": "Z98_18",
@@ -4613,7 +4808,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "98_16-20",
-    "accuracyRate": 44
+    "accuracyRate": 44,
+    "discrimination": 64
   },
   {
     "id": "Z98_19",
@@ -4634,7 +4830,8 @@
     "hasFullPassage": true,
     "passageId": "98_16-20",
     "accuracyRate": 22,
-    "note": "subject to 是固定搭配，意思是「遭受、易受」，這裡是 subject to torture（遭受虐待）。學生大多只學過 subject 當名詞「科目」或形容詞「受制於」（如 subject to approval），比較少見到它接負面遭遇（torture, abuse）的用法，容易聯想不到而誤選看起來也合理的 aware of。\n常考搭配：be subject to + 負面遭遇（遭受…）。"
+    "note": "subject to 是固定搭配，意思是「遭受、易受」，這裡是 subject to torture（遭受虐待）。學生大多只學過 subject 當名詞「科目」或形容詞「受制於」（如 subject to approval），比較少見到它接負面遭遇（torture, abuse）的用法，容易聯想不到而誤選看起來也合理的 aware of。\n常考搭配：be subject to + 負面遭遇（遭受…）。",
+    "discrimination": 26
   },
   {
     "id": "Z99_11",
@@ -4654,7 +4851,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_11-15",
-    "accuracyRate": 72
+    "accuracyRate": 72,
+    "discrimination": 47
   },
   {
     "id": "Z99_14",
@@ -4674,7 +4872,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_11-15",
-    "accuracyRate": 77
+    "accuracyRate": 77,
+    "discrimination": 55
   },
   {
     "id": "Z99_16",
@@ -4694,7 +4893,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_16-20",
-    "accuracyRate": 37
+    "accuracyRate": 37,
+    "discrimination": 34
   },
   {
     "id": "Z99_18",
@@ -4714,7 +4914,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_16-20",
-    "accuracyRate": 64
+    "accuracyRate": 64,
+    "discrimination": 60
   },
   {
     "id": "Z99_19",
@@ -4734,7 +4935,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_16-20",
-    "accuracyRate": 39
+    "accuracyRate": 39,
+    "discrimination": 42
   },
   {
     "id": "Z100_12",
@@ -4754,7 +4956,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "100_11-15",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 57
   },
   {
     "id": "Z100_13",
@@ -4774,7 +4977,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "100_11-15",
-    "accuracyRate": 41
+    "accuracyRate": 41,
+    "discrimination": 40
   },
   {
     "id": "Z96_27",
@@ -4794,7 +4998,8 @@
     "answer_source": "inferred_confirmed_by_gemini",
     "hasFullPassage": true,
     "passageId": "96_26-30",
-    "accuracyRate": 48
+    "accuracyRate": 48,
+    "discrimination": 63
   },
   {
     "id": "Z96_28",
@@ -4814,7 +5019,8 @@
     "answer_source": "inferred_confirmed_by_gemini",
     "hasFullPassage": true,
     "passageId": "96_26-30",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 38
   },
   {
     "id": "Z96_29",
@@ -4834,7 +5040,8 @@
     "answer_source": "inferred_confirmed_by_gemini",
     "hasFullPassage": true,
     "passageId": "96_26-30",
-    "accuracyRate": 38
+    "accuracyRate": 38,
+    "discrimination": 49
   },
   {
     "id": "Z101_11",
@@ -4854,7 +5061,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_11-15",
-    "accuracyRate": 58
+    "accuracyRate": 58,
+    "discrimination": 52
   },
   {
     "id": "Z101_13",
@@ -4874,7 +5082,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_11-15",
-    "accuracyRate": 64
+    "accuracyRate": 64,
+    "discrimination": 59
   },
   {
     "id": "Z101_16",
@@ -4894,7 +5103,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_16-20",
-    "accuracyRate": 73
+    "accuracyRate": 73,
+    "discrimination": 56
   },
   {
     "id": "Z101_17",
@@ -4914,7 +5124,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_16-20",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 53
   },
   {
     "id": "Z101_19",
@@ -4934,7 +5145,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_16-20",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 55
   },
   {
     "id": "Z102_11",
@@ -4954,7 +5166,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "102_11-15",
-    "accuracyRate": 72
+    "accuracyRate": 72,
+    "discrimination": 40
   },
   {
     "id": "Z102_15",
@@ -4974,7 +5187,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "102_11-15",
-    "accuracyRate": 40
+    "accuracyRate": 40,
+    "discrimination": 36
   },
   {
     "id": "Z102_17",
@@ -4995,7 +5209,8 @@
     "hasFullPassage": true,
     "passageId": "102_16-20",
     "accuracyRate": 29,
-    "note": "Unless forbidden to do so by the Congress 其實是省略了主詞的分詞構句（= Unless they are forbidden...），學生如果沒看出這裡省略了「they are」，會誤以為句子文法不完整，加上 Unless／When／Once／Lest 這幾個連接詞都可能出現在條件句，容易選錯這種「除非被阻止」的讓步條件邏輯。\n常考搭配：Unless + p.p.（除非被…，省略主詞與be動詞的分詞構句）。"
+    "note": "Unless forbidden to do so by the Congress 其實是省略了主詞的分詞構句（= Unless they are forbidden...），學生如果沒看出這裡省略了「they are」，會誤以為句子文法不完整，加上 Unless／When／Once／Lest 這幾個連接詞都可能出現在條件句，容易選錯這種「除非被阻止」的讓步條件邏輯。\n常考搭配：Unless + p.p.（除非被…，省略主詞與be動詞的分詞構句）。",
+    "discrimination": 16
   },
   {
     "id": "Z102_18",
@@ -5015,7 +5230,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "102_16-20",
-    "accuracyRate": 51
+    "accuracyRate": 51,
+    "discrimination": 63
   },
   {
     "id": "Z103_11",
@@ -5035,7 +5251,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "103_11-15",
-    "accuracyRate": 52
+    "accuracyRate": 52,
+    "discrimination": 61
   },
   {
     "id": "Z103_16",
@@ -5055,7 +5272,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "103_16-20",
-    "accuracyRate": 49
+    "accuracyRate": 49,
+    "discrimination": 59
   },
   {
     "id": "Z103_19",
@@ -5075,7 +5293,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "103_16-20",
-    "accuracyRate": 84
+    "accuracyRate": 84,
+    "discrimination": 41
   },
   {
     "id": "Z104_12",
@@ -5095,7 +5314,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_11-15",
-    "accuracyRate": 35
+    "accuracyRate": 35,
+    "discrimination": 46
   },
   {
     "id": "Z104_13",
@@ -5116,7 +5336,8 @@
     "hasFullPassage": true,
     "passageId": "104_11-15",
     "accuracyRate": 19,
-    "note": "had long been denied 是被動語態，意思是「長久以來一直未能獲得」，而不是常見的主動「拒絕」的意思。學生大多只學過 deny sb sth（拒絕給予某人某物）的主動用法，沒有意識到這裡的被動式 denied 是在講海明威「一直被拒於獎項門外」，最後終於得獎的轉折語氣。\n常考搭配：had long been denied + 獎項/機會（長久以來未能獲得…）。"
+    "note": "had long been denied 是被動語態，意思是「長久以來一直未能獲得」，而不是常見的主動「拒絕」的意思。學生大多只學過 deny sb sth（拒絕給予某人某物）的主動用法，沒有意識到這裡的被動式 denied 是在講海明威「一直被拒於獎項門外」，最後終於得獎的轉折語氣。\n常考搭配：had long been denied + 獎項/機會（長久以來未能獲得…）。",
+    "discrimination": 20
   },
   {
     "id": "Z104_14",
@@ -5136,7 +5357,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_11-15",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 42
   },
   {
     "id": "Z104_16",
@@ -5156,7 +5378,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_16-20",
-    "accuracyRate": 72
+    "accuracyRate": 72,
+    "discrimination": 51
   },
   {
     "id": "Z104_17",
@@ -5176,7 +5399,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_16-20",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 57
   },
   {
     "id": "Z104_18",
@@ -5196,7 +5420,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_16-20",
-    "accuracyRate": 53
+    "accuracyRate": 53,
+    "discrimination": 31
   },
   {
     "id": "Z105_11",
@@ -5216,7 +5441,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_11-15",
-    "accuracyRate": 73
+    "accuracyRate": 73,
+    "discrimination": 61
   },
   {
     "id": "Z105_12",
@@ -5236,7 +5462,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_11-15",
-    "accuracyRate": 65
+    "accuracyRate": 65,
+    "discrimination": 41
   },
   {
     "id": "Z105_15",
@@ -5256,7 +5483,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_11-15",
-    "accuracyRate": 43
+    "accuracyRate": 43,
+    "discrimination": 43
   },
   {
     "id": "Z105_16",
@@ -5277,7 +5505,8 @@
     "hasFullPassage": true,
     "passageId": "105_16-20",
     "accuracyRate": 33,
-    "note": "supposedly 意思是「據稱、被認為」，帶有「後來證實並非如此」的暗示語氣——恩尼格瑪密碼原本「被認為」無法破解，圖靈卻破解了它。這種帶著存疑語氣的副詞，學生不容易從字面猜出意思，容易被字尾同樣是 -ly 的 precisely（精準地）干擾。\n常考搭配：supposedly + adj.（被認為是…的，但未必屬實）。"
+    "note": "supposedly 意思是「據稱、被認為」，帶有「後來證實並非如此」的暗示語氣——恩尼格瑪密碼原本「被認為」無法破解，圖靈卻破解了它。這種帶著存疑語氣的副詞，學生不容易從字面猜出意思，容易被字尾同樣是 -ly 的 precisely（精準地）干擾。\n常考搭配：supposedly + adj.（被認為是…的，但未必屬實）。",
+    "discrimination": 36
   },
   {
     "id": "Z105_20",
@@ -5297,7 +5526,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_16-20",
-    "accuracyRate": 62
+    "accuracyRate": 62,
+    "discrimination": 58
   },
   {
     "id": "Z106_20",
@@ -5317,7 +5547,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "106_16-20",
-    "accuracyRate": 39
+    "accuracyRate": 39,
+    "discrimination": 31
   },
   {
     "id": "Z107_11",
@@ -5338,7 +5569,8 @@
     "hasFullPassage": true,
     "passageId": "107_11-15",
     "accuracyRate": 33,
-    "note": "comparison 意思是「比較」，這題呼應英文常見的社會現象「跟鄰居比較」（類似中文的「不要輸在起跑點」概念，英文常說 keeping up with the Joneses）。學生如果不熟悉這個文化背景，容易在 reaction／attachment／similarity 這些聽起來也合理的字之間猜錯。\n常考搭配：comparison to/with + N（與…的比較）。"
+    "note": "comparison 意思是「比較」，這題呼應英文常見的社會現象「跟鄰居比較」（類似中文的「不要輸在起跑點」概念，英文常說 keeping up with the Joneses）。學生如果不熟悉這個文化背景，容易在 reaction／attachment／similarity 這些聽起來也合理的字之間猜錯。\n常考搭配：comparison to/with + N（與…的比較）。",
+    "discrimination": 33
   },
   {
     "id": "Z107_13",
@@ -5358,7 +5590,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "107_11-15",
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 65
   },
   {
     "id": "Z107_14",
@@ -5378,7 +5611,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "107_11-15",
-    "accuracyRate": 63
+    "accuracyRate": 63,
+    "discrimination": 55
   },
   {
     "id": "Z107_15",
@@ -5398,7 +5632,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "107_11-15",
-    "accuracyRate": 56
+    "accuracyRate": 56,
+    "discrimination": 59
   },
   {
     "id": "Z107_20",
@@ -5419,7 +5654,8 @@
     "hasFullPassage": true,
     "passageId": "107_16-20",
     "accuracyRate": 28,
-    "note": "apply 在這裡的意思是「適用」，this generally applies 指「這個說法通常適用（於這種情況）」。學生大多只熟悉 apply for（申請，如申請工作）這個用法，沒學過 apply 不接 for 時可以表示「（規則、說法）適用」，看到單獨的 applies 容易聯想不到這層意思。\n常考搭配：this applies to/when...（這適用於…）。"
+    "note": "apply 在這裡的意思是「適用」，this generally applies 指「這個說法通常適用（於這種情況）」。學生大多只熟悉 apply for（申請，如申請工作）這個用法，沒學過 apply 不接 for 時可以表示「（規則、說法）適用」，看到單獨的 applies 容易聯想不到這層意思。\n常考搭配：this applies to/when...（這適用於…）。",
+    "discrimination": 19
   },
   {
     "id": "Z107參_11",
@@ -5515,7 +5751,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_11-15",
-    "accuracyRate": 72
+    "accuracyRate": 72,
+    "discrimination": 63
   },
   {
     "id": "Z108_15",
@@ -5536,7 +5773,8 @@
     "hasFullPassage": true,
     "passageId": "108_11-15",
     "accuracyRate": 26,
-    "note": "featured 在這裡是動詞，意思是「被報導、登上（媒體）」，widely featured in media 指經常在媒體曝光。學生通常只認識 feature 當名詞「特色、特徵」的用法，比較少見到它當動詞使用，看到這個字當動詞時容易反應不過來而選錯。\n常考搭配：be featured in + 媒體（登上…媒體）。"
+    "note": "featured 在這裡是動詞，意思是「被報導、登上（媒體）」，widely featured in media 指經常在媒體曝光。學生通常只認識 feature 當名詞「特色、特徵」的用法，比較少見到它當動詞使用，看到這個字當動詞時容易反應不過來而選錯。\n常考搭配：be featured in + 媒體（登上…媒體）。",
+    "discrimination": 21
   },
   {
     "id": "Z108_19",
@@ -5556,7 +5794,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_16-20",
-    "accuracyRate": 47
+    "accuracyRate": 47,
+    "discrimination": 68
   },
   {
     "id": "Z108_20",
@@ -5576,7 +5815,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_16-20",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 49
   },
   {
     "id": "Z109_11",
@@ -5596,7 +5836,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_11-15",
-    "accuracyRate": 60
+    "accuracyRate": 60,
+    "discrimination": 54
   },
   {
     "id": "Z109_12",
@@ -5616,7 +5857,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_11-15",
-    "accuracyRate": 64
+    "accuracyRate": 64,
+    "discrimination": 68
   },
   {
     "id": "Z109_13",
@@ -5636,7 +5878,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_11-15",
-    "accuracyRate": 48
+    "accuracyRate": 48,
+    "discrimination": 60
   },
   {
     "id": "Z109_16",
@@ -5657,7 +5900,8 @@
     "hasFullPassage": true,
     "passageId": "109_16-20",
     "accuracyRate": 30,
-    "note": "this disorder 呼應前一句「實驗室凌亂」(untidy laboratory)，意思是「這種混亂/凌亂的狀態」。學生比較熟悉 disorder 當「疾病、病症」的意思（如 eating disorder），比較少連結到它也能單純指「雜亂無序的狀態」，容易因此聯想不到而選錯。\n常考搭配：this disorder（這種混亂狀態）。"
+    "note": "this disorder 呼應前一句「實驗室凌亂」(untidy laboratory)，意思是「這種混亂/凌亂的狀態」。學生比較熟悉 disorder 當「疾病、病症」的意思（如 eating disorder），比較少連結到它也能單純指「雜亂無序的狀態」，容易因此聯想不到而選錯。\n常考搭配：this disorder（這種混亂狀態）。",
+    "discrimination": 27
   },
   {
     "id": "Z109_18",
@@ -5677,7 +5921,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_16-20",
-    "accuracyRate": 43
+    "accuracyRate": 43,
+    "discrimination": 37
   },
   {
     "id": "Z109_19",
@@ -5697,7 +5942,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_16-20",
-    "accuracyRate": 61
+    "accuracyRate": 61,
+    "discrimination": 57
   },
   {
     "id": "Z109R_11",
@@ -5812,7 +6058,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 60
   },
   {
     "id": "Z110_13",
@@ -5832,7 +6079,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
-    "accuracyRate": 54
+    "accuracyRate": 54,
+    "discrimination": 65
   },
   {
     "id": "Z110_16",
@@ -5852,7 +6100,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
-    "accuracyRate": 61
+    "accuracyRate": 61,
+    "discrimination": 48
   },
   {
     "id": "Z110_18",
@@ -5872,7 +6121,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
-    "accuracyRate": 75
+    "accuracyRate": 75,
+    "discrimination": 52
   },
   {
     "id": "Z110_19",
@@ -5892,7 +6142,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
-    "accuracyRate": 57
+    "accuracyRate": 57,
+    "discrimination": 56
   },
   {
     "id": "Z98參_11",

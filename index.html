@@ -81,6 +81,14 @@
   .cat-chip.on .chip-count{color:var(--sage);}
   .cat-tools{display:flex; gap:14px; margin-top:8px; font-family:'IBM Plex Mono',monospace; font-size:11px;}
   .cat-tools a{color:var(--ink-soft); cursor:pointer; text-decoration:underline;}
+  .diff-hint{font-size:11px; font-weight:400; color:var(--ink-soft); margin-left:6px;}
+  .cat-chip[data-diff="hard"].on{border-color:var(--crimson); background:#FBF1EE; color:var(--crimson);}
+  .cat-chip[data-diff="special"].on{border-color:var(--gold); background:#FBF6E9; color:#8a6d00;}
+  .diff-note{
+    font-size:11.5px; color:var(--ink-soft); line-height:1.8; margin:10px 0 4px;
+    padding:10px 12px; background:#F7F5F0; border-radius:3px; border:1px solid var(--rule);
+  }
+  .diff-note a{color:var(--sage); text-decoration:underline;}
 
   .big-btn{
     display:block; width:100%; text-align:center; cursor:pointer;
@@ -229,6 +237,12 @@
   }
   .note-box.show{display:block;}
   .note-box::before{content:"常見誤區　"; color:var(--sage); font-family:'Noto Serif TC',serif; font-weight:700;}
+  .disc-box{
+    margin-top:8px; padding:12px 14px; background:#FBF6E9; border-radius:3px; border:1px solid #E8DCA8;
+    font-size:13px; line-height:1.8; color:var(--ink-soft); display:none; white-space:pre-line;
+  }
+  .disc-box.show{display:block;}
+  .disc-box::before{content:"鑑別度分析　"; color:#8a6d00; font-family:'Noto Serif TC',serif; font-weight:700;}
   .full-review-item .fnote{display:block; margin-top:4px; font-size:12px; color:var(--ink-soft); white-space:pre-line;}
   .full-review-item .facc{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); margin-left:8px;}
   .full-review-item .facc.low{color:var(--crimson); font-weight:600;}
@@ -290,6 +304,13 @@
       <div class="cat-grid" id="yearGrid"></div>
       <div class="cat-tools"><a onclick="toggleAllYears(true)">全選</a><a onclick="toggleAllYears(false)">全不選</a></div>
 
+      <div class="sec-title">依難易度篩選<span class="diff-hint">（選填，可複選；不選則不限難易度）</span></div>
+      <div class="cat-grid" id="diffGrid"></div>
+      <div class="diff-note">
+        難易度依大考中心公布的「全體考生答對率」（P值）分成三級：<b>難</b>（答對率≤25%）／<b>中</b>（25~75%，難易適中，此區間刻意設得較寬，因為難易適中的題目最能區分學生程度）／<b>易</b>（＞75%），為教育測驗學界通用切法，大考中心本身未明訂切點百分比。<b>特殊</b>指鑑別度（D值＝高分群答對率－低分群答對率）為負值的題目——大考中心官方說明指出「良好試題的鑑別度應大於0」，若為負值，代表低分群考生答對率反而高於高分群，是官方標準認定設計有瑕疵的題目，特別適合拿來討論、練習。<br>
+        資料來源：<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&qunit=0J066614378153514816&sid=0K042343829406896328" target="_blank" rel="noopener">大考中心《一起來認識學測與指考的試題答對率》↗</a>、<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&qunit=0J066614378153514816&sid=0K073687789378174143" target="_blank" rel="noopener">《一起來認識學測與指考的試題鑑別度》↗</a>
+      </div>
+
       <label style="display:flex; align-items:center; gap:8px; margin-top:16px; font-size:13px; color:var(--ink-soft); cursor:pointer; font-family:'IBM Plex Mono',monospace;">
         <input type="checkbox" id="testModeToggle" style="width:16px; height:16px; cursor:pointer;">
         測試模式（本次作答不計入學習歷程與錯題本）
@@ -349,6 +370,7 @@
         <div class="why-box" id="singleWhy"></div>
         <div class="acc-tag" id="singleAccTag"></div>
         <div class="note-box" id="singleNoteBox"></div>
+        <div class="disc-box" id="singleDiscBox"></div>
         <div class="report-row">
           <span id="singleReportId"></span>
           <a href="https://forms.gle/VDNSJUywjKSBptjU9" target="_blank" rel="noopener" class="report-link" id="reportLink">🚩 回報這題有問題</a>
@@ -484,6 +506,7 @@ async function init(){
   ITEMS = await iRes.json();
   buildCategoryChips();
   buildYearChips();
+  buildDiffChips();
   refreshWrongCount();
   refreshHomeStats();
 }
@@ -574,6 +597,30 @@ function updateCategoryAvailability(){
   });
 }
 
+function getDiffTier(it){
+  if(it.discrimination !== undefined && it.discrimination < 0) return 'special';
+  if(typeof it.accuracyRate !== 'number') return null;
+  if(it.accuracyRate <= 25) return 'hard';
+  if(it.accuracyRate <= 75) return 'mid';
+  return 'easy';
+}
+let selectedDiffs = new Set();
+function buildDiffChips(){
+  const labels = {hard:'難（≤25%）', mid:'中（25~75%）', easy:'易（＞75%）', special:'特殊（鑑別度為負）'};
+  const counts = {hard:0, mid:0, easy:0, special:0};
+  ITEMS.forEach(it => { const t = getDiffTier(it); if(t) counts[t]++; });
+  const grid = document.getElementById('diffGrid');
+  selectedDiffs = new Set();
+  grid.innerHTML = ['hard','mid','easy','special'].map(t =>
+    `<div class="cat-chip" data-diff="${t}" onclick="toggleDiff(this)">${labels[t]} <span class="chip-count">(${counts[t]})</span></div>`
+  ).join('');
+}
+function toggleDiff(el){
+  const t = el.dataset.diff;
+  if(selectedDiffs.has(t)){ selectedDiffs.delete(t); el.classList.remove('on'); }
+  else{ selectedDiffs.add(t); el.classList.add('on'); }
+}
+
 function selectMode(m){
   currentMode = m;
   document.getElementById('modeCardSingle').classList.toggle('active', m==='single');
@@ -608,16 +655,17 @@ function startSession(){
   if(currentMode === 'single' && selectedCats.size===0){ alert('請至少選擇一個文法分類'); return; }
   if(selectedYears.size===0){ alert('請至少選擇一個年份'); return; }
   testMode = document.getElementById('testModeToggle').checked;
+  const diffOk = it => selectedDiffs.size===0 || selectedDiffs.has(getDiffTier(it));
   if(currentMode === 'single'){
-    const filterFn = it => selectedCats.has(it.category) && selectedYears.has(it.year);
+    const filterFn = it => selectedCats.has(it.category) && selectedYears.has(it.year) && diffOk(it);
     singleQueue = buildQueue(filterFn);
-    if(singleQueue.length===0){ alert('這個篩選條件下沒有題目'); return; }
+    if(singleQueue.length===0){ alert('這個篩選條件下沒有題目（難易度篩選可能跟其他條件沒有交集）'); return; }
     singleIdx = 0;
     showScreen('single');
     renderSingle();
   } else {
-    // 全文模式：不受文法分類篩選影響，一律顯示完整段落所有空格，只依年份篩選段落
-    startFullMode(it => selectedYears.has(it.year));
+    // 全文模式：不受文法分類篩選影響，一律顯示完整段落所有空格，只依年份與難易度篩選
+    startFullMode(it => selectedYears.has(it.year) && diffOk(it));
   }
 }
 
@@ -714,6 +762,8 @@ function renderSingle(){
   document.getElementById('singleAccTag').innerHTML = '';
   document.getElementById('singleNoteBox').classList.remove('show');
   document.getElementById('singleNoteBox').innerHTML = '';
+  document.getElementById('singleDiscBox').classList.remove('show');
+  document.getElementById('singleDiscBox').innerHTML = '';
   document.getElementById('singleNextBtn').style.display = 'none';
   document.getElementById('singleTranslation').classList.remove('show');
   document.getElementById('viewFullLinkText').textContent = '看不懂嗎？點這裡看上下文';
@@ -796,6 +846,15 @@ function answerSingle(letter){
   } else {
     noteBox.innerHTML = '';
     noteBox.classList.remove('show');
+  }
+
+  const discBox = document.getElementById('singleDiscBox');
+  if(it.discriminationNote){
+    discBox.innerHTML = it.discriminationNote.replace(/\n/g,'<br>');
+    discBox.classList.add('show');
+  } else {
+    discBox.innerHTML = '';
+    discBox.classList.remove('show');
   }
 
   // 答題後：翻譯框自動顯示（沿用答題前是否已展開上下文的狀態）
@@ -913,9 +972,10 @@ function gradeFull(){
       ? `<span class="facc${it.accuracyRate < 35 ? ' low' : ''}">答對率 ${it.accuracyRate}%</span>`
       : '';
     const noteHtml = it.note ? `<span class="fnote">${it.note.replace(/\n/g,'<br>')}</span>` : '';
+    const discHtml = it.discriminationNote ? `<span class="fnote" style="color:#8a6d00;">🔶 ${it.discriminationNote.replace(/\n/g,'<br>')}</span>` : '';
     reviewHtml += `<div class="full-review-item">
       <span class="fn">#${it.blankNum}</span>
-      <span>${isCorrect ? '✓ 正確' : '✕ 正解 '+it.answer+'（'+escapeHtml(it.options[it.answer])+'）'}<span class="fcat">${escapeHtml(it.category)}</span>${accHtml}${noteHtml}</span>
+      <span>${isCorrect ? '✓ 正確' : '✕ 正解 '+it.answer+'（'+escapeHtml(it.options[it.answer])+'）'}<span class="fcat">${escapeHtml(it.category)}</span>${accHtml}${noteHtml}${discHtml}</span>
     </div>`;
   });
   document.getElementById('fullScore').textContent = correctCount+' / '+items.length;
