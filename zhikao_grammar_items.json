@@ -1246,7 +1246,7 @@
     "year": "96年",
     "source": "96年指考",
     "blankNum": 19,
-    "category": "時態",
+    "category": "時態／語態",
     "sentence": "According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth.",
     "options": {
       "A": "takes place",
@@ -3252,7 +3252,7 @@
     "year": "99課綱適用參考試卷",
     "source": "指考參考試卷(99課綱適用)",
     "blankNum": 18,
-    "category": "連接詞",
+    "category": "連接詞／轉承語",
     "sentence": "We forget that it is an art of here and now; because it is with us every day and __18__ we must have houses to live in, we are apt to think of them solely as dwelling places.",
     "options": {
       "A": "although",
