@@ -304,7 +304,7 @@
       <div class="cat-grid" id="yearGrid"></div>
       <div class="cat-tools"><a onclick="toggleAllYears(true)">全選</a><a onclick="toggleAllYears(false)">全不選</a></div>
 
-      <div class="sec-title">依難易度篩選<span class="diff-hint">（選填，可複選；不選則不限難易度）</span></div>
+      <div class="sec-title">依難易度篩選<span class="diff-hint">（選填，可複選；勾選後即可不限文法分類直接開始練習）</span></div>
       <div class="cat-grid" id="diffGrid"></div>
       <div class="diff-note">
         難易度依大考中心公布的「全體考生答對率」（P值）分成三級：<b>難</b>（答對率≤25%）／<b>中</b>（25~75%，難易適中，此區間刻意設得較寬，因為難易適中的題目最能區分學生程度）／<b>易</b>（＞75%），為教育測驗學界通用切法，大考中心本身未明訂切點百分比。<b>特殊</b>指鑑別度（D值＝高分群答對率－低分群答對率）為負值的題目——大考中心官方說明指出「良好試題的鑑別度應大於0」，若為負值，代表低分群考生答對率反而高於高分群，是官方標準認定設計有瑕疵的題目，特別適合拿來討論、練習。<br>
@@ -652,12 +652,14 @@ function buildQueue(filterFn){
 }
 
 function startSession(){
-  if(currentMode === 'single' && selectedCats.size===0){ alert('請至少選擇一個文法分類'); return; }
+  const usingDiffFilter = selectedDiffs.size > 0;
+  if(currentMode === 'single' && selectedCats.size===0 && !usingDiffFilter){ alert('請至少選擇一個文法分類（或改用下方「依難易度篩選」，不限文法分類直接練習）'); return; }
   if(selectedYears.size===0){ alert('請至少選擇一個年份'); return; }
   testMode = document.getElementById('testModeToggle').checked;
   const diffOk = it => selectedDiffs.size===0 || selectedDiffs.has(getDiffTier(it));
+  const catOk = it => selectedCats.size===0 || selectedCats.has(it.category);
   if(currentMode === 'single'){
-    const filterFn = it => selectedCats.has(it.category) && selectedYears.has(it.year) && diffOk(it);
+    const filterFn = it => catOk(it) && selectedYears.has(it.year) && diffOk(it);
     singleQueue = buildQueue(filterFn);
     if(singleQueue.length===0){ alert('這個篩選條件下沒有題目（難易度篩選可能跟其他條件沒有交集）'); return; }
     singleIdx = 0;
