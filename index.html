@@ -278,7 +278,7 @@
   <!-- HOME -->
   <div id="home">
     <div class="status-banner">
-      <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），部分題目附上<b>大考中心官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
+      <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
     </div>
     <div class="card">
       <div class="home-lead">選擇練習模式</div>
@@ -654,12 +654,13 @@ function buildQueue(filterFn){
 function startSession(){
   const usingDiffFilter = selectedDiffs.size > 0;
   if(currentMode === 'single' && selectedCats.size===0 && !usingDiffFilter){ alert('請至少選擇一個文法分類（或改用下方「依難易度篩選」，不限文法分類直接練習）'); return; }
-  if(selectedYears.size===0){ alert('請至少選擇一個年份'); return; }
+  if(selectedYears.size===0 && !usingDiffFilter){ alert('請至少選擇一個年份（或改用下方「依難易度篩選」，不限年份直接練習）'); return; }
   testMode = document.getElementById('testModeToggle').checked;
   const diffOk = it => selectedDiffs.size===0 || selectedDiffs.has(getDiffTier(it));
   const catOk = it => selectedCats.size===0 || selectedCats.has(it.category);
+  const yearOk = it => selectedYears.size===0 || selectedYears.has(it.year);
   if(currentMode === 'single'){
-    const filterFn = it => catOk(it) && selectedYears.has(it.year) && diffOk(it);
+    const filterFn = it => catOk(it) && yearOk(it) && diffOk(it);
     singleQueue = buildQueue(filterFn);
     if(singleQueue.length===0){ alert('這個篩選條件下沒有題目（難易度篩選可能跟其他條件沒有交集）'); return; }
     singleIdx = 0;
@@ -667,7 +668,7 @@ function startSession(){
     renderSingle();
   } else {
     // 全文模式：不受文法分類篩選影響，一律顯示完整段落所有空格，只依年份與難易度篩選
-    startFullMode(it => selectedYears.has(it.year) && diffOk(it));
+    startFullMode(it => yearOk(it) && diffOk(it));
   }
 }
 
