@@ -174,6 +174,12 @@
     padding:12px 16px; margin-bottom:20px; font-size:13px; line-height:1.75; color:var(--ink-soft);
   }
   .status-banner b{color:var(--ink);}
+  .strategy-box{
+    background:var(--paper-card); border:1px solid var(--rule); border-radius:4px;
+    padding:14px 16px; margin-bottom:20px; font-size:12.5px; line-height:1.8; color:var(--ink-soft);
+  }
+  .strategy-box .stitle{font-family:'Noto Serif TC',serif; font-weight:900; font-size:14px; color:var(--ink); margin-bottom:8px;}
+  .strategy-box b{color:var(--sage);}
   .next-row{margin-top:22px; display:flex; justify-content:space-between; gap:10px;}
 
   /* ---- FULL MODE ---- */
@@ -223,6 +229,32 @@
   .why-readmore{margin-top:8px;}
   .why-readmore-hint{font-size:13px; color:var(--ink-soft); line-height:1.7; margin-bottom:6px; padding-left:2px; border-left:2px solid var(--sage); padding-left:8px;}
   .why-readmore a{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--sage); text-decoration:underline;}
+  .topic-sent{background:transparent; transition:.3s;}
+  .topic-sent.hint-on{background:#FDF3B8;}
+  .trans-word{color:inherit; font-weight:400; transition:.3s;}
+  .trans-word.hint-on{color:var(--crimson); font-weight:700;}
+  .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
+  .level-select-row{display:flex; align-items:center; gap:6px; margin-bottom:10px; flex-wrap:wrap;}
+  .level-caption{font-size:11.5px; color:var(--ink-soft); margin-bottom:8px; line-height:1.6;}
+  .level-label{font-size:11px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;}
+  .level-chip{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; padding:4px 10px; border-radius:12px;
+    border:1.5px solid var(--rule); cursor:pointer; background:#fff; color:var(--ink-soft);
+  }
+  .level-chip.on{border-color:var(--gold); background:#FBF6E9; color:#8a6d00; font-weight:700;}
+  .outline-box{
+    margin-top:12px; padding:12px 14px; background:#F7F5F0; border-radius:3px; border:1px dashed var(--rule);
+    font-size:12.5px; color:var(--ink-soft); line-height:1.8;
+  }
+  .outline-box .ob-title{font-family:'Noto Serif TC',serif; font-weight:700; color:var(--ink); margin-bottom:6px; font-size:13px;}
+  .outline-box ol{margin:0; padding-left:18px;}
+  .hint-switch{width:32px; height:17px; background:var(--rule); border-radius:10px; position:relative; transition:.2s;}
+  .hint-switch.on{background:var(--sage);}
+  .hint-switch::after{content:''; position:absolute; top:2px; left:2px; width:13px; height:13px; background:#fff; border-radius:50%; transition:.2s;}
+  .hint-switch.on::after{left:17px;}
+  .hint-legend{font-size:10.5px; color:var(--ink-soft); margin-bottom:8px;}
+  .hint-legend .lg1{background:#FDF3B8; padding:0 4px;}
+  .hint-legend .lg2{color:var(--crimson); font-weight:700;}
   .acc-tag{
     margin-top:8px; font-size:12.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;
     display:none;
@@ -279,6 +311,12 @@
   <div id="home">
     <div class="status-banner">
       <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
+    </div>
+    <div class="strategy-box">
+      <div class="stitle">📖 讀原文之前，先養成這兩個習慣</div>
+      <b>看到 this、they、their 這種代名詞，先回頭找它指的是誰／什麼：</b>英文習慣先講「大家已經知道的東西」，再帶出「新的內容」，而這句的新內容，常常又會變成下一句要指的對象。代名詞不是隨便放的，它一定連著前面某個東西。<br>
+      <b>先看這段在講一個「大重點」，還是在「舉例／補充細節」：</b>每段通常會先有一句講重點的話，後面才是解釋、原因、例子。看到 for example、such as 這種字，代表已經進入細節了，重點一定在前面就講過。<br>
+      這兩個習慣不是每題都用得上，遇到「這是在指什麼」或「這句話想表達什麼重點」這類題目時，可以拿出來用。
     </div>
     <div class="card">
       <div class="home-lead">選擇練習模式</div>
@@ -392,7 +430,20 @@
     <div class="progress-bar"><div class="progress-fill" id="fullProgressFill" style="width:0%"></div></div>
     <div class="card">
       <span class="q-tag" id="fullYearTag"></span>
+      <div class="level-caption">👇 選一個最接近你目前程度的按鈕，會自動幫你決定要不要顯示提示（下面也可以隨時手動開關）</div>
+      <div class="level-select-row">
+        <span class="level-label">我屬於：</span>
+        <div class="level-chip on" data-level="low" onclick="setStudentLevel('low',this)">低分群考生（開提示）</div>
+        <div class="level-chip" data-level="mid" onclick="setStudentLevel('mid',this)">中間群考生（開提示）</div>
+        <div class="level-chip" data-level="high" onclick="setStudentLevel('high',this)">高分群考生（關提示，模擬考場）</div>
+      </div>
+      <div class="hint-toggle-row" onclick="toggleFullHint()">
+        <span id="fullHintLabel">主旨句／轉折詞提示：開</span>
+        <div class="hint-switch on" id="fullHintSwitch"></div>
+      </div>
+      <div class="hint-legend"><span class="lg1">主旨句</span>　<span class="lg2">轉折詞</span></div>
       <div class="passage-text" id="fullPassage"></div>
+      <div class="outline-box" id="fullOutlineBox" style="display:none;"></div>
       <button class="big-btn" id="fullSubmitBtn" onclick="gradeFull()">送出批改</button>
       <div class="full-review" id="fullReview" style="display:none;">
         <div class="full-score" id="fullScore"></div>
@@ -928,6 +979,55 @@ function startFullMode(filterFn){
   renderFull();
 }
 
+let fullHintOn = true;
+function applyHintStyling(){
+  document.getElementById('fullHintSwitch').classList.toggle('on', fullHintOn);
+  document.getElementById('fullHintLabel').textContent = '主旨句／轉折詞提示：' + (fullHintOn ? '開' : '關');
+  document.querySelectorAll('#fullPassage .topic-sent, #fullPassage .trans-word').forEach(el => {
+    el.classList.toggle('hint-on', fullHintOn);
+  });
+  const outlineBox = document.getElementById('fullOutlineBox');
+  const pid = fullPassageIds[fullIdx];
+  const passage = PASSAGES[pid];
+  if(passage && passage.outline && passage.outline.length && fullHintOn){
+    outlineBox.style.display = 'block';
+    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div><ol>' +
+      passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
+  } else {
+    outlineBox.style.display = 'none';
+    outlineBox.innerHTML = '';
+  }
+}
+function setStudentLevel(level, el){
+  document.querySelectorAll('.level-chip').forEach(c => c.classList.remove('on'));
+  el.classList.add('on');
+  fullHintOn = (level !== 'high');
+  applyHintStyling();
+}
+function toggleFullHint(){
+  fullHintOn = !fullHintOn;
+  applyHintStyling();
+}
+
+function renderMarkedPlain(text){
+  const regex = /(@@[^@]+@@)|(~~[^~]+~~)|([^@~]+)/g;
+  let out = '';
+  let m;
+  while ((m = regex.exec(text)) !== null){
+    const tok = m[0];
+    if(tok.startsWith('@@')){
+      const inner = tok.slice(2, -2);
+      out += `<span class="topic-sent${fullHintOn?' hint-on':''}">${escapeHtml(inner)}</span>`;
+    } else if(tok.startsWith('~~')){
+      const inner = tok.slice(2, -2);
+      out += `<span class="trans-word${fullHintOn?' hint-on':''}">${escapeHtml(inner)}</span>`;
+    } else {
+      out += escapeHtml(tok);
+    }
+  }
+  return out;
+}
+
 function renderFull(){
   fullGraded = false;
   const pid = fullPassageIds[fullIdx];
@@ -939,7 +1039,7 @@ function renderFull(){
   document.getElementById('fullProgressFill').style.width = (fullIdx/fullPassageIds.length*100)+'%';
   document.getElementById('fullYearTag').textContent = passage.year;
 
-  let html = escapeHtml(passage.text);
+  let html = renderMarkedPlain(passage.textMarked || passage.text);
   items.forEach(it=>{
     const token = new RegExp('\\{'+it.blankNum+'\\}','g');
     const opts = ['A','B','C','D'].filter(L=>it.options[L])
@@ -949,6 +1049,16 @@ function renderFull(){
     html = html.replace(token, sel);
   });
   document.getElementById('fullPassage').innerHTML = html;
+
+  const outlineBox = document.getElementById('fullOutlineBox');
+  if(passage.outline && passage.outline.length && fullHintOn){
+    outlineBox.style.display = 'block';
+    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div><ol>' +
+      passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
+  } else {
+    outlineBox.style.display = 'none';
+    outlineBox.innerHTML = '';
+  }
   document.getElementById('fullReview').style.display = 'none';
   document.getElementById('fullReviewList').innerHTML = '';
   document.getElementById('fullTranslation').innerHTML = '';
