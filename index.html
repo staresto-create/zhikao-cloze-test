@@ -255,6 +255,12 @@
   .hint-legend{font-size:10.5px; color:var(--ink-soft); margin-bottom:8px;}
   .hint-legend .lg1{background:#FDF3B8; padding:0 4px;}
   .hint-legend .lg2{color:var(--crimson); font-weight:700;}
+  .passage-para{margin:0 0 16px; padding-left:2px;}
+  .passage-para:last-child{margin-bottom:0;}
+  .para-num{
+    display:inline-block; font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--sage);
+    background:var(--sage-soft); border-radius:3px; padding:1px 6px; margin-right:8px; vertical-align:middle;
+  }
   .acc-tag{
     margin-top:8px; font-size:12.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;
     display:none;
@@ -1009,7 +1015,7 @@ function toggleFullHint(){
   applyHintStyling();
 }
 
-function renderMarkedPlain(text){
+function renderTokens(text){
   const regex = /(@@[^@]+@@)|(~~[^~]+~~)|([^@~]+)/g;
   let out = '';
   let m;
@@ -1026,6 +1032,15 @@ function renderMarkedPlain(text){
     }
   }
   return out;
+}
+function renderMarkedPlain(text){
+  const paras = text.split(/\n\n+/);
+  if(paras.length <= 1){
+    return renderTokens(text);
+  }
+  return paras.map((p, i) =>
+    `<p class="passage-para"><span class="para-num">第${i+1}段</span>${renderTokens(p.trim())}</p>`
+  ).join('');
 }
 
 function renderFull(){
