@@ -233,6 +233,8 @@
   .topic-sent.hint-on{background:#FDF3B8;}
   .trans-word{color:inherit; font-weight:400; transition:.3s;}
   .trans-word.hint-on{color:var(--crimson); font-weight:700;}
+  .main-thesis{background:transparent; text-decoration:none; transition:.3s;}
+  .main-thesis.hint-on{background:#CFE3F5; box-shadow:inset 0 -2px 0 #6FA8DC;}
   .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
   .level-select-row{display:flex; align-items:center; gap:6px; margin-bottom:10px; flex-wrap:wrap;}
   .level-caption{font-size:11.5px; color:var(--ink-soft); margin-bottom:8px; line-height:1.6;}
@@ -255,6 +257,7 @@
   .hint-legend{font-size:10.5px; color:var(--ink-soft); margin-bottom:8px;}
   .hint-legend .lg1{background:#FDF3B8; padding:0 4px;}
   .hint-legend .lg2{color:var(--crimson); font-weight:700;}
+  .hint-legend .lg3{background:#CFE3F5; padding:0 4px; box-shadow:inset 0 -2px 0 #6FA8DC;}
   .passage-para{margin:0 0 16px; padding-left:2px;}
   .passage-para:last-child{margin-bottom:0;}
   .para-num{
@@ -454,7 +457,7 @@
         <span id="fullHintLabel">主旨句／轉折詞提示：開</span>
         <div class="hint-switch on" id="fullHintSwitch"></div>
       </div>
-      <div class="hint-legend"><span class="lg1">主旨句</span>　<span class="lg2">轉折詞</span></div>
+      <div class="hint-legend"><span class="lg3">全文中心思想</span>　<span class="lg1">段落主旨句</span>　<span class="lg2">轉折詞</span></div>
       <div class="passage-text" id="fullPassage"></div>
       <div class="outline-box" id="fullOutlineBox" style="display:none;"></div>
       <button class="big-btn" id="fullSubmitBtn" onclick="gradeFull()">送出批改</button>
@@ -996,7 +999,7 @@ let fullHintOn = true;
 function applyHintStyling(){
   document.getElementById('fullHintSwitch').classList.toggle('on', fullHintOn);
   document.getElementById('fullHintLabel').textContent = '主旨句／轉折詞提示：' + (fullHintOn ? '開' : '關');
-  document.querySelectorAll('#fullPassage .topic-sent, #fullPassage .trans-word').forEach(el => {
+  document.querySelectorAll('#fullPassage .topic-sent, #fullPassage .trans-word, #fullPassage .main-thesis').forEach(el => {
     el.classList.toggle('hint-on', fullHintOn);
   });
   const outlineBox = document.getElementById('fullOutlineBox');
@@ -1023,12 +1026,15 @@ function toggleFullHint(){
 }
 
 function renderTokens(text){
-  const regex = /(@@[^@]+@@)|(~~[^~]+~~)|([^@~]+)/g;
+  const regex = /(%%[^%]+%%)|(@@[^@]+@@)|(~~[^~]+~~)|([^%@~]+)/g;
   let out = '';
   let m;
   while ((m = regex.exec(text)) !== null){
     const tok = m[0];
-    if(tok.startsWith('@@')){
+    if(tok.startsWith('%%')){
+      const inner = tok.slice(2, -2);
+      out += `<span class="main-thesis${fullHintOn?' hint-on':''}">${escapeHtml(inner)}</span>`;
+    } else if(tok.startsWith('@@')){
       const inner = tok.slice(2, -2);
       out += `<span class="topic-sent${fullHintOn?' hint-on':''}">${escapeHtml(inner)}</span>`;
     } else if(tok.startsWith('~~')){
