@@ -391,6 +391,7 @@
       <div class="home-lead">錯題本</div>
       <div class="stat-line"><span>目前累積錯題</span><span class="stat-badge" id="wrongCount">0</span></div>
       <button class="ghost-btn" id="reviewBtn" onclick="startWrongReview()" style="margin-top:12px;">複習錯題 →</button>
+      <button class="ghost-btn" style="margin-top:8px; width:100%;" onclick="if(confirm('確定要清除錯題本嗎？此動作無法復原（學習歷程統計不會被清除）。')){localStorage.removeItem(WRONG_KEY);refreshWrongCount();}">清除錯題本</button>
     </div>
 
     <div class="card">
@@ -413,7 +414,7 @@
       <div id="histRecent"></div>
       <div class="next-row">
         <button class="ghost-btn" onclick="backHome()">← 回首頁</button>
-        <button class="ghost-btn" onclick="if(confirm('確定要清除所有學習歷程紀錄嗎？此動作無法復原。')){clearHistory();}">清除歷程紀錄</button>
+        <button class="ghost-btn" onclick="if(confirm('確定要清除學習歷程統計嗎？此動作無法復原（錯題本不會被清除）。')){clearHistory();}">清除歷程紀錄</button>
       </div>
     </div>
   </div>
@@ -531,9 +532,7 @@ function addHistoryEntry(item, correct){
 }
 function clearHistory(){
   localStorage.removeItem(HISTORY_KEY);
-  localStorage.removeItem(WRONG_KEY);
   refreshHomeStats();
-  refreshWrongCount();
   renderHistory();
 }
 function refreshHomeStats(){
