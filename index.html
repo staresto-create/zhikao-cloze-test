@@ -281,6 +281,25 @@
     font-size:13px; line-height:1.8; color:var(--ink-soft); display:none; white-space:pre-line;
   }
   .note-box.show{display:block;}
+  .note-body{margin-top:2px;}
+  .note-body.clamped{
+    display:-webkit-box; -webkit-line-clamp:4; line-clamp:4; -webkit-box-orient:vertical;
+    overflow:hidden;
+  }
+  .note-toggle{
+    display:inline-block; margin-top:8px; cursor:pointer; user-select:none;
+    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--sage);
+    border-bottom:1px dotted var(--sage); padding-bottom:1px;
+  }
+  .note-toggle:hover{color:var(--crimson); border-color:var(--crimson);}
+  .fnote.clamped{
+    display:-webkit-box; -webkit-line-clamp:3; line-clamp:3; -webkit-box-orient:vertical;
+    overflow:hidden;
+  }
+  .fnote-toggle{
+    display:block; margin-top:4px; cursor:pointer; user-select:none;
+    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--sage);
+  }
   .q-tag.span{color:var(--sage); border-color:var(--sage); margin-left:6px; display:none;}
   .q-tag.span.show{display:inline-block;}
   .q-tag.span.cross{color:var(--gold); border-color:var(--gold);}
@@ -844,6 +863,13 @@ function renderPassageHTML(text, allBlankNums, activeNum, filledMap){
   return html;
 }
 
+function toggleClamp(el){
+  const target = el.previousElementSibling;
+  if(!target) return;
+  const clamped = target.classList.toggle('clamped');
+  el.textContent = clamped ? '展開全文 ▾' : '收合 ▴';
+}
+
 function renderSingle(){
   singleAnswered = false;
   const it = singleQueue[singleIdx];
@@ -961,7 +987,11 @@ function answerSingle(letter){
 
   const noteBox = document.getElementById('singleNoteBox');
   if(it.note){
-    noteBox.innerHTML = it.note.replace(/\n/g,'<br>');
+    const noteHtml = it.note.replace(/\n/g,'<br>');
+    noteBox.innerHTML = it.note.length > 160
+      ? '<div class="note-body clamped">'+noteHtml+'</div>'
+        + '<span class="note-toggle" onclick="toggleClamp(this)">展開全文 ▾</span>'
+      : '<div class="note-body">'+noteHtml+'</div>';
     noteBox.classList.add('show');
   } else {
     noteBox.innerHTML = '';
@@ -1184,7 +1214,11 @@ function gradeFull(){
     const accHtml = (typeof it.accuracyRate === 'number')
       ? `<span class="facc${it.accuracyRate < 35 ? ' low' : ''}">答對率 ${it.accuracyRate}%</span>`
       : '';
-    const noteHtml = it.note ? `<span class="fnote">${it.note.replace(/\n/g,'<br>')}</span>` : '';
+    const noteHtml = it.note
+      ? (it.note.length > 160
+          ? `<span class="fnote clamped">${it.note.replace(/\n/g,'<br>')}</span><span class="fnote-toggle" onclick="toggleClamp(this)">展開全文 ▾</span>`
+          : `<span class="fnote">${it.note.replace(/\n/g,'<br>')}</span>`)
+      : '';
     const spanHtml = it.contextSpan
       ? `<span class="fspan${it.contextSpan !== '句內' ? ' cross' : ''}">${it.contextSpan}</span>`
       : '';
