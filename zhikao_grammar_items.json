@@ -18,7 +18,8 @@
     "hasFullPassage": true,
     "passageId": "91_16-20",
     "accuracyRate": 42,
-    "discrimination": 26
+    "discrimination": 26,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_19",
@@ -85,7 +86,8 @@
     "hasFullPassage": true,
     "passageId": "91_21-25",
     "accuracyRate": 60,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_26",
@@ -106,7 +108,8 @@
     "hasFullPassage": true,
     "passageId": "91_26-30",
     "accuracyRate": 47,
-    "discrimination": 34
+    "discrimination": 34,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_28",
@@ -127,7 +130,8 @@
     "hasFullPassage": true,
     "passageId": "91_26-30",
     "accuracyRate": 66,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_16",
@@ -148,7 +152,9 @@
     "hasFullPassage": true,
     "passageId": "91_16-20",
     "accuracyRate": 59,
-    "discrimination": 31
+    "discrimination": 31,
+    "contextSpan": "跨句",
+    "contextNote": "in fact 修正前一句對缺水人數的描述"
   },
   {
     "id": "Z91_25",
@@ -169,7 +175,8 @@
     "hasFullPassage": true,
     "passageId": "91_21-25",
     "accuracyRate": 42,
-    "discrimination": 19
+    "discrimination": 19,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_29",
@@ -190,7 +197,8 @@
     "hasFullPassage": true,
     "passageId": "91_26-30",
     "accuracyRate": 63,
-    "discrimination": 34
+    "discrimination": 34,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_27",
@@ -211,7 +219,8 @@
     "hasFullPassage": true,
     "passageId": "92_24-30",
     "accuracyRate": 49,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_29",
@@ -232,7 +241,8 @@
     "hasFullPassage": true,
     "passageId": "92_24-30",
     "accuracyRate": 54,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_22",
@@ -253,7 +263,9 @@
     "hasFullPassage": true,
     "passageId": "92_16-23",
     "accuracyRate": 42,
-    "discrimination": 49
+    "discrimination": 49,
+    "contextSpan": "跨句",
+    "contextNote": "further 承接前一句已列出的調查結果，再補一項"
   },
   {
     "id": "Z92_23",
@@ -297,7 +309,9 @@
     "hasFullPassage": true,
     "passageId": "92_24-30",
     "accuracyRate": 65,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "跨句",
+    "contextNote": "however 與前一句二十世紀椅子的材料對比"
   },
   {
     "id": "Z92_26",
@@ -318,7 +332,8 @@
     "hasFullPassage": true,
     "passageId": "92_24-30",
     "accuracyRate": 66,
-    "discrimination": 63
+    "discrimination": 63,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_16",
@@ -339,7 +354,8 @@
     "hasFullPassage": true,
     "passageId": "93_16-20",
     "accuracyRate": 72,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_17",
@@ -360,7 +376,8 @@
     "hasFullPassage": true,
     "passageId": "93_16-20",
     "accuracyRate": 60,
-    "discrimination": 29
+    "discrimination": 29,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_24",
@@ -404,7 +421,8 @@
     "hasFullPassage": true,
     "passageId": "93_21-25",
     "accuracyRate": 72,
-    "discrimination": 38
+    "discrimination": 38,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_27",
@@ -425,7 +443,8 @@
     "hasFullPassage": true,
     "passageId": "93_26-30",
     "accuracyRate": 51,
-    "discrimination": 37
+    "discrimination": 37,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_29",
@@ -446,7 +465,8 @@
     "hasFullPassage": true,
     "passageId": "93_26-30",
     "accuracyRate": 43,
-    "discrimination": 56
+    "discrimination": 56,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_19",
@@ -467,7 +487,9 @@
     "hasFullPassage": true,
     "passageId": "93_16-20",
     "accuracyRate": 53,
-    "discrimination": 48
+    "discrimination": 48,
+    "contextSpan": "跨句",
+    "contextNote": "Another 指前一句已提過的第一項建議"
   },
   {
     "id": "Z93_20",
@@ -488,7 +510,9 @@
     "hasFullPassage": true,
     "passageId": "93_16-20",
     "accuracyRate": 73,
-    "discrimination": 49
+    "discrimination": 49,
+    "contextSpan": "跨句",
+    "contextNote": "also 累加前面已提到的用途"
   },
   {
     "id": "Z93_22",
@@ -555,7 +579,8 @@
     "hasFullPassage": true,
     "passageId": "93_26-30",
     "accuracyRate": 54,
-    "discrimination": 45
+    "discrimination": 45,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_30",
@@ -576,7 +601,9 @@
     "hasFullPassage": true,
     "passageId": "93_26-30",
     "accuracyRate": 66,
-    "discrimination": 53
+    "discrimination": 53,
+    "contextSpan": "跨句",
+    "contextNote": "Therefore 承接前一句「疫情擴散後難以控制」的結果"
   },
   {
     "id": "Z93M_18",
@@ -595,7 +622,8 @@
     "explanation": "which 引導形容詞子句修飾先行詞 jar，並在子句中作主詞（那個罐子裝著酒精）。what 不能有先行詞、when／where 分別修飾時間／地點先行詞，皆不符合這裡修飾「罐子」這個物品先行詞的語法。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_16-20"
+    "passageId": "93M_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_21",
@@ -614,7 +642,8 @@
     "explanation": "in which 引導形容詞子句修飾先行詞 feast，表示「在這個盛會中，音樂家、廚師、工匠們歡迎50萬名遊客」。such that／as many as／in order for 都不是能引導修飾 feast 的關係詞結構。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_21-25"
+    "passageId": "93M_21-25",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_22",
@@ -633,7 +662,8 @@
     "explanation": "artisans from the region and around the world並列，around the world（世界各地）呼應前面from the region（來自本地），表示工匠來源涵蓋在地與全球（此為官方確認修正：原誤植為across，正確答案為around）；against／about／across均不符合此處固定搭配。",
     "answer_source": "official_key_corrected",
     "hasFullPassage": true,
-    "passageId": "93M_21-25"
+    "passageId": "93M_21-25",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_23",
@@ -652,7 +682,8 @@
     "explanation": "【句型】be held at + 地點，固定搭配，表示「（活動）在……舉辦」，符合演唱會在不同地點舉行的語意。happen to（碰巧）、are taken in（被欺騙／被收留）、participate in（參與）都不符合這裡「舉辦於」的語意。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_21-25"
+    "passageId": "93M_21-25",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_27",
@@ -671,7 +702,8 @@
     "explanation": "【運動慣用語】come from behind 固定用法，表示「從落後局面逆轉獲勝」，符合後文「扭轉這種領先差距的機會很渺茫」的語境。above／down／underneath 都不是這個慣用語的固定搭配。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_26-30"
+    "passageId": "93M_26-30",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_16",
@@ -690,7 +722,8 @@
     "explanation": "along with（連同）表示「和一條健康的蟲一起展示」，along with a very healthy worm 補充說明展示品還包括一條蟲。in addition 通常需搭配 to 或單獨作副詞使用、on account of（因為）、as a result of（由於）都不符合這裡「一併展示」的語意。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_16-20"
+    "passageId": "93M_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_17",
@@ -709,7 +742,8 @@
     "explanation": "as 在此表示「當……的同時」，watched as the worm floated 表示一邊觀察一邊看著蟲漂浮游動的過程。if（如果）、yet（然而）、or（或者）都不符合這種「同時觀察」的語意。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_16-20"
+    "passageId": "93M_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_28",
@@ -728,7 +762,8 @@
     "explanation": "None of us can be perfectly sure（我們沒有人能完全確定）呼應後句「但」我們可以、也經常會去思考各種可能性，前後形成「無法確定／但仍會臆測」的對比。All／Some／Many 都無法帶出這種與後句 But 銜接的語意對比。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_26-30"
+    "passageId": "93M_26-30",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_29",
@@ -747,7 +782,8 @@
     "explanation": "whether 引導名詞子句作 guess 的受詞，表示「猜測是否會發生這件事或那件事」，whether...or... 是固定的「是否」句型。since／though／because 都不能引導這種作受詞的名詞子句。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_26-30"
+    "passageId": "93M_26-30",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_26",
@@ -766,7 +802,8 @@
     "explanation": "這是省略句修辭，Probably 承接前一句的問句「你會穿什麼？」，省略了主詞和動詞（you would wear），直接以 Probably the raincoat 簡答「大概會穿雨衣」，符合口語化的簡答語氣。Formally（正式地）、Similarly（同樣地）、Consequently（因此）都不符合這種「簡答可能性」的語意。",
     "answer_source": "manual",
     "hasFullPassage": true,
-    "passageId": "93M_26-30"
+    "passageId": "93M_26-30",
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_19",
@@ -810,7 +847,8 @@
     "hasFullPassage": true,
     "passageId": "94_16-20",
     "accuracyRate": 47,
-    "discrimination": 58
+    "discrimination": 58,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_21",
@@ -831,7 +869,8 @@
     "hasFullPassage": true,
     "passageId": "94_21-25",
     "accuracyRate": 57,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_22",
@@ -852,7 +891,8 @@
     "hasFullPassage": true,
     "passageId": "94_21-25",
     "accuracyRate": 65,
-    "discrimination": 56
+    "discrimination": 56,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_23",
@@ -873,7 +913,8 @@
     "hasFullPassage": true,
     "passageId": "94_21-25",
     "accuracyRate": 53,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_28",
@@ -894,7 +935,8 @@
     "hasFullPassage": true,
     "passageId": "94_26-30",
     "accuracyRate": 67,
-    "discrimination": 50
+    "discrimination": 50,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_29",
@@ -938,7 +980,8 @@
     "hasFullPassage": true,
     "passageId": "94_11-15",
     "accuracyRate": 66,
-    "discrimination": 49
+    "discrimination": 49,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_18",
@@ -959,7 +1002,8 @@
     "hasFullPassage": true,
     "passageId": "94_16-20",
     "accuracyRate": 61,
-    "discrimination": 23
+    "discrimination": 23,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_25",
@@ -1003,7 +1047,9 @@
     "hasFullPassage": true,
     "passageId": "95_16-20",
     "accuracyRate": 56,
-    "discrimination": 51
+    "discrimination": 51,
+    "contextSpan": "跨句",
+    "contextNote": "If not 指前一句的條件（若沒看過那部電影）"
   },
   {
     "id": "Z95_12",
@@ -1024,7 +1070,8 @@
     "hasFullPassage": true,
     "passageId": "95_11-15",
     "accuracyRate": 56,
-    "discrimination": 51
+    "discrimination": 51,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_13",
@@ -1045,7 +1092,8 @@
     "hasFullPassage": true,
     "passageId": "95_11-15",
     "accuracyRate": 42,
-    "discrimination": 48
+    "discrimination": 48,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_14",
@@ -1066,7 +1114,9 @@
     "hasFullPassage": true,
     "passageId": "95_11-15",
     "accuracyRate": 47,
-    "discrimination": 42
+    "discrimination": 42,
+    "contextSpan": "跨句",
+    "contextNote": "for instance 為前一句「先確認溫度範圍」舉例"
   },
   {
     "id": "Z95_16",
@@ -1087,7 +1137,8 @@
     "hasFullPassage": true,
     "passageId": "95_16-20",
     "accuracyRate": 56,
-    "discrimination": 34
+    "discrimination": 34,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_17",
@@ -1108,7 +1159,9 @@
     "hasFullPassage": true,
     "passageId": "95_16-20",
     "accuracyRate": 75,
-    "discrimination": 30
+    "discrimination": 30,
+    "contextSpan": "跨句",
+    "contextNote": "In fact 強化前一句對該地的描述"
   },
   {
     "id": "Z95_18",
@@ -1129,7 +1182,8 @@
     "hasFullPassage": true,
     "passageId": "95_16-20",
     "accuracyRate": 60,
-    "discrimination": 60
+    "discrimination": 60,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_22",
@@ -1150,7 +1204,8 @@
     "hasFullPassage": true,
     "passageId": "95_21-25",
     "accuracyRate": 57,
-    "discrimination": 66
+    "discrimination": 66,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_25",
@@ -1171,7 +1226,8 @@
     "hasFullPassage": true,
     "passageId": "95_21-25",
     "accuracyRate": 59,
-    "discrimination": 44
+    "discrimination": 44,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_27",
@@ -1192,7 +1248,8 @@
     "hasFullPassage": true,
     "passageId": "95_26-30",
     "accuracyRate": 44,
-    "discrimination": 48
+    "discrimination": 48,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_29",
@@ -1237,7 +1294,8 @@
     "fullPassage": "Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are __11__ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people __12__ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. __13__, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men __14__ in life. The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.",
     "hasFullPassage": true,
     "accuracyRate": 48,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_13",
@@ -1259,7 +1317,9 @@
     "fullPassage": "Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are __11__ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people __12__ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. __13__, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men __14__ in life. The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.",
     "hasFullPassage": true,
     "accuracyRate": 44,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "跨句",
+    "contextNote": "After that 承接前一句「四十幾歲是最低潮」的時間點"
   },
   {
     "id": "Z96_14",
@@ -1329,7 +1389,8 @@
     "fullPassage": "The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. Science is still not certain __16__ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. __17__, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway __18__ while flames of red, orange, green, and blue play up and down the moving folds. According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth. It is seen __20__ around the Hudson Bay region in Canada, in northern Scotland, and in southern Norway and Sweden.",
     "hasFullPassage": true,
     "accuracyRate": 40,
-    "discrimination": 48
+    "discrimination": 48,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_17",
@@ -1400,7 +1461,8 @@
     "fullPassage": "The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. Science is still not certain __16__ exactly what these lights are and what causes them. Sometimes, the brilliant rays of light spread upward in the shape of a fan. __17__, they flash here and there like giant searchlights. Farther north, the aurora frequently looks like fiery draperies which hang from the sky and sway __18__ while flames of red, orange, green, and blue play up and down the moving folds. According to scientific measurements, this discharge of light __19__ from 50 to 100 miles above the earth. It is seen __20__ around the Hudson Bay region in Canada, in northern Scotland, and in southern Norway and Sweden.",
     "hasFullPassage": true,
     "accuracyRate": 43,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_20",
@@ -1495,7 +1557,8 @@
     "fullPassage": "Average global temperature has increased by almost 1°F over the past century. Scientists expect it to increase an __21__ 2° to 6°F over the next one hundred years. This may not sound like much, but it could change the Earth's climate as __22__ before. Climate change may affect people's health both directly and indirectly. For instance, heat stress and other heat-related health problems are caused directly by very warm temperatures. __23__, human health can also be affected by ecological disturbances, changes in food and water supplies, as well as coastal flooding. How people and nature __24__ climate change will determine how seriously it affects human health. Generally, poor people and poor countries are __25__ probable to have the money and resources they need to cope with health problems due to climate change.",
     "hasFullPassage": true,
     "accuracyRate": 47,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_26",
@@ -1541,7 +1604,8 @@
     "fullPassage": "The Kingdom of Bhutan is a landlocked nation situated between India and China. The entire country is mountainous, __26__ a small strip of subtropical plains in the extreme south. The elevation gain from the subtropical plains to the glacier-covered Himalayan heights exceeds 7,000 m. Its traditional __27__ is based on forestry, animal husbandry and subsistence agriculture. However, these __28__ less than 50% of the GDP now that Bhutan has become an exporter of hydroelectricity. Besides, cash crops and tourism are also __29__. Bhutan is one of the most isolated nations in the world, __30__ foreign influences and tourism regulated by the government to preserve its traditional Tibetan Buddhist culture. It is often described as the last surviving refuge of traditional Himalayan Buddhist culture.",
     "hasFullPassage": true,
     "accuracyRate": 48,
-    "discrimination": 28
+    "discrimination": 28,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_13",
@@ -1563,7 +1627,8 @@
     "fullPassage": "The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different—they may not even be __11__. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and __12__ functions, and users may interact with them in new ways, too. __13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may __14__ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. __15__, they will be “the remote-control for life.”",
     "hasFullPassage": true,
     "accuracyRate": 56,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_14",
@@ -1585,7 +1650,8 @@
     "fullPassage": "The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different—they may not even be __11__. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and __12__ functions, and users may interact with them in new ways, too. __13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may __14__ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. __15__, they will be “the remote-control for life.”",
     "hasFullPassage": true,
     "accuracyRate": 62,
-    "discrimination": 63
+    "discrimination": 63,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_15",
@@ -1607,7 +1673,9 @@
     "fullPassage": "The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different—they may not even be __11__. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and __12__ functions, and users may interact with them in new ways, too. __13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may __14__ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. __15__, they will be “the remote-control for life.”",
     "hasFullPassage": true,
     "accuracyRate": 63,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "跨句",
+    "contextNote": "In short 總結前面幾句對未來手機的描述"
   },
   {
     "id": "Z97_16",
@@ -1629,7 +1697,9 @@
     "fullPassage": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__, are not there only to attract attention. They perform another important function for the plants. Research shows that the substances __17__ these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, __18__ may cause harmful elements to form within the plant cells. When we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has __19__ of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more __20__. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.",
     "hasFullPassage": true,
     "accuracyRate": 68,
-    "discrimination": 60
+    "discrimination": 60,
+    "contextSpan": "跨句",
+    "contextNote": "however 轉折前一句「蔬果有鮮豔顏色」的表面印象"
   },
   {
     "id": "Z97_18",
@@ -1651,7 +1721,8 @@
     "fullPassage": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__, are not there only to attract attention. They perform another important function for the plants. Research shows that the substances __17__ these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, __18__ may cause harmful elements to form within the plant cells. When we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has __19__ of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more __20__. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.",
     "hasFullPassage": true,
     "accuracyRate": 74,
-    "discrimination": 50
+    "discrimination": 50,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_19",
@@ -1673,7 +1744,8 @@
     "fullPassage": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__, are not there only to attract attention. They perform another important function for the plants. Research shows that the substances __17__ these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, __18__ may cause harmful elements to form within the plant cells. When we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has __19__ of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more __20__. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.",
     "hasFullPassage": true,
     "accuracyRate": 60,
-    "discrimination": 59
+    "discrimination": 59,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_21",
@@ -1743,7 +1815,8 @@
     "fullPassage": "Recent studies have shown that alcohol is the leading gateway drug for teenagers. Gateway drugs are substances people take that __21__ them to take more drugs. Alcohol works directly on the central nervous system and alters one's moods and limits judgment. Since its way of altering moods (changing one's state of mind) is generally expected and socially acceptable, oftentimes it __22__ over drinking. Habitual drinkers may find alcohol not stimulating enough __23__ and want to seek other more stimulating substances. __24__ a circumstance often preconditions teenagers to the possibility of taking other drugs such as marijuana, cocaine or heroin. Another reason why alcohol is the main gateway drug is that the __25__ of teenagers it can affect is very wide. It is easily accessible in most societies and common in popular events such as sports gatherings and dinner parties.",
     "hasFullPassage": true,
     "accuracyRate": 42,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_26",
@@ -1765,7 +1838,8 @@
     "fullPassage": "A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way __26__ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could __27__ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced __28__ the event. Recycling cans were also provided for items such as __29__ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's $250 award for the most creative memory destined for __30__. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.",
     "hasFullPassage": true,
     "accuracyRate": 67,
-    "discrimination": 39
+    "discrimination": 39,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_28",
@@ -1811,7 +1885,9 @@
     "fullPassage": "A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way __26__ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could __27__ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced __28__ the event. Recycling cans were also provided for items such as __29__ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's $250 award for the most creative memory destined for __30__. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.",
     "hasFullPassage": true,
     "accuracyRate": 51,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "跨句",
+    "contextNote": "the machine 指前文提到的碎紙機"
   },
   {
     "id": "Z98_13",
@@ -1833,7 +1909,8 @@
     "fullPassage": "Keele University in the United Kingdom has developed a “virtual patient,” created by a computer, to help train the pharmacists of the future. Students in the university's School of __11__ work with the “patient” to gain experience in effective communication and decision-making. Students talk with the “patient” directly or by typing questions into a computer. The “patient” responds verbally or with gestures to indicate __12__ such as pain, stress or anxiety. As a result, students are forced to communicate clearly __13__ that the “patient” understands them completely. The Virtual Patient can also be used to explore various medical situations. For example, the “patient” can be programmed to be allergic to certain medicine and can __14__ serious reactions if student learners are not aware of the situation. This kind of practice allows students to learn from mistakes in a safe environment that would not be __15__ with textbooks alone. The unique system can both be used in a classroom setting or for distance learning.",
     "hasFullPassage": true,
     "accuracyRate": 53,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98_16",
@@ -1879,7 +1956,8 @@
     "fullPassage": "In spite of modernization and the increasing role of women in all walks of life, the practice of the dowry in India is still widespread. The dowry system, money or property brought by a bride to her husband at marriage, was started centuries ago with the intention of providing security for a girl __16__ difficulties and unexpected circumstances after marriage. For this purpose, the parents gave __17__ they could to their daughter, which consequently went to the groom's family. By the beginning of the 21st century, however, the custom had deteriorated to a point whereby the groom and his family had become very __18__. When demands for dowry are not met, the bride is __19__ torture, and often even killed. The more educated a man is, the __20__ is the expectation for dowry at the time of marriage. Girls who are highly educated are required to have larger dowries because they usually marry more educated men.",
     "hasFullPassage": true,
     "accuracyRate": 69,
-    "discrimination": 50
+    "discrimination": 50,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98_20",
@@ -1901,7 +1979,8 @@
     "fullPassage": "In spite of modernization and the increasing role of women in all walks of life, the practice of the dowry in India is still widespread. The dowry system, money or property brought by a bride to her husband at marriage, was started centuries ago with the intention of providing security for a girl __16__ difficulties and unexpected circumstances after marriage. For this purpose, the parents gave __17__ they could to their daughter, which consequently went to the groom's family. By the beginning of the 21st century, however, the custom had deteriorated to a point whereby the groom and his family had become very __18__. When demands for dowry are not met, the bride is __19__ torture, and often even killed. The more educated a man is, the __20__ is the expectation for dowry at the time of marriage. Girls who are highly educated are required to have larger dowries because they usually marry more educated men.",
     "hasFullPassage": true,
     "accuracyRate": 45,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z99_12",
@@ -1923,7 +2002,8 @@
     "fullPassage": "The sun is an extraordinarily powerful source of energy. In fact, the Earth __11__ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it __12__ all the power needed throughout the world. We can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly __13__ electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible. Solar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release __14__ substances into the air when they are burned. __15__, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "hasFullPassage": true,
     "accuracyRate": 70,
-    "discrimination": 58
+    "discrimination": 58,
+    "contextSpan": "句內"
   },
   {
     "id": "Z99_13",
@@ -1945,7 +2025,8 @@
     "fullPassage": "The sun is an extraordinarily powerful source of energy. In fact, the Earth __11__ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it __12__ all the power needed throughout the world. We can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly __13__ electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible. Solar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release __14__ substances into the air when they are burned. __15__, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "hasFullPassage": true,
     "accuracyRate": 79,
-    "discrimination": 51
+    "discrimination": 51,
+    "contextSpan": "句內"
   },
   {
     "id": "Z99_15",
@@ -1967,7 +2048,9 @@
     "fullPassage": "The sun is an extraordinarily powerful source of energy. In fact, the Earth __11__ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it __12__ all the power needed throughout the world. We can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly __13__ electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible. Solar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release __14__ substances into the air when they are burned. __15__, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "hasFullPassage": true,
     "accuracyRate": 51,
-    "discrimination": 68
+    "discrimination": 68,
+    "contextSpan": "跨句",
+    "contextNote": "What's more 累加前一句對化石燃料的批評"
   },
   {
     "id": "Z99_17",
@@ -1989,7 +2072,8 @@
     "fullPassage": "Signs asking visitors to keep their hands off the art are everywhere in the Louvre Museum, Paris. But one special sculpture gallery invites art lovers to allow their hands to __16__ the works. The Louvre's Tactile Gallery, targeted at the blind and visually __17__, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them. Its latest exhibit is a __18__ of sculpted lions, snakes, horses and eagles. The 15 animals exhibited are reproductions of famous works found elsewhere in the Louvre. Called “Animals, Symbols of Power,” the exhibit __19__ animals that were used by kings and emperors throughout history to symbolize the greatness of their reigns. The exhibit, opened in December 2008, __20__ scheduled to run for about three years. During guided tours on the weekends, children can explore the art with blindfolds on.",
     "hasFullPassage": true,
     "accuracyRate": 61,
-    "discrimination": 35
+    "discrimination": 35,
+    "contextSpan": "句內"
   },
   {
     "id": "Z99_20",
@@ -2059,7 +2143,8 @@
     "fullPassage": "Handling customer claims is a common task for most business firms. These claims include requests to exchange merchandise, requests for refunds, requests that work __11__, and other requests for adjustments. Most of these claims are approved because they are legitimate. However, some requests for adjustment must be __12__, and an adjustment refusal message must be sent. Adjustment refusals are negative messages for the customer. They are necessary when the customer is __13__ or when the vendor has done all that can reasonably or legally be expected. An adjustment refusal message requires your best communication skills __14__ it is bad news to the receiver. You have to refuse the claim and retain the customer __15__. You may refuse the request for adjustment and even try to sell the customer more merchandise or service. All this is happening when the customer is probably angry, disappointed, or inconvenienced.",
     "hasFullPassage": true,
     "accuracyRate": 63,
-    "discrimination": 50
+    "discrimination": 50,
+    "contextSpan": "句內"
   },
   {
     "id": "Z100_15",
@@ -2081,7 +2166,8 @@
     "fullPassage": "Handling customer claims is a common task for most business firms. These claims include requests to exchange merchandise, requests for refunds, requests that work __11__, and other requests for adjustments. Most of these claims are approved because they are legitimate. However, some requests for adjustment must be __12__, and an adjustment refusal message must be sent. Adjustment refusals are negative messages for the customer. They are necessary when the customer is __13__ or when the vendor has done all that can reasonably or legally be expected. An adjustment refusal message requires your best communication skills __14__ it is bad news to the receiver. You have to refuse the claim and retain the customer __15__. You may refuse the request for adjustment and even try to sell the customer more merchandise or service. All this is happening when the customer is probably angry, disappointed, or inconvenienced.",
     "hasFullPassage": true,
     "accuracyRate": 63,
-    "discrimination": 45
+    "discrimination": 45,
+    "contextSpan": "句內"
   },
   {
     "id": "Z100_16",
@@ -2103,7 +2189,9 @@
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
     "accuracyRate": 64,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "跨句",
+    "contextNote": "for example 為前一句「各文化差異很大」舉例"
   },
   {
     "id": "Z100_17",
@@ -2125,7 +2213,8 @@
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
     "accuracyRate": 40,
-    "discrimination": 26
+    "discrimination": 26,
+    "contextSpan": "句內"
   },
   {
     "id": "Z100_18",
@@ -2147,7 +2236,8 @@
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
     "accuracyRate": 57,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z100_19",
@@ -2169,7 +2259,8 @@
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
     "accuracyRate": 63,
-    "discrimination": 46
+    "discrimination": 46,
+    "contextSpan": "句內"
   },
   {
     "id": "Z100_20",
@@ -2191,7 +2282,8 @@
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
     "accuracyRate": 60,
-    "discrimination": 45
+    "discrimination": 45,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_12",
@@ -2213,7 +2305,8 @@
     "fullPassage": "The Nobel Peace Center is located in an old train station building close to the Oslo City Hall and overlooking the harbor. It was officially opened on June 11, 2005 as part of the celebrations to __11__ Norway's centenary as an independent country. It is a center where you can experience and learn about the various Nobel Peace Prize Laureates and their activities __12__ the remarkable history of Alfred Nobel, the founder of the Nobel Prize. In addition, it serves as a meeting place where exhibits, discussions, and reflections __13__ to war, peace, and conflict resolution are in focus. The Center combines exhibits and films with digital communication and interactive installations and has already received attention for its use of state-of-the-art technology. Visitors are welcome to experience the Center __14__ or join a guided tour. Since its opening, the Nobel Peace Center has been educating, inspiring and entertaining its visitors __15__ exhibitions, activities, lectures, and cultural events. The Center is financed by private and public institutions.",
     "hasFullPassage": true,
     "accuracyRate": 63,
-    "discrimination": 44
+    "discrimination": 44,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_14",
@@ -2235,7 +2328,8 @@
     "fullPassage": "The Nobel Peace Center is located in an old train station building close to the Oslo City Hall and overlooking the harbor. It was officially opened on June 11, 2005 as part of the celebrations to __11__ Norway's centenary as an independent country. It is a center where you can experience and learn about the various Nobel Peace Prize Laureates and their activities __12__ the remarkable history of Alfred Nobel, the founder of the Nobel Prize. In addition, it serves as a meeting place where exhibits, discussions, and reflections __13__ to war, peace, and conflict resolution are in focus. The Center combines exhibits and films with digital communication and interactive installations and has already received attention for its use of state-of-the-art technology. Visitors are welcome to experience the Center __14__ or join a guided tour. Since its opening, the Nobel Peace Center has been educating, inspiring and entertaining its visitors __15__ exhibitions, activities, lectures, and cultural events. The Center is financed by private and public institutions.",
     "hasFullPassage": true,
     "accuracyRate": 76,
-    "discrimination": 50
+    "discrimination": 50,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_15",
@@ -2257,7 +2351,8 @@
     "fullPassage": "The Nobel Peace Center is located in an old train station building close to the Oslo City Hall and overlooking the harbor. It was officially opened on June 11, 2005 as part of the celebrations to __11__ Norway's centenary as an independent country. It is a center where you can experience and learn about the various Nobel Peace Prize Laureates and their activities __12__ the remarkable history of Alfred Nobel, the founder of the Nobel Prize. In addition, it serves as a meeting place where exhibits, discussions, and reflections __13__ to war, peace, and conflict resolution are in focus. The Center combines exhibits and films with digital communication and interactive installations and has already received attention for its use of state-of-the-art technology. Visitors are welcome to experience the Center __14__ or join a guided tour. Since its opening, the Nobel Peace Center has been educating, inspiring and entertaining its visitors __15__ exhibitions, activities, lectures, and cultural events. The Center is financed by private and public institutions.",
     "hasFullPassage": true,
     "accuracyRate": 45,
-    "discrimination": 67
+    "discrimination": 67,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_18",
@@ -2279,7 +2374,8 @@
     "fullPassage": "In 1985, a riot at a Brussels soccer match occurred, in which many fans lost their lives. The __16__ began 45 minutes before the start of the European Cup final. The British team was scheduled to __17__ the Italian team in the game. Noisy British fans, after setting off some rockets and fireworks to cheer for __18__ team, broke through a thin wire fence and started to attack the Italian fans. The Italians, in panic, __19__ the main exit in their section when a six-foot concrete wall collapsed. By the end of the night, 38 soccer fans had died and 437 were injured. The majority of the deaths resulted from people __20__ trampled underfoot or crushed against barriers in the stadium. As a result of this 1985 soccer incident, security measures have since been tightened at major sports competitions to prevent similar events from happening.",
     "hasFullPassage": true,
     "accuracyRate": 80,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_20",
@@ -2301,7 +2397,8 @@
     "fullPassage": "In 1985, a riot at a Brussels soccer match occurred, in which many fans lost their lives. The __16__ began 45 minutes before the start of the European Cup final. The British team was scheduled to __17__ the Italian team in the game. Noisy British fans, after setting off some rockets and fireworks to cheer for __18__ team, broke through a thin wire fence and started to attack the Italian fans. The Italians, in panic, __19__ the main exit in their section when a six-foot concrete wall collapsed. By the end of the night, 38 soccer fans had died and 437 were injured. The majority of the deaths resulted from people __20__ trampled underfoot or crushed against barriers in the stadium. As a result of this 1985 soccer incident, security measures have since been tightened at major sports competitions to prevent similar events from happening.",
     "hasFullPassage": true,
     "accuracyRate": 54,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_12",
@@ -2323,7 +2420,8 @@
     "passageId": "102_11-15",
     "fullPassage": "The undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of __11__ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off __12__ fish and even divers. Another discovery about fish sounds is that not all fish are __13__ \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is __15__ . Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.",
     "accuracyRate": 64,
-    "discrimination": 38
+    "discrimination": 38,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_13",
@@ -2345,7 +2443,8 @@
     "passageId": "102_11-15",
     "fullPassage": "The undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of __11__ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off __12__ fish and even divers. Another discovery about fish sounds is that not all fish are __13__ \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is __15__ . Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.",
     "accuracyRate": 54,
-    "discrimination": 46
+    "discrimination": 46,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_14",
@@ -2392,7 +2491,8 @@
     "passageId": "102_16-20",
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
     "accuracyRate": 65,
-    "discrimination": 31
+    "discrimination": 31,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_19",
@@ -2414,7 +2514,8 @@
     "passageId": "102_16-20",
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
     "accuracyRate": 48,
-    "discrimination": 30
+    "discrimination": 30,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_20",
@@ -2436,7 +2537,8 @@
     "passageId": "102_16-20",
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
     "accuracyRate": 80,
-    "discrimination": 45
+    "discrimination": 45,
+    "contextSpan": "句內"
   },
   {
     "id": "Z103_12",
@@ -2482,7 +2584,8 @@
     "passageId": "103_11-15",
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
     "accuracyRate": 84,
-    "discrimination": 41
+    "discrimination": 41,
+    "contextSpan": "句內"
   },
   {
     "id": "Z103_14",
@@ -2504,7 +2607,9 @@
     "passageId": "103_11-15",
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
     "accuracyRate": 83,
-    "discrimination": 39
+    "discrimination": 39,
+    "contextSpan": "跨句",
+    "contextNote": "For example 為前一句「有幾種保養方式」舉例"
   },
   {
     "id": "Z103_15",
@@ -2526,7 +2631,8 @@
     "passageId": "103_11-15",
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
     "accuracyRate": 66,
-    "discrimination": 16
+    "discrimination": 16,
+    "contextSpan": "句內"
   },
   {
     "id": "Z103_17",
@@ -2548,7 +2654,8 @@
     "passageId": "103_16-20",
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
     "accuracyRate": 49,
-    "discrimination": 42
+    "discrimination": 42,
+    "contextSpan": "句內"
   },
   {
     "id": "Z103_18",
@@ -2570,7 +2677,8 @@
     "passageId": "103_16-20",
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
     "accuracyRate": 77,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z103_20",
@@ -2592,7 +2700,8 @@
     "passageId": "103_16-20",
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
     "accuracyRate": 61,
-    "discrimination": 32
+    "discrimination": 32,
+    "contextSpan": "句內"
   },
   {
     "id": "Z104_11",
@@ -2638,7 +2747,8 @@
     "passageId": "104_11-15",
     "fullPassage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as __11__ his life of adventure.\nHemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to __12__ such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been __13__ .\nHemingway liked to portray soldiers, hunters, bullfighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this __14__ lose hope and faith. His straightforward prose is particularly effective in his short stories, some of __15__ are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
     "accuracyRate": 55,
-    "discrimination": 52
+    "discrimination": 52,
+    "contextSpan": "句內"
   },
   {
     "id": "Z104_19",
@@ -2684,7 +2794,9 @@
     "passageId": "104_16-20",
     "fullPassage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common __16__ for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it __17__ all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class __18__ . Sometimes it may also include wheelchair entrants.\nRoad running often offers those __19__ a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. __20__ , Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
     "accuracyRate": 74,
-    "discrimination": 53
+    "discrimination": 53,
+    "contextSpan": "跨句",
+    "contextNote": "For example 為前一句「路跑常是社區活動」舉例"
   },
   {
     "id": "Z105_13",
@@ -2730,7 +2842,9 @@
     "passageId": "105_16-20",
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
     "accuracyRate": 67,
-    "discrimination": 59
+    "discrimination": 59,
+    "contextSpan": "跨句",
+    "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」"
   },
   {
     "id": "Z105_18",
@@ -2752,7 +2866,8 @@
     "passageId": "105_16-20",
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
     "accuracyRate": 51,
-    "discrimination": 23
+    "discrimination": 23,
+    "contextSpan": "句內"
   },
   {
     "id": "Z105_14",
@@ -2774,7 +2889,8 @@
     "passageId": "105_11-15",
     "fullPassage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have __11__ you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated. According to scientists, personal space involves certain invisible forces imposed on you through all the __12__. For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare. In certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their __13__ distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing __14__ them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may __15__ to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
     "accuracyRate": 74,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "句內"
   },
   {
     "id": "Z105_19",
@@ -2796,7 +2912,8 @@
     "passageId": "105_16-20",
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
     "accuracyRate": 44,
-    "discrimination": 39
+    "discrimination": 39,
+    "contextSpan": "句內"
   },
   {
     "id": "Z106_16",
@@ -2818,7 +2935,8 @@
     "passageId": "106_16-20",
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
     "accuracyRate": 51,
-    "discrimination": 58
+    "discrimination": 58,
+    "contextSpan": "句內"
   },
   {
     "id": "Z106_17",
@@ -2840,7 +2958,8 @@
     "passageId": "106_16-20",
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
     "accuracyRate": 41,
-    "discrimination": 24
+    "discrimination": 24,
+    "contextSpan": "句內"
   },
   {
     "id": "Z106_18",
@@ -2886,7 +3005,9 @@
     "passageId": "106_16-20",
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
     "accuracyRate": 79,
-    "discrimination": 44
+    "discrimination": 44,
+    "contextSpan": "跨句",
+    "contextNote": "however 轉折前一句對酶的正面評價"
   },
   {
     "id": "Z107_12",
@@ -2956,7 +3077,8 @@
     "passageId": "107_16-20",
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
     "accuracyRate": 45,
-    "discrimination": 28
+    "discrimination": 28,
+    "contextSpan": "句內"
   },
   {
     "id": "Z107_19",
@@ -2978,7 +3100,8 @@
     "passageId": "107_16-20",
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
     "accuracyRate": 59,
-    "discrimination": 34
+    "discrimination": 34,
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_11",
@@ -3001,7 +3124,8 @@
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
     "accuracyRate": 65,
     "discrimination": -3,
-    "discriminationNote": "答對率65%屬於中等偏易，鑑別度卻是小幅負值(-3)，這正好符合大考中心官方說明「答對率較高的易題，鑑別度數值容易偏小」的現象——當多數考生（不分程度）都能答對時，高低分群的差距自然就會縮小，屬於統計上的正常波動，不代表題目本身有嚴重瑕疵。"
+    "discriminationNote": "答對率65%屬於中等偏易，鑑別度卻是小幅負值(-3)，這正好符合大考中心官方說明「答對率較高的易題，鑑別度數值容易偏小」的現象——當多數考生（不分程度）都能答對時，高低分群的差距自然就會縮小，屬於統計上的正常波動，不代表題目本身有嚴重瑕疵。",
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_12",
@@ -3023,7 +3147,8 @@
     "passageId": "108_11-15",
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
     "accuracyRate": 84,
-    "discrimination": 39
+    "discrimination": 39,
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_13",
@@ -3045,7 +3170,9 @@
     "passageId": "108_11-15",
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
     "accuracyRate": 62,
-    "discrimination": 53
+    "discrimination": 53,
+    "contextSpan": "跨句",
+    "contextNote": "Interestingly 承接前一句她的求學經歷，帶出令人意外的轉折"
   },
   {
     "id": "Z108_16",
@@ -3067,7 +3194,8 @@
     "passageId": "108_16-20",
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
     "accuracyRate": 71,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_17",
@@ -3089,7 +3217,8 @@
     "passageId": "108_16-20",
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
     "accuracyRate": 55,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_18",
@@ -3111,7 +3240,8 @@
     "passageId": "108_16-20",
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
     "accuracyRate": 49,
-    "discrimination": 51
+    "discrimination": 51,
+    "contextSpan": "句內"
   },
   {
     "id": "Z107_18",
@@ -3133,7 +3263,8 @@
     "passageId": "107_16-20",
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
     "accuracyRate": 45,
-    "discrimination": 41
+    "discrimination": 41,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_14",
@@ -3179,7 +3310,8 @@
     "passageId": "109_16-20",
     "fullPassage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this __16__ proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he __17__ in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long __18__ dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to __19__ the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance __20__ , however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
     "accuracyRate": 64,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_15",
@@ -3201,7 +3333,8 @@
     "passageId": "109_11-15",
     "fullPassage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, __11__ the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and __12__ pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in __13__ with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements __14__ to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. __15__ its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
     "accuracyRate": 76,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_20",
@@ -3245,7 +3378,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_11-15",
-    "fullPassage": "\"Anne! Jo! I mean, Max!\" Mothers often mix up their children's names, but studies show that moms are not the only ones who make this mistake. __11__ name phenomenon turns out to be very common. Almost everyone sometimes mixes up the names of their family and friends.\nThe phenomenon is called a \"cognitive glitch\" by researchers in the field of cognitive science. It is not caused by a bad memory or by aging processes that affect brain functioning. It is simply a result of the way our brain __12__ those we love.\nWhen our brain is attempting to retrieve a name so that we can say it, it is likely that another name in the same group will come to our lips __13__ the one we meant to say. That is because in order to find the name we are looking for, we are essentially __14__ the whole set of names in that group, which includes all our beloved family members. Scientists also report that the category __15__ the person belongs (family, close friends, etc.) is far more influential in causing a mix-up than any phonetic similarity between names. Names that sound alike do not usually trigger the mix-up.\nIsn't it great to know that when you call others by the wrong name, it is evidence of your love for them all?"
+    "fullPassage": "\"Anne! Jo! I mean, Max!\" Mothers often mix up their children's names, but studies show that moms are not the only ones who make this mistake. __11__ name phenomenon turns out to be very common. Almost everyone sometimes mixes up the names of their family and friends.\nThe phenomenon is called a \"cognitive glitch\" by researchers in the field of cognitive science. It is not caused by a bad memory or by aging processes that affect brain functioning. It is simply a result of the way our brain __12__ those we love.\nWhen our brain is attempting to retrieve a name so that we can say it, it is likely that another name in the same group will come to our lips __13__ the one we meant to say. That is because in order to find the name we are looking for, we are essentially __14__ the whole set of names in that group, which includes all our beloved family members. Scientists also report that the category __15__ the person belongs (family, close friends, etc.) is far more influential in causing a mix-up than any phonetic similarity between names. Names that sound alike do not usually trigger the mix-up.\nIsn't it great to know that when you call others by the wrong name, it is evidence of your love for them all?",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_16",
@@ -3265,7 +3399,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_16-20",
-    "fullPassage": "Astronomers have discovered the darkest alien planet known to exist in the galaxy.\nThe Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight __16__ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, __17__ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), __18__ its closeness to its sun—its source of energy.\nSo how does this planet manage to absorb about 99% of the light it receives from its sun? __19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known. Although they may never be able to __20__ exactly how the planet remains so stealthily hidden, scientists are sure of one thing—there are many more even darker planets out there just waiting to be discovered!"
+    "fullPassage": "Astronomers have discovered the darkest alien planet known to exist in the galaxy.\nThe Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight __16__ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, __17__ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), __18__ its closeness to its sun—its source of energy.\nSo how does this planet manage to absorb about 99% of the light it receives from its sun? __19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known. Although they may never be able to __20__ exactly how the planet remains so stealthily hidden, scientists are sure of one thing—there are many more even darker planets out there just waiting to be discovered!",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_13",
@@ -3285,7 +3420,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_11-15",
-    "fullPassage": "\"Anne! Jo! I mean, Max!\" Mothers often mix up their children's names, but studies show that moms are not the only ones who make this mistake. __11__ name phenomenon turns out to be very common. Almost everyone sometimes mixes up the names of their family and friends.\nThe phenomenon is called a \"cognitive glitch\" by researchers in the field of cognitive science. It is not caused by a bad memory or by aging processes that affect brain functioning. It is simply a result of the way our brain __12__ those we love.\nWhen our brain is attempting to retrieve a name so that we can say it, it is likely that another name in the same group will come to our lips __13__ the one we meant to say. That is because in order to find the name we are looking for, we are essentially __14__ the whole set of names in that group, which includes all our beloved family members. Scientists also report that the category __15__ the person belongs (family, close friends, etc.) is far more influential in causing a mix-up than any phonetic similarity between names. Names that sound alike do not usually trigger the mix-up.\nIsn't it great to know that when you call others by the wrong name, it is evidence of your love for them all?"
+    "fullPassage": "\"Anne! Jo! I mean, Max!\" Mothers often mix up their children's names, but studies show that moms are not the only ones who make this mistake. __11__ name phenomenon turns out to be very common. Almost everyone sometimes mixes up the names of their family and friends.\nThe phenomenon is called a \"cognitive glitch\" by researchers in the field of cognitive science. It is not caused by a bad memory or by aging processes that affect brain functioning. It is simply a result of the way our brain __12__ those we love.\nWhen our brain is attempting to retrieve a name so that we can say it, it is likely that another name in the same group will come to our lips __13__ the one we meant to say. That is because in order to find the name we are looking for, we are essentially __14__ the whole set of names in that group, which includes all our beloved family members. Scientists also report that the category __15__ the person belongs (family, close friends, etc.) is far more influential in causing a mix-up than any phonetic similarity between names. Names that sound alike do not usually trigger the mix-up.\nIsn't it great to know that when you call others by the wrong name, it is evidence of your love for them all?",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_18",
@@ -3305,7 +3441,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_16-20",
-    "fullPassage": "Astronomers have discovered the darkest alien planet known to exist in the galaxy.\nThe Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight __16__ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, __17__ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), __18__ its closeness to its sun—its source of energy.\nSo how does this planet manage to absorb about 99% of the light it receives from its sun? __19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known. Although they may never be able to __20__ exactly how the planet remains so stealthily hidden, scientists are sure of one thing—there are many more even darker planets out there just waiting to be discovered!"
+    "fullPassage": "Astronomers have discovered the darkest alien planet known to exist in the galaxy.\nThe Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight __16__ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, __17__ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), __18__ its closeness to its sun—its source of energy.\nSo how does this planet manage to absorb about 99% of the light it receives from its sun? __19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known. Although they may never be able to __20__ exactly how the planet remains so stealthily hidden, scientists are sure of one thing—there are many more even darker planets out there just waiting to be discovered!",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_19",
@@ -3325,7 +3462,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_16-20",
-    "fullPassage": "Astronomers have discovered the darkest alien planet known to exist in the galaxy.\nThe Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight __16__ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, __17__ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), __18__ its closeness to its sun—its source of energy.\nSo how does this planet manage to absorb about 99% of the light it receives from its sun? __19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known. Although they may never be able to __20__ exactly how the planet remains so stealthily hidden, scientists are sure of one thing—there are many more even darker planets out there just waiting to be discovered!"
+    "fullPassage": "Astronomers have discovered the darkest alien planet known to exist in the galaxy.\nThe Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight __16__ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, __17__ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), __18__ its closeness to its sun—its source of energy.\nSo how does this planet manage to absorb about 99% of the light it receives from its sun? __19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known. Although they may never be able to __20__ exactly how the planet remains so stealthily hidden, scientists are sure of one thing—there are many more even darker planets out there just waiting to be discovered!",
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_12",
@@ -3346,7 +3484,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
     "accuracyRate": 79,
-    "discrimination": 26
+    "discrimination": 26,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_14",
@@ -3367,7 +3506,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
     "accuracyRate": 57,
-    "discrimination": 32
+    "discrimination": 32,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_15",
@@ -3388,7 +3528,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
     "accuracyRate": 44,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_17",
@@ -3409,7 +3550,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
     "accuracyRate": 58,
-    "discrimination": 56
+    "discrimination": 56,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_20",
@@ -3430,7 +3572,9 @@
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
     "accuracyRate": 82,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "跨句",
+    "contextNote": "For example 為前一句「大隕石會造成巨大破壞」舉例"
   },
   {
     "id": "Z107參_12",
@@ -3449,7 +3593,8 @@
     "explanation": "as well as表示「以及」，用來連接兩個並列的認識對象——歷屆得獎者事蹟以及諾貝爾生平；so much as常用於否定句型（not so much as）；in spite of（儘管）、on behalf of（代表）皆不符合此處單純並列的語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_11-15"
+    "passageId": "Z107參_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z107參_14",
@@ -3468,7 +3613,8 @@
     "explanation": "on their own表示「自行、獨自」，與後方or join a guided tour（或參加導覽）形成「自行參觀 vs. 跟團導覽」的對比選項；in this regard（在這方面）、one on one（一對一）、by and large（大體而言）皆不符合此處的對比語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_11-15"
+    "passageId": "Z107參_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z107參_15",
@@ -3487,7 +3633,8 @@
     "explanation": "through表示「透過」某種手段達成目的，符合「透過展覽、活動、講座與文化活動教育遊客」的語意；among（在…之中）、regarding（關於）、including（包括）皆不符合表示手段的語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_11-15"
+    "passageId": "Z107參_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z107參_17",
@@ -3506,7 +3653,9 @@
     "explanation": "few表示「很少」，帶有否定意味，呼應句首Nevertheless（然而）所引導的語意轉折——儘管貢獻卓越，卻幾乎沒什麼人聽過他的名字；many／some語氣偏肯定，與轉折語意不符；any通常用於疑問句或否定句中，不能直接置於肯定直述句句首修飾主詞。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_16-20"
+    "passageId": "Z107參_16-20",
+    "contextSpan": "跨句",
+    "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」"
   },
   {
     "id": "Z107參_18",
@@ -3525,7 +3674,8 @@
     "explanation": "此處站在過去（圖靈23歲時）的時間點展望「後來會發展成」現代電腦，須用過去式的未來（would + 原V）表示「未來將成為」；should become語氣為義務建議，不符；could have become／had become皆為完成式，表示「本應成為」或「已經成為」，與此處單純敘述未來發展的語意不符。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_16-20"
+    "passageId": "Z107參_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z107參_19",
@@ -3544,7 +3694,8 @@
     "explanation": "Instead of表示「非但沒有…反而」的強烈對比，符合「非但沒有被譽為擊敗納粹的英雄，反而被定罪」的語意落差；文法上Instead of為介系詞片語，後方接動詞須用動名詞(V-ing)形式，正好呼應題幹中的being hailed；Because of（因為）、In addition to（除了…之外，還）、With respect to（關於）皆不符合這種對比轉折的語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_16-20"
+    "passageId": "Z107參_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_12",
@@ -3563,7 +3714,9 @@
     "explanation": "前句提到化石燃料的第一項優點（燃燒即可產生大量能源），本句補充第二項優點（易取得、供應充足），屬「此外、還有」的遞進補充關係，故用Besides；Likely（可能）不具句首轉承詞功能，In sum（總之）用於總結而非補充，On the contrary（相反地）語意相反，皆不符合。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z98參_11-15"
+    "passageId": "Z98參_11-15",
+    "contextSpan": "跨句",
+    "contextNote": "Besides 累加前一句已提到的化石燃料優點"
   },
   {
     "id": "Z98參_13",
@@ -3582,7 +3735,8 @@
     "explanation": "in particular表示「尤其、特別是」，強調石油依賴是眾多化石燃料依賴問題中特別嚴重的一項，語意通順；in advance（事先）、in contrast（相比之下）、in charge（負責）皆不符合此處的強調語氣。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z98參_11-15"
+    "passageId": "Z98參_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_15",
@@ -3601,7 +3755,8 @@
     "explanation": "at a rate（of）表示「以…的速率」，後接倍數比較（100,000 times faster），為固定搭配；in effect（實際上）、by all means（務必、儘管）、on the point of（即將）皆不符合表示速率的語意與句構。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z98參_11-15"
+    "passageId": "Z98參_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_18",
@@ -3620,7 +3775,8 @@
     "explanation": "本句由兩個並列的原因子句組成：because it is with us every day，以及because we must have houses to live in，第二個because在此保留以形成「兩項並列原因」的結構；although（雖然）、likewise（同樣地）、therefore（因此）皆不符合此處因果並列的邏輯。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z98參_16-20"
+    "passageId": "Z98參_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_19",
@@ -3639,7 +3795,8 @@
     "explanation": "本句以having to do with X, not with Y的結構表達對比：我們誤以為建築只和歐洲古蹟有關，而非和紐約、芝加哥街道有關，故填入not以形成「與X有關、而非與Y有關」的對比句構；but／often／then皆不符合此處的對比邏輯。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z98參_16-20"
+    "passageId": "Z98參_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_18",
@@ -3683,7 +3840,8 @@
     "hasFullPassage": true,
     "passageId": "91_21-25",
     "accuracyRate": 45,
-    "discrimination": 47
+    "discrimination": 47,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_23",
@@ -3727,7 +3885,8 @@
     "hasFullPassage": true,
     "passageId": "91_21-25",
     "accuracyRate": 50,
-    "discrimination": 50
+    "discrimination": 50,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_27",
@@ -3748,7 +3907,8 @@
     "hasFullPassage": true,
     "passageId": "91_26-30",
     "accuracyRate": 57,
-    "discrimination": 42
+    "discrimination": 42,
+    "contextSpan": "句內"
   },
   {
     "id": "Z91_30",
@@ -3769,7 +3929,8 @@
     "hasFullPassage": true,
     "passageId": "91_26-30",
     "accuracyRate": 52,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_16",
@@ -3790,7 +3951,8 @@
     "hasFullPassage": true,
     "passageId": "92_16-23",
     "accuracyRate": 56,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_17",
@@ -3811,7 +3973,8 @@
     "hasFullPassage": true,
     "passageId": "92_16-23",
     "accuracyRate": 45,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_18",
@@ -3832,7 +3995,8 @@
     "hasFullPassage": true,
     "passageId": "92_16-23",
     "accuracyRate": 55,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_19",
@@ -3853,7 +4017,8 @@
     "hasFullPassage": true,
     "passageId": "92_16-23",
     "accuracyRate": 43,
-    "discrimination": 53
+    "discrimination": 53,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_20",
@@ -3897,7 +4062,8 @@
     "hasFullPassage": true,
     "passageId": "92_16-23",
     "accuracyRate": 68,
-    "discrimination": 56
+    "discrimination": 56,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_25",
@@ -3918,7 +4084,8 @@
     "hasFullPassage": true,
     "passageId": "92_24-30",
     "accuracyRate": 53,
-    "discrimination": 64
+    "discrimination": 64,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_28",
@@ -3939,7 +4106,8 @@
     "hasFullPassage": true,
     "passageId": "92_24-30",
     "accuracyRate": 54,
-    "discrimination": 70
+    "discrimination": 70,
+    "contextSpan": "句內"
   },
   {
     "id": "Z92_30",
@@ -3960,7 +4128,8 @@
     "hasFullPassage": true,
     "passageId": "92_24-30",
     "accuracyRate": 42,
-    "discrimination": 48
+    "discrimination": 48,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_18",
@@ -4004,7 +4173,8 @@
     "hasFullPassage": true,
     "passageId": "93_21-25",
     "accuracyRate": 40,
-    "discrimination": 45
+    "discrimination": 45,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93_23",
@@ -4025,7 +4195,8 @@
     "hasFullPassage": true,
     "passageId": "93_21-25",
     "accuracyRate": 60,
-    "discrimination": 60
+    "discrimination": 60,
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_19",
@@ -4044,7 +4215,8 @@
     "explanation": "struggle for survival（為求生存而掙扎）為固定搭配，表示蟲子在酒精中開始為了活命而掙扎；health／audience／proof均不符合struggle for的搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "93M_16-20"
+    "passageId": "93M_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_20",
@@ -4063,7 +4235,8 @@
     "explanation": "stood up（站起來）表示後排有人站起身發言；put out（撲滅／伸出）、looked over（檢視）、brought back（帶回）均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "93M_16-20"
+    "passageId": "93M_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_24",
@@ -4082,7 +4255,8 @@
     "explanation": "celebrates（慶祝／頌揚）符合音樂節旨在慶祝紐奧良與路易斯安那當地音樂文化的語意；compensates／calculates／cooperates均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "93M_21-25"
+    "passageId": "93M_21-25",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_25",
@@ -4101,7 +4275,8 @@
     "explanation": "the city and the state（該城市與該州）呼應前文New Orleans and Louisiana，表示音樂風格與紐奧良（城市）及路易斯安那（州）密切相關；U.S.／world／nation範圍皆不符合此處對應關係。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "93M_21-25"
+    "passageId": "93M_21-25",
+    "contextSpan": "句內"
   },
   {
     "id": "Z93M_30",
@@ -4120,7 +4295,8 @@
     "explanation": "the science of chance（機率的科學）指機率學研究的正是「或然性／機率」，呼應前文討論的猜測與可能性；sport／future／weather均不符合機率學的定義語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "93M_26-30"
+    "passageId": "93M_26-30",
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_11",
@@ -4141,7 +4317,8 @@
     "hasFullPassage": true,
     "passageId": "94_11-15",
     "accuracyRate": 46,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_12",
@@ -4162,7 +4339,8 @@
     "hasFullPassage": true,
     "passageId": "94_11-15",
     "accuracyRate": 46,
-    "discrimination": 28
+    "discrimination": 28,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_14",
@@ -4183,7 +4361,8 @@
     "hasFullPassage": true,
     "passageId": "94_11-15",
     "accuracyRate": 50,
-    "discrimination": 31
+    "discrimination": 31,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_15",
@@ -4204,7 +4383,8 @@
     "hasFullPassage": true,
     "passageId": "94_11-15",
     "accuracyRate": 75,
-    "discrimination": 52
+    "discrimination": 52,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_16",
@@ -4317,7 +4497,8 @@
     "hasFullPassage": true,
     "passageId": "94_26-30",
     "accuracyRate": 54,
-    "discrimination": 53
+    "discrimination": 53,
+    "contextSpan": "句內"
   },
   {
     "id": "Z94_30",
@@ -4361,7 +4542,8 @@
     "hasFullPassage": true,
     "passageId": "95_11-15",
     "accuracyRate": 61,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_15",
@@ -4382,7 +4564,8 @@
     "hasFullPassage": true,
     "passageId": "95_11-15",
     "accuracyRate": 40,
-    "discrimination": 46
+    "discrimination": 46,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_20",
@@ -4426,7 +4609,8 @@
     "hasFullPassage": true,
     "passageId": "95_21-25",
     "accuracyRate": 71,
-    "discrimination": 58
+    "discrimination": 58,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_23",
@@ -4447,7 +4631,8 @@
     "hasFullPassage": true,
     "passageId": "95_21-25",
     "accuracyRate": 46,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_24",
@@ -4468,7 +4653,8 @@
     "hasFullPassage": true,
     "passageId": "95_21-25",
     "accuracyRate": 57,
-    "discrimination": 67
+    "discrimination": 67,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_26",
@@ -4489,7 +4675,8 @@
     "hasFullPassage": true,
     "passageId": "95_26-30",
     "accuracyRate": 47,
-    "discrimination": 36
+    "discrimination": 36,
+    "contextSpan": "句內"
   },
   {
     "id": "Z95_28",
@@ -4510,7 +4697,9 @@
     "hasFullPassage": true,
     "passageId": "95_26-30",
     "accuracyRate": 62,
-    "discrimination": 64
+    "discrimination": 64,
+    "contextSpan": "跨句",
+    "contextNote": "More amazing 是與前一句的描述相比較"
   },
   {
     "id": "Z95_30",
@@ -4531,7 +4720,8 @@
     "hasFullPassage": true,
     "passageId": "95_26-30",
     "accuracyRate": 43,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_12",
@@ -4575,7 +4765,8 @@
     "hasFullPassage": true,
     "passageId": "96_21-25",
     "accuracyRate": 49,
-    "discrimination": 39
+    "discrimination": 39,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_24",
@@ -4596,7 +4787,8 @@
     "hasFullPassage": true,
     "passageId": "96_21-25",
     "accuracyRate": 48,
-    "discrimination": 37
+    "discrimination": 37,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_11",
@@ -4617,7 +4809,8 @@
     "hasFullPassage": true,
     "passageId": "97_11-15",
     "accuracyRate": 62,
-    "discrimination": 62
+    "discrimination": 62,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_12",
@@ -4684,7 +4877,8 @@
     "hasFullPassage": true,
     "passageId": "97_16-20",
     "accuracyRate": 68,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_22",
@@ -4705,7 +4899,8 @@
     "hasFullPassage": true,
     "passageId": "97_21-25",
     "accuracyRate": 64,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_25",
@@ -4749,7 +4944,8 @@
     "hasFullPassage": true,
     "passageId": "97_26-30",
     "accuracyRate": 67,
-    "discrimination": 65
+    "discrimination": 65,
+    "contextSpan": "句內"
   },
   {
     "id": "Z97_29",
@@ -4793,7 +4989,8 @@
     "hasFullPassage": true,
     "passageId": "98_11-15",
     "accuracyRate": 42,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98_12",
@@ -4814,7 +5011,8 @@
     "hasFullPassage": true,
     "passageId": "98_11-15",
     "accuracyRate": 54,
-    "discrimination": 29
+    "discrimination": 29,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98_14",
@@ -4881,7 +5079,8 @@
     "hasFullPassage": true,
     "passageId": "98_16-20",
     "accuracyRate": 44,
-    "discrimination": 64
+    "discrimination": 64,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98_19",
@@ -4925,7 +5124,8 @@
     "hasFullPassage": true,
     "passageId": "99_11-15",
     "accuracyRate": 72,
-    "discrimination": 47
+    "discrimination": 47,
+    "contextSpan": "句內"
   },
   {
     "id": "Z99_14",
@@ -4946,7 +5146,9 @@
     "hasFullPassage": true,
     "passageId": "99_11-15",
     "accuracyRate": 77,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "跨句",
+    "contextNote": "In contrast 與前一句「太陽能是乾淨燃料」相對照"
   },
   {
     "id": "Z99_16",
@@ -4990,7 +5192,8 @@
     "hasFullPassage": true,
     "passageId": "99_16-20",
     "accuracyRate": 64,
-    "discrimination": 60
+    "discrimination": 60,
+    "contextSpan": "句內"
   },
   {
     "id": "Z99_19",
@@ -5034,7 +5237,9 @@
     "hasFullPassage": true,
     "passageId": "100_11-15",
     "accuracyRate": 54,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "跨句",
+    "contextNote": "However 轉折前一句「多數索賠都獲准」"
   },
   {
     "id": "Z100_13",
@@ -5055,7 +5260,8 @@
     "hasFullPassage": true,
     "passageId": "100_11-15",
     "accuracyRate": 41,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_27",
@@ -5076,7 +5282,8 @@
     "hasFullPassage": true,
     "passageId": "96_26-30",
     "accuracyRate": 48,
-    "discrimination": 63
+    "discrimination": 63,
+    "contextSpan": "句內"
   },
   {
     "id": "Z96_28",
@@ -5097,7 +5304,9 @@
     "hasFullPassage": true,
     "passageId": "96_26-30",
     "accuracyRate": 47,
-    "discrimination": 38
+    "discrimination": 38,
+    "contextSpan": "跨句",
+    "contextNote": "these 指前一句列出的傳統經濟部門"
   },
   {
     "id": "Z96_29",
@@ -5142,7 +5351,8 @@
     "hasFullPassage": true,
     "passageId": "101_11-15",
     "accuracyRate": 58,
-    "discrimination": 52
+    "discrimination": 52,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_13",
@@ -5163,7 +5373,8 @@
     "hasFullPassage": true,
     "passageId": "101_11-15",
     "accuracyRate": 64,
-    "discrimination": 59
+    "discrimination": 59,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_16",
@@ -5184,7 +5395,8 @@
     "hasFullPassage": true,
     "passageId": "101_16-20",
     "accuracyRate": 73,
-    "discrimination": 56
+    "discrimination": 56,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_17",
@@ -5205,7 +5417,8 @@
     "hasFullPassage": true,
     "passageId": "101_16-20",
     "accuracyRate": 54,
-    "discrimination": 53
+    "discrimination": 53,
+    "contextSpan": "句內"
   },
   {
     "id": "Z101_19",
@@ -5226,7 +5439,8 @@
     "hasFullPassage": true,
     "passageId": "101_16-20",
     "accuracyRate": 54,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_11",
@@ -5247,7 +5461,8 @@
     "hasFullPassage": true,
     "passageId": "102_11-15",
     "accuracyRate": 72,
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_15",
@@ -5268,7 +5483,8 @@
     "hasFullPassage": true,
     "passageId": "102_11-15",
     "accuracyRate": 40,
-    "discrimination": 36
+    "discrimination": 36,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102_17",
@@ -5312,7 +5528,9 @@
     "hasFullPassage": true,
     "passageId": "102_16-20",
     "accuracyRate": 51,
-    "discrimination": 63
+    "discrimination": 63,
+    "contextSpan": "跨句",
+    "contextNote": "this move 概括前一句「只在週一到週五送信」的決定"
   },
   {
     "id": "Z103_11",
@@ -5333,7 +5551,8 @@
     "hasFullPassage": true,
     "passageId": "103_11-15",
     "accuracyRate": 52,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "句內"
   },
   {
     "id": "Z103_16",
@@ -5354,7 +5573,8 @@
     "hasFullPassage": true,
     "passageId": "103_16-20",
     "accuracyRate": 49,
-    "discrimination": 59
+    "discrimination": 59,
+    "contextSpan": "句內"
   },
   {
     "id": "Z103_19",
@@ -5375,7 +5595,8 @@
     "hasFullPassage": true,
     "passageId": "103_16-20",
     "accuracyRate": 84,
-    "discrimination": 41
+    "discrimination": 41,
+    "contextSpan": "句內"
   },
   {
     "id": "Z104_12",
@@ -5442,7 +5663,8 @@
     "hasFullPassage": true,
     "passageId": "104_11-15",
     "accuracyRate": 47,
-    "discrimination": 42
+    "discrimination": 42,
+    "contextSpan": "句內"
   },
   {
     "id": "Z104_16",
@@ -5463,7 +5685,8 @@
     "hasFullPassage": true,
     "passageId": "104_16-20",
     "accuracyRate": 72,
-    "discrimination": 51
+    "discrimination": 51,
+    "contextSpan": "句內"
   },
   {
     "id": "Z104_17",
@@ -5484,7 +5707,8 @@
     "hasFullPassage": true,
     "passageId": "104_16-20",
     "accuracyRate": 47,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "句內"
   },
   {
     "id": "Z104_18",
@@ -5505,7 +5729,8 @@
     "hasFullPassage": true,
     "passageId": "104_16-20",
     "accuracyRate": 53,
-    "discrimination": 31
+    "discrimination": 31,
+    "contextSpan": "句內"
   },
   {
     "id": "Z105_11",
@@ -5526,7 +5751,8 @@
     "hasFullPassage": true,
     "passageId": "105_11-15",
     "accuracyRate": 73,
-    "discrimination": 61
+    "discrimination": 61,
+    "contextSpan": "句內"
   },
   {
     "id": "Z105_12",
@@ -5547,7 +5773,8 @@
     "hasFullPassage": true,
     "passageId": "105_11-15",
     "accuracyRate": 65,
-    "discrimination": 41
+    "discrimination": 41,
+    "contextSpan": "句內"
   },
   {
     "id": "Z105_15",
@@ -5568,7 +5795,8 @@
     "hasFullPassage": true,
     "passageId": "105_11-15",
     "accuracyRate": 43,
-    "discrimination": 43
+    "discrimination": 43,
+    "contextSpan": "句內"
   },
   {
     "id": "Z105_16",
@@ -5612,7 +5840,8 @@
     "hasFullPassage": true,
     "passageId": "105_16-20",
     "accuracyRate": 62,
-    "discrimination": 58
+    "discrimination": 58,
+    "contextSpan": "句內"
   },
   {
     "id": "Z106_20",
@@ -5679,7 +5908,8 @@
     "hasFullPassage": true,
     "passageId": "107_11-15",
     "accuracyRate": 60,
-    "discrimination": 65
+    "discrimination": 65,
+    "contextSpan": "句內"
   },
   {
     "id": "Z107_14",
@@ -5700,7 +5930,8 @@
     "hasFullPassage": true,
     "passageId": "107_11-15",
     "accuracyRate": 63,
-    "discrimination": 55
+    "discrimination": 55,
+    "contextSpan": "句內"
   },
   {
     "id": "Z107_15",
@@ -5721,7 +5952,8 @@
     "hasFullPassage": true,
     "passageId": "107_11-15",
     "accuracyRate": 56,
-    "discrimination": 59
+    "discrimination": 59,
+    "contextSpan": "句內"
   },
   {
     "id": "Z107_20",
@@ -5764,7 +5996,8 @@
     "explanation": "mark Norway's centenary（紀念挪威獨立百年）表示諾貝爾和平中心的開幕是紀念挪威獨立百週年慶祝活動的一部分；help／solve／take均不符合此處語意搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_11-15"
+    "passageId": "Z107參_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z107參_13",
@@ -5783,7 +6016,8 @@
     "explanation": "related to war, peace, and conflict resolution（與戰爭、和平及衝突解決相關）表示展覽、討論與省思都圍繞這些主題；limited／addicted／contributed均不符合此處語意搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_11-15"
+    "passageId": "Z107參_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z107參_16",
@@ -5802,7 +6036,8 @@
     "explanation": "supposedly uncrackable（據稱無法破解的）表示恩尼格瑪密碼原本被認為是無法破解的，圖靈卻成功破解了它；eventually／precisely／concernedly均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_16-20"
+    "passageId": "Z107參_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z107參_20",
@@ -5821,7 +6056,8 @@
     "explanation": "humiliation（屈辱）呼應前文Turing被判「嚴重猥褻罪」的羞辱，表示正是這樣的屈辱最終促使他在1954年自殺身亡；compromise／procession／supplement均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "Z107參_16-20"
+    "passageId": "Z107參_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_14",
@@ -5842,7 +6078,8 @@
     "hasFullPassage": true,
     "passageId": "108_11-15",
     "accuracyRate": 72,
-    "discrimination": 63
+    "discrimination": 63,
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_15",
@@ -5886,7 +6123,8 @@
     "hasFullPassage": true,
     "passageId": "108_16-20",
     "accuracyRate": 47,
-    "discrimination": 68
+    "discrimination": 68,
+    "contextSpan": "句內"
   },
   {
     "id": "Z108_20",
@@ -5907,7 +6145,8 @@
     "hasFullPassage": true,
     "passageId": "108_16-20",
     "accuracyRate": 54,
-    "discrimination": 49
+    "discrimination": 49,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_11",
@@ -5928,7 +6167,8 @@
     "hasFullPassage": true,
     "passageId": "109_11-15",
     "accuracyRate": 60,
-    "discrimination": 54
+    "discrimination": 54,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_12",
@@ -5949,7 +6189,8 @@
     "hasFullPassage": true,
     "passageId": "109_11-15",
     "accuracyRate": 64,
-    "discrimination": 68
+    "discrimination": 68,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_13",
@@ -5970,7 +6211,8 @@
     "hasFullPassage": true,
     "passageId": "109_11-15",
     "accuracyRate": 48,
-    "discrimination": 60
+    "discrimination": 60,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_16",
@@ -6015,7 +6257,8 @@
     "hasFullPassage": true,
     "passageId": "109_16-20",
     "accuracyRate": 43,
-    "discrimination": 37
+    "discrimination": 37,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109_19",
@@ -6036,7 +6279,8 @@
     "hasFullPassage": true,
     "passageId": "109_16-20",
     "accuracyRate": 61,
-    "discrimination": 57
+    "discrimination": 57,
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_11",
@@ -6055,7 +6299,8 @@
     "explanation": "Scrambled name phenomenon（名字混淆現象）呼應開頭Mothers often mix up their children's names（母親常把孩子的名字叫錯），表示這種名字混淆的現象相當普遍；Forgetful／Complicated／Alternative均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "109R_11-15"
+    "passageId": "109R_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_12",
@@ -6074,7 +6319,8 @@
     "explanation": "classifies those we love（將所愛之人分類）呼應後文提到大腦以「群組」方式儲存所愛的人的名字，表示這是大腦分類記憶所愛之人的方式所致；defends／predicts／translates均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "109R_11-15"
+    "passageId": "109R_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_14",
@@ -6093,7 +6339,8 @@
     "explanation": "flipping through the whole set of names（翻閱整組名字）表示大腦在尋找名字時，實際上是在瀏覽同一群組裡的所有名字；making up（捏造）、catching on（理解／流行）、skipping off（溜走）均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "109R_11-15"
+    "passageId": "109R_11-15",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_17",
@@ -6112,7 +6359,8 @@
     "explanation": "similar to the heated coils on an electric stove（類似電爐上發熱的線圈）表示這顆行星發出的微弱紅光，類似電爐發熱線圈或昏暗燈泡的光；associated with／committed to／familiar with均不符合此處的比較語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "109R_16-20"
+    "passageId": "109R_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z109R_20",
@@ -6131,7 +6379,8 @@
     "explanation": "tell exactly how（確切查明／辨識出是如何）表示科學家或許永遠無法確切查明這顆行星如何隱身，但確信還有更多更暗的行星等待被發現；make／count／read均不符合tell exactly的固定搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "passageId": "109R_16-20"
+    "passageId": "109R_16-20",
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_11",
@@ -6152,7 +6401,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
     "accuracyRate": 57,
-    "discrimination": 60
+    "discrimination": 60,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_13",
@@ -6173,7 +6423,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
     "accuracyRate": 54,
-    "discrimination": 65
+    "discrimination": 65,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_16",
@@ -6194,7 +6445,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
     "accuracyRate": 61,
-    "discrimination": 48
+    "discrimination": 48,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_18",
@@ -6215,7 +6467,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
     "accuracyRate": 75,
-    "discrimination": 52
+    "discrimination": 52,
+    "contextSpan": "句內"
   },
   {
     "id": "Z110_19",
@@ -6236,7 +6489,8 @@
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
     "accuracyRate": 57,
-    "discrimination": 56
+    "discrimination": 56,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_11",
@@ -6255,7 +6509,8 @@
     "explanation": "advantage（優點）表示使用化石燃料的一項優點是能透過簡單的燃燒過程產生大量能源；grace（恩典）、source（來源）、problem（問題）均不符合此處正面語意（後文才轉折談到缺點）。",
     "passageId": "Z98參_11-15",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_14",
@@ -6274,7 +6529,8 @@
     "explanation": "become exhausted（變得枯竭）表示化石燃料屬於不可再生資源，產量終將下降並枯竭殆盡；decayed（腐爛）、hollowed（挖空）、intensified（加劇）均不符合此處資源枯竭的語意。",
     "passageId": "Z98參_11-15",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_16",
@@ -6293,7 +6549,8 @@
     "explanation": "insensitive to architecture as an art（對建築作為一門藝術感到遲鈍）表示我們普遍對「建築身為一門藝術」這件事不夠敏銳；or／of／like均不符合此處以身分／角色解讀architecture的語意搭配。",
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_17",
@@ -6312,7 +6569,8 @@
     "explanation": "blinded us（使我們變得盲目／遲鈍）呼應全文主題——建築因與我們朝夕相處而讓我們對其美感變得視而不見；treated／guided／pleased均不符合此處「因熟悉而遲鈍」的語意。",
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z98參_20",
@@ -6331,7 +6589,8 @@
     "explanation": "eyes are dulled（雙眼變得遲鈍）與後文minds are deadened（心智變得麻木）並列對應，表示我們對周遭美的感受力逐漸消失；pleased／justified／excited均不符合此處語意與並列結構。",
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_11",
@@ -6350,7 +6609,8 @@
     "explanation": "【句型】containing為現在分詞短語，修飾前面的kits（套件），表示「內含一塊松木、塑膠輪子與金屬車軸的套件」，kits與contain之間為主動關係（套件包含這些零件）；contain（原形動詞不能直接修飾名詞）、contained（過去分詞表被動，語意不合）、to contain（不定詞不符此處修飾語境）皆不符合。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_12",
@@ -6369,7 +6629,8 @@
     "explanation": "came up with the idea（想出這個點子）表示墨菲想出了讓孩子比賽木製迷你賽車的點子；dropped out（退出）、made out（辨認出／勉強應付）、put up with（忍受）均不符合此處語意。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_13",
@@ -6388,7 +6649,8 @@
     "explanation": "a block of wood...with two notches（帶有兩個凹槽的木塊）表示童軍拿到的木塊上已鑿有兩個輪子用的凹槽，with在此表示「具有……特徵」；in／by／for均不符合此處的伴隨語意。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_14",
@@ -6407,7 +6669,8 @@
     "explanation": "Each scout（每位童軍）呼應全文主題Cub Scouts（幼童軍），表示每位童軍都能依自己喜好雕刻裝飾賽車；race（比賽）、master（團長）、parent（家長，但下文明確是男孩們自己動手）均不符合此處語意。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_15",
@@ -6426,7 +6689,8 @@
     "explanation": "whomever they choose（無論他們選擇誰）表示男孩們可以和爸爸、爺爺或自己選擇的任何人一起打造賽車，whomever作為choose的受詞代名詞（指人）；whatever／whichever（指物）、wherever（指地方）均不符合此處指「人」的語意。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_16",
@@ -6445,7 +6709,8 @@
     "explanation": "guidelines to follow（可依循的準則）表示良好禮儀提供了在不確定情況下可依循的準則；confront（面對）、remove（移除）、lead（引導，但文法上lead the guidelines語意不通）均不符合此處語意搭配。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_17",
@@ -6464,7 +6729,8 @@
     "explanation": "a world without good manners（一個沒有良好禮儀的世界）表示假如世界缺乏良好禮儀，將會令人困惑甚至引發衝突；about／through／under均不符合此處語意。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_18",
@@ -6483,7 +6749,8 @@
     "explanation": "social environment（社會環境）表示良好禮儀能將人與其所處的社會環境連結起來，呼應後文a community and the people in it（群體與其中的人）；rural／clinical／mental均不符合此處語意。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_19",
@@ -6502,7 +6769,8 @@
     "explanation": "【句型】Failing to adopt...為動名詞片語當主詞，fail to V表示「未能做到……」，指未能養成良好禮儀習慣的人會顯得與眾不同；Missing／Passing／Waiting均不符合此處fail to V的固定搭配語意。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   },
   {
     "id": "Z102參_20",
@@ -6521,6 +6789,7 @@
     "explanation": "those who don't（那些沒有這樣做的人）don't在此為助動詞構成的代動詞用法，代替前面省略的don't let their manners slip。全句與前文的who let their manners slip（禮儀失當的人）形成對比，表示相較於偶爾禮儀失當的人，我們對那些「始終保持禮貌、未曾失禮」的人感覺更正面、也更緊密相連；do／are／aren't均不符合此處的否定對比語意與動詞型態。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
-    "hasFullPassage": true
+    "hasFullPassage": true,
+    "contextSpan": "句內"
   }
 ]
