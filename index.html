@@ -123,6 +123,7 @@
   .q-tag{
     font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);
     border:1px solid var(--rule); display:inline-block; padding:2px 8px; border-radius:10px; margin-bottom:14px;
+    white-space:nowrap;
   }
   .q-tag.cat{color:var(--crimson); border-color:var(--crimson); margin-left:6px;}
 
@@ -301,6 +302,7 @@
   .fspan{
     font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--sage);
     border:1px solid var(--sage); padding:1px 6px; border-radius:9px; margin-left:6px;
+    white-space:nowrap; display:inline-block;
   }
   .fspan.cross{color:var(--gold); border-color:var(--gold);}
   .note-box::before{content:"常見誤區　"; color:var(--sage); font-family:'Noto Serif TC',serif; font-weight:700;}
@@ -968,7 +970,7 @@ function answerSingle(letter){
 
   const spanTag = document.getElementById('singleSpanTag');
   if(it.contextSpan){
-    spanTag.textContent = '線索範圍：'+it.contextSpan;
+    spanTag.textContent = '線索：'+it.contextSpan;
     spanTag.classList.toggle('cross', it.contextSpan !== '句內');
     spanTag.classList.add('show');
   }
