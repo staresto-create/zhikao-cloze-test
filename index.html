@@ -280,6 +280,29 @@
     font-size:13px; line-height:1.8; color:var(--ink-soft); display:none; white-space:pre-line;
   }
   .note-box.show{display:block;}
+  .q-tag.span{color:var(--sage); border-color:var(--sage); margin-left:6px; display:none;}
+  .q-tag.span.show{display:inline-block;}
+  .q-tag.span.cross{color:var(--gold); border-color:var(--gold);}
+  .ctx-box{
+    margin-top:8px; padding:12px 14px; background:#F7F2E3; border-radius:3px; border:1px solid var(--rule);
+    font-size:13px; line-height:1.8; color:var(--ink-soft); display:none;
+  }
+  .ctx-box.show{display:block;}
+  .ctx-box::before{content:"線索在哪裡　"; color:var(--gold); font-family:'Noto Serif TC',serif; font-weight:700;}
+  .span-box{
+    background:#F1F5EF; border:1px solid var(--rule); border-left:3px solid var(--sage);
+    border-radius:4px; padding:14px 16px; margin-bottom:18px;
+    font-size:13.5px; line-height:1.9; color:var(--ink);
+  }
+  .span-box .stitle{
+    font-family:'Noto Serif TC',serif; font-weight:700; margin-bottom:8px; color:var(--sage); font-size:15px;
+  }
+  .span-box .num{font-family:'IBM Plex Mono',monospace; color:var(--crimson); font-weight:700;}
+  .fspan{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--sage);
+    border:1px solid var(--sage); padding:1px 6px; border-radius:9px; margin-left:6px;
+  }
+  .fspan.cross{color:var(--gold); border-color:var(--gold);}
   .note-box::before{content:"常見誤區　"; color:var(--sage); font-family:'Noto Serif TC',serif; font-weight:700;}
   .disc-box{
     margin-top:8px; padding:12px 14px; background:#FBF6E9; border-radius:3px; border:1px solid #E8DCA8;
@@ -323,6 +346,13 @@
   <div id="home">
     <div class="status-banner">
       <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
+    </div>
+    <div class="span-box">
+      <div class="stitle">🎯 作答前，先判斷「這一格要看多遠」</div>
+      克漏字（綜合測驗）的每個空格，需要的線索範圍並不一樣。本站已為答對率偏低的題目標上三種標籤：<b>句內</b>（讀懂空格所在的那一句就足以作答）、<b>跨句</b>（必須回頭看前一句或後一句）、<b>篇章</b>（要掌握整段的論述走向）。標籤會在你作答之後才出現，先自己判斷一次，再對照答案，練久了就會抓。<br>
+      我們把學測與指考兩份題庫中答對率低於 40% 的 144 道難題逐題檢查，結果是 <span class="num">121 題（八成四）屬於「句內」</span>。這代表大部分人失分的原因並不是讀不懂文章，而是<b>詞彙與搭配不夠熟</b>——句子就在眼前，卻分不出四個選項的差別。<br>
+      跨句題則有明顯的集中處：23 題跨句難題裡有 14 題掛在「字彙選義」名下。選項看起來只是四個單字，實際上要靠前後句才選得出來，這是最容易失手的地方。<br>
+      <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對完答案不要只記正確選項，要把四個選項的差別、以及該字的常見搭配一起記下來，難題的關鍵幾乎都在這裡。
     </div>
     <div class="strategy-box">
                         <div class="stitle">📖 作答前，先掌握這五個戰術與隱形連結</div>
@@ -427,7 +457,7 @@
     </div>
     <div class="progress-bar"><div class="progress-fill" id="singleProgressFill" style="width:0%"></div></div>
     <div class="card">
-      <span class="q-tag" id="singleYearTag"></span><span class="q-tag cat" id="singleCatTag"></span>
+      <span class="q-tag" id="singleYearTag"></span><span class="q-tag cat" id="singleCatTag"></span><span class="q-tag span" id="singleSpanTag"></span>
       <div class="passage-text" id="singlePassage"></div>
       <div class="options" id="singleOptions"></div>
       <div class="context-row">
@@ -439,6 +469,7 @@
         <div class="why-box" id="singleWhy"></div>
         <div class="acc-tag" id="singleAccTag"></div>
         <div class="note-box" id="singleNoteBox"></div>
+        <div class="ctx-box" id="singleCtxBox"></div>
         <div class="disc-box" id="singleDiscBox"></div>
         <div class="report-row">
           <span id="singleReportId"></span>
@@ -845,6 +876,10 @@ function renderSingle(){
   document.getElementById('singleAccTag').innerHTML = '';
   document.getElementById('singleNoteBox').classList.remove('show');
   document.getElementById('singleNoteBox').innerHTML = '';
+  document.getElementById('singleSpanTag').classList.remove('show','cross');
+  document.getElementById('singleSpanTag').textContent = '';
+  document.getElementById('singleCtxBox').classList.remove('show');
+  document.getElementById('singleCtxBox').innerHTML = '';
   document.getElementById('singleDiscBox').classList.remove('show');
   document.getElementById('singleDiscBox').innerHTML = '';
   document.getElementById('singleNextBtn').style.display = 'none';
@@ -929,6 +964,25 @@ function answerSingle(letter){
   } else {
     noteBox.innerHTML = '';
     noteBox.classList.remove('show');
+  }
+
+  const spanTag = document.getElementById('singleSpanTag');
+  if(it.contextSpan){
+    spanTag.textContent = '線索範圍：'+it.contextSpan;
+    spanTag.classList.toggle('cross', it.contextSpan !== '句內');
+    spanTag.classList.add('show');
+  }
+
+  const ctxBox = document.getElementById('singleCtxBox');
+  if(it.contextNote){
+    ctxBox.innerHTML = escapeHtml(it.contextNote);
+    ctxBox.classList.add('show');
+  } else if(it.contextSpan === '句內'){
+    ctxBox.innerHTML = '這一格屬於<b>句內</b>：只要讀懂空格所在的那一句就足以作答，不必回頭翻前後文。答錯的話，問題通常出在字義辨析或字詞搭配，把四個選項的差別記下來。';
+    ctxBox.classList.add('show');
+  } else {
+    ctxBox.innerHTML = '';
+    ctxBox.classList.remove('show');
   }
 
   const discBox = document.getElementById('singleDiscBox');
@@ -1129,10 +1183,13 @@ function gradeFull(){
       ? `<span class="facc${it.accuracyRate < 35 ? ' low' : ''}">答對率 ${it.accuracyRate}%</span>`
       : '';
     const noteHtml = it.note ? `<span class="fnote">${it.note.replace(/\n/g,'<br>')}</span>` : '';
+    const spanHtml = it.contextSpan
+      ? `<span class="fspan${it.contextSpan !== '句內' ? ' cross' : ''}">${it.contextSpan}</span>`
+      : '';
     const discHtml = it.discriminationNote ? `<span class="fnote" style="color:#8a6d00;">🔶 ${it.discriminationNote.replace(/\n/g,'<br>')}</span>` : '';
     reviewHtml += `<div class="full-review-item">
       <span class="fn">#${it.blankNum}</span>
-      <span>${isCorrect ? '✓ 正確' : '✕ 正解 '+it.answer+'（'+escapeHtml(it.options[it.answer])+'）'}<span class="fcat">${escapeHtml(it.category)}</span>${accHtml}${noteHtml}${discHtml}</span>
+      <span>${isCorrect ? '✓ 正確' : '✕ 正解 '+it.answer+'（'+escapeHtml(it.options[it.answer])+'）'}<span class="fcat">${escapeHtml(it.category)}</span>${spanHtml}${accHtml}${noteHtml}${discHtml}</span>
     </div>`;
   });
   document.getElementById('fullScore').textContent = correctCount+' / '+items.length;
