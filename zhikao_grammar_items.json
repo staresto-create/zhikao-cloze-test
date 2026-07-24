@@ -81,7 +81,7 @@
       "D": "are"
     },
     "answer": "A",
-    "explanation": "Each of + 複數名詞，主詞中心語是單數的 each，動詞須用單數 has；不受介系詞片語裡的複數 Olympiads 影響。have／are 用於複數主詞，is 語意不合（此處需要「擁有」的動詞而非be動詞）。",
+    "explanation": "Each of + 複數名詞，主詞中心語是單數的 each，動詞須用單數 has；不受介系詞片語裡的複數 Olympiads 影響。have／are 用於複數主詞，is 語意不合（此處需要「擁有」的動詞而非 be 動詞）。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "91_21-25",
@@ -103,7 +103,7 @@
       "D": "pirated"
     },
     "answer": "D",
-    "explanation": "過去分詞 pirated 作形容詞修飾 CDs，表示「被盜版的CD」（被動關係——CD是被盜版製作出來的）。pirating（現在分詞，主動語意不合，CD不會主動盜版）、pirate／piracy 是名詞或動詞原形，不能直接修飾名詞。",
+    "explanation": "過去分詞 pirated 作形容詞修飾 CDs，表示「被盜版的 CD」（被動關係——CD 是被盜版製作出來的）。pirating（現在分詞，主動語意不合，CD 不會主動盜版）、pirate／piracy 是名詞或動詞原形，不能直接修飾名詞。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "91_26-30",
@@ -170,7 +170,7 @@
       "D": "likewise"
     },
     "answer": "C",
-    "explanation": "分號後延續前句邏輯：正因為比賽把數學家和指導老師聚在一起，「因此」IMO的終極目標就是促成資訊交流，therefore 表順接因果。whereas（然而，對比）、nevertheless（然而，轉折）、likewise（同樣地）都不符合這裡的順接因果語氣。",
+    "explanation": "分號後延續前句邏輯：正因為比賽把數學家和指導老師聚在一起，「因此」IMO 的終極目標就是促成資訊交流，therefore 表順接因果。whereas（然而，對比）、nevertheless（然而，轉折）、likewise（同樣地）都不符合這裡的順接因果語氣。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "91_21-25",
@@ -236,7 +236,7 @@
       "D": "would have invented"
     },
     "answer": "C",
-    "explanation": "electric elevator 是「被發明」的對象（被動關係），且敘述historical past事件用簡單過去式被動語態 was invented；invented（主動語態，語意錯誤——電梯不會主動發明）、had invented／would have invented 都是主動語態，也不符合這裡單純敘述過去發生的事實。",
+    "explanation": "electric elevator 是「被發明」的對象（被動關係），且敘述 historical past 事件用簡單過去式被動語態 was invented；invented（主動語態，語意錯誤——電梯不會主動發明）、had invented／would have invented 都是主動語態，也不符合這裡單純敘述過去發生的事實。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "92_24-30",
@@ -349,7 +349,7 @@
       "D": "upon"
     },
     "answer": "A",
-    "explanation": "【句型】turn A into B 固定搭配，表示「把A轉變成B」；for／off／upon 都不是 turn 表達「轉變」的正確搭配介系詞。",
+    "explanation": "【句型】turn A into B 固定搭配，表示「把 A 轉變成 B」；for／off／upon 都不是 turn 表達「轉變」的正確搭配介系詞。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93_16-20",
@@ -659,7 +659,7 @@
       "D": "around"
     },
     "answer": "D",
-    "explanation": "artisans from the region and around the world並列，around the world（世界各地）呼應前面from the region（來自本地），表示工匠來源涵蓋在地與全球（此為官方確認修正：原誤植為across，正確答案為around）；against／about／across均不符合此處固定搭配。",
+    "explanation": "artisans from the region and around the world 並列，around the world（世界各地）呼應前面 from the region（來自本地），表示工匠來源涵蓋在地與全球（此為官方確認修正：原誤植為 across，正確答案為 around）；against／about／across 均不符合此處固定搭配。",
     "answer_source": "official_key_corrected",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
@@ -975,7 +975,7 @@
       "D": "mainly"
     },
     "answer": "C",
-    "explanation": "finally stopped（最終停了下來）表示計程車在驚險失控後，最終在距離櫥窗僅幾公分處停下，符合整段驚險過程後平息下來的敘事節奏（此為官方確認修正：原誤植為hardly，正確答案為finally）；hardly（幾乎不）與「有停下來」的事實矛盾，likely／mainly均不符合語境。",
+    "explanation": "finally stopped（最終停了下來）表示計程車在驚險失控後，最終在距離櫥窗僅幾公分處停下，符合整段驚險過程後平息下來的敘事節奏（此為官方確認修正：原誤植為 hardly，正確答案為 finally）；hardly（幾乎不）與「有停下來」的事實矛盾，likely／mainly 均不符合語境。",
     "answer_source": "official_key_corrected",
     "hasFullPassage": true,
     "passageId": "94_11-15",
@@ -1177,7 +1177,7 @@
       "D": "though"
     },
     "answer": "C",
-    "explanation": "If...then... 是固定的條件句型，then 承接 If 子句，引出「那麼……就會……」的結果。since（因為/自從）、so（所以，通常不與if連用）、though（雖然）都不符合這種標準條件句結構。",
+    "explanation": "If...then... 是固定的條件句型，then 承接 If 子句，引出「那麼……就會……」的結果。since（因為/自從）、so（所以，通常不與 if 連用）、though（雖然）都不符合這種標準條件句結構。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "95_16-20",
@@ -1365,7 +1365,7 @@
     "fullPassage": "Recent studies show that levels of happiness for most people change throughout their lives. In a British study between 1991 and 2003, people were asked how satisfied they are __11__ their lives. The resulting statistics graph shows a smile-shaped curve. Most of the people __12__ happy and become progressively less happy as they grow older. For many of them, the most miserable period in their life is their 40s. __13__, their levels of happiness climb. Furthermore, it seems that men are slightly happier on average than women in their teens, but women bounce back and overtake men __14__ in life. The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50. Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.",
     "hasFullPassage": true,
     "accuracyRate": 12,
-    "note": "答對率僅 12%，是全站最難的一題。【你可能會這樣想】once 在你腦中大概只有兩個身分：副詞「曾經」（I once lived in Japan.）與「一次」（once a week）。很少人學過它也可以當從屬連接詞，意思是「一旦…就」，後面接完整子句。看到句子需要連接詞時，反而完全聯想不到這個字——這正是本題答對率只有 12% 的原因。【文法依據】once 當連接詞時等於 as soon as，用來標示「某件事一發生，另一件事就跟著發生」：Once you understand the rule, the rest is easy.（一旦懂了規則，其餘就簡單了）。本句 only climbing once women reach 50 就是「一直要到女性年滿五十，快樂程度才開始回升」。【文內驗證：下一句用了同義的說法】答案其實寫在下一句：Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.（男性則是四十幾歲最低落，到五十歲才又回升）——作者描述男性時用 when they reach 50，描述女性時用 once women reach 50，同一個意思換了一個連接詞。前後對照，答案立刻現形。【干擾選項】unless 是「除非」，會變成「除非女性年滿五十，否則才回升」，語意打結；before 是「在…之前」，時間順序剛好顛倒——低潮是持續「到」五十歲，不是五十歲「之前」才結束；since 當連接詞是「自從」或「因為」，兩義放進來都不通。【常考搭配】once + S + V（一旦…就）、as soon as（一…就）、the moment (that)（一…就）、once in a while（偶爾）、at once（立刻）。",
+    "note": "答對率僅 12%，是全站最難的一題。【你可能會這樣想】once 在你腦中大概只有兩個身分：副詞「曾經」（I once lived in Japan.）與「一次」（once a week）。很少人學過它也可以當從屬連接詞，意思是「一旦…就」，後面接完整子句。看到句子需要連接詞時，反而完全聯想不到這個字——這正是本題答對率只有 12% 的原因。【文法依據】once 當連接詞是「一旦…就…」，重點在「條件成立」——那個門檻一跨過，後面的結果就跟著來：Once you understand the rule, the rest is easy.（一旦懂了規則，其餘就簡單了）。【once 與 as soon as 不能畫等號】兩者常被當成同義詞，語意重心其實不同：as soon as 強調的是「時間上緊接著」，前一件事一發生，後一件立刻發生（As soon as we hear any news, we'll call you. 一有消息我們馬上通知你）；once 強調的是「條件成立」，那件事只要成立，結果就會發生。最能看出差別的是這一句：My boss is a nice man once you get to know him.（一旦你了解他，我老闆人很好）——這裡換成 as soon as 就不通，因為「了解一個人」不是瞬間發生的動作，它是一個條件、一道門檻。本句 only climbing once women reach 50 就是「一直要到女性年滿五十，快樂程度才開始回升」。【文內驗證：下一句用了同義的說法】答案其實寫在下一句：Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.（男性則是四十幾歲最低落，到五十歲才又回升）——作者描述男性時用 when they reach 50，描述女性時用 once women reach 50，同一個意思換了一個連接詞。前後對照，答案立刻現形。【干擾選項】unless 是「除非」，會變成「除非女性年滿五十，否則才回升」，語意打結；before 是「在…之前」，時間順序剛好顛倒——低潮是持續「到」五十歲，不是五十歲「之前」才結束；since 當連接詞是「自從」或「因為」，兩義放進來都不通。【常考搭配】once + S + V（一旦…就，重條件）、as soon as（一…就，重時間）、the moment (that)（一…就）、once in a while（偶爾）、at once（立刻）。",
     "discrimination": 7,
     "contextSpan": "句內"
   },
@@ -1622,7 +1622,7 @@
       "D": "Only when"
     },
     "answer": "B",
-    "explanation": "Even if（即使）引導讓步子句，表示「即使手機仍被稱作『phone』（希臘文原意是聲音），但打電話可能已不再是主要功能」，符合「即使∼但∼」的讓步邏輯（此為官方確認修正：原誤植為As long as，正確答案為Even if）；As long as（只要）為條件關係，語意不合；Just as（正如）、Only when（只有當）皆不符合此處的讓步轉折。",
+    "explanation": "Even if（即使）引導讓步子句，表示「即使手機仍被稱作『phone』（希臘文原意是聲音），但打電話可能已不再是主要功能」，符合「即使∼但∼」的讓步邏輯（此為官方確認修正：原誤植為 As long as，正確答案為 Even if）；As long as（只要）為條件關係，語意不合；Just as（正如）、Only when（只有當）皆不符合此處的讓步轉折。",
     "answer_source": "official_key_corrected",
     "fullPassage": "The telephone is widely considered as the most rapidly evolving technological device today. Many experts in the field believe that future phones will not only look very different—they may not even be __11__. They may be hidden in jewelry or accessories, or even embedded in the body. They will undoubtedly have a lot of additional features and __12__ functions, and users may interact with them in new ways, too. __13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function. With advances in contemporary design and technology, the phones may __14__ remote controls, house keys, Game Boys, maps, flashlights, health monitors, recorders, handguns, and so on. __15__, they will be “the remote-control for life.”",
     "hasFullPassage": true,
@@ -2020,7 +2020,7 @@
       "D": "off"
     },
     "answer": "A",
-    "explanation": "【句型】transform A into B 固定搭配，表示「把A轉變成B」，符合太陽能板將陽光轉換成電力的語意。from／with／off 都不是 transform 表達「轉變成」的正確搭配介系詞。",
+    "explanation": "【句型】transform A into B 固定搭配，表示「把 A 轉變成 B」，符合太陽能板將陽光轉換成電力的語意。from／with／off 都不是 transform 表達「轉變成」的正確搭配介系詞。",
     "answer_source": "official_key",
     "fullPassage": "The sun is an extraordinarily powerful source of energy. In fact, the Earth __11__ 20,000 times more energy from the sun than we currently use. If we used more of this source of heat and light, it __12__ all the power needed throughout the world. We can harness energy from the sun, or solar energy, in many ways. For instance, many satellites in space are equipped with large panels whose solar cells transform sunlight directly __13__ electric power. These panels are covered with glass and are painted black inside to absorb as much heat as possible. Solar energy has a lot to offer. To begin with, it is a clean fuel. In contrast, fossil fuels, such as oil or coal, release __14__ substances into the air when they are burned. __15__, fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "hasFullPassage": true,
@@ -3479,7 +3479,7 @@
       "D": "Whereas"
     },
     "answer": "C",
-    "explanation": "本句描述「當身體處於脆弱狀態時，壓力反應會啟動修復機制」，需要表示時間/條件的連接詞，When（當…時）最符合文意。Till表示「直到」，Unless表示「除非」（語意相反），Whereas表示「然而」（對比轉折，與前後文邏輯不符），皆不適用。",
+    "explanation": "本句描述「當身體處於脆弱狀態時，壓力反應會啟動修復機制」，需要表示時間/條件的連接詞，When（當…時）最符合文意。Till 表示「直到」，Unless 表示「除非」（語意相反），Whereas 表示「然而」（對比轉折，與前後文邏輯不符），皆不適用。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
@@ -3501,7 +3501,7 @@
       "D": "further"
     },
     "answer": "B",
-    "explanation": "far + 比較級 + than為強調比較級的固定搭配。better（good的比較級）符合「記得比較好」的文意；harder不能自然修飾remember的表現優劣，less語意相反（記得較差），further則不符合語境（與距離無關）。",
+    "explanation": "far + 比較級 + than 為強調比較級的固定搭配。better（good 的比較級）符合「記得比較好」的文意；harder 不能自然修飾 remember 的表現優劣，less 語意相反（記得較差），further 則不符合語境（與距離無關）。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
@@ -3523,7 +3523,7 @@
       "D": "to balance"
     },
     "answer": "A",
-    "explanation": "keep + O + OC結構中，受詞補語需用形容詞化的過去分詞balanced，因為「壓力程度（stress level）」與「平衡（balance）」之間是被動關係——壓力程度是「被」保持在平衡狀態，而非主動去平衡什麼，故用過去分詞balanced作受詞補語；balancing（現在分詞，主動）語意不合；balances為動詞變化形式，文法上不能直接作受詞補語；to balance（不定詞）不用於此句型。",
+    "explanation": "keep + O + OC 結構中，受詞補語需用形容詞化的過去分詞 balanced，因為「壓力程度（stress level）」與「平衡（balance）」之間是被動關係——壓力程度是「被」保持在平衡狀態，而非主動去平衡什麼，故用過去分詞 balanced 作受詞補語；balancing（現在分詞，主動）語意不合；balances 為動詞變化形式，文法上不能直接作受詞補語；to balance（不定詞）不用於此句型。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
@@ -3545,7 +3545,7 @@
       "D": "could have been"
     },
     "answer": "A",
-    "explanation": "may be表示對現在事實的推測可能性，符合「其他流星體可能只有小石頭大小」的客觀描述語氣；would be通常需搭配假設語境；must have been／could have been為完成式，用於對過去事件的推測，與此處描述客觀現況不符。",
+    "explanation": "may be 表示對現在事實的推測可能性，符合「其他流星體可能只有小石頭大小」的客觀描述語氣；would be 通常需搭配假設語境；must have been／could have been 為完成式，用於對過去事件的推測，與此處描述客觀現況不符。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
@@ -3567,7 +3567,7 @@
       "D": "In short"
     },
     "answer": "C",
-    "explanation": "前句提到大型隕石可能造成劇烈爆炸與破壞，本句舉巴林傑隕石坑為具體實例，屬「舉例」的邏輯關係，故用For example；Indeed（的確）、Nevertheless（然而）、In short（總之）皆不符合舉例語意。",
+    "explanation": "前句提到大型隕石可能造成劇烈爆炸與破壞，本句舉巴林傑隕石坑為具體實例，屬「舉例」的邏輯關係，故用 For example；Indeed（的確）、Nevertheless（然而）、In short（總之）皆不符合舉例語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
@@ -3590,7 +3590,7 @@
       "D": "on behalf of"
     },
     "answer": "B",
-    "explanation": "as well as表示「以及」，用來連接兩個並列的認識對象——歷屆得獎者事蹟以及諾貝爾生平；so much as常用於否定句型（not so much as）；in spite of（儘管）、on behalf of（代表）皆不符合此處單純並列的語意。",
+    "explanation": "as well as 表示「以及」，用來連接兩個並列的認識對象——歷屆得獎者事蹟以及諾貝爾生平；so much as 常用於否定句型（not so much as）；in spite of（儘管）、on behalf of（代表）皆不符合此處單純並列的語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -3610,7 +3610,7 @@
       "D": "by and large"
     },
     "answer": "C",
-    "explanation": "on their own表示「自行、獨自」，與後方or join a guided tour（或參加導覽）形成「自行參觀 vs. 跟團導覽」的對比選項；in this regard（在這方面）、one on one（一對一）、by and large（大體而言）皆不符合此處的對比語境。",
+    "explanation": "on their own 表示「自行、獨自」，與後方 or join a guided tour（或參加導覽）形成「自行參觀 vs. 跟團導覽」的對比選項；in this regard（在這方面）、one on one（一對一）、by and large（大體而言）皆不符合此處的對比語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -3630,7 +3630,7 @@
       "D": "through"
     },
     "answer": "D",
-    "explanation": "through表示「透過」某種手段達成目的，符合「透過展覽、活動、講座與文化活動教育遊客」的語意；among（在…之中）、regarding（關於）、including（包括）皆不符合表示手段的語意。",
+    "explanation": "through 表示「透過」某種手段達成目的，符合「透過展覽、活動、講座與文化活動教育遊客」的語意；among（在…之中）、regarding（關於）、including（包括）皆不符合表示手段的語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -3650,7 +3650,7 @@
       "D": "few"
     },
     "answer": "D",
-    "explanation": "few表示「很少」，帶有否定意味，呼應句首Nevertheless（然而）所引導的語意轉折——儘管貢獻卓越，卻幾乎沒什麼人聽過他的名字；many／some語氣偏肯定，與轉折語意不符；any通常用於疑問句或否定句中，不能直接置於肯定直述句句首修飾主詞。",
+    "explanation": "few 表示「很少」，帶有否定意味，呼應句首 Nevertheless（然而）所引導的語意轉折——儘管貢獻卓越，卻幾乎沒什麼人聽過他的名字；many／some 語氣偏肯定，與轉折語意不符；any 通常用於疑問句或否定句中，不能直接置於肯定直述句句首修飾主詞。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -3671,7 +3671,7 @@
       "D": "had become"
     },
     "answer": "A",
-    "explanation": "此處站在過去（圖靈23歲時）的時間點展望「後來會發展成」現代電腦，須用過去式的未來（would + 原V）表示「未來將成為」；should become語氣為義務建議，不符；could have become／had become皆為完成式，表示「本應成為」或「已經成為」，與此處單純敘述未來發展的語意不符。",
+    "explanation": "此處站在過去（圖靈23歲時）的時間點展望「後來會發展成」現代電腦，須用過去式的未來（would + 原 V）表示「未來將成為」；should become 語氣為義務建議，不符；could have become／had become 皆為完成式，表示「本應成為」或「已經成為」，與此處單純敘述未來發展的語意不符。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -3691,7 +3691,7 @@
       "D": "With respect to"
     },
     "answer": "B",
-    "explanation": "Instead of表示「非但沒有…反而」的強烈對比，符合「非但沒有被譽為擊敗納粹的英雄，反而被定罪」的語意落差；文法上Instead of為介系詞片語，後方接動詞須用動名詞(V-ing)形式，正好呼應題幹中的being hailed；Because of（因為）、In addition to（除了…之外，還）、With respect to（關於）皆不符合這種對比轉折的語境。",
+    "explanation": "Instead of 表示「非但沒有…反而」的強烈對比，符合「非但沒有被譽為擊敗納粹的英雄，反而被定罪」的語意落差；文法上 Instead of 為介系詞片語，後方接動詞須用動名詞(V-ing)形式，正好呼應題幹中的 being hailed；Because of（因為）、In addition to（除了…之外，還）、With respect to（關於）皆不符合這種對比轉折的語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -3711,7 +3711,7 @@
       "D": "On the contrary"
     },
     "answer": "B",
-    "explanation": "前句提到化石燃料的第一項優點（燃燒即可產生大量能源），本句補充第二項優點（易取得、供應充足），屬「此外、還有」的遞進補充關係，故用Besides；Likely（可能）不具句首轉承詞功能，In sum（總之）用於總結而非補充，On the contrary（相反地）語意相反，皆不符合。",
+    "explanation": "前句提到化石燃料的第一項優點（燃燒即可產生大量能源），本句補充第二項優點（易取得、供應充足），屬「此外、還有」的遞進補充關係，故用 Besides；Likely（可能）不具句首轉承詞功能，In sum（總之）用於總結而非補充，On the contrary（相反地）語意相反，皆不符合。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_11-15",
@@ -3732,7 +3732,7 @@
       "D": "in charge"
     },
     "answer": "C",
-    "explanation": "in particular表示「尤其、特別是」，強調石油依賴是眾多化石燃料依賴問題中特別嚴重的一項，語意通順；in advance（事先）、in contrast（相比之下）、in charge（負責）皆不符合此處的強調語氣。",
+    "explanation": "in particular 表示「尤其、特別是」，強調石油依賴是眾多化石燃料依賴問題中特別嚴重的一項，語意通順；in advance（事先）、in contrast（相比之下）、in charge（負責）皆不符合此處的強調語氣。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_11-15",
@@ -3772,7 +3772,7 @@
       "D": "therefore"
     },
     "answer": "B",
-    "explanation": "本句由兩個並列的原因子句組成：because it is with us every day，以及because we must have houses to live in，第二個because在此保留以形成「兩項並列原因」的結構；although（雖然）、likewise（同樣地）、therefore（因此）皆不符合此處因果並列的邏輯。",
+    "explanation": "本句由兩個並列的原因子句組成：because it is with us every day，以及 because we must have houses to live in，第二個 because 在此保留以形成「兩項並列原因」的結構；although（雖然）、likewise（同樣地）、therefore（因此）皆不符合此處因果並列的邏輯。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_16-20",
@@ -3792,7 +3792,7 @@
       "D": "then"
     },
     "answer": "A",
-    "explanation": "本句以having to do with X, not with Y的結構表達對比：我們誤以為建築只和歐洲古蹟有關，而非和紐約、芝加哥街道有關，故填入not以形成「與X有關、而非與Y有關」的對比句構；but／often／then皆不符合此處的對比邏輯。",
+    "explanation": "本句以 having to do with X, not with Y 的結構表達對比：我們誤以為建築只和歐洲古蹟有關，而非和紐約、芝加哥街道有關，故填入 not 以形成「與 X 有關、而非與 Y 有關」的對比句構；but／often／then 皆不符合此處的對比邏輯。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_16-20",
@@ -3880,7 +3880,7 @@
       "D": "guests"
     },
     "answer": "C",
-    "explanation": "foster friendly relations（建立友好關係）為固定搭配，表示各國年輕數學家透過競賽培養友誼；behaviors／messages／guests皆不符合此處語意。",
+    "explanation": "foster friendly relations（建立友好關係）為固定搭配，表示各國年輕數學家透過競賽培養友誼；behaviors／messages／guests 皆不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_21-25",
@@ -3902,7 +3902,7 @@
       "D": "shut"
     },
     "answer": "A",
-    "explanation": "fight piracy（打擊盜版）為固定搭配，符合唱片業想要打擊盜版的語意；kill／win／shut均不能與piracy自然搭配。",
+    "explanation": "fight piracy（打擊盜版）為固定搭配，符合唱片業想要打擊盜版的語意；kill／win／shut 均不能與 piracy 自然搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_26-30",
@@ -3924,7 +3924,7 @@
       "D": "industry"
     },
     "answer": "A",
-    "explanation": "arithmetic question（算術問題）為固定搭配，指前述50元及300元的價差問題其實是簡單的算術題；feedback／product／industry均不符合arithmetic的搭配語意。",
+    "explanation": "arithmetic question（算術問題）為固定搭配，指前述50元及300元的價差問題其實是簡單的算術題；feedback／product／industry 均不符合 arithmetic 的搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "91_26-30",
@@ -3946,7 +3946,7 @@
       "D": "found"
     },
     "answer": "D",
-    "explanation": "find that...（研究發現……）為調查報告常見用語，found在此表示調查結果顯示；took／put／knew均不符合此處語境。",
+    "explanation": "find that...（研究發現……）為調查報告常見用語，found 在此表示調查結果顯示；took／put／knew 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
@@ -3968,7 +3968,7 @@
       "D": "made into"
     },
     "answer": "C",
-    "explanation": "turn to books（求助於書籍）表示轉而查閱書籍，與instead of going online（而非上網）呼應；used up（用完）、went off（離開／爆炸）、made into（做成）均不符合語意。",
+    "explanation": "turn to books（求助於書籍）表示轉而查閱書籍，與 instead of going online（而非上網）呼應；used up（用完）、went off（離開／爆炸）、made into（做成）均不符合語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
@@ -3990,7 +3990,7 @@
       "D": "respondents"
     },
     "answer": "A",
-    "explanation": "the Net（網際網路）呼應全文主題The Internet has replaced books...，指27%學生從未使用過網路；survey／books／respondents皆不符合語境。",
+    "explanation": "the Net（網際網路）呼應全文主題 The Internet has replaced books...，指27%學生從未使用過網路；survey／books／respondents 皆不符合語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
@@ -4012,7 +4012,7 @@
       "D": "routine"
     },
     "answer": "A",
-    "explanation": "various parts of Taiwan（台灣各地）表示調查範圍遍及台灣不同地區；convenient／youthful／routine皆不符合語境。",
+    "explanation": "various parts of Taiwan（台灣各地）表示調查範圍遍及台灣不同地區；convenient／youthful／routine 皆不符合語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
@@ -4057,7 +4057,7 @@
       "D": "extracurricular"
     },
     "answer": "D",
-    "explanation": "extracurricular reading materials（課外讀物）為固定搭配，表示學童完全不閱讀課外書籍；story／comic／technology皆為名詞，無法直接修飾reading materials。",
+    "explanation": "extracurricular reading materials（課外讀物）為固定搭配，表示學童完全不閱讀課外書籍；story／comic／technology 皆為名詞，無法直接修飾 reading materials。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
@@ -4079,7 +4079,7 @@
       "D": "agrees with"
     },
     "answer": "A",
-    "explanation": "lead to another（導致另一項發明）表示一項發明常帶動另一項發明的誕生；finds out／succeeds in／agrees with均不符合此處因果語意。",
+    "explanation": "lead to another（導致另一項發明）表示一項發明常帶動另一項發明的誕生；finds out／succeeds in／agrees with 均不符合此處因果語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_24-30",
@@ -4101,7 +4101,7 @@
       "D": "stairs"
     },
     "answer": "D",
-    "explanation": "flights of stairs（一段段樓梯，flight指樓層間連續的一段階梯）為固定搭配，表示沒有人能指望爬上8、10甚至30段樓梯（意指爬那麼多層樓）；attendants（服務員）／crews（全體工作人員）／planes（飛機）皆不符合flights of的搭配語意。",
+    "explanation": "flights of stairs（一段段樓梯，flight 指樓層間連續的一段階梯）為固定搭配，表示沒有人能指望爬上8、10甚至30段樓梯（意指爬那麼多層樓）；attendants（服務員）／crews（全體工作人員）／planes（飛機）皆不符合 flights of 的搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_24-30",
@@ -4123,7 +4123,7 @@
       "D": "increasing by"
     },
     "answer": "A",
-    "explanation": "a world crowded with people（擁擠著人群的世界）表示人口稠密的世界，摩天大樓提供急需的空間；jammed on／growing up／increasing by均不符合此處語意搭配。",
+    "explanation": "a world crowded with people（擁擠著人群的世界）表示人口稠密的世界，摩天大樓提供急需的空間；jammed on／growing up／increasing by 均不符合此處語意搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_24-30",
@@ -4168,7 +4168,7 @@
       "D": "innocent"
     },
     "answer": "C",
-    "explanation": "separate steps（各自獨立的步驟）與後文but may happen simultaneously（但也可能同時發生）形成對比，表示三種反應不一定依序個別發生；childish／artistic／innocent皆不符合語境。",
+    "explanation": "separate steps（各自獨立的步驟）與後文 but may happen simultaneously（但也可能同時發生）形成對比，表示三種反應不一定依序個別發生；childish／artistic／innocent 皆不符合語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93_21-25",
@@ -4190,7 +4190,7 @@
       "D": "appear"
     },
     "answer": "B",
-    "explanation": "explore further（進一步探索）表示孩子樂於閱讀更多書籍與詩作，呼應explore這個核心主題詞；escape／accustom／appear均不符合此處語意。",
+    "explanation": "explore further（進一步探索）表示孩子樂於閱讀更多書籍與詩作，呼應 explore 這個核心主題詞；escape／accustom／appear 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93_21-25",
@@ -4212,7 +4212,7 @@
       "D": "survival"
     },
     "answer": "D",
-    "explanation": "struggle for survival（為求生存而掙扎）為固定搭配，表示蟲子在酒精中開始為了活命而掙扎；health／audience／proof均不符合struggle for的搭配語意。",
+    "explanation": "struggle for survival（為求生存而掙扎）為固定搭配，表示蟲子在酒精中開始為了活命而掙扎；health／audience／proof 均不符合 struggle for 的搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_16-20",
@@ -4252,7 +4252,7 @@
       "D": "cooperates"
     },
     "answer": "C",
-    "explanation": "celebrates（慶祝／頌揚）符合音樂節旨在慶祝紐奧良與路易斯安那當地音樂文化的語意；compensates／calculates／cooperates均不符合此處語境。",
+    "explanation": "celebrates（慶祝／頌揚）符合音樂節旨在慶祝紐奧良與路易斯安那當地音樂文化的語意；compensates／calculates／cooperates 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
@@ -4272,7 +4272,7 @@
       "D": "nation"
     },
     "answer": "B",
-    "explanation": "the city and the state（該城市與該州）呼應前文New Orleans and Louisiana，表示音樂風格與紐奧良（城市）及路易斯安那（州）密切相關；U.S.／world／nation範圍皆不符合此處對應關係。",
+    "explanation": "the city and the state（該城市與該州）呼應前文 New Orleans and Louisiana，表示音樂風格與紐奧良（城市）及路易斯安那（州）密切相關；U.S.／world／nation 範圍皆不符合此處對應關係。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
@@ -4292,7 +4292,7 @@
       "D": "weather"
     },
     "answer": "B",
-    "explanation": "the science of chance（機率的科學）指機率學研究的正是「或然性／機率」，呼應前文討論的猜測與可能性；sport／future／weather均不符合機率學的定義語境。",
+    "explanation": "the science of chance（機率的科學）指機率學研究的正是「或然性／機率」，呼應前文討論的猜測與可能性；sport／future／weather 均不符合機率學的定義語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_26-30",
@@ -4312,7 +4312,7 @@
       "D": "solution"
     },
     "answer": "B",
-    "explanation": "destination（目的地）符合告知計程車司機要去哪裡的語意；motivation／expectation／solution皆不符合此處語境。",
+    "explanation": "destination（目的地）符合告知計程車司機要去哪裡的語意；motivation／expectation／solution 皆不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_11-15",
@@ -4356,7 +4356,7 @@
       "D": "admit"
     },
     "answer": "B",
-    "explanation": "realize（意識到）符合「我沒想到輕輕一拍會把你嚇成這樣」的語意；find／wonder／admit均不符合此處語境。",
+    "explanation": "realize（意識到）符合「我沒想到輕輕一拍會把你嚇成這樣」的語意；find／wonder／admit 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_11-15",
@@ -4378,7 +4378,7 @@
       "D": "fault"
     },
     "answer": "D",
-    "explanation": "fault（過錯）符合「這不是你的錯」的語意，呼應司機解釋自己今天第一天當計程車司機；matter／decision／trouble均不符合此處語境。",
+    "explanation": "fault（過錯）符合「這不是你的錯」的語意，呼應司機解釋自己今天第一天當計程車司機；matter／decision／trouble 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "94_11-15",
@@ -4537,7 +4537,7 @@
       "D": "scarcely"
     },
     "answer": "C",
-    "explanation": "particularly important（尤其重要）為常見固定搭配，表示準確測量對科學實驗格外重要；deliberately／instantly／scarcely均無法自然修飾important。",
+    "explanation": "particularly important（尤其重要）為常見固定搭配，表示準確測量對科學實驗格外重要；deliberately／instantly／scarcely 均無法自然修飾 important。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_11-15",
@@ -4559,7 +4559,7 @@
       "D": "volume"
     },
     "answer": "B",
-    "explanation": "kilograms for mass（公斤作為質量單位）與前後meters for length（公尺為長度單位）、seconds for time（秒為時間單位）並列，形成國際單位制的三個基本量；distance／temperature／volume皆不符合公斤所對應的物理量。",
+    "explanation": "kilograms for mass（公斤作為質量單位）與前後 meters for length（公尺為長度單位）、seconds for time（秒為時間單位）並列，形成國際單位制的三個基本量；distance／temperature／volume 皆不符合公斤所對應的物理量。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_11-15",
@@ -4604,7 +4604,7 @@
       "D": "exciting"
     },
     "answer": "A",
-    "explanation": "boring（無聊的／乏味的）符合「博物館腳」發作時，對展品產生審美疲勞、覺得乏味，甚至嘀咕「這我也會畫」的抱怨語氣；difficult／cool／exciting均不符合此處語境。",
+    "explanation": "boring（無聊的／乏味的）符合「博物館腳」發作時，對展品產生審美疲勞、覺得乏味，甚至嘀咕「這我也會畫」的抱怨語氣；difficult／cool／exciting 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_21-25",
@@ -4626,7 +4626,7 @@
       "D": "permanently"
     },
     "answer": "B",
-    "explanation": "leading eventually to（最終導致……）表示無聊感累積後終將演變成不耐煩與疲勞；efficiently／fortunately／permanently均不符合此處語意邏輯。",
+    "explanation": "leading eventually to（最終導致……）表示無聊感累積後終將演變成不耐煩與疲勞；efficiently／fortunately／permanently 均不符合此處語意邏輯。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_21-25",
@@ -4648,7 +4648,7 @@
       "D": "avoid"
     },
     "answer": "D",
-    "explanation": "avoid museum feet（避免博物館腳）表示為了避免這種疲憊感，最好不要讓孩子一次看太多展品；affect／approach／assure均不符合此處語意。",
+    "explanation": "avoid museum feet（避免博物館腳）表示為了避免這種疲憊感，最好不要讓孩子一次看太多展品；affect／approach／assure 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_21-25",
@@ -4670,7 +4670,7 @@
       "D": "wrap"
     },
     "answer": "C",
-    "explanation": "cover 500 square kilometers（涵蓋500平方公里）為固定搭配，表示納斯卡線的分布範圍達500平方公里；circle／contain／wrap均不符合此處面積範圍的搭配語意。",
+    "explanation": "cover 500 square kilometers（涵蓋500平方公里）為固定搭配，表示納斯卡線的分布範圍達500平方公里；circle／contain／wrap 均不符合此處面積範圍的搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_26-30",
@@ -4692,7 +4692,7 @@
       "D": "satisfying"
     },
     "answer": "A",
-    "explanation": "amazing（令人驚奇的）符合「這些線條只能從空中被看見」這件事令人驚訝的語意；hesitating／interacting／satisfying均不符合此處語境。",
+    "explanation": "amazing（令人驚奇的）符合「這些線條只能從空中被看見」這件事令人驚訝的語意；hesitating／interacting／satisfying 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_26-30",
@@ -4715,7 +4715,7 @@
       "D": "unsolved"
     },
     "answer": "D",
-    "explanation": "unsolved mysteries（未解之謎）為固定搭配，表示納斯卡線至今仍是世界上最引人入勝的未解謎團；unchanged／undetermined／unfolded均不符合mysteries的固定搭配語意。",
+    "explanation": "unsolved mysteries（未解之謎）為固定搭配，表示納斯卡線至今仍是世界上最引人入勝的未解謎團；unchanged／undetermined／unfolded 均不符合 mysteries 的固定搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "95_26-30",
@@ -4760,7 +4760,7 @@
       "D": "original"
     },
     "answer": "B",
-    "explanation": "additional 2° to 6° F（額外的2到6華氏度）表示在過去一世紀已上升近1°F的基礎上，未來一百年還會再增加2到6度；extreme／immediate／original均不符合此處語意。",
+    "explanation": "additional 2° to 6° F（額外的2到6華氏度）表示在過去一世紀已上升近1°F 的基礎上，未來一百年還會再增加2到6度；extreme／immediate／original 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "96_21-25",
@@ -4804,7 +4804,7 @@
       "D": "seen"
     },
     "answer": "D",
-    "explanation": "seen（被看見）呼應下文They may be hidden in jewelry or accessories, or even embedded in the body（可能藏在珠寶配件中，甚至被植入體內），表示未來手機可能連被看見都很難；heard／sold／changed均不符合此處語境。",
+    "explanation": "seen（被看見）呼應下文 They may be hidden in jewelry or accessories, or even embedded in the body（可能藏在珠寶配件中，甚至被植入體內），表示未來手機可能連被看見都很難；heard／sold／changed 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "97_11-15",
@@ -4872,7 +4872,7 @@
       "D": "superficially"
     },
     "answer": "C",
-    "explanation": "work more efficiently（運作更有效率）表示這些化學物質能幫助大腦運作得更有效率，呼應全文「吃得健康也能讓人更聰明」的主題；obviously／diligently／superficially均不符合此處語意。",
+    "explanation": "work more efficiently（運作更有效率）表示這些化學物質能幫助大腦運作得更有效率，呼應全文「吃得健康也能讓人更聰明」的主題；obviously／diligently／superficially 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "97_16-20",
@@ -4894,7 +4894,7 @@
       "D": "plans on"
     },
     "answer": "C",
-    "explanation": "result in（導致）表示因為酒精帶來的心理改變被社會普遍接受，往往因此演變成／導致過量飲酒的結果；applies to／arrives at／plans on均不符合此處因果語意。",
+    "explanation": "result in（導致）表示因為酒精帶來的心理改變被社會普遍接受，往往因此演變成／導致過量飲酒的結果；applies to／arrives at／plans on 均不符合此處因果語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "97_21-25",
@@ -4984,7 +4984,7 @@
       "D": "Humanities"
     },
     "answer": "C",
-    "explanation": "School of Pharmacy（藥學院）呼應全文主題train the pharmacists of the future（訓練未來的藥師），表示這些學生是藥學院的學生；Education／Business／Humanities均不符合此處語境。",
+    "explanation": "School of Pharmacy（藥學院）呼應全文主題 train the pharmacists of the future（訓練未來的藥師），表示這些學生是藥學院的學生；Education／Business／Humanities 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "98_11-15",
@@ -5006,7 +5006,7 @@
       "D": "events"
     },
     "answer": "B",
-    "explanation": "emotions such as pain, stress or anxiety（諸如疼痛、壓力或焦慮等情緒）表示虛擬病人會表達出這些情緒反應；expressions／elements／events均不符合此處語意。",
+    "explanation": "emotions such as pain, stress or anxiety（諸如疼痛、壓力或焦慮等情緒）表示虛擬病人會表達出這些情緒反應；expressions／elements／events 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "98_11-15",
@@ -5074,7 +5074,7 @@
       "D": "sympathetic"
     },
     "answer": "A",
-    "explanation": "greedy（貪婪的）呼應後文demands for dowry are not met（嫁妝要求未被滿足）及bride is subject to torture（新娘遭受虐待），表示新郎與其家人變得貪得無厭；pleasant／regretful／sympathetic均不符合此處語境。",
+    "explanation": "greedy（貪婪的）呼應後文 demands for dowry are not met（嫁妝要求未被滿足）及 bride is subject to torture（新娘遭受虐待），表示新郎與其家人變得貪得無厭；pleasant／regretful／sympathetic 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "98_16-20",
@@ -5119,7 +5119,7 @@
       "D": "reduces"
     },
     "answer": "B",
-    "explanation": "receives energy from the sun（從太陽接收能量）表示地球接收到的太陽能是目前人類使用量的兩萬倍；repeats／rejects／reduces均不符合此處語意。",
+    "explanation": "receives energy from the sun（從太陽接收能量）表示地球接收到的太陽能是目前人類使用量的兩萬倍；repeats／rejects／reduces 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_11-15",
@@ -5141,7 +5141,7 @@
       "D": "changeable"
     },
     "answer": "B",
-    "explanation": "harmful substances（有害物質）表示化石燃料燃燒時會釋放有害物質到空氣中，與前文太陽能是「乾淨能源」形成對比；diligent／usable／changeable均不符合此處語意。",
+    "explanation": "harmful substances（有害物質）表示化石燃料燃燒時會釋放有害物質到空氣中，與前文太陽能是「乾淨能源」形成對比；diligent／usable／changeable 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_11-15",
@@ -5187,7 +5187,7 @@
       "D": "contribution"
     },
     "answer": "A",
-    "explanation": "a collection of sculpted animals（一系列雕塑動物的收藏）表示最新展覽是一批獅子、蛇、馬和鷹的雕塑收藏；cooperation／completion／contribution均不符合此處語意。",
+    "explanation": "a collection of sculpted animals（一系列雕塑動物的收藏）表示最新展覽是一批獅子、蛇、馬和鷹的雕塑收藏；cooperation／completion／contribution 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "99_16-20",
@@ -5232,7 +5232,7 @@
       "D": "elaborated"
     },
     "answer": "B",
-    "explanation": "denied（被拒絕）呼應後文an adjustment refusal message（拒絕調整的訊息），表示某些調整要求必須被拒絕；retailed／appreciated／elaborated均不符合此處語意。",
+    "explanation": "denied（被拒絕）呼應後文 an adjustment refusal message（拒絕調整的訊息），表示某些調整要求必須被拒絕；retailed／appreciated／elaborated 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "100_11-15",
@@ -5255,7 +5255,7 @@
       "D": "off guard"
     },
     "answer": "A",
-    "explanation": "at fault（有過錯的／出差錯的）表示當顧客本身理虧或有疏失，或是廠商已盡合理合法責任時，就應發出拒絕調整的訊息；on call／in tears／off guard均不符合此處語意。",
+    "explanation": "at fault（有過錯的／出差錯的）表示當顧客本身理虧或有疏失，或是廠商已盡合理合法責任時，就應發出拒絕調整的訊息；on call／in tears／off guard 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "100_11-15",
@@ -5277,7 +5277,7 @@
       "D": "economy"
     },
     "answer": "D",
-    "explanation": "traditional economy（傳統經濟）呼應後文these account for less than 50% of the GDP now（如今這些僅佔國內生產毛額(GDP)不到一半），表示不丹過往的傳統經濟型態以林業、畜牧業與自給農業為基礎；culture／politics／religion均不符合後文GDP的總體經濟學語境。",
+    "explanation": "traditional economy（傳統經濟）呼應後文 these account for less than 50% of the GDP now（如今這些僅佔國內生產毛額(GDP)不到一半），表示不丹過往的傳統經濟型態以林業、畜牧業與自給農業為基礎；culture／politics／religion 均不符合後文 GDP 的總體經濟學語境。",
     "answer_source": "inferred_confirmed_by_gemini",
     "hasFullPassage": true,
     "passageId": "96_26-30",
@@ -5346,7 +5346,7 @@
       "D": "mark"
     },
     "answer": "D",
-    "explanation": "mark Norway's centenary（紀念挪威獨立百年）表示諾貝爾和平中心的開幕是紀念挪威獨立百週年慶祝活動的一部分；help／solve／take均不符合此處語意搭配。",
+    "explanation": "mark Norway's centenary（紀念挪威獨立百年）表示諾貝爾和平中心的開幕是紀念挪威獨立百週年慶祝活動的一部分；help／solve／take 均不符合此處語意搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_11-15",
@@ -5368,7 +5368,7 @@
       "D": "contributed"
     },
     "answer": "A",
-    "explanation": "related to war, peace, and conflict resolution（與戰爭、和平及衝突解決相關）表示展覽、討論與省思都圍繞這些主題；limited／addicted／contributed均不符合此處語意搭配。",
+    "explanation": "related to war, peace, and conflict resolution（與戰爭、和平及衝突解決相關）表示展覽、討論與省思都圍繞這些主題；limited／addicted／contributed 均不符合此處語意搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_11-15",
@@ -5390,7 +5390,7 @@
       "D": "phenomenon"
     },
     "answer": "C",
-    "explanation": "tragedy（悲劇）呼應全文描述1985年布魯塞爾足球暴動造成多人喪生的慘劇；circumstance／sequence／phenomenon均不符合此處語意。",
+    "explanation": "tragedy（悲劇）呼應全文描述1985年布魯塞爾足球暴動造成多人喪生的慘劇；circumstance／sequence／phenomenon 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_16-20",
@@ -5412,7 +5412,7 @@
       "D": "compete against"
     },
     "answer": "D",
-    "explanation": "compete against the Italian team（與義大利隊競賽）表示英國隊原定要與義大利隊比賽；oppose to（語意與文法不符，表示「反對」，且常用be opposed to）、fight over（為……爭奪）、battle for（為……而戰）均不符合此處運動賽事的語境。",
+    "explanation": "compete against the Italian team（與義大利隊競賽）表示英國隊原定要與義大利隊比賽；oppose to（語意與文法不符，表示「反對」，且常用 be opposed to）、fight over（為……爭奪）、battle for（為……而戰）均不符合此處運動賽事的語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "101_16-20",
@@ -5456,7 +5456,7 @@
       "D": "noises"
     },
     "answer": "D",
-    "explanation": "make noises（發出聲音）表示魚類透過振動魚鰾發出各種聲音來「交談」；choices／objects／accents均不符合此處語意。",
+    "explanation": "make noises（發出聲音）表示魚類透過振動魚鰾發出各種聲音來「交談」；choices／objects／accents 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "102_11-15",
@@ -5523,7 +5523,7 @@
       "D": "fact"
     },
     "answer": "A",
-    "explanation": "this move（這項措施／這個做法）指前文提到取消週六送信的決定，預期此舉每年可省下約20億美元；round／chance／fact均不符合此處語意。",
+    "explanation": "this move（這項措施／這個做法）指前文提到取消週六送信的決定，預期此舉每年可省下約20億美元；round／chance／fact 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "102_16-20",
@@ -5568,7 +5568,7 @@
       "D": "served"
     },
     "answer": "D",
-    "explanation": "Dinner is served!（晚餐上桌了！）為固定用語，此處幽默地表示黑猩猩挖出小昆蟲、準備享用大餐；proposed／ordered／digested均不符合此處語境。",
+    "explanation": "Dinner is served!（晚餐上桌了！）為固定用語，此處幽默地表示黑猩猩挖出小昆蟲、準備享用大餐；proposed／ordered／digested 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "103_16-20",
@@ -5590,7 +5590,7 @@
       "D": "grateful"
     },
     "answer": "B",
-    "explanation": "similar to those of humans（與人類的相似）表示黑猩猩的親子關係與人類非常相似；casual（隨意的／非正式的）、direct（直接的）、grateful（感激的）均不符合similar to的固定搭配語意。",
+    "explanation": "similar to those of humans（與人類的相似）表示黑猩猩的親子關係與人類非常相似；casual（隨意的／非正式的）、direct（直接的）、grateful（感激的）均不符合 similar to 的固定搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "103_16-20",
@@ -5658,7 +5658,7 @@
       "D": "modification"
     },
     "answer": "C",
-    "explanation": "in this confrontation（在這場對抗中）呼應前文set against the brutal ways of modern society（與現代社會的殘酷方式對抗），表示這些人物在與社會的對抗中逐漸失去希望與信念；limitation／classification／modification均不符合此處語意。",
+    "explanation": "in this confrontation（在這場對抗中）呼應前文 set against the brutal ways of modern society（與現代社會的殘酷方式對抗），表示這些人物在與社會的對抗中逐漸失去希望與信念；limitation／classification／modification 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_11-15",
@@ -5680,7 +5680,7 @@
       "D": "measurements"
     },
     "answer": "B",
-    "explanation": "distances（距離）呼應後文10K runs, half marathons, marathons等具體距離單位，表示這是路跑賽事最常見的三種距離；journeys／destinations／measurements均不符合此處語意。",
+    "explanation": "distances（距離）呼應後文10K runs, half marathons, marathons 等具體距離單位，表示這是路跑賽事最常見的三種距離；journeys／destinations／measurements 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_16-20",
@@ -5702,7 +5702,7 @@
       "D": "identifies with"
     },
     "answer": "A",
-    "explanation": "caters to all ages and abilities（適合／滿足各年齡層與能力的需求）表示路跑之所以獨特是因為它能兼顧各種年齡與能力的人參與；depends on／goes after／identifies with均不符合此處語意。",
+    "explanation": "caters to all ages and abilities（適合／滿足各年齡層與能力的需求）表示路跑之所以獨特是因為它能兼顧各種年齡與能力的人參與；depends on／goes after／identifies with 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_16-20",
@@ -5724,7 +5724,7 @@
       "D": "champions"
     },
     "answer": "D",
-    "explanation": "world-class champions（世界級冠軍選手）呼應前文first time amateurs（初次參賽的業餘者）形成對比，表示路跑賽事讓業餘者與世界級冠軍同場競技；matches／civilians／associations均不符合此處語意。",
+    "explanation": "world-class champions（世界級冠軍選手）呼應前文 first time amateurs（初次參賽的業餘者）形成對比，表示路跑賽事讓業餘者與世界級冠軍同場競技；matches／civilians／associations 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_16-20",
@@ -5746,7 +5746,7 @@
       "D": "supplied"
     },
     "answer": "A",
-    "explanation": "offended you（冒犯你）呼應前文irritated（惹惱），表示他人可能用耳機外洩的音樂聲冒犯到你；controlled／acquired／supplied均不符合此處語意。",
+    "explanation": "offended you（冒犯你）呼應前文 irritated（惹惱），表示他人可能用耳機外洩的音樂聲冒犯到你；controlled／acquired／supplied 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_11-15",
@@ -5768,7 +5768,7 @@
       "D": "regions"
     },
     "answer": "C",
-    "explanation": "through all the senses（透過所有感官）呼應後文unwelcome sound, smell, or stare（不受歡迎的聲音、氣味或注視），表示個人空間受侵犯的感受是透過各種感官傳達的；angles／events／regions均不符合此處語意。",
+    "explanation": "through all the senses（透過所有感官）呼應後文 unwelcome sound, smell, or stare（不受歡迎的聲音、氣味或注視），表示個人空間受侵犯的感受是透過各種感官傳達的；angles／events／regions 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_11-15",
@@ -5835,7 +5835,7 @@
       "D": "supplement"
     },
     "answer": "C",
-    "explanation": "humiliation（屈辱）呼應前文Turing被判「嚴重猥褻罪」的羞辱，表示正是這樣的屈辱最終促使他在1954年自殺身亡；compromise／procession／supplement均不符合此處語意。",
+    "explanation": "humiliation（屈辱）呼應前文 Turing 被判「嚴重猥褻罪」的羞辱，表示正是這樣的屈辱最終促使他在1954年自殺身亡；compromise／procession／supplement 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_16-20",
@@ -5903,7 +5903,7 @@
       "D": "analysis"
     },
     "answer": "A",
-    "explanation": "the phrase（這個片語）呼應全文主題「Keeping up with the Joneses」這句慣用語，表示這個片語因同名連環漫畫而普及；signal／material／analysis均不符合此處語意。",
+    "explanation": "the phrase（這個片語）呼應全文主題「Keeping up with the Joneses」這句慣用語，表示這個片語因同名連環漫畫而普及；signal／material／analysis 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "107_11-15",
@@ -5925,7 +5925,7 @@
       "D": "advised"
     },
     "answer": "A",
-    "explanation": "adapted into books, films, and musical comedies（被改編成書籍、電影和音樂喜劇）表示這部漫畫最終被改編成其他形式的作品；admitted／advanced／advised均不符合此處語意。",
+    "explanation": "adapted into books, films, and musical comedies（被改編成書籍、電影和音樂喜劇）表示這部漫畫最終被改編成其他形式的作品；admitted／advanced／advised 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "107_11-15",
@@ -5947,7 +5947,7 @@
       "D": "traded with"
     },
     "answer": "C",
-    "explanation": "spoken of（被談論）與後文but never actually seen in person（但從未真正露面）形成對比，表示瓊斯一家人只是被提及，卻從未在漫畫中實際現身；checked out（查核）、watched over（看顧）、traded with（與……交易）均不符合此處語意。",
+    "explanation": "spoken of（被談論）與後文 but never actually seen in person（但從未真正露面）形成對比，表示瓊斯一家人只是被提及，卻從未在漫畫中實際現身；checked out（查核）、watched over（看顧）、traded with（與……交易）均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "107_11-15",
@@ -5993,7 +5993,7 @@
       "D": "mark"
     },
     "answer": "D",
-    "explanation": "mark Norway's centenary（紀念挪威獨立百年）表示諾貝爾和平中心的開幕是紀念挪威獨立百週年慶祝活動的一部分；help／solve／take均不符合此處語意搭配。",
+    "explanation": "mark Norway's centenary（紀念挪威獨立百年）表示諾貝爾和平中心的開幕是紀念挪威獨立百週年慶祝活動的一部分；help／solve／take 均不符合此處語意搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -6013,7 +6013,7 @@
       "D": "contributed"
     },
     "answer": "A",
-    "explanation": "related to war, peace, and conflict resolution（與戰爭、和平及衝突解決相關）表示展覽、討論與省思都圍繞這些主題；limited／addicted／contributed均不符合此處語意搭配。",
+    "explanation": "related to war, peace, and conflict resolution（與戰爭、和平及衝突解決相關）表示展覽、討論與省思都圍繞這些主題；limited／addicted／contributed 均不符合此處語意搭配。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -6033,7 +6033,7 @@
       "D": "supposedly"
     },
     "answer": "D",
-    "explanation": "supposedly uncrackable（據稱無法破解的）表示恩尼格瑪密碼原本被認為是無法破解的，圖靈卻成功破解了它；eventually／precisely／concernedly均不符合此處語意。",
+    "explanation": "supposedly uncrackable（據稱無法破解的）表示恩尼格瑪密碼原本被認為是無法破解的，圖靈卻成功破解了它；eventually／precisely／concernedly 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -6053,7 +6053,7 @@
       "D": "supplement"
     },
     "answer": "C",
-    "explanation": "humiliation（屈辱）呼應前文Turing被判「嚴重猥褻罪」的羞辱，表示正是這樣的屈辱最終促使他在1954年自殺身亡；compromise／procession／supplement均不符合此處語意。",
+    "explanation": "humiliation（屈辱）呼應前文 Turing 被判「嚴重猥褻罪」的羞辱，表示正是這樣的屈辱最終促使他在1954年自殺身亡；compromise／procession／supplement 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -6073,7 +6073,7 @@
       "D": "preparation"
     },
     "answer": "A",
-    "explanation": "earned her global recognition（為她贏得全球認可）表示她品味出眾、色彩豐富的作品讓她獲得全球肯定；motivation／supervision／preparation均不符合此處語意。",
+    "explanation": "earned her global recognition（為她贏得全球認可）表示她品味出眾、色彩豐富的作品讓她獲得全球肯定；motivation／supervision／preparation 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_11-15",
@@ -6118,7 +6118,7 @@
       "D": "link"
     },
     "answer": "C",
-    "explanation": "require extra care（需要額外的小心／謹慎）表示海底電纜的安裝需要格外謹慎，呼應後文必須避開珊瑚礁、沉船等障礙物；speed／light／link均不符合此處語意。",
+    "explanation": "require extra care（需要額外的小心／謹慎）表示海底電纜的安裝需要格外謹慎，呼應後文必須避開珊瑚礁、沉船等障礙物；speed／light／link 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_16-20",
@@ -6140,7 +6140,7 @@
       "D": "circulations"
     },
     "answer": "B",
-    "explanation": "obstacles（障礙物）呼應前文coral reefs, sunken ships, fish beds等具體例子，表示海底電纜鋪設須避開這些障礙物；directions／aquariums／circulations均不符合此處語意。",
+    "explanation": "obstacles（障礙物）呼應前文 coral reefs, sunken ships, fish beds 等具體例子，表示海底電纜鋪設須避開這些障礙物；directions／aquariums／circulations 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_16-20",
@@ -6162,7 +6162,7 @@
       "D": "corresponds to"
     },
     "answer": "A",
-    "explanation": "serves as the supervisor and coordinator（擔任監督者與協調者的角色）表示消保會的職責是擔任各消保團體的監督與協調角色；fights for／persists in／corresponds to均不符合此處語意。",
+    "explanation": "serves as the supervisor and coordinator（擔任監督者與協調者的角色）表示消保會的職責是擔任各消保團體的監督與協調角色；fights for／persists in／corresponds to 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_11-15",
@@ -6184,7 +6184,7 @@
       "D": "intensive"
     },
     "answer": "C",
-    "explanation": "reasonable pricing（合理定價）表示委員會提倡公平交易與商品服務的合理定價；prominent／essential／intensive均不符合此處語意。",
+    "explanation": "reasonable pricing（合理定價）表示委員會提倡公平交易與商品服務的合理定價；prominent／essential／intensive 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_11-15",
@@ -6206,7 +6206,7 @@
       "D": "disputes"
     },
     "answer": "D",
-    "explanation": "disputes with businesses or manufacturers（與企業或製造商的糾紛）表示委員會積極協助與廠商發生消費糾紛的消費者；references／shortages／purchases均不符合此處語意。",
+    "explanation": "disputes with businesses or manufacturers（與企業或製造商的糾紛）表示委員會積極協助與廠商發生消費糾紛的消費者；references／shortages／purchases 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_11-15",
@@ -6252,7 +6252,7 @@
       "D": "misunderstood"
     },
     "answer": "C",
-    "explanation": "unattended dishes（無人照看的培養皿）呼應前文放假期間堆積在水槽裡的培養皿，表示這些長期無人照看的培養皿；disabled／excluded／misunderstood均不符合此處語意。",
+    "explanation": "unattended dishes（無人照看的培養皿）呼應前文放假期間堆積在水槽裡的培養皿，表示這些長期無人照看的培養皿；disabled／excluded／misunderstood 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_16-20",
@@ -6274,7 +6274,7 @@
       "D": "carry on"
     },
     "answer": "A",
-    "explanation": "toss out the dishes（把培養皿丟棄）表示弗萊明原本打算把這些受污染的培養皿丟掉，卻意外發現黴菌周圍沒有細菌生長；get off／catch up／carry on均不符合此處語境。",
+    "explanation": "toss out the dishes（把培養皿丟棄）表示弗萊明原本打算把這些受污染的培養皿丟掉，卻意外發現黴菌周圍沒有細菌生長；get off／catch up／carry on 均不符合此處語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109_16-20",
@@ -6296,7 +6296,7 @@
       "D": "Alternative"
     },
     "answer": "C",
-    "explanation": "Scrambled name phenomenon（名字混淆現象）呼應開頭Mothers often mix up their children's names（母親常把孩子的名字叫錯），表示這種名字混淆的現象相當普遍；Forgetful／Complicated／Alternative均不符合此處語意。",
+    "explanation": "Scrambled name phenomenon（名字混淆現象）呼應開頭 Mothers often mix up their children's names（母親常把孩子的名字叫錯），表示這種名字混淆的現象相當普遍；Forgetful／Complicated／Alternative 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_11-15",
@@ -6316,7 +6316,7 @@
       "D": "translates"
     },
     "answer": "A",
-    "explanation": "classifies those we love（將所愛之人分類）呼應後文提到大腦以「群組」方式儲存所愛的人的名字，表示這是大腦分類記憶所愛之人的方式所致；defends／predicts／translates均不符合此處語意。",
+    "explanation": "classifies those we love（將所愛之人分類）呼應後文提到大腦以「群組」方式儲存所愛的人的名字，表示這是大腦分類記憶所愛之人的方式所致；defends／predicts／translates 均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_11-15",
@@ -6356,7 +6356,7 @@
       "D": "similar to"
     },
     "answer": "D",
-    "explanation": "similar to the heated coils on an electric stove（類似電爐上發熱的線圈）表示這顆行星發出的微弱紅光，類似電爐發熱線圈或昏暗燈泡的光；associated with／committed to／familiar with均不符合此處的比較語意。",
+    "explanation": "similar to the heated coils on an electric stove（類似電爐上發熱的線圈）表示這顆行星發出的微弱紅光，類似電爐發熱線圈或昏暗燈泡的光；associated with／committed to／familiar with 均不符合此處的比較語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_16-20",
@@ -6376,7 +6376,7 @@
       "D": "tell"
     },
     "answer": "D",
-    "explanation": "tell exactly how（確切查明／辨識出是如何）表示科學家或許永遠無法確切查明這顆行星如何隱身，但確信還有更多更暗的行星等待被發現；make／count／read均不符合tell exactly的固定搭配語意。",
+    "explanation": "tell exactly how（確切查明／辨識出是如何）表示科學家或許永遠無法確切查明這顆行星如何隱身，但確信還有更多更暗的行星等待被發現；make／count／read 均不符合 tell exactly 的固定搭配語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_16-20",
@@ -6396,7 +6396,7 @@
       "D": "tedious"
     },
     "answer": "B",
-    "explanation": "chronic stress（慢性壓力）與後文short-term stress（短期壓力）形成對比，表示長期慢性壓力對身體有害，但短期壓力其實有益健康；contagious（傳染性的）、diagnostic（診斷的）、tedious（乏味的）均不符合此處語意。",
+    "explanation": "chronic stress（慢性壓力）與後文 short-term stress（短期壓力）形成對比，表示長期慢性壓力對身體有害，但短期壓力其實有益健康；contagious（傳染性的）、diagnostic（診斷的）、tedious（乏味的）均不符合此處語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_11-15",
@@ -6462,7 +6462,7 @@
       "D": "more than important"
     },
     "answer": "B",
-    "explanation": "no longer useful（不再有用）呼應前文提到雞皮疙瘩過去有助於保暖或嚇阻掠食者，如今對人類已不再具有實際功能；even more ridiculous／still quite convenient／more than important均不符合此處語意邏輯。",
+    "explanation": "no longer useful（不再有用）呼應前文提到雞皮疙瘩過去有助於保暖或嚇阻掠食者，如今對人類已不再具有實際功能；even more ridiculous／still quite convenient／more than important 均不符合此處語意邏輯。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
@@ -6484,7 +6484,7 @@
       "D": "to threaten"
     },
     "answer": "C",
-    "explanation": "【句型】when threatened為省略主詞的分詞構句，全句等於when they are threatened，主詞mammals與threaten之間是被動關係（哺乳動物「被」威脅），故用過去分詞threatened；threaten（原形）、threatening（現在分詞，主動）、to threaten（不定詞）皆不符合此處被動語意。",
+    "explanation": "【句型】when threatened 為省略主詞的分詞構句，全句等於 when they are threatened，主詞 mammals 與 threaten 之間是被動關係（哺乳動物「被」威脅），故用過去分詞 threatened；threaten（原形）、threatening（現在分詞，主動）、to threaten（不定詞）皆不符合此處被動語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z110_16-20",
@@ -6546,7 +6546,7 @@
       "D": "like"
     },
     "answer": "A",
-    "explanation": "insensitive to architecture as an art（對建築作為一門藝術感到遲鈍）表示我們普遍對「建築身為一門藝術」這件事不夠敏銳；or／of／like均不符合此處以身分／角色解讀architecture的語意搭配。",
+    "explanation": "insensitive to architecture as an art（對建築作為一門藝術感到遲鈍）表示我們普遍對「建築身為一門藝術」這件事不夠敏銳；or／of／like 均不符合此處以身分／角色解讀 architecture 的語意搭配。",
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6566,7 +6566,7 @@
       "D": "blinded"
     },
     "answer": "D",
-    "explanation": "blinded us（使我們變得盲目／遲鈍）呼應全文主題——建築因與我們朝夕相處而讓我們對其美感變得視而不見；treated／guided／pleased均不符合此處「因熟悉而遲鈍」的語意。",
+    "explanation": "blinded us（使我們變得盲目／遲鈍）呼應全文主題——建築因與我們朝夕相處而讓我們對其美感變得視而不見；treated／guided／pleased 均不符合此處「因熟悉而遲鈍」的語意。",
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6586,7 +6586,7 @@
       "D": "excited"
     },
     "answer": "A",
-    "explanation": "eyes are dulled（雙眼變得遲鈍）與後文minds are deadened（心智變得麻木）並列對應，表示我們對周遭美的感受力逐漸消失；pleased／justified／excited均不符合此處語意與並列結構。",
+    "explanation": "eyes are dulled（雙眼變得遲鈍）與後文 minds are deadened（心智變得麻木）並列對應，表示我們對周遭美的感受力逐漸消失；pleased／justified／excited 均不符合此處語意與並列結構。",
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6606,7 +6606,7 @@
       "D": "to contain"
     },
     "answer": "C",
-    "explanation": "【句型】containing為現在分詞短語，修飾前面的kits（套件），表示「內含一塊松木、塑膠輪子與金屬車軸的套件」，kits與contain之間為主動關係（套件包含這些零件）；contain（原形動詞不能直接修飾名詞）、contained（過去分詞表被動，語意不合）、to contain（不定詞不符此處修飾語境）皆不符合。",
+    "explanation": "【句型】containing 為現在分詞短語，修飾前面的 kits（套件），表示「內含一塊松木、塑膠輪子與金屬車軸的套件」，kits 與 contain 之間為主動關係（套件包含這些零件）；contain（原形動詞不能直接修飾名詞）、contained（過去分詞表被動，語意不合）、to contain（不定詞不符此處修飾語境）皆不符合。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6646,7 +6646,7 @@
       "D": "with"
     },
     "answer": "D",
-    "explanation": "a block of wood...with two notches（帶有兩個凹槽的木塊）表示童軍拿到的木塊上已鑿有兩個輪子用的凹槽，with在此表示「具有……特徵」；in／by／for均不符合此處的伴隨語意。",
+    "explanation": "a block of wood...with two notches（帶有兩個凹槽的木塊）表示童軍拿到的木塊上已鑿有兩個輪子用的凹槽，with 在此表示「具有……特徵」；in／by／for 均不符合此處的伴隨語意。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6666,7 +6666,7 @@
       "D": "parent"
     },
     "answer": "B",
-    "explanation": "Each scout（每位童軍）呼應全文主題Cub Scouts（幼童軍），表示每位童軍都能依自己喜好雕刻裝飾賽車；race（比賽）、master（團長）、parent（家長，但下文明確是男孩們自己動手）均不符合此處語意。",
+    "explanation": "Each scout（每位童軍）呼應全文主題 Cub Scouts（幼童軍），表示每位童軍都能依自己喜好雕刻裝飾賽車；race（比賽）、master（團長）、parent（家長，但下文明確是男孩們自己動手）均不符合此處語意。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6686,7 +6686,7 @@
       "D": "whomever"
     },
     "answer": "D",
-    "explanation": "whomever they choose（無論他們選擇誰）表示男孩們可以和爸爸、爺爺或自己選擇的任何人一起打造賽車，whomever作為choose的受詞代名詞（指人）；whatever／whichever（指物）、wherever（指地方）均不符合此處指「人」的語意。",
+    "explanation": "whomever they choose（無論他們選擇誰）表示男孩們可以和爸爸、爺爺或自己選擇的任何人一起打造賽車，whomever 作為 choose 的受詞代名詞（指人）；whatever／whichever（指物）、wherever（指地方）均不符合此處指「人」的語意。",
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6706,7 +6706,7 @@
       "D": "lead"
     },
     "answer": "C",
-    "explanation": "guidelines to follow（可依循的準則）表示良好禮儀提供了在不確定情況下可依循的準則；confront（面對）、remove（移除）、lead（引導，但文法上lead the guidelines語意不通）均不符合此處語意搭配。",
+    "explanation": "guidelines to follow（可依循的準則）表示良好禮儀提供了在不確定情況下可依循的準則；confront（面對）、remove（移除）、lead（引導，但文法上 lead the guidelines 語意不通）均不符合此處語意搭配。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6726,7 +6726,7 @@
       "D": "without"
     },
     "answer": "D",
-    "explanation": "a world without good manners（一個沒有良好禮儀的世界）表示假如世界缺乏良好禮儀，將會令人困惑甚至引發衝突；about／through／under均不符合此處語意。",
+    "explanation": "a world without good manners（一個沒有良好禮儀的世界）表示假如世界缺乏良好禮儀，將會令人困惑甚至引發衝突；about／through／under 均不符合此處語意。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6746,7 +6746,7 @@
       "D": "mental"
     },
     "answer": "B",
-    "explanation": "social environment（社會環境）表示良好禮儀能將人與其所處的社會環境連結起來，呼應後文a community and the people in it（群體與其中的人）；rural／clinical／mental均不符合此處語意。",
+    "explanation": "social environment（社會環境）表示良好禮儀能將人與其所處的社會環境連結起來，呼應後文 a community and the people in it（群體與其中的人）；rural／clinical／mental 均不符合此處語意。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6766,7 +6766,7 @@
       "D": "Waiting"
     },
     "answer": "A",
-    "explanation": "【句型】Failing to adopt...為動名詞片語當主詞，fail to V表示「未能做到……」，指未能養成良好禮儀習慣的人會顯得與眾不同；Missing／Passing／Waiting均不符合此處fail to V的固定搭配語意。",
+    "explanation": "【句型】Failing to adopt...為動名詞片語當主詞，fail to V 表示「未能做到……」，指未能養成良好禮儀習慣的人會顯得與眾不同；Missing／Passing／Waiting 均不符合此處 fail to V 的固定搭配語意。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
@@ -6786,7 +6786,7 @@
       "D": "aren't"
     },
     "answer": "A",
-    "explanation": "those who don't（那些沒有這樣做的人）don't在此為助動詞構成的代動詞用法，代替前面省略的don't let their manners slip。全句與前文的who let their manners slip（禮儀失當的人）形成對比，表示相較於偶爾禮儀失當的人，我們對那些「始終保持禮貌、未曾失禮」的人感覺更正面、也更緊密相連；do／are／aren't均不符合此處的否定對比語意與動詞型態。",
+    "explanation": "those who don't（那些沒有這樣做的人）don't 在此為助動詞構成的代動詞用法，代替前面省略的 don't let their manners slip。全句與前文的 who let their manners slip（禮儀失當的人）形成對比，表示相較於偶爾禮儀失當的人，我們對那些「始終保持禮貌、未曾失禮」的人感覺更正面、也更緊密相連；do／are／aren't 均不符合此處的否定對比語意與動詞型態。",
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
