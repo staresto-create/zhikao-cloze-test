@@ -1093,10 +1093,16 @@ function startFullMode(filterFn){
   const validItems = ITEMS.filter(filterFn);
   fullPassageIds = Array.from(new Set(validItems.map(it=>it.passageId)));
   if(fullPassageIds.length===0){ alert('這個篩選條件下沒有題目'); return; }
-  for(let i=fullPassageIds.length-1;i>0;i--){
-    const j = Math.floor(Math.random()*(i+1));
-    [fullPassageIds[i],fullPassageIds[j]]=[fullPassageIds[j],fullPassageIds[i]];
-  }
+  // 整份試題模式依年份新→舊排列，同年份先正式試題後參考試卷，不隨機打散
+  const firstItem = {};
+  validItems.forEach(it => { if(!firstItem[it.passageId]) firstItem[it.passageId] = it; });
+  fullPassageIds.sort((a,b)=>{
+    const ka = yearSortKey(firstItem[a].year), kb = yearSortKey(firstItem[b].year);
+    const na = ka[0]===999 ? -1 : ka[0], nb = kb[0]===999 ? -1 : kb[0];  // 無年份可辨識者排最後
+    if(na!==nb) return nb-na;
+    if(ka[1]!==kb[1]) return ka[1].localeCompare(kb[1]);
+    return (firstItem[a].blankNum||0) - (firstItem[b].blankNum||0);
+  });
   fullIdx = 0;
   showScreen('full');
   renderFull();
