@@ -315,6 +315,14 @@
   }
   .ctx-box.show{display:block;}
   .ctx-box::before{content:"線索在哪裡　"; color:var(--gold); font-family:'Noto Serif TC',serif; font-weight:700;}
+  .sk-ex{margin:16px 0 0; padding-left:11px; border-left:2px solid var(--sage);}
+  .sk-ex .sk-src{font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:.08em; color:var(--sage); display:block; margin-bottom:3px;}
+  .sk-ex .sk-en{color:var(--ink); line-height:1.75; margin:0 0 2px;}
+  .sk-ex .sk-zh{font-size:12.5px; color:var(--ink-soft); margin:0 0 6px;}
+  .sk-ex .sk-core{color:var(--crimson); font-weight:700; line-height:1.7; margin:0;}
+  .sk-ex .sk-core em{color:var(--ink-soft); font-weight:400; font-style:normal; font-size:12.5px;}
+  .sk-ex .sk-tip{margin:6px 0 0; font-size:12.5px; color:var(--ink-soft); background:#F1EADA; border-radius:3px; padding:7px 10px;}
+  .sk-more{margin-top:14px; padding-top:12px; border-top:1px dashed var(--rule); font-size:12.5px; color:var(--ink-soft);}
   .span-box{
     background:#F1F5EF; border:1px solid var(--rule); border-left:3px solid var(--sage);
     border-radius:4px; padding:14px 16px; margin-bottom:18px;
@@ -392,6 +400,63 @@
       我們把學測與指考兩份題庫的 <span class="num">870 道題目全部逐題檢查</span>，結果是 <span class="num">769 題（八成八）屬於「句內」</span>。這代表大部分人失分的原因並不是讀不懂文章，而是<b>詞彙與搭配不夠熟</b>——句子就在眼前，卻分不出四個選項的差別。<br>
       本站的跨句題共 34 題（約一成一），沒有「篇章」題。跨句題的分布並不平均：<b>連接詞／轉承語</b>有 35%、<b>代名詞／指示詞</b>有 33% 需要跨句判斷，約是<b>字彙選義</b>（8%）與<b>慣用語／片語</b>（11%）的三到四倍——看到 this、that、these、another 或轉承語時，回頭看前一句的必要性明顯比其他題型高。不過要注意，跨句題在每一個類別裡都仍是少數，多數空格的線索就在同一句內；指考克漏字的轉承語題比重又比學測高，這一項特別值得練。<br>
       <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對完答案不要只記正確選項，要把四個選項的差別、以及該字的常見搭配一起記下來，難題的關鍵幾乎都在這裡。
+      </div>
+      <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
+    </div>
+    <div class="span-box">
+      <div class="stitle">🔍 讀句子的第一步：先找「什麼」和「怎麼了」</div>
+      主詞不一定是人，可以是一個動作、一種物質、一個現象。找到主詞和動詞就抓到<b>骨幹</b>了，其餘的介系詞片語、分詞片語、關係子句、同位語，都是掛在骨幹上的修飾。指考的文章句子普遍比學測長，先抓骨幹再看空格，會省下很多力氣。先看兩句本站的考古題：
+      <div class="sk-ex">
+        <span class="sk-src">98年 · 指考克漏字</span>
+        <p class="sk-en">The dowry system, money or property brought by a bride to her husband at marriage, was started centuries ago with the intention of providing security for a girl in case of difficulties and unexpected circumstances after marriage.</p>
+        <p class="sk-zh">（嫁妝制度——新娘結婚時帶給丈夫的金錢或財產——早在數百年前就已出現，用意是讓女子在婚後遇到困難或突發狀況時能有保障。）</p>
+        <p class="sk-core">➜ The dowry system was started. <em>（嫁妝制度建立了。）</em></p>
+        <p class="sk-tip">💡 主詞後面那一整段是在解釋「什麼叫嫁妝」，動詞被推到第 15 個字才出現。</p>
+      </div>
+      <div class="sk-ex">
+        <span class="sk-src">99年 · 指考克漏字</span>
+        <p class="sk-en">The Louvre's Tactile Gallery, targeted at the blind and visually impaired, is the only space in the museum where visitors can touch the sculptures, with no guards or alarms to stop them.</p>
+        <p class="sk-zh">（羅浮宮的觸覺展覽廳是為視障者設置的，也是館內唯一可以讓參觀者親手觸摸雕塑的空間，沒有警衛或警報器會阻止他們。）</p>
+        <p class="sk-core">➜ The Louvre's Tactile Gallery is the only space. <em>（觸覺展覽廳是唯一的空間。）</em></p>
+      </div>
+      <div class="dh-body" id="skelHelpBody"><!--DIFFTAG-S-->
+        <div class="sk-more">再看五句，涵蓋修飾語會出現的各種位置。你可以先蓋住每一句下面那一行，自己試著把骨幹找出來。</div>
+      <div class="sk-ex">
+        <span class="sk-src">99年</span>
+        <p class="sk-en">The exhibit, opened in December 2008, is scheduled to run for about three years.</p>
+        <p class="sk-zh">（這項展覽於2008年12月開幕，預計展出約三年。）</p>
+        <p class="sk-core">➜ The exhibit is scheduled to run. <em>（展覽預計展出。）</em></p>
+        <p class="sk-tip">💡 最短的一句，先拿這句練手。opened in December 2008 是分詞片語，夾在主詞和動詞之間。</p>
+      </div>
+      <div class="sk-ex">
+        <span class="sk-src">109年</span>
+        <p class="sk-en">The Consumer Protection Commission, the current Consumer Protection Committee, serves as the supervisor and coordinator for the various consumer protection organizations that put this law into practice.</p>
+        <p class="sk-zh">（消費者保護委員會，也就是現行的消費者保護會，擔任監督與協調的角色，統籌各個實際執行這部法律的消費者保護組織。）</p>
+        <p class="sk-core">➜ The Commission serves as the supervisor and coordinator. <em>（委員會擔任監督與協調的角色。）</em></p>
+        <p class="sk-tip">💡 逗號中間那一塊是同位語，在說「這個機關就是……」，不是主要訊息。</p>
+      </div>
+      <div class="sk-ex">
+        <span class="sk-src">104年</span>
+        <p class="sk-en">His writing style, characterized by simplicity and understatement, influenced modern fiction, as did his life of adventure.</p>
+        <p class="sk-zh">（他的寫作風格以簡潔和含蓄為特色，影響了現代小說，他冒險的一生也同樣有影響。）</p>
+        <p class="sk-core">➜ His writing style influenced modern fiction. <em>（他的寫作風格影響了現代小說。）</em></p>
+        <p class="sk-tip">💡 句尾 <b>as did his life of adventure</b> 裡的 did，代替的是前面整個 influenced modern fiction，不必再講一次。這個用法你國中就學過：<b>Do you like it?—Yes, I do.</b> 那個 do 代替的就是 like it。這裡只是把它放到句尾，並且倒裝成 did his life。</p>
+      </div>
+      <div class="sk-ex">
+        <span class="sk-src">95年</span>
+        <p class="sk-en">It is reported that young visitors get more out of a visit if they focus on no more than nine objects.</p>
+        <p class="sk-zh">（據報導，年輕參觀者如果專注在不超過九件展品上，反而能從一趟參觀中得到更多。）</p>
+        <p class="sk-core">➜ It is reported that ... <em>（據報導……）</em></p>
+        <p class="sk-tip">💡 It 不是「它」。真正被報導的內容在 that 後面那一整句。</p>
+      </div>
+      <div class="sk-ex">
+        <span class="sk-src">109年指考補考</span>
+        <p class="sk-en">When our brain is attempting to retrieve a name so that we can say it, it is likely that another name in the same group will come to our lips instead of the one we meant to say.</p>
+        <p class="sk-zh">（當我們的大腦正在設法把一個名字找出來好說出口時，很可能會冒出同一類的另一個名字，而不是我們原本想講的那一個。）</p>
+        <p class="sk-core">➜ It is likely that ... <em>（很可能……）</em></p>
+        <p class="sk-tip">💡 這一句有兩層難處：句首一整個 When 子句都還沒進入主要子句，而主要子句本身又是虛主詞開頭。讀的時候先跳過 When 那一塊，從 it is likely 開始。</p>
+      </div>
+        <div class="sk-more">這種長句在每一種題型裡都會遇到——文意選填、單字題、中翻英，一個也躲不掉。完整說明和其他題庫的例句在<a href="https://staresto-create.github.io/JCEE-vocab-questions/" target="_blank" rel="noopener">題庫入口頁</a>。</div>
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
     </div>
