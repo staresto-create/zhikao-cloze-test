@@ -685,13 +685,18 @@ function yearSortKey(y){
   const extra = y.replace(/^\d+年?/,'');
   return [num, extra];
 }
+//DIFFTAG-S
+function yearCompare(ya, yb){
+  // 年份新→舊；同一年正式試題在前、補考／試辦／參考卷在後；無年份可辨識者排最後
+  const ka = yearSortKey(ya), kb = yearSortKey(yb);
+  const na = ka[0]===999 ? -1 : ka[0], nb = kb[0]===999 ? -1 : kb[0];
+  if(na!==nb) return nb-na;
+  return ka[1].localeCompare(kb[1]);
+}
+//DIFFTAG-E
 function buildYearChips(){
   const years = Array.from(new Set(ITEMS.map(it => it.year)));
-  years.sort((a,b)=>{
-    const ka = yearSortKey(a), kb = yearSortKey(b);
-    if(ka[0]!==kb[0]) return ka[0]-kb[0];
-    return ka[1].localeCompare(kb[1]);
-  });
+  years.sort(yearCompare);  //DIFFTAG 改為與全文模式相同的規則
   const grid = document.getElementById('yearGrid');
   selectedYears = new Set();  // 預設全不選，避免「點一下＝取消其他全部」的誤觸
   grid.innerHTML = years.map(y =>
@@ -1097,10 +1102,10 @@ function startFullMode(filterFn){
   const firstItem = {};
   validItems.forEach(it => { if(!firstItem[it.passageId]) firstItem[it.passageId] = it; });
   fullPassageIds.sort((a,b)=>{
-    const ka = yearSortKey(firstItem[a].year), kb = yearSortKey(firstItem[b].year);
-    const na = ka[0]===999 ? -1 : ka[0], nb = kb[0]===999 ? -1 : kb[0];  // 無年份可辨識者排最後
-    if(na!==nb) return nb-na;
-    if(ka[1]!==kb[1]) return ka[1].localeCompare(kb[1]);
+    //DIFFTAG-S
+    const c = yearCompare(firstItem[a].year, firstItem[b].year);
+    if(c!==0) return c;
+    //DIFFTAG-E
     return (firstItem[a].blankNum||0) - (firstItem[b].blankNum||0);
   });
   fullIdx = 0;
