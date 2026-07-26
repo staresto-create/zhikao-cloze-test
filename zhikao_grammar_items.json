@@ -2433,7 +2433,8 @@
     "fullPassage": "The undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of __11__ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off __12__ fish and even divers. Another discovery about fish sounds is that not all fish are __13__ \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is __15__ . Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.",
     "accuracyRate": 64,
     "discrimination": 38,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】threatened 與 threatening 只差一個字尾，中文都能說成「威脅」，你會憑語感挑一個。【怎麼判斷】四個選項是同一個字 threaten 的不同形態排在一起，可見這一格考的是形態，要往前後找它該跟誰對齊。空格後面緊接著名詞 fish，所以空格填的是修飾 fish 的那個字。接著問方向：這些魚是「製造威脅的」還是「被威脅的」？雀鯛發出聲音是為了嚇跑對牠構成威脅的魚，那些魚是主動製造威脅的一方，所以用現在分詞 threatening。填進去讀成 scare off threatening fish（嚇跑具威脅性的魚）。國中的掛鉤是 a barking dog（會叫的狗，狗自己在叫）對 a broken window（破掉的窗戶，窗戶是被打破的），以及 interesting 與 interested 的分工。【干擾選項】threatened 是過去分詞，指「受到威脅的」，方向剛好相反——受威脅的是雀鯛自己，不是牠要嚇跑的那些魚；being threatened 與 being threatening 這兩個形態擺在名詞前面當修飾語不合英文習慣，being 只出現在被動進行式（is being threatened）或分詞構句裡。【常考字詞與句型】threatening（具威脅性的）、be threatened（受到威脅）、scare off（嚇跑）、a barking dog（會叫的狗，現在分詞表主動）、a broken window（破掉的窗戶，過去分詞表被動）、interesting 與 interested（令人感興趣的／自己感到興趣的）。"
   },
   {
     "id": "Z102_13",
@@ -2456,7 +2457,8 @@
     "fullPassage": "The undersea world isn't as quiet as we thought, according to a New Zealand researcher. Fish can \"talk\" to each other and make a range of __11__ by vibrating their swim bladder, an internal gas-filled organ used as a resonating chamber to produce or receive sound.\nFish are believed to speak to each other for a number of reasons, such as to attract mates, scare off predators, or give directions to other fish. Damselfish, for example, have been found to make sounds to scare off __12__ fish and even divers. Another discovery about fish sounds is that not all fish are __13__ \"talkative.\" Some species talk a lot, while others don't. The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.\nAny goldfish lover who hopes to strike up a conversation with their pet goldfish is __15__ . Goldfish have excellent hearing, but they don't make any sound whatsoever. Their excellent hearing isn't associated with vocalization.",
     "accuracyRate": 54,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 結尾的副詞，形態上刷不掉，你只能一個一個放進去讀，挑一個順的。【怎麼判斷】四個選項都是副詞、都能修飾後面的形容詞 talkative，形態這條路斷掉，可見這一格考的是語意。關鍵在句首的 not all——「並非所有的魚都……」這個說法本身就在做比較：有的多、有的少。既然在比多少，空格要的就是一個講「程度相同」的字，也就是 equally（同等地、一樣地）。not all fish are equally talkative 的意思是「不是每一種魚都一樣多話」，緊接著的 Some species talk a lot, while others don't 正是在把這句話攤開來講。【干擾選項】merely（僅僅、只不過）是把程度往下壓（not merely 才是「不只是」），與比較多寡無關；officially（正式地、官方地）與 favorably（贊同地、順利地）在語意上都接不上 talkative。三個都是 -ly 副詞，形態吻合，容易被順手選走。【常考字詞與句型】equally（同等地、一樣地）、not all（並非所有的，屬部分否定）、talkative（多話的、健談的）、merely（僅僅、只不過）、keep silent（保持安靜）、a wide repertoire（豐富的曲目、多樣的本事）。"
   },
   {
     "id": "Z102_14",
@@ -2504,7 +2506,8 @@
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
     "accuracyRate": 65,
     "discrimination": 31,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個字 start 的四種形態排在一起，你會直覺認定這是文法題，開始找主詞、判主動被動。【怎麼判斷】先看句子結構：逗號前的 It plans to stop delivering mail on Saturdays 已經是完整的句子，主詞 It 與動詞 plans 都在，逗號後不可能再放一個限定動詞，所以 starts 與 started 先出局。剩下 starting 與 to start，再看它們後面接的是什麼——Aug. 1 this year（今年八月一日）是一個時間點。starting 後面直接接一個時間點時，作用是標出起算的那一天，意思是「自……起」；換成 beginning Aug. 1 或 as of Aug. 1，意思完全一樣。填進去讀成 stop delivering mail on Saturdays, starting Aug. 1 this year（自今年八月一日起，週六不再送信）。鑑別度只有 31，但它本身不難：光是「逗號後不能再放一個限定動詞」這一關就刷掉一半選項，各種程度的人都答得出來，題目自然分不出高低。【干擾選項】starts 與 started 都是限定動詞，前面沒有連接詞就不能接在一個完整句子後面；to start 表目的（為了開始），但停送信並不是「為了開始八月一日」，語意接不上。【常考字詞與句型】starting ＋ 時間（自……起）、beginning ＋ 時間（自……起）、as of ＋ 時間（自……起）、stop ＋ V-ing（停止做某事，對照 stop to V 停下來去做某事）、plan to V（打算做某事）、deliver mail（送信、投遞郵件）。"
   },
   {
     "id": "Z102_19",
@@ -2527,7 +2530,8 @@
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
     "accuracyRate": 48,
     "discrimination": 30,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】with 這個字，你的印象大概只有「和……一起」與「用……工具」這兩種，不太會想到它後面接的可以不是同伴也不是工具，而是一個正在變化的現象。【怎麼判斷】答對率不到五成，鑑別度只有 30。這一題難，卻連高分群考生也常失手，原因就在 with 的這個用法平常很少被單獨拿出來教：對「和……一起」「用……」這兩個常見義越熟的人，越會覺得四個選項沒有一個對得上，最後憑感覺挑一個。先看空格前後的關係：前面是郵政署近年虧損數百億美元，後面是網路與電子商務日益普及——兩件事同時在發生，而且後者正是前者的背景與成因。劍橋 English Grammar Today 的 with 條目收了「因為、由於」這個義項（例句 With all this work, I'd better stay in tonight.），後面接的名詞若本身表示變化，中文就順成「隨著……」。填進去讀成 has suffered ... losses with the increasing popularity of the Internet（隨著網路日益普及而蒙受虧損）。這一型後面常接 the increasing popularity of、the rise of、the development of 這類講變化的名詞組。【干擾選項】at 後面接的是時間點或地點（at that time、at the station），接不上一個持續變化的現象；under 講的是「在……之下」的狀態或條件（under pressure、under the new law），這裡不是在說虧損發生在什麼規定之下；between 需要兩個拿來相比的東西（between A and B），句中的 the Internet and e-commerce 雖然有 and，但整組是一個名詞組，不是相比的兩端。【常考字詞與句型】with ＋ 名詞（因為、由於；後接表變化的名詞時譯成「隨著……」）、with the rise of（隨著……的興起）、suffer losses（蒙受虧損）、tens of billions of dollars（數百億美元）、under pressure（承受壓力）、e-commerce（電子商務）。"
   },
   {
     "id": "Z102_20",
@@ -2550,7 +2554,8 @@
     "fullPassage": "The U.S. Postal Service has been struggling financially for some time. It plans to stop delivering mail on Saturdays, __16__ Aug. 1 this year. This decision was announced on Wednesday without congressional approval. __17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday. It is expected that this __18__ will save about $2 billion a year. In recent years, the postal service has suffered tens of billions of dollars in losses __19__ the increasing popularity of the Internet and e-commerce. The postal service plans to continue Saturday delivery of packages, which remain a profitable and growing part of the delivery business. Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes. But hours would likely be reduced at thousands of smaller locations.",
     "accuracyRate": 80,
     "discrimination": 45,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都由兩三個字組成、後面也都接子句，形態上刷不掉，你會一個一個代進去讀讀看。【怎麼判斷】這是邏輯勾環：要判斷的是前後兩件事之間的邏輯關係。前半是郵局週六仍照常開門，後半是民眾可以寄信寄包裹、買郵票、開自己的郵政信箱——後半正是前半的目的，開門就是為了讓民眾辦得成這些事。表目的的連接詞是 so that，而且它帶出的子句裡通常會有 can、could、may、will 這類助動詞，本句的 can 正好是它的標記。填進去讀成 remain open on Saturdays so that customers can drop off mail（週六仍開門，好讓民眾可以寄件）。【干擾選項】as soon as（一……就……）標示的是時間先後，但民眾辦事並不是郵局一開門就發生的某個單一事件；in case（以防萬一）後面要接的是想預防的狀況，民眾能寄信不是要預防的事，方向相反；ever since（自從……以來）要求後面接一個過去的起點並配現在完成式，本句講的是未來的安排。【常考字詞與句型】so that ＋ S ＋ can／will（以便、好讓……）、in order that（以便）、in case（以防萬一）、as soon as（一……就……）、drop off（順道送去、放下）、remain open（維持營業、仍舊開著）。"
   },
   {
     "id": "Z103_12",
@@ -2597,7 +2602,8 @@
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
     "accuracyRate": 84,
     "discrimination": 41,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 結尾的副詞，形態一模一樣，你會覺得刷不掉，只好挑一個讀起來最順的。【怎麼判斷】四個選項都是副詞、都放得進 more 後面，形態這條路整個斷掉，可見這一格考的是語意。線索是同義勾環：前一句剛用 every three to four months（每三到四個月）講「多久換一支」，這一句 Children's toothbrushes may need to be changed more ______ 接著講同一件事，只是換一種說法，所以空格要的必定是一個講次數多寡的字。四個裡只有 frequently（頻繁地、經常）是頻率副詞。填進去讀成 changed more frequently（換得更勤），也就是比三到四個月更短的間隔。【干擾選項】typically（通常、一般而言）講的是「典型情況下」，帶一點「常常」的味道，形態又吻合，容易被順手選走，但它談的不是次數多寡；essentially（本質上、基本上）談的是事情的本質；objectively（客觀地）談的是看事情的態度，與整段無關。【常考字詞與句型】frequently（頻繁地、經常）、every three to four months（每三到四個月）、replace A with B（用 B 換掉 A）、switch to（改用、換成）、typically（通常、一般而言）、essentially（本質上、基本上）。"
   },
   {
     "id": "Z103_14",
@@ -2621,7 +2627,8 @@
     "accuracyRate": 83,
     "discrimination": 39,
     "contextSpan": "跨句",
-    "contextNote": "For example 為前一句「有幾種保養方式」舉例"
+    "contextNote": "For example 為前一句「有幾種保養方式」舉例",
+    "note": "【你可能會這樣想】四個選項都是轉承語，你知道要看前後兩句的關係，但前一句只是一句總說，後面又跟著好幾個祈使句，一時看不出誰跟誰是什麼關係。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。前一句 there are several ways to keep a toothbrush clean（有好幾種保持牙刷清潔的方法）是一句總說；空格之後 rinse your toothbrush thoroughly with tap water、Store your toothbrush in an upright position、do not share toothbrushes 是一條一條的具體做法。從一句通則走到底下的具體個案，用 For example（舉例來說）。填進去讀成 For example, rinse your toothbrush thoroughly with tap water after use。這一招在克漏字裡很常用：文章若在列清單，先確認空格落在清單的哪個位置，是開頭、中間還是收尾，答案往往就定了。【干擾選項】In short（簡言之）用在把前面講過的內容收攏成一句結論，但空格後面是往下展開不是往回收，方向相反；Nevertheless（儘管如此）要求前後語意有轉折，這裡前後是同一個方向；Otherwise（否則）要求前面先有一個條件或指示、後面講不照做的下場，前一句沒有那個條件。【常考字詞與句型】for example（舉例來說）、in short（簡言之）、nevertheless（儘管如此）、otherwise（否則）、rinse A with B（用 B 沖洗 A）、keep ＋ 受詞 ＋ 形容詞（讓某物保持某個狀態，keep a toothbrush clean）。"
   },
   {
     "id": "Z103_15",
@@ -2644,7 +2651,8 @@
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
     "accuracyRate": 66,
     "discrimination": 16,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】let 後面該接什麼你大概不會卡，真正讓人猶豫的是 it 與 one 好像都能代替前面的 toothbrush，一時分不出來。【怎麼判斷】這是指標勾環：空格要的是一個回指前面東西的代名詞。先看結構，let 後面要接受詞再接原形動詞，所以空格是 let 的受詞；再問這個受詞指的是誰——同一句前半的 your toothbrush，而且是「你自己那一支」這一支特定的牙刷，所以用 it。填進去讀成 let it air dry（讓它自然風乾）。鑑別度只有 16，是本批最低的一題，但它本身不難：let 後面接受詞再接原形動詞是課本教過的句型，各種程度的人都答得出來，題目自然分不出高低。【干擾選項】one 代替的是「同類當中的任何一個」（I need a pen. Do you have one?），這一句講的是你手上那一支，不是隨便一支；the 是限定詞，後面一定要接名詞，不能單獨站著當受詞；which 是關係代名詞或疑問詞，前面既沒有逗號也沒有問句結構，接不上去。【常考字詞與句型】let ＋ 受詞 ＋ 原形動詞（讓某人或某物做某事）、air dry（自然風乾）、in an upright position（直立擺放）、it 與 one 的分工（it 指前面提過的那一個；one 指同類中的任一個）、store（存放、擺放）、share（共用）。"
   },
   {
     "id": "Z103_17",
@@ -2667,7 +2675,8 @@
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
     "accuracyRate": 49,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】across 這個字，你的印象大概只有走過馬路那個具體的動作（walk across the street），不太會想到它可以用在世代、族群這種抽象的範圍上。【怎麼判斷】答對率不到五成。先確定空格要的是什麼：is transferred 是被動，後面沒有受詞，所以空格填的是介系詞，帶出傳遞的範圍或方向。generations 是複數，講的是好幾個世代；學習要從上一代傳到下一代，跨越的是世代與世代之間，用 across（橫跨、遍及）。填進去讀成 how learning is transferred across generations（學習如何跨世代傳遞）。across 的具體義與這裡的抽象義是同一條線：都是從一邊到另一邊，只是這裡跨的不是馬路而是世代，這種「先有具體義、再往抽象推」的走法在介系詞題裡很常見。【干擾選項】beside（在……旁邊）講的是並排的位置，世代不是並排擺著的東西；upon 相當於較正式的 on，講的是接觸的表面或一發生就如何（upon arrival 一抵達），與傳遞的範圍無關；within（在……之內）方向剛好相反——它把範圍鎖在同一個世代裡面，但文章問的是上一代如何傳給下一代。【常考字詞與句型】across generations（跨世代）、transfer A to B（把 A 傳遞給 B）、pass down（代代相傳）、within（在……範圍之內）、upon arrival（一抵達）、conduct a study（進行研究）。"
   },
   {
     "id": "Z103_18",
@@ -2690,7 +2699,8 @@
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
     "accuracyRate": 77,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 結尾的副詞，都能放在逗號後面，形態上刷不掉，你只好一個一個代進去讀讀看。【怎麼判斷】鑑別度高達 55，分的是有沒有看出逗號前後兩樣東西的大小關係。逗號前是 animal learning and tool use（動物的學習與工具使用），是一個大範圍；逗號後是 the way young animals grow up and learn their way in the world（幼獸如何長大、如何摸索出自己在世界上的路），這是前面那個大範圍裡的一小塊，而且是她最感興趣的那一塊。從一個大範圍縮到裡面最突出的一項，用 especially（尤其是、特別是）。填進去讀成 interested in animal learning and tool use, especially the way young animals grow up。順帶留意逗號後 the way 直接接了一個完整的子句，中間什麼都不必加。【干擾選項】originally（原本、起初）要求後面講的是最早的情況，並與後來的改變成對照，這裡沒有這個時間對比；consequently（因此、結果）要求前面是原因、後面是結果，但後半並不是前半造成的；fortunately（幸好）是說話者對一件事的評價，逗號後只是把興趣的範圍講得更精確，沒有好運可言。三個都是 -ly 副詞，形態吻合，容易被順手選走。【常考字詞與句型】especially（尤其是、特別是）、be interested in（對……感興趣）、tool use（工具的使用）、consequently（因此、結果）、originally（原本、起初）、the way ＋ 完整子句（……的方式；the way 後面可接 that、可接 in which，也可以什麼都不接）。"
   },
   {
     "id": "Z103_20",
@@ -2713,7 +2723,8 @@
     "fullPassage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is __16__ ! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred __17__ generations.\nLonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very __19__ to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors __20__ like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
     "accuracyRate": 61,
     "discrimination": 32,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 be 動詞的不同形態排在一起，你會立刻認定這是時態題，開始比對前後其他動詞的時態。方向沒錯，但真正的線索不在別的動詞身上，在 our earliest ancestors 這幾個字上。【怎麼判斷】先把句型還原：what something is like 是問「某樣東西是什麼樣子」，句尾那個 like 是介系詞，前面的 what 正是它的受詞——這也是為什麼句尾的 like 不能拿掉。接著決定時態：談的是 our earliest ancestors（人類最早的祖先）的發展，那是極久以前的事，沒有人親眼看過，只能推測，所以要用對過去的推測 might have been（可能曾經是）。填進去讀成 what the development of our earliest ancestors might have been like。鑑別度只有 32，但它本身不難：might have ＋ 過去分詞是課本教過的常見組合，各種程度的人都答得出來，題目自然分不出高低。【干擾選項】is to be 與 will have been 都指向未來，但祖先的發展是過去的事，方向相反；was to be 是「注定要、預定要」，站在過去往後看、講的是後來果然發生的事（He was to become a famous scientist.），這一句不是在講後來發生了什麼，而是在推測當時的樣子。三個都是 be 的形態，形態吻合，容易被順手選走。【常考字詞與句型】might have been（可能曾經是，對過去的推測）、What is he like?（他是什麼樣的人？）、gain insight into（深入了解、看出門道）、be to V（注定要、預定要）、through V-ing（藉由做某事）、observe（觀察）。"
   },
   {
     "id": "Z104_11",
@@ -5524,7 +5535,8 @@
     "passageId": "102_11-15",
     "accuracyRate": 72,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】noise 這個字，你的印象大概只有「噪音」，帶著吵人、惱人的意思，所以看到魚在「說話」就不敢選它。其實 noise 泛指任何聲響，是中性的。【怎麼判斷】這是同義勾環：空格要的字，同一句後面已經先講出來了。句尾的 to produce or receive sound（發出或接收聲音）點明魚鰾的作用就是發聲，而空格前的 make a range of ______ 講的正是魚發出來的東西，sound 與 noise 是同一組意思，所以填 noises。動詞也對得上：make a noise（發出聲音）是成組的說法。整句讀成 make a range of noises（發出各式各樣的聲音）。【干擾選項】choices（選擇）與 objects（物體）都能接在 a range of 後面，形態吻合，容易被順手選走，但振動魚鰾產生的既不是選擇也不是物體；accents（口音、腔調）看起來與「說話」有關，但口音講的是說話的腔調，要先有語言才談得上口音，魚發出的只是聲響。【常考字詞與句型】make a noise（發出聲音）、a range of（一系列的、各式各樣的）、vibrate（振動）、be used as（被當作……使用）、attract mates（吸引配偶）、accent（口音、腔調）。"
   },
   {
     "id": "Z102_15",
@@ -5546,7 +5558,8 @@
     "passageId": "102_11-15",
     "accuracyRate": 40,
     "discrimination": 36,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是介系詞開頭的片語，中文都能說成「處於某種狀態」，你會覺得每一個好像都放得進去。【怎麼判斷】答對率四成。四個選項都是介系詞片語、都能接在 be 動詞後面當補語，形態上刷不掉，這一格考的是認不認得這幾個片語各自的意思。be out of luck 是「運氣不好、這下沒指望了」，用來對一個抱著期待的人說「你要失望了」。這一句的主詞正是那種人——any goldfish lover who hopes to strike up a conversation with their pet goldfish（任何一個想跟自己的寵物金魚攀談的人）。填進去讀成 is out of luck（就要失望了）。緊接著的下一句 Goldfish have excellent hearing, but they don't make any sound whatsoever（金魚聽力極好，卻完全不出聲）正是在說明為什麼沒指望，可以拿來驗算。【干擾選項】in the dark（被蒙在鼓裡、不知情）講的是消息沒被告知，但這一句的人並不是不知情，他是想做一件做不到的事；on the rise（正在增加、上升中）的主詞要是數量或趨勢，不會是人；off the record（私下說的、不可公開引述）用在講話的場合上，與想跟魚聊天無關——注意它的冠詞是齊的，形態上挑不出毛病，只能靠語意判斷。【常考字詞與句型】be out of luck（運氣不好、沒指望了）、strike up a conversation（攀談、搭話）、in the dark（被蒙在鼓裡、不知情）、on the rise（正在增加）、off the record（私下說的、不可公開引述）、not ... whatsoever（絲毫不、完全沒有）。"
   },
   {
     "id": "Z102_17",
@@ -5592,7 +5605,8 @@
     "accuracyRate": 51,
     "discrimination": 63,
     "contextSpan": "跨句",
-    "contextNote": "this move 概括前一句「只在週一到週五送信」的決定"
+    "contextNote": "this move 概括前一句「只在週一到週五送信」的決定",
+    "note": "【你可能會這樣想】move 這個字，你的印象大概只有動詞的「移動、搬家」，不太會想到它當名詞是「舉措、做法」。【怎麼判斷】答對率剛過五成，鑑別度高達 63，是本批最會分人的一題，分的是有沒有回頭把 this 的所指釘回前面。這是指標勾環：看到 this 帶著一個名詞，先問「這個 this 指的是前面哪一件事」，再看哪一個選項接得住。前面講的是郵政署決定週六不再送信（stop delivering mail on Saturdays），那是一個決定、一項做法；move 當名詞正是「舉措、行動」，this move 就是「這項措施」。填進去讀成 It is expected that this move will save about $2 billion a year（預計這項措施每年可省下約二十億美元）。這一句自己看不出該填哪一個名詞，四個填進去都合文法，線索一定在前面那幾句。【干擾選項】round（一回合、一輪）要有一連串重複的回合才說得通，這裡是一次性的決定；chance（機會）與 fact（事實）文法上都放得進去，形態吻合，容易被順手選走，但前面那件事既不是一個機會，也不是在陳述一項事實，而是一個做出來的動作。【常考字詞與句型】move（名詞：舉措、行動）、make a move（採取行動、有所動作）、It is expected that ...（預計、預期……）、this ＋ 名詞（回指前面提過的人事物）、a round of（一輪、一回合）、congressional approval（國會批准）。"
   },
   {
     "id": "Z103_11",
@@ -5614,7 +5628,8 @@
     "passageId": "103_11-15",
     "accuracyRate": 52,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是動詞，中文擺進去好像都能講通，於是憑語感挑一個。accumulate 這個字，你的印象大概停在「累積金錢、累積經驗」這種抽象的東西上，不太會想到細菌也會 accumulate。【怎麼判斷】答對率五成二，鑑別度高達 61，是本批最會分人的題目之一，分的是有沒有把句尾的 over time 當成線索用。先看空格前後：主詞 These germs 回指前一句的 bacteria，後面是 in toothbrushes over time。over time（隨著時間過去）點明這是一個「量愈來愈多」的過程，四個選項裡只有 accumulate（累積、聚積）講得出這種隨時間變多的意思。填進去讀成 germs can accumulate in toothbrushes over time（細菌會隨時間在牙刷裡愈積愈多），也正好接得上前一句的 toothbrushes can harbor bacteria（牙刷會藏細菌）。【干擾選項】establish（建立）是及物動詞，後面一定要有受詞（establish a system），這裡 can ______ in toothbrushes 沒有受詞，形態上就接不起來；crumble（碎裂成小塊）的主詞通常是餅乾、牆壁這類本身會碎掉的東西，細菌不會碎；radiate（向外發散、輻射）講的是光、熱、情緒往外散，方向與「聚在牙刷裡」相反，而且它習慣配 from 而不是 in。三個都是動詞原形，形態吻合，容易被順手選走。【常考字詞與句型】accumulate（累積、聚積）、over time（隨著時間過去）、harbor bacteria（藏有細菌）、crumble（碎裂成小塊）、radiate from（從……向外發散）、take care of（照顧、保養）。"
   },
   {
     "id": "Z103_16",
@@ -5636,7 +5651,8 @@
     "passageId": "103_16-20",
     "accuracyRate": 49,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】serve 這個字，你的印象大概只有「服務」，或是餐廳裡服務生端盤子那個畫面，不太會想到它就是「上菜、供餐」這個動作本身。【怎麼判斷】答對率不到五成，鑑別度高達 59，是本批最會分人的一題，分的是認不認得 Dinner is served. 這個餐桌上的固定說法。主動是 serve dinner（上菜、供餐），主詞是端菜出來的人；把 dinner 提到句首當主詞就成了被動 Dinner is served，中文就是「開飯了」。這一句是作者替黑猩猩下的旁白——牠用一根細長的草莖把小蟲挖出來，一頓晚餐就上桌了。【干擾選項】ordered（點餐、訂購）與 digested（消化）都能跟 dinner 擺在一起，形態也吻合，容易被順手選走；但黑猩猩不會點餐，而 Dinner is digested 講的是飯已經吃完消化掉了，與這一刻剛把蟲子挖出來的畫面對不上。propose 是「提議、求婚」，接不上 dinner。【常考字詞與句型】Dinner is served.（開飯了、飯菜上桌了）、serve（上菜、供餐；也作服務）、dig out（挖出）、pick up（撿起、拿起）、be good at（擅長）、digest（消化）。"
   },
   {
     "id": "Z103_19",
@@ -5658,7 +5674,8 @@
     "passageId": "103_16-20",
     "accuracyRate": 84,
     "discrimination": 41,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能擺在 very 後面，你會直接比中文哪一個讀起來順。【怎麼判斷】這一格靠空格後面那個介系詞就定得下來。空格後是 to those of humans，先問哪一個形容詞固定接 to 表示「與……相比」——是 similar，be similar to 是成組的說法。再看 those 指的是誰：它代替前面的 mother-child relationships，免得整組名詞再講一次，所以 those of humans 就是「人類的親子關係」。整句讀成黑猩猩的親子關係與人類的非常相似，也正好呼應前一句 shows a clear link between humans and the rest of the animal kingdom（顯示人類與其他動物之間有明顯的關聯）。【干擾選項】casual（隨性的、非正式的）與 direct（直接的）都不接 to 作比較；grateful（感激的）雖然也接 to，但 be grateful to somebody 接的是人、講的是感謝，與「兩者相像」無關。三個都是形容詞，形態吻合，容易被順手選走。【常考字詞與句型】be similar to（與……相似）、be different from（與……不同）、those of ＋ 名詞（代替前面提過的複數名詞，避免整組重講）、mother-child relationship（親子關係）、make and use tools（製造並使用工具）、be grateful to somebody（感謝某人）。"
   },
   {
     "id": "Z104_12",
