@@ -2936,7 +2936,8 @@
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
     "accuracyRate": 51,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】前一句剛說每天要進行的反應多到數不清（the infinite amount of reactions），你的眼睛還停在「好多」這個印象上，看到 All 會覺得順理成章。四個選項 Any、All、None、More 都是數量詞，後面都接得了 of these reactions，文法上一個也刷不掉。【怎麼判斷】四個選項都是數量詞加 of，可見這一格考的不是形態，而是這一句到底在說多還是說少。定案的字是句尾的 without enzymes（在沒有酵素的情況下）。全篇的主軸是酵素不可或缺，所以這一句要說的是：沒有酵素，這些反應一個也不可能發生，也就是 None of these reactions are possible without enzymes。還原成完整的條件句驗算：If there were no enzymes, none of these reactions would be possible.（如果沒有酵素，這些反應沒有一個能發生。）再往下讀一句，Enzymes consist of various types of proteins that work to drive the chemical reactions，正是在解釋酵素怎麼推動反應，方向完全一致。答對率約五成，鑑別度 58，分的就是有沒有把 without 讀進去：只讀到前半句「無限多的反應」就停下來的人，會往數量很多的方向填。【干擾選項】All 讀起來是「沒有酵素這些反應全都能發生」，與下一句以及整篇的主軸正好相反。Any 在肯定句裡是「任何一個都」，方向與 All 相同；它要表達「一個也沒有」必須有 not 撐著，這就是國中學過的 not … any 等於 no，把 not 拿掉就換不出否定的意思。More 是比較級，句中既沒有 than，也沒有拿來比的對象，而且「更多的反應」講的是數量增減，與「可不可能發生」是兩回事。【常考字詞與句型】none of ＋ 複數名詞（…之中沒有一個）、not … any ＝ none（沒有任何一個）、carry out a reaction（進行反應）、an infinite amount of（多到數不清的）、separate A from B（使 A 有別於 B）、every single day（每一天，single 用來加強語氣）"
   },
   {
     "id": "Z106_17",
@@ -2959,7 +2960,8 @@
     "fullPassage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. __16__ of these reactions are possible without enzymes. Enzymes consist of various types of proteins that work to drive the chemical reactions __17__ for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so __18__ . This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a __20__ to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
     "accuracyRate": 41,
     "discrimination": 24,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是 require 的四種形態排在一起，你會直覺認定這是文法題，然後開始想「反應是主動需要，還是被需要」。方向沒錯，但很多人在這裡繞了遠路：句子前面已經有一個 that work to drive… 的關係子句，再看到 for certain types of nutrients to take effect 這一長串，很容易讀成「反應需要某些營養素生效」，於是選了主動的 requiring。【怎麼判斷】先數這一句有幾套主詞與動詞。主要子句是 Enzymes consist of…，關係子句是 that work to drive the chemical reactions，到這裡成分已經滿了；空格後面沒有連接詞、也沒有關係代名詞，所以空格不可能再放一個限定動詞，requires 先出局（何況 reactions 是複數，也對不上 requires）。剩下三個裡，requiring 用同一招刷掉：require 是及物動詞，主動就一定要有受詞，但空格後面直接接 for … to … 這一串，找不到受詞可接。答案是過去分詞 required，還原成完整子句就是 the chemical reactions that are required for certain types of nutrients to take effect（某些營養素要發揮效用所需要的化學反應）。掛鉤是國中的 a boy called Tom：分詞單獨一個的時候放在名詞前面（a broken window），一旦後面還掛著東西，整串就得移到名詞後面。答對率四成一，鑑別度只有 24，吃虧的反而是文法練得熟的人：required 的意義主詞是 reactions，而 for certain types of nutrients 是 to take effect 的意義主詞，兩層意義主詞疊在一起，越是仔細去分主動被動，越容易把這兩層讀混。【干擾選項】requires 是限定動詞形式，前面沒有連接詞可以再帶一個子句，主詞單複數也對不上。requiring 是主動，後面缺受詞。to require 當後位修飾（postmodifier）時帶有「將要、有待」的意味（the reactions to require attention 指還沒被處理的反應），與本句「已經是必需的」對不上，而且同樣是主動、同樣缺受詞。【常考字詞與句型】be required for（為…所必需）、take effect（生效、發揮效用）、consist of（由…組成）、drive a reaction（推動反應）、speed up（加快）、either A or B（不是 A 就是 B）"
   },
   {
     "id": "Z106_18",
@@ -3007,7 +3009,8 @@
     "accuracyRate": 79,
     "discrimination": 44,
     "contextSpan": "跨句",
-    "contextNote": "however 轉折前一句對酶的正面評價"
+    "contextNote": "however 轉折前一句對酵素的正面評價",
+    "note": "【你可能會這樣想】however 這個字，你的印象大概只有它站在句首、後面接一個逗號（However, …）。本題它夾在主詞 Enzymes 與動詞 do not always function 之間，前後各一個逗號，位置一陌生就會覺得「這裡放不了 however」，轉而去挑看起來比較像插入語的字。【怎麼判斷】四個選項 hereafter、instead、likewise、however 都是副詞，文法上都插得進兩個逗號中間，可見這一格考的是前後兩句的邏輯方向。前一句 This is why enzymes are crucial in the sustenance of life on earth 說酵素對維繫地球生命至關重要，本句 Enzymes … do not always function perfectly 卻說它們並非總是完美運作，一正一反，要的是表相反的轉承語，四個選項裡只有 however 站在反方向。至於位置，therefore、however 這一類詞歸在「連接副詞」（linking adjunct）底下，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today），插在主詞與動詞之間、前後用逗號隔開是很常見的寫法。鑑別度 44，分的是有沒有真的把前後兩句的方向擺在一起比對，而不是只憑哪個字看起來像插入語。【干擾選項】likewise（同樣地）要求前後同向，但前句在說酵素多重要、本句在說它會出錯，方向相反。instead（取而代之）要求「不是 A 而是 B」的替換關係，前一句並沒有被推翻掉。hereafter（此後、今後）是時間副詞，多見於法律與公文，本題前後兩句之間沒有時間先後可分。【常考字詞與句型】not always（並非總是，部分否定）、function perfectly（運作良好）、be crucial in／to（對…至關重要）、This is why …（這就是為什麼…）、however 插在主詞與動詞之間（前後各用一個逗號隔開）、the sustenance of life（生命的維繫）"
   },
   {
     "id": "Z107_12",
@@ -3078,7 +3081,8 @@
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
     "accuracyRate": 45,
     "discrimination": 28,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】前一段一路在否認：名字聽起來嚴重、其實通常不嚴重；很多人以為是缺鈣缺鋅、其實不是。整段這個「其實不是」的框架很強，讀到 In reality 開頭的這一句，你會順著那個框架覺得這裡也在轉折，於是 in spite of（儘管）看起來特別對味。【怎麼判斷】四個選項都是介系詞片語、後面都接名詞，可見這一格考的是空格前後兩件事的關係。前面是 these spots most often develop（這些斑點多半會長出來），後面是 mild to moderate trauma to your nail（指甲受到輕度到中度的創傷），創傷是原因、斑點是結果，要的是表結果的 as a result of。把它換成 because of 讀一次，語意完全成立，這是最快的驗算法。另外提醒一個常見的落差：develop 這個字，你的印象大概只有「發展、開發」，在醫學語境裡它是不及物的「（症狀）出現、長出來」，認出這一點才看得到原因與結果這條線。答對率四成五，鑑別度只有 28：整段的否認框架太強，讀得越進去的人越容易覺得這一格當然又是在轉折，忘了先確認這一句自己在做什麼事。【干擾選項】in spite of（儘管）要求前後語意相反，但輕到中度的創傷正是斑點出現的原因，不是阻力。to the best of 只出現在 to the best of my knowledge、to the best of my ability 這幾個說法裡，後面固定接 knowledge、ability、belief 這類名詞，接 trauma 根本不成句，片語本身的形態就不完整，可以一眼刷掉。for the sake of（為了…的緣故）表目的，斑點不會為了創傷而長出來。【常考字詞與句型】as a result of（由於…的結果）、result in（導致）、result from（起因於）、to the best of my knowledge（就我所知）、for the sake of（為了…的緣故）、mild to moderate（輕度到中度的）"
   },
   {
     "id": "Z107_19",
@@ -3101,7 +3105,8 @@
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
     "accuracyRate": 59,
     "discrimination": 34,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Supposing、Including、Whatever、Whether 四個排在一起，其中兩個是 -ing 形，你很容易先認定這是分詞的題目，開始找意義主詞、分主動被動。選項的排列方式本身就是陷阱，這一題根本不走分詞那條路。【怎麼判斷】先看空格後面接的是什麼。空格後是 the source of the injury 這個名詞片語，接著一個逗號，再接完整的主要子句 these spots typically do not require any treatment…。也就是說，空格帶的這一串裡沒有動詞，能站在這個位置的只有可以省略 be 動詞的讓步結構：Whatever (is) the source of the injury（無論受傷的原因是什麼）。省略主詞與 be 動詞這一招，就是課本教過的 While (he was) walking home。驗算法很簡單：把 Whatever 換成 No matter what 讀一次，語意完全成立。另外提醒一個落差：whatever 你的印象大概只有它單獨當代名詞用的「隨便、無所謂」（Whatever you say.），其實它也可以直接掛在名詞前面，意思是「無論哪一個」。鑑別度只有 34，吃虧的反而是文法練得熟的人：看到兩個 -ing 排在一起就進了分詞的程序，找不到動詞就把 Whatever 排掉，繞一大圈回到原點。【干擾選項】Supposing（假如）等於 if，後面要接完整的子句（Supposing it rains, what will we do?），本題沒有動詞可接。Including（包括）確實已經整組轉成介系詞、後面接名詞沒錯，但語意會變成「包括受傷的原因在內」，與主要子句「不需要治療」接不起來。Whether 要嘛接 or not、要嘛接 A or B、要嘛帶一個子句，單獨接一個名詞片語不成立。【常考字詞與句型】whatever ＋ 名詞（無論哪一個…）、no matter what（無論什麼，與 whatever 可互換）、go away（消失、痊癒）、grow out（長出來）、require treatment（需要治療）、supposing（假如，等於 if）"
   },
   {
     "id": "Z108_11",
@@ -3124,8 +3129,9 @@
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
     "accuracyRate": 65,
     "discrimination": -3,
-    "discriminationNote": "答對率65%屬於中等偏易，鑑別度卻是小幅負值(-3)，這正好符合大考中心官方說明「答對率較高的易題，鑑別度數值容易偏小」的現象——當多數考生（不分程度）都能答對時，高低分群的差距自然就會縮小，屬於統計上的正常波動，不代表題目本身有嚴重瑕疵。",
-    "contextSpan": "句內"
+    "discriminationNote": "答對率 65% 屬於中等偏易，鑑別度卻是小幅負值（-3），這正好符合大考中心官方說明「答對率較高的易題，鑑別度數值容易偏小」的現象——當各種程度的人都答得出來時，高低分群的差距自然就會縮小，屬於統計上的正常波動，不代表題目本身有嚴重瑕疵。",
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】句子前面已經有 including（包括）帶出三位名人，你會覺得名單交代完了，句尾再補一個片語顯得多餘；among others 拆開來看又像是「在其他人之中」，讀起來像半截話，於是先把它排掉，改在另外三個比較眼熟的片語裡挑。【怎麼判斷】先看空格站的位置：整串列舉的最後、逗號之後、句號之前。這個位置在英文裡有一個固定的功能，就是告訴讀的人「名單還沒列完」，而 among others（以及其他人）正是專門站這個位置的片語（劍橋詞典 among others 條目）。它與 including 不但不衝突，還常常一起用：including 從前面打開名單，among others 從後面收尾，兩個都在說「這只是其中一部分」。整句還原驗算：把 among others 換成一句白話，就是 and there are others as well.（還有其他人。）本題的鑑別度是小幅負值（-3），代表高分群考生在這一格並沒有比別人佔到便宜；遇到這種題，把每個選項擺回句尾讀完整句，不要因為看起來重複就先排除。【干擾選項】if any（若有的話）用在數量有可能是零的時候（few, if any 幾乎沒有；correct the mistakes, if any 有錯的話請訂正），但這裡三位名人已經確定存在。in short（簡言之）是把前面一長段收成一句結論，後面要接的是概括的說法，不會接在人名清單後面。at best（充其量、往好處說也不過）帶貶意，與整段講非洲時尚受國際名流青睞的正面語氣相反。【常考字詞與句型】among others（以及其他人、其他事物）、catch the eyes of（吸引…的目光）、if any（若有的話）、in short（簡言之）、at best（充其量）、lead to（導致、帶來）"
   },
   {
     "id": "Z108_12",
@@ -3148,7 +3154,8 @@
     "fullPassage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, __11__ . Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, __12__ she got an opportunity to interact with various cultures at a young age. __13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global __14__ , making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely __15__ in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
     "accuracyRate": 84,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到逗號後面要填一個字，你可能會先想「這裡需要一個連接詞或轉承語」，於是 that 或 whether 看起來都有機會。這一題的重點其實不在語意，而在空格前面站的是什麼。【怎麼判斷】規則只有一句話：wh- 詞前面接的是名詞，它就是回頭補充說明那個名詞的關係子句。空格前面是 in Europe 的 Europe，是地點名詞；空格後面 she got an opportunity to interact with various cultures at a young age 是一個成分完整的子句。地點名詞加上成分已滿的子句，要的是關係副詞 where（非限定用法，前面用逗號隔開）。還原成兩句話驗算：She received her education in Europe, and in Europe she got an opportunity to interact with various cultures. where 等於 and there，也可以換成 in which。這一題本身不難，鑑別度 39，分的是有沒有先確認逗號後面已經是一個完整的子句。【干擾選項】there 是副詞，不能引導子句；兩個完整的子句中間只有一個逗號、沒有連接詞，會變成逗號黏接的病句。that 是關係代名詞，一定要在子句裡佔一個位置（當主詞或受詞），但 she got an opportunity… 的成分已經滿了，沒有位置給它；而且 that 不用在逗號後的非限定用法。whether 是「是否」，帶出的是兩種不確定的可能，與「她在那裡得到機會」接不起來。【常考字詞與句型】where 引導非限定關係子句（等於 and there）、receive one's education（接受教育）、interact with（與…互動）、at a young age（在年幼時）、be born in（出生於）、one of the best-known ＋ 複數名詞（最知名的…之一）"
   },
   {
     "id": "Z108_13",
@@ -3172,7 +3179,8 @@
     "accuracyRate": 62,
     "discrimination": 53,
     "contextSpan": "跨句",
-    "contextNote": "Interestingly 承接前一句她的求學經歷，帶出令人意外的轉折"
+    "contextNote": "Interestingly 承接前一句她的求學經歷，帶出令人意外的轉折",
+    "note": "【你可能會這樣想】Interestingly 這個字，你的印象大概只有「有趣地」，會以為它在形容某件事很好玩；而本句講的是她有瑞士的法律碩士學位，聽起來一點也不好玩，於是就把它排掉了。【怎麼判斷】四個選項都是 -ly 副詞放在句首、後面接逗號。站在這個位置的副詞修飾的不是某一個動詞，而是整句話，它標記的是作者對這件事的看法。所以這一格要問的是：作者覺得這件事怎麼樣？線索要往前一句拿。前面說她出生在奈及利亞的拉哥斯、在歐洲受教育，而整篇講的是她成為全球知名的時裝設計師；本句突然冒出「法律碩士」，後半句又用 but as fate would have it（但命運就是這麼安排）把她推回時尚設計。學法律的人最後做時尚，這個反差正是作者要標記的「出乎意料」，所以填 Interestingly（有趣的是）。鑑別度 53，分的是有沒有回頭把前面那段求學經歷讀進來；只讀本句的話，四個副詞塞進去都不至於不通。【干擾選項】Generally（一般而言）後面要接的是通則或多數情況，本句講的是某一個人的單一事實。Ideally（理想上）帶出的是與現實有落差的期望，本句陳述的卻是既成事實。Relatively（相對而言）需要有比較的對象，本句沒有拿她與任何人比。【常考字詞與句型】as fate would have it（命運就是這麼安排）、a master's degree in（…的碩士學位）、lead sb into（引領某人走向）、one's passion for（對…的熱情）、interestingly（有趣的是，句首的評注副詞）、relatively（相對地，需要有比較對象）"
   },
   {
     "id": "Z108_16",
@@ -3195,7 +3203,8 @@
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
     "accuracyRate": 71,
     "discrimination": 43,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「介系詞加名詞」的片語，都可以掛在名詞後面，讀起來都像是在補充說明那 420 條電纜。如果對這幾個片語只有模糊的印象，這一題就變成猜。【怎麼判斷】先問空格補充的是什麼。there are over 420 submarine cables ___ 講的是現在有超過 420 條海底電纜處於某種狀態，所以空格要的是一個表狀態的片語。in service 就是「使用中、運作中」（劍橋詞典 in service：being used），它有一個天天看得到的對照組，就是公車與捷運車廂上的 Out of Service（暫停服務）。把 in service 擺回去讀一次：如今全世界有超過 420 條海底電纜正在運作，總長超過 70 萬英里，語意完全順。鑑別度 43，分的是認不認得這一組片語，本題不必回頭讀上下文。【干擾選項】at large 有兩個常見意思，the public at large 是「一般大眾」，逃犯 at large 是「在逃」，兩個都掛不到電纜身上。by contrast（相較之下）是轉承語，要用逗號隔開放在句首或句中，用來對比兩件事，這裡既沒有對比的對象，它也不能直接當名詞的修飾語。under control（在控制之下）講的是局面沒有失控（The situation is under control.），電纜不是被控制住的東西。【常考字詞與句型】in service（使用中、運作中）、out of service（暫停服務、故障中）、at large（一般大眾；在逃）、under control（受到控制）、stretch over（綿延、長達）、a submarine cable（海底電纜）"
   },
   {
     "id": "Z108_17",
@@ -3218,7 +3227,8 @@
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
     "accuracyRate": 55,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】though 這個字，你的印象大概只有連接詞的「雖然」，而且一定要站在句首帶一個子句（Though it was raining, we went out.）。本題它單獨掛在句尾，前面一個逗號、後面就是句號，位置一陌生就會覺得這樣不成句。【怎麼判斷】先看空格站的位置：It is not a new phenomenon, ___. 空格前是逗號、後是句號，整句只有一套主詞與動詞，所以空格要的是一個副詞。though 除了當從屬連接詞，也可以當副詞，常掛在句尾表示「不過」，用來補上與前面所說相反的一句（劍橋 English Grammar Today 的 though 條目）。口語裡很常聽到：It's expensive. I like it, though.（很貴，不過我喜歡。）語意方向也對得上：前面才說今天有超過 420 條電纜在運作、綿延 70 萬英里，聽起來像是新科技，本句卻說這並不是新現象，正好需要一句表相反的補充。鑑別度 54，分的是知不知道 though 還有副詞這個身分。【干擾選項】then（那麼）也能放句尾（What did you do then?），但它表示的是「既然如此」的推論，前面沒有可以拿來推論的條件。still（仍然）當副詞時通常站在主詞與動詞之間或句首，不掛在句尾的逗號後面，而且它是「仍然」，不表相反。instead（取而代之）確實可以放句尾（I didn't go; I stayed home instead.），所以位置刷不掉它，要靠語意：instead 要求「不是 A 而是 B」的替換，本句沒有被替換掉的東西。【常考字詞與句型】though（掛在句尾當副詞：不過、然而）、even though（雖然，後面接完整子句）、instead（取而代之，可放句尾）、a new phenomenon（新現象）、make sth possible（使…成為可能）、carry Internet traffic（承載網路流量）"
   },
   {
     "id": "Z108_18",
@@ -3241,7 +3251,9 @@
     "fullPassage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables __16__ , stretching over 700,000 miles around the world. It is not a new phenomenon, __17__ . The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. __18__ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra __19__ to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general __20__ . The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
     "accuracyRate": 49,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "Suitably 靠前一句的 highest-capacity 才看得出名字取得貼切",
+    "note": "【你可能會這樣想】Suitably 這個字，你的印象大概只有 suitable（合適的），而且會覺得它只能用在「適合某個場合」（suitable for children）。看到 Suitably named 會愣一下，反而是 Constantly、Vitally 這幾個比較常見的副詞讀起來比較安心。【怎麼判斷】四個選項都是 -ly 副詞，修飾的都是後面的過去分詞 named，可見這一格問的是「這個名字取得怎麼樣」。線索在前一句：the world's highest-capacity undersea Internet cable（世界容量最大的海底網路電纜），而這條電纜的名字叫 FASTER（更快）。容量最大、傳輸最快的電纜取名叫 FASTER，名字與事實完全相符，所以是 Suitably named（取得恰如其分）。答對率不到五成，鑑別度 51，分的是有沒有回頭把前一句的 highest-capacity 讀進來；只看本句的話，句子只講了電纜連接哪些地方，看不出名字貼不貼切。【干擾選項】Constantly（不斷地）修飾的是反覆發生的動作，但命名這件事只發生一次，「不斷被命名」語意矛盾。先看副詞修飾的那個動作能不能重複發生，這一招很快。Vitally（至關重要地）幾乎只用來修飾形容詞（vitally important），不修飾 named。Mockingly（嘲諷地）方向相反，全篇對這條電纜都是正面陳述，沒有任何嘲諷。【常考字詞與句型】suitably named（取名恰如其分）、be named after（以…命名）、connect A with B（連接 A 與 B）、be suitable for（適合…）、vitally important（極為重要）、the world's highest-capacity（世界容量最大的）"
   },
   {
     "id": "Z107_18",
@@ -3264,7 +3276,8 @@
     "fullPassage": "Many people at some point in life have white spots on their fingernails. One of the most common causes for these little white spots is a condition called leukonychia. Although the name sounds pretty serious, the condition typically __16__ . And while many people think the white spots are caused by a calcium or zinc deficiency, that's generally not the case.\nIn reality, these spots most often develop __17__ mild to moderate trauma to your nail. If you can't think of anything that would have injured your nail, consider the fact that nails grow very slowly, so the injury __18__ weeks before the spots ever appeared. The spots could also be a sign of a mild infection or allergy, or a side effect of certain medications.\n__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out. And they should not return unless you suffer another injury to a nail. However, this generally __20__ when only a single or a few nails are affected. If all of your nails are showing white spots, the leukonychia could be related to another more serious condition such as anemia, cardiac disease, diabetes, or kidney disease.",
     "accuracyRate": 45,
     "discrimination": 41,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「助動詞加動詞」，你會先去分 may 與 might、will 與 would 的強弱差別，在情態上打轉。真正的分水嶺其實不在那裡，而在有沒有 have 加過去分詞。【怎麼判斷】先找時間標記。句尾寫著 before the spots ever appeared，appeared 是過去式，表示斑點出現已經是過去的事；而受傷又發生在斑點出現之前，那就是比過去更早。掛鉤是國中的 By the time I got there, he had left.，一樣是把時間再往前推一格。不過這兩件事要分清楚：he had left 是過去完成式，單純陳述「更早發生」這個事實；本題還多了一層「推測」，所以不能只換時態。要用「情態助動詞 ＋ have ＋ 過去分詞」這個組合，讓 may 負責推測、have occurred 負責把時間往前推，答案就是 may have occurred（當時可能已經發生了）。同一句前半還有一個現成的示範：If you can't think of anything that would have injured your nail，作者已經用 would have injured 對過去做過一次推測，空格要的是同一件事。答對率四成五，鑑別度 41，分的是有沒有把句尾那個過去式當成時間軸的錨點。【干擾選項】might occur 的 might 確實也能表推測，但沒有 have 加過去分詞就只能講現在或未來可能發生，本句的受傷早已發生。would occur 是站在過去某個時間點往後看，與「比 appeared 更早」的方向相反。will have occurred 是未來完成式，站在未來某個時間點回頭看，本句的時間軸卻整個在過去，先看時間標記就能一刀刷掉。【常考字詞與句型】may／might have ＋ 過去分詞（對過去的推測：當時可能已經…）、would have ＋ 過去分詞（對過去的推測，或與過去事實相反）、occur（發生，不及物）、think of（想到）、consider the fact that …（想想…這個事實）、grow slowly（生長緩慢）"
   },
   {
     "id": "Z109_14",
@@ -5892,7 +5905,7 @@
     "hasFullPassage": true,
     "passageId": "107_11-15",
     "accuracyRate": 33,
-    "note": "答對率 33%。【你可能會這樣想】comparison 你認得，難在要先看懂 keeping up with the Joneses 這個文化片語。Joneses 是英文裡最常見的姓氏之一，用來代稱「隔壁鄰居」；整句意思是「跟鄰居比排場、不能輸給人家」，很接近中文的「輸人不輸陣」。【同句就有線索】it refers to the ___ to one's neighbors as a standard for social status（把…鄰居當作社會地位的衡量標準）——既然是「當作衡量標準」，那個動作必然是「比較」。而且空格後面接的是 to，comparison to／with sb 正是字詞搭配。【干擾選項】similarity 是「相似之處」，語意接近卻不對——重點不是「像不像鄰居」，而是「跟鄰居比高下」；reaction 需要接 to 某個刺激；attachment to 是「對…的依戀」。【常考字詞與句型】in comparison to／with（與…相比）、compare A with B（把 A 與 B 比較）、keep up with the Joneses（與人攀比）、keep up appearances（維持體面）。",
+    "note": "答對率 33%。【你可能會這樣想】comparison 你認得，難在要先看懂 keeping up with the Joneses 這個文化片語。Joneses 是英文裡最常見的姓氏之一，用來代稱「隔壁鄰居」；整句意思是「跟鄰居比排場、不能輸給人家」，很接近中文的「輸人不輸陣」。【同句就有線索】it refers to the ___ to one's neighbors as a standard for social status（把…鄰居當作社會地位的衡量標準）——既然是「當作衡量標準」，那個動作必然是「比較」。而且空格後面接的是 to，comparison to／with sb 正是字詞搭配。【干擾選項】similarity 是「相似之處」，語意接近卻不對——重點不是「像不像鄰居」，而是「跟鄰居比高下」；reaction 需要接 to 某個刺激；attachment to 是「對…的依戀」。【常考字詞與句型】in comparison to／with（與…相比）、compare A with B（把 A 與 B 比較）、refer to（指的是）、as a standard for（作為…的標準）。",
     "discrimination": 33,
     "contextSpan": "句內"
   },
@@ -5916,7 +5929,8 @@
     "passageId": "107_11-15",
     "accuracyRate": 60,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 The 後面空一格，你會先想「這裡要填一個名詞」，而 phrase、signal、material、analysis 四個都是名詞，好像都填得進去。「這個素材因同名漫畫而普及」「這個訊號因同名漫畫而普及」讀起來也不算不通，於是就變成憑印象挑一個。【怎麼判斷】關鍵在同一句裡的 of the same name（同名的）。既然那部漫畫與空格裡的東西同名，空格裡的就必須是一樣有名字、而且名字可以被漫畫沿用的東西，四個選項裡只有 phrase（說法、片語）站得住。再看空格前的定冠詞 The：定冠詞表示這個名詞前面已經提過（Halliday 與 Hasan「Cohesion in English」講的指稱銜接），回頭一看，第一句就寫著 \"Keeping up with the Joneses\" is a catchphrase，本句的 The phrase 指的正是它。兩條線索指向同一個答案。鑑別度 65 是本批最高的幾題之一，分的就是有沒有把 The 釘回前面那句 catchphrase；只讀本句、憑四個名詞的中文意思挑一個的人，很容易停在 material 或 signal。【干擾選項】signal（訊號）在文中沒有任何指涉的對象，也不會因為一部漫畫而普及。material（素材、材料）雖然可以說 the material，但前文沒有提過任何素材，定冠詞 The 就沒有著落。analysis（分析）與漫畫、慣用語都搭不上，一份分析也不會有同名的漫畫。【常考字詞與句型】a catchphrase（流行語、慣用語）、of the same name（同名的）、popularize（使普及、推廣）、a comic strip（連環漫畫）、be perceived as（被視為）、a loss of face（沒面子、丟臉）"
   },
   {
     "id": "Z107_14",
@@ -5938,7 +5952,8 @@
     "passageId": "107_11-15",
     "accuracyRate": 63,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】adapt 這個字，你的印象大概只有「適應」（adapt to a new environment），所以看到 adapted 會覺得它跟漫畫沒關係。四個選項 adapted、admitted、advanced、advised 都是 ad- 開頭的過去分詞，長得很像，形態上一個也刷不掉。【怎麼判斷】四個選項都是過去分詞、都接在 was 後面成為被動，可見這一格考的是字義，而定案的線索是空格後面的 into books, films, and musical comedies。into 表示「變成另一種形式」，四個動詞裡只有 adapt 走這個搭配：adapt A into B 是「把 A 改編成 B」，被動就是 be adapted into B。整句還原：這部漫畫在美國報紙上連載二十八年，最後被改編成書籍、電影與音樂喜劇。順便把 adapt 與 adopt 分清楚，這兩個字只差一個字母卻常混在一起：adapt 是「使適應、改編」，adopt 是「採用、領養」。鑑別度 55，分的是有沒有拿 into 當線索，而不是只憑對這四個字的模糊印象挑一個。【干擾選項】admitted 的 admit 是「承認」或「准許進入」（admit sb into a school），把一部漫畫「承認成書籍與電影」語意不成立。advanced 的 advance 是「推進、提前」，advance into 指的是軍隊推進到某地，漫畫不會推進成電影。advised 的 advise 走的是 advise sb to V 與 advise sb on sth，根本不接 into。【常考字詞與句型】adapt A into B（把 A 改編成 B）、be adapted from（改編自）、adapt to（適應）、adopt（採用、領養，與 adapt 只差一個字母）、run in newspapers（在報紙上連載）、be published in（刊登於）"
   },
   {
     "id": "Z107_15",
@@ -5960,7 +5975,8 @@
     "passageId": "107_11-15",
     "accuracyRate": 56,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「動詞加介系詞」的片語動詞，改成被動之後長得都一樣，放進 they were merely ___ 讀起來也都成句。如果只讀到空格為止就停下來，這一題等於在四個片語裡亂猜。【怎麼判斷】這一句整個靠 but 前後一正一反鎖死。but 後面是 never actually seen in person（從未真正露面），講的是「用眼睛看到」；那麼 but 前面的 merely ___ 就必須是與「看見」對立、而且分量更輕的一件事，也就是只被人用嘴巴提到，spoken of（被談論）。結構上再驗算一次：speak of sb 是「談到某人」，改成被動時介系詞不能丟，要寫成 sb is spoken of，這與課本教過的 The doctor was sent for.（去把醫生請來了）是同一個機制。鑑別度 59，分的是有沒有把 but 之後那半句讀完再回頭填。【干擾選項】checked out 的 check out，你的印象大概只有旅館「退房結帳」，它也有「查看、借出」的意思，但這幾個意思都不與「露面」對立。watched over（看顧、守護）裡的 watch 本身就是「看」，與後面的 never … seen 語意矛盾，同一句話不會說「他們只是被看著，卻從沒被看見」。traded with（與…交易）與露不露面完全無關。【常考字詞與句型】speak of（談到、提及）、be spoken of（被談論，改被動時介系詞要留在後面）、in person（親自、本人）、merely（僅僅、只不過）、check out（退房結帳；查看；借出）、watch over（看顧、守護）"
   },
   {
     "id": "Z107_20",
@@ -6086,7 +6102,8 @@
     "passageId": "108_11-15",
     "accuracyRate": 72,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】recognition 這個字，你的印象大概只有「認出、辨識」（face recognition 人臉辨識），一想到辨識就覺得它跟服裝設計沒關係。四個選項 recognition、motivation、supervision、preparation 都是 -tion 結尾的抽象名詞，形態上一個也刷不掉。【怎麼判斷】兩個地方一起看就定案了。第一是動詞 earn：earn sb sth 是「為某人贏得某物」，贏得的必須是名聲、地位、好處這一類別人給的東西。第二是句尾的 making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week，句尾的現在分詞片語在補充說明前面整句話所造成的結果（劍橋 English Grammar Today 的 -ing clause 表 result），還原成 and it made her the first…。既然結果是成為首位在紐約時裝週展現才華的非洲設計師，那空格要的就是「被看見、被肯定」，也就是 global recognition（全球的肯定）。recognition 除了「辨識」，更常用的意思正是公開的認可。鑑別度 63 是本批最高的幾題之一，分的是有沒有把句尾的 making 片語當成結果來讀，再回頭問什麼樣的東西會造成這個結果。【干擾選項】motivation（動機、幹勁）是自己內在的東西，不是別人賺給你的，earn her global motivation 語意矛盾。supervision（監督）與後面「成為首位登上時裝週的設計師」這個結果接不起來，earn 也不用來賺得監督。preparation（準備）是過程不是成果，earn 後面要的是成果。【常考字詞與句型】earn sb sth（為某人贏得…）、global recognition（全球的肯定、國際知名度）、in recognition of（為表彰…）、tasteful（有品味的）、showcase one's talent（展現才華）、for two consecutive years（連續兩年）"
   },
   {
     "id": "Z108_15",
@@ -6131,7 +6148,9 @@
     "passageId": "108_16-20",
     "accuracyRate": 47,
     "discrimination": 68,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "care 靠下一句列出的珊瑚礁、沉船等障礙來驗算",
+    "note": "【你可能會這樣想】care 這個字，你的印象大概只有動詞的「在乎、關心」（I don't care.）或 take care of 的「照顧」，很難把它跟鋪設電纜連起來。句子又短，The submarine cables require extra ___ to install. 四個名詞放進去讀起來都成句，於是就變成憑感覺挑。【怎麼判斷】先用形態刷一次：link 是可數名詞，extra link 前面少了冠詞、後面也沒有變複數，形態本身就不完整，可以直接出局。剩下三個都能當不可數用，得靠字詞搭配定案：require care 是很穩的組合，意思是「需要小心處理」，extra 再加強一層就是「格外小心」。care 當不可數名詞時正是「小心、謹慎」，掛鉤是紙箱上常看到的 Handle with care.（小心輕放）。往下讀一句就能驗算：They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds…（必須沿著海床平坦處鋪設，並避開珊瑚礁、沉船、魚群棲息地），整句都在講施工時要多小心。答對率四成七，鑑別度 68 是本批最高的一題，分的正是有沒有動手往下讀一句去確認，還是停在四個名詞的中文意思上猜。【干擾選項】speed（速度）方向相反，下一句列出那一堆要避開的東西，說明的是慢工細活而不是求快。light（光）會讓人聯想到最後一段的 fiber-optic cables（光纖電纜），但那是電纜運作時用光傳訊號，不是安裝時需要光；看到一個剛剛好像看過的選項，那正是要停下來驗算的訊號，不是選它的理由。link（連結）除了形態不完整，語意也繞回自己：電纜本身就是 link，說「安裝需要額外的連結」等於什麼都沒說。【常考字詞與句型】require extra care（需要格外小心）、handle with care（小心輕放）、with care（小心地）、take care of（照顧、處理）、install a cable（鋪設電纜）、a fiber-optic cable（光纖電纜）"
   },
   {
     "id": "Z108_20",
@@ -6153,7 +6172,8 @@
     "passageId": "108_16-20",
     "accuracyRate": 54,
     "discrimination": 49,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是複數名詞，文法上都填得進 and other ___。如果只盯著空格看，obstacles（障礙物）與 directions（方向）好像都講得通，aquariums 又因為前面剛出現 fish beds（魚群棲息地）而顯得眼熟。【怎麼判斷】這一題的線索是 and other 這個結構本身。英文列舉時常用「A, B, C, and other ＋ 概括名詞」收尾，而 other 後面那個名詞必須能把前面列的東西全部收進去。前面列的是 coral reefs（珊瑚礁）、sunken ships（沉船）、fish beds（魚群棲息地），三者的共同點不是形狀也不是位置，而是鋪設電纜時都要避開，所以概括名詞就是 obstacles（障礙物）。句中的動詞 stay clear of（避開、遠離）也把答案框死了，它後面接的必定是該閃開的東西。鑑別度 49，分的是有沒有把 and other 當成「請你找上位概念」的訊號。【干擾選項】directions（方向）不是東西，珊瑚礁與沉船也不能算是方向。aquariums（水族館）是拿前面的 fish beds 做出來的誘答，但水族館是陸地上的人造建築，不會出現在海床上，眼熟不等於正確。circulations 的 circulation 講的是血液循環、空氣流通，或報刊的發行量，與該避開的障礙毫無關係。【常考字詞與句型】stay clear of（避開、遠離）、A, B, and other ＋ 概括名詞（…以及其他…）、an obstacle to（…的障礙）、a coral reef（珊瑚礁）、a sunken ship（沉船）、prevent damage（防止損壞）"
   },
   {
     "id": "Z109_11",
