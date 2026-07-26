@@ -3742,7 +3742,8 @@
     "hasFullPassage": true,
     "passageId": "Z98參_11-15",
     "contextSpan": "跨句",
-    "contextNote": "Besides 累加前一句已提到的化石燃料優點"
+    "contextNote": "Besides 累加前一句已提到的化石燃料優點",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是擺在句首的轉承說法，中文一個一個讀都像「而且、總之、相反地」，很容易憑語感挑。Likely 特別容易被讀成「很可能」而選它。【怎麼判斷】轉承語不能只看它自己的中文，要先確定前後兩句是同方向還是反方向，所以這一格一定要回頭讀前一句。前一句說燒了就能產生大量能源（優點一），這一句說 fossil fuels are readily available and are currently plentiful（容易取得、目前供應充足），還是優點。同方向再加一項，就是 Besides（此外、而且）。同一段的下一句 However 才是真正的反方向，兩個轉承語擺在一起看最清楚：Besides 往上加、However 往回轉。【干擾選項】Likely 是形容詞「可能的」，不是轉承語，不能單獨放在句首帶出一整句；要表達「很可能」得寫成 Most likely 或 It is likely that ...。In sum（總而言之）用在整段收尾做總結，但這一句是在補充新的一點，後面文章還很長。On the contrary 用來否定前面那句話（前面說 A，其實不是 A），這一句沒有推翻前一句，是在加碼。【常考字詞與句型】besides（此外、而且）、in sum（總而言之）、on the contrary（正好相反）、be readily available（容易取得）、plentiful（充足的）、It is likely that ...（很可能……）"
   },
   {
     "id": "Z98參_13",
@@ -3762,7 +3763,9 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_11-15",
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "前一句講的是對化石燃料整體的依賴造成能源安全風險，本句把範圍縮小到石油",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是 in ＋ 名詞的片語，長得像一家人，很容易憑眼熟挑。in contrast 又特別誘人，因為前面剛出現過 However，整段看起來都在對比。【怎麼判斷】這一格的線索在前一句，句內找不到。前一句說的是 Dependence on fossil fuels ... creates energy security risks（對化石燃料的依賴造成能源安全風險），講的是化石燃料整體；這一句的主詞換成 Oil dependence（對石油的依賴），而石油是化石燃料的一種，範圍縮小了。從整體縮到其中一項，用的是 in particular（尤其、特別是）。關鍵在分辨「縮小」與「對比」：in contrast 要求兩邊是可以並排比較的兩樣不同東西，但石油與化石燃料是包含關係，並排不起來，對比這條路一開始就不通。【干擾選項】in advance（事先、預先）講的是時間上提前，與這一句無關。in charge（負責、掌管）要接 of 才能帶出負責的範圍（be in charge of），而且主詞通常是人或機構，不會是一種依賴。in contrast 見上。【常考字詞與句型】in particular（尤其、特別是）、in contrast（相對地、對照之下）、in advance（事先、預先）、be in charge of（負責、掌管）、energy security（能源安全）、political instability（政治不穩定）"
   },
   {
     "id": "Z98參_15",
@@ -3782,7 +3785,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_11-15",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是介系詞片語，一個一個看都很眼熟，很容易憑語感挑。in effect（實際上）尤其誘人，因為前半句剛說化石燃料其實一直在慢慢形成，讀起來像要接一個「實際上」。【怎麼判斷】看空格後面接的是什麼：approximately 100,000 times faster than they are formed（比它們形成的速度快大約十萬倍）。那是一個速度，所以空格要填的必須是能帶出速度的說法，四個選項裡只有 at a rate 是講速率的（at a rate of ＋ 數量）。整句的對等連接詞是 but，它連的是兩個子句——前面說「其實一直在慢慢形成」、後面說「我們用掉的速度快十萬倍」，一慢一快正好對立，這也再次確認後半句的重點在速度。【干擾選項】in effect（實際上、事實上）是副詞片語，後面不接名詞，直接放進去會讓 100,000 times faster 整串懸空。by all means（當然可以、務必）用在答應對方的請求或加強語氣，與速度無關。on the point of 後面要接動名詞，意思是「正要做某事」（be on the point of leaving），既接不上後面的比較級，意思也不對。【常考字詞與句型】at a rate of（以……的速率）、in effect（實際上、事實上）、by all means（當然、務必）、be on the point of V-ing（正要做某事）、use up（用光）、times faster than（比……快幾倍）"
   },
   {
     "id": "Z98參_18",
@@ -3802,7 +3806,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_16-20",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是連接用的字，中文各有各的道理，很容易一個一個代進去讀語感。therefore 尤其誘人，因為這一句後半確實是結果——我們往往只把房子當成住的地方。【怎麼判斷】這一題適合把並列結構的判準完整走一次，分三步。第一步，先找對等連接詞：空格前面有一個 and——because it is with us every day and ______ we must have houses to live in。第二步，確定 and 連的是哪兩樣。and 可以連名詞、連片語、也可以連子句，層級抓錯就整題錯；這裡 and 後面是一個完整的子句（we must have houses to live in），所以前面對應的那一段也必須是同一層級的東西，正是 because it is with us every day 這個副詞子句。第三步，從已經寫出來的那一邊反推空白的那一邊。依據在空格左邊：左邊已經寫死是 because 引導的原因子句，右邊照抄，所以空格只能是 because。整句還原成 because it is with us every day and because we must have houses to live in, we are apt to ...（因為它天天都在身邊，也因為我們非得有房子住不可，我們往往……）。這三步的順序不能顛倒，同一篇的第 19、20 題也走同一條路，三題連著練最省力。【干擾選項】although（雖然）是讓步，會讓兩個並列的子句一正一反，但這裡兩個都是原因，方向必須一致。likewise（同樣地）與 therefore（因此）都是轉承副詞，不是從屬連接詞，後面不能直接帶一個子句去跟前面的 because 子句並列；而且真正的結果子句在逗號後面（we are apt to ...），therefore 就算要用也擺錯位置了。【常考字詞與句型】because A and because B（因為 A，也因為 B）、be apt to V（往往會、容易……）、think of A as B（把 A 當成 B）、dwelling place（住所）、solely（僅僅、只）、likewise（同樣地）"
   },
   {
     "id": "Z98參_19",
@@ -3822,7 +3827,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z98參_16-20",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】逗號後面接一個字再接 with，很容易讀成「而且也跟紐約街頭有關」，於是往 but 那種轉折的方向想。【怎麼判斷】照第 18 題那三步走。第一步找對等連接詞：這裡沒有 and，但逗號加上空格那個字站的就是連接的位置。第二步看它連的是哪兩樣：前面是 with French cathedrals or Italian palaces or Greek temples（三個 or 並列的名詞，全是遠方的古典建築），後面是 with New York or Chicago streets or Los Angeles suburbs（三個 or 並列的名詞，全是眼前的美國城市）。兩邊結構完全對稱，都是「with ＋ 三個並列的地名」，這種對稱本身就是最強的線索。第三步從兩邊的內容反推：整段正在說我們誤以為建築是某種模糊高深的東西，所以這一格要把身邊那一組排除掉——A, not B（是 A，不是 B）。【干擾選項】but 雖然也表對比，但它連接的後半仍然是成立的（不是被否定的）；這裡要說的是「我們沒把紐約街頭算進去」，是排除不是轉折。often（經常）與 then（然後）都是副詞，接不起兩個 with 片語，放進去整句會斷掉。【常考字詞與句型】A, not B（是 A，不是 B）、have to do with（與……有關）、cathedral（大教堂）、palace（宮殿）、suburb（郊區）、vague（模糊不清的）"
   },
   {
     "id": "Z91_18",
@@ -6560,7 +6566,8 @@
     "passageId": "Z98參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】整篇一直在講化石燃料帶來的麻煩（vulnerable、pollution、risks），先入為主之下很容易覺得這一格要填 problem；source 也很誘人，因為「化石燃料是能源的來源」讀起來很順。【怎麼判斷】這一句的結構是 One ______ of using fossil fuels is that ...，be 動詞後面那個 that 子句就是空格的定義，把它讀完等於答案已經寫在紙上：it can generate large amounts of energy by the simple process of burning（燒一燒就能產生大量能源）。那是好處，所以填 advantage。這種「主詞裡有個空格、後面用 is that 把它解釋清楚」的句子，一律先跳到 that 子句去讀，比在四個選項之間猜快得多。全篇的走向也支持它：第 11、12 兩格先講兩個優點，第三句才用 However 轉到缺點，前一句的 vulnerable 不能拿來決定這一格。【干擾選項】problem 方向相反，填進去會變成「問題是它能產生大量能源」，語意矛盾。source 的常見組合是 a source of energy（能源的來源），但這裡是 One ______ of using fossil fuels，of 後面接的是「使用」這個行為而不是能源本身，而且 source 也接不住 is that 這個定義句。grace（優雅、恩典）與這個語境無關。【常考字詞與句型】an advantage of ＋ V-ing（做某事的優點）、The advantage is that ...（優點在於……）、a source of energy（能源的來源）、generate energy（產生能源）、fossil fuels（化石燃料）、by the simple process of ＋ V-ing（藉由……這個簡單的過程）"
   },
   {
     "id": "Z98參_14",
@@ -6580,14 +6587,15 @@
     "passageId": "Z98參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】exhausted 這個字，你的印象大概只有「（人）筋疲力盡的」，很難立刻想到它講資源時是「被用光的」。decayed（腐爛的）反而看起來與化石燃料由有機物形成的印象搭得上，很容易被挑走。【怎麼判斷】空格前面的關係子句已經把答案定義完了：non-renewable resources, which will eventually decline in production and become ______（不可再生的資源，產量終將下降，並且變得 ______）。這裡的 and 連的是 decline in production 與 become ______ 兩個述部，兩邊方向必須一致——產量一路下滑，最後的結果就是用光。exhaust 當動詞是「用盡、耗盡」（exhaust the supply），被動的 be exhausted 就是「被用光」；人「筋疲力盡」其實是同一個意思用到身體上，把體力用光了，兩個意思接得起來。【干擾選項】decayed（腐爛、衰敗）講的是東西本身變質，但資源用完不是腐爛，而且真正腐爛的是幾億年前那些生物，不是現在的存量。hollowed（挖空的）用在物體被挖出空腔（a hollowed-out tree trunk），不用在存量上。intensified（增強的）方向相反，產量正在下降。【常考字詞與句型】be exhausted（被用光、耗盡）、exhaust the supply（耗盡存量）、non-renewable resources（不可再生資源）、decline in production（產量下降）、eventually（最終、終究）、be dependent on（依賴）"
   },
   {
     "id": "Z98參_16",
     "year": "99課綱適用參考試卷",
     "source": "指考參考試卷(99課綱適用)",
     "blankNum": 16,
-    "category": "字彙選義",
+    "category": "介系詞",
     "sentence": "We are in general insensitive to architecture __16__ an art and to the joy it may bring to us.",
     "options": {
       "A": "as",
@@ -6600,7 +6608,8 @@
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是最常見的功能詞，看起來哪一個都塞得進去；like 特別誘人，因為「把建築當成像藝術一樣」讀起來也很順。【怎麼判斷】先看整句的結構：insensitive to architecture ______ an art and to the joy it may bring to us。第二個 to 前面有 and，可見 insensitive to A and to B 是並列的兩項，所以空格那一段是掛在 architecture 後面說明它身分的修飾語，不是另起一個並列項。而它的身分，篇章第一句已經講死了：Architecture is an art.。這正是介系詞 as 的「以……的身分、當作」用法，還原成子句就是 architecture, which is an art。【干擾選項】like 是「像……一樣」，言下之意是「其實不是」，與第一句 Architecture is an art. 直接衝突——文章的立場是建築就是藝術，不是像藝術。of 表所屬或性質（a man of honor），architecture of an art 講不通。or 是對等連接詞，會把 an art 變成與 architecture 並列的另一樣東西，但這一句只在講一樣東西。【常考字詞與句型】as ＋ 名詞（以……的身分、當作）、be insensitive to（對……無感、不敏銳）、regard A as B（把 A 視為 B）、bring joy to somebody（為某人帶來喜悅）、in general（一般而言）、like ＋ 名詞（像……一樣）"
   },
   {
     "id": "Z98參_17",
@@ -6620,7 +6629,9 @@
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "in this way 回指前一句「我們對建築這門藝術普遍無感」",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是過去分詞，接在 has 後面組成現在完成式，文法上都放得進去；treated 語意最中性，很容易被當成安全牌。【怎麼判斷】關鍵在句尾的 in this way（變成這樣），它是回指，指的是前一句剛講完的狀態：We are in general insensitive to architecture as an art（我們對建築這門藝術普遍無感）。所以空格要填的動詞，必須能造成「無感」這個結果。再往前看，篇章第二句早就埋了伏筆：either it is bad art or we are abnormally blind（不是作品差，就是我們瞎得反常）。blind 當動詞是「使看不見、蒙蔽」，has blinded us in this way 就是「把我們變成這樣看不見」，前後完全接得起來。另外這一句是強調句型 It is ... that ...，還原成 The constant nearness of architecture has ______ us，主詞是「天天就在身邊」這件事，不是建築本身。【干擾選項】treated（對待）語意太空，「以這種方式對待我們」沒有說出造成什麼結果，接不住 in this way 所指的「無感」。guided（引導）與 pleased（取悅）方向都相反，引導與取悅不會讓人變得無感；pleased 還會與第二句的 Any art must give us pleasure 撞在一起，讀起來像在說藝術成功了，與整段的批評剛好相反。【常考字詞與句型】blind somebody to something（使某人對……視而不見）、in this way（以這種方式、變成這樣）、It is ... that ...（強調句型，把要強調的部分提到 It is 後面）、constant（持續不斷的）、nearness（就在身邊、貼近）、please（取悅）"
   },
   {
     "id": "Z98參_20",
@@ -6640,7 +6651,8 @@
     "passageId": "Z98參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是過去分詞接在 are 後面，文法上都通；描述眼睛時 pleased 與 excited 是最常見的搭配，讀起來很順。【怎麼判斷】三步判準的第三個例子，這一題的依據在空格右邊。第一步找對等連接詞：our eyes are ______ and our minds are deadened。第二步確定 and 連的是哪兩樣：兩個完整的子句，結構完全對稱，都是「身心的某個部分 ＋ be 動詞 ＋ 過去分詞」。第三步從已經寫出來的那一邊反推：右邊是 deadened（被弄得麻木、失去感覺），左邊必須同方向，也是感覺被鈍化的意思，dulled（變遲鈍、變鈍）正是。第 18 題的依據在左邊、這一題在右邊，兩題擺一起就知道判準不變、只是要往哪邊看而已。本站 91 年第 18 題（may seem ______ but provide just a drop in the bucket）也是依據在右邊的例子，只是那一題的連接詞是 but、兩邊要一正一反。【干擾選項】pleased（高興的）與 excited（興奮的）方向相反，都是正面的，與 deadened 對不起來，也與整句「錯誤的觀念害我們看不見身邊的美」矛盾。justified（站得住腳的、有正當理由的）講的是說法或做法合不合理，主詞通常是決定、行為或主張，不會說「眼睛是站得住腳的」。【常考字詞與句型】dull（使遲鈍、使變鈍）、deaden（使麻木、使失去感覺）、false belief（錯誤的觀念）、strengthen（強化、加深）、be justified（站得住腳的、有正當理由的）、until（直到……為止）"
   },
   {
     "id": "Z102參_11",
@@ -6660,7 +6672,8 @@
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個是同一個字的不同形態，會讓人立刻進入文法模式；又因為主要子句已經有動詞 build，很多人會想「這裡應該是不定詞表目的」而選 to contain。【怎麼判斷】先看空格前後：前面是名詞 kits，後面是三個並列的名詞（a block of pine, plastic wheels, and metal axles）。整句的主要動詞 build 已經有了，空格不可能再放一個限定動詞，contain 先出局。剩下的問題是「掛在 kits 後面的修飾語該用哪一種形態」。用修飾語後置的通則：分詞單獨一個時放在名詞前面（a barking dog、a broken window），一旦後面還帶著受詞，整串就得移到名詞後面（the man standing there）。這裡分詞後面帶著三個名詞，當然要放在 kits 後面。再分主動被動：kits 是「內含」這些零件的一方，是主動關係，所以用現在分詞 containing，還原成關係子句就是 kits that contain a block of pine ...。【干擾選項】contained 是過去分詞、走被動關係，還原成 kits that are contained（被裝在裡面的套件），主客顛倒了——被裝進去的是木塊與輪子，不是套件。to contain 表目的或還沒發生的事，但套件不是「為了要內含零件」才做出來的，它本來就內含這些零件，講的是既有的狀態。contain 是原形，句中已有主要動詞，不能再放一個。【常考字詞與句型】kits containing ＋ 名詞（內含……的套件）、a block of wood（一塊木頭）、build A from B（用 B 做出 A）、a barking dog（吠叫的狗，分詞單獨一個放名詞前面）、the man standing there（站在那裡的那個人，分詞帶了東西就放名詞後面）、axle（車軸）"
   },
   {
     "id": "Z102參_12",
@@ -6680,14 +6693,15 @@
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是動詞片語，長得像，很容易憑眼熟挑；put up with 因為也有一個 up，特別容易與 come up with 混成一團。【怎麼判斷】先看空格後面的受詞：the idea of racing miniature wooden cars（讓迷你木頭車比賽這個點子）。能與 idea 組在一起的是「想出」——come up with an idea，配合前半句的過去式，本題寫成 came up with。再看前半句給的因果：Murphy's son was too young to participate in the popular Soap Box Derby races, so he ______ the idea ...（兒子年紀太小不能參加，所以他 ______ 這個點子）。so 要求後面是前面的結果，「想出一個替代的玩法」才接得上；這種 so 前後的因果關係，往往比逐一比對片語的中文更快定案。【干擾選項】drop out 是「退出、輟學」，不及物，後面不能直接接受詞，要說 drop out of the race。make out 常見的意思是「看出、辨認出」（make out the words in the dark），後面接的是難以辨識的東西，不是點子。put up with 是「忍受」（put up with the noise），忍受一個點子與 so 帶出的因果完全對不上。【常考字詞與句型】come up with an idea（想出一個點子）、drop out of（從……退出、輟學）、make out（看出、辨認出）、put up with（忍受）、be too young to V（年紀太小，不能……）、participate in（參加，participate 是不及物動詞，一定要有介系詞）"
   },
   {
     "id": "Z102參_13",
     "year": "99課綱適用參考試卷(102年施測)",
     "source": "指考參考試卷(99課綱適用，102年施測)",
     "blankNum": 13,
-    "category": "字彙選義",
+    "category": "介系詞",
     "sentence": "The Scout is given a block of wood made of pine __13__ two notches for wheels, four plastic wheels, and four nails.",
     "options": {
       "A": "in",
@@ -6700,7 +6714,8 @@
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】學過「with ＋ 受詞 ＋ 受詞補語」表附帶狀態的人，一看到 with 就會想套那個句型，然後開始找受詞補語，找不到反而懷疑自己選錯；也有人因為後面 for wheels 裡已經有一個 for，覺得空格再填 for 太重複而把它排掉。【怎麼判斷】先問這是哪一種 with。課本教的 with ＋ 受詞 ＋ 受詞補語，受詞後面一定跟著一個說明它處於什麼狀態的補語，而且還原得出「受詞是／處於那個狀態」：with the door open 還原成 the door is open、with tears in her eyes 還原成 tears were in her eyes。拿這個方法驗算本題：with two notches for wheels，for wheels 說的是凹槽的用途（裝輪子用的），不是凹槽當下的狀態，還原不成附帶狀態。再看 with 後面其實是三個並列的名詞（two notches for wheels、four plastic wheels、and four nails），受詞補語只針對一個受詞說話，後兩項後面什麼都沒帶，若說第一項多帶一個補語，並列就不對等了。下一句還給了決定性的證據：The finished car must use all nine pieces——九個零件是一塊木頭加四個輪子加四根釘子，凹槽是木塊上的特徵、不算零件，可見 with 後面那一串就是「拿到哪些東西」的清單。所以這裡是單純的 with ＋ 名詞，意思是「附有、連同」。同一篇的 with 連這一格共出現五次，三種用法：with the help of parents（在……的協助下）、本題的「附有」、以及 with their dads, grandfathers、with each other、with family, friends（和……一起），沒有一處是 with ＋ 受詞 ＋ 受詞補語，可見看到 with 不能反射性地套那個句型。真正考那個句型的題，受詞後面會站著一個過去分詞或介系詞片語明白描述狀態。【干擾選項】in 表「在……裡面」，a block of wood in two notches 會變成木頭在凹槽裡，主客顛倒。by 表方法或經手者（made by hand），木塊不是靠兩個凹槽做出來的。for 表用途，a block of wood for two notches 變成「為了兩個凹槽而準備的木塊」，方向也反了；句中真正需要 for 的是 notches for wheels 那一組，已經寫在那裡了。【常考字詞與句型】with ＋ 名詞（附有、連同）、with the help of（在……的協助下）、with ＋ 受詞 ＋ 受詞補語（表附帶狀態，例如 with the door open）、be made of（用……做的，看得出原料）、be given ＋ 名詞（被給予……）、made by hand（手工製作）"
   },
   {
     "id": "Z102參_14",
@@ -6720,14 +6735,16 @@
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "前一句 The Scout is given a block of wood 點明拿到材料的是童軍本人",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】只讀這一句的話，四個都放得進去——每一場比賽、每個童軍、每位團長、每位家長，中文讀起來都成立，所以光看句內是選不出來的。而且文章開頭提過 with the help of parents（在家長協助下），parent 會顯得特別有理。【怎麼判斷】線索在前一句，要回頭讀。前一句是 The Scout is given a block of wood ...（拿到材料的是童軍），接著 The finished car must use all nine pieces（完成的車必須用上全部九個零件）。這一整段從頭到尾都在說童軍拿到什麼、要做出什麼，所以「可以自己雕刻與裝飾」的當然也是童軍本人，填 scout。句尾的 as he chooses（照他自己的意思）指的也是同一個人。這一題示範的是一個很實用的習慣：句內四個選項都通的時候，不要硬在句內比較，往前一句找那個一直在做事的人。【干擾選項】race（比賽）不會雕刻東西，主詞與動詞對不上。master（團長）在文章裡只出現一次，是辦第一屆比賽的 Cub Master Don Murphy，那是特定的一個人、不是每一屆都有的角色，Each 修飾不上去。parent（家長）雖然開頭提過會幫忙，但「幫忙」與「自己決定怎麼雕、怎麼裝飾」是兩回事，而且最後一段講得很清楚，這件事的重點是孩子與爸爸、爺爺一起做。【常考字詞與句型】carve（雕刻）、decorate（裝飾）、as he chooses（照他自己的意思）、be able to V（能夠……）、exceed a certain weight（超過一定的重量）、fit on the track（放得上軌道）"
   },
   {
     "id": "Z102參_15",
     "year": "99課綱適用參考試卷(102年施測)",
     "source": "指考參考試卷(99課綱適用，102年施測)",
     "blankNum": 15,
-    "category": "連接詞／轉承語",
+    "category": "關係子句／疑問詞",
     "sentence": "The great thing about the race is that the boys build the cars with their dads, grandfathers, or __15__ they choose.",
     "options": {
       "A": "whatever",
@@ -6740,14 +6757,15 @@
     "passageId": "Z102參_11-15",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個 -ever 長得像一家人，中文都能說成「不論什麼、不論哪裡、不論哪一個、不論是誰」，很容易憑語感挑；whichever 尤其誘人，因為前面確實列了幾個人可以挑。【怎麼判斷】又是那三步。第一步找對等連接詞：or。第二步確定它連的是哪兩樣——their dads, grandfathers, or ______，三個並列的成分，前兩個都是「人」。第三步從已知的兩項反推空格：既然前兩項是人，第三項的語意類別也必須是人，wherever（地方）與 whatever（東西）先出局。剩下 whichever 與 whomever，差別在範圍：whichever 是「在限定好的幾個之中挑哪一個」，這一句沒有限定範圍，說的是「或是他們選的任何人」，所以用 whomever。再確認格位：whomever 是動詞 choose 的受詞（they choose whomever），要用受格；而 whomever they choose 整串又當介系詞 with 的受詞。這一類複合關係代名詞自己帶著先行詞，whomever ＝ anyone whom，與 whatever（等於 anything that）屬於同一組。【干擾選項】whatever（不論什麼東西）與 wherever（不論在哪裡）語意類別不對，跟前兩項的「人」並列不起來——並列不只形態要對等，語意類別也要同一類。whichever 要求選擇的範圍是封閉的一組（whichever of the two you like），本句沒有這個前提。【常考字詞與句型】whomever（不論是誰，等於 anyone whom）、whatever（不論什麼，等於 anything that）、whichever（不論哪一個，範圍已限定）、build the cars with（和……一起做車）、quality time（相處的好時光）、It's not about A; it is about B（重點不在 A，而在 B）"
   },
   {
     "id": "Z102參_16",
     "year": "99課綱適用參考試卷(102年施測)",
     "source": "指考參考試卷(99課綱適用，102年施測)",
     "blankNum": 16,
-    "category": "慣用語／片語",
+    "category": "字彙選義",
     "sentence": "Good manners make the social world easier to navigate. They provide guidelines to __16__ in times of uncertainty and reduce the chance of awkward exchanges.",
     "options": {
       "A": "confront",
@@ -6760,14 +6778,15 @@
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是常見動詞，文法上都放得進 to 後面；lead 特別誘人，因為 guidelines（準則）與 lead（帶領）聽起來意思相近，會讓人覺得「指引本來就是要帶路」。【怎麼判斷】先確認空格與哪個名詞成組：guidelines to ______（可以 ______ 的準則）。這個不定詞是回頭修飾 guidelines 的，還原成 guidelines that we can ______。所以真正要問的是：準則是拿來做什麼的？是拿來遵守的，follow guidelines、follow the rules 是固定的組合。順便看整句的 and 連的是哪兩樣：They provide guidelines to ______ ... and reduce the chance of awkward exchanges——and 連的是 provide 與 reduce 兩個述部，共用主詞 They，不是連 ______ 與 reduce。層級一抓錯，就會以為空格要跟 reduce 對齊而繞遠路。【干擾選項】confront（面對、對峙）後面要接被面對的難題（confront the problem），準則不是拿來對峙的。remove（移除）的受詞是要拿掉的東西，把準則移除與這一段在講禮節的好處剛好相反。lead 當「帶領」時後面要有被帶的人（lead the team），當「導致」時要接 to（lead to confusion），放進 guidelines to ______ 這個位置兩種用法都不成立。【常考字詞與句型】follow guidelines（遵守準則）、follow the rules（遵守規定）、lead to（導致）、confront a problem（面對問題）、in times of uncertainty（在不確定的時候）、reduce the chance of（降低……的機會）"
   },
   {
     "id": "Z102參_17",
     "year": "99課綱適用參考試卷(102年施測)",
     "source": "指考參考試卷(99課綱適用，102年施測)",
     "blankNum": 17,
-    "category": "字彙選義",
+    "category": "介系詞",
     "sentence": "A world __17__ good manners would be confusing and potentially confrontational.",
     "options": {
       "A": "about",
@@ -6780,7 +6799,8 @@
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是介系詞，後面都接得上 good manners，一個一個讀好像都不算太怪，很容易憑感覺挑。【怎麼判斷】關鍵在動詞的形態：would be。句子裡沒有 if 子句卻用了 would，通常代表條件被藏進主詞裡了——A world ______ good manners 這一整包名詞組就是那個條件，等於 If there were no good manners in the world, it would be ...。這是課本教的與現在事實相反的假設語氣：if 子句用過去式、主要子句用 would ＋ 原形。既然與事實相反，而現實中是有禮節的，那個假設就只能是「沒有禮節的世界」，所以填 without。後半句的預測（會令人困惑、可能起衝突）也只有從「沒有禮節」才推得出來。【干擾選項】about（關於）會變成「一個關於禮節的世界」，不成句。through（穿過、藉由）接不起 world 與 manners 的關係。under 雖然可以說 under the rules（在規則之下），但那樣禮節是存在的，推不出「令人困惑、可能起衝突」，也與 would be 的假設語氣對不上。【常考字詞與句型】without ＋ 名詞（沒有……）、if 子句用過去式配主要子句 would ＋ 原形（與現在事實相反的假設）、under the rules（在規則之下）、confrontational（好起衝突的、對立的）、potentially（可能地）、confusing（令人困惑的）"
   },
   {
     "id": "Z102參_18",
@@ -6800,7 +6820,8 @@
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是形容詞，都修飾得了 environment，中文一個一個讀都成立；mental（心理的）特別誘人，因為前面一直在講禮節帶來的感受。【怎麼判斷】看動詞與受詞的組合：connect people to their ______ environment（把人與他們的 ______ 環境連起來）。被連起來的是人與人，所以那個環境裡必須有別人在。下一句把答案講得更白：Respecting good manners shows a desire to actively engage with a community and the people in it（想主動與社群、以及社群裡的人往來），community 與 people 都指向 social。全篇第二句 Good manners make the social world easier to navigate 更是直接用過同一個字。【干擾選項】rural（鄉村的）與禮節無關，文章沒有城鄉的討論。clinical（臨床的、醫療的）用在醫學情境。mental（心理的）講的是一個人腦袋裡的狀態，但 connect people to 要求的是人與人之間的連結，不是人與自己內心的連結。【常考字詞與句型】connect A to B（把 A 與 B 連起來）、social environment（社會環境、人際環境）、engage with（與……往來、投入）、community（社群）、navigate（順利穿行、應付）、mental（心理的）"
   },
   {
     "id": "Z102參_19",
@@ -6820,14 +6841,15 @@
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】四個都是 V-ing 擺在句首當主詞，文法上都放得進去，很容易只憑中文語感挑；Missing 看起來也像「錯過了學禮節的機會」。【怎麼判斷】判準在空格後面那個 to。四個字裡只有 fail 後面固定接不定詞——fail to V（沒能做到、未能……）。miss 後面接動名詞或名詞（miss doing something、miss the chance），pass 後面接受詞或介系詞，wait 雖然也能接 to V，但意思是「等著要做」。所以先用搭配定案，答案是 Failing；再確認語意：沒能做到有禮貌，會讓人被看出來、被區隔開來，與前一句「尊重禮節顯示願意融入」正好相反。這一題示範的是：選項都是動詞的同一種形態時，往往不是在考形態，而是在考「哪個動詞跟後面那個介系詞或不定詞是一組的」，先看空格後面比先看選項有效。【干擾選項】Missing to adopt 不成立，miss 後面要接動名詞（missing the chance to adopt 才對）。Passing to adopt 沒有這個用法。Waiting to adopt（等著要養成禮節）文法上通，但語意接不上 sets people apart，而且與前後文的批評語氣不合。【常考字詞與句型】fail to V（沒能做到、未能……）、miss V-ing（錯過做某事）、wait to V（等著要做某事）、set somebody apart（使某人與眾不同、把某人區隔開）、adopt good manners（養成良好的禮節）、V-ing 當主詞（動名詞開頭的一整串當主詞，動詞用單數）"
   },
   {
     "id": "Z102參_20",
     "year": "99課綱適用參考試卷(102年施測)",
     "source": "指考參考試卷(99課綱適用，102年施測)",
     "blankNum": 20,
-    "category": "字彙選義",
+    "category": "句型結構",
     "sentence": "We might forgive people who let their manners slip, but we'll feel more positive about and strongly connected to those who __20__.",
     "options": {
       "A": "don't",
@@ -6840,6 +6862,7 @@
     "passageId": "Z102參_16-20",
     "answer_source": "official_key",
     "hasFullPassage": true,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題屬參考試卷（非正式施測），無官方答對率資料。【你可能會這樣想】空格在句尾，後面什麼都沒有，很容易覺得句子還沒寫完而不知道該填什麼；看到 those who 也有人反射性地想找形容詞，於是挑了 are 或 aren't。【怎麼判斷】這一格考的是替代——用一個助動詞代替前面剛出現過的整串動作，避免重複。國中就學過：Do you like it?—Yes, I do.（do 代替 like it）、When in Rome, do as the Romans do.（後面那個 do 替代前面的動作）。本題被代替的動作就在同一句前半：let their manners slip（讓自己的禮節鬆懈）。整句用 but 分成一正一反——前半是「我們也許會原諒那些禮節鬆懈的人」，後半要講的是相反的一群人，也就是「不讓自己禮節鬆懈的人」，those who don't ＝ those who don't let their manners slip。把被代替的動作還原出來讀一次就確定了。這裡也用得上並列的三步判準：對等連接詞是 but，它連的是兩個子句，依據寫在左邊那一半，右邊照著它反過來說。【干擾選項】do 方向相反，會變成「我們對那些同樣讓禮節鬆懈的人感覺更好」，與 but 要求的轉折矛盾。are 與 aren't 是 be 動詞，代替不了 let their manners slip 這個一般動詞的動作——要被代替的是什麼詞類的動詞，就得用同一類的助動詞；而且 those who are 後面缺補語，句子並不完整。【常考字詞與句型】those who ＋ 動詞（……的那些人）、let one's manners slip（禮節有所鬆懈）、do 代替前面出現過的動作（例如 Yes, I do.）、feel positive about（對……感覺良好）、be connected to（與……有連結）、forgive somebody（原諒某人）"
   }
 ]
