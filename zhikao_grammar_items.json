@@ -220,7 +220,8 @@
     "passageId": "92_24-30",
     "accuracyRate": 49,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是單字介系詞，形態上都放得進去，你會憑中文挑一個。【怎麼判斷】答對率不到五成，鑑別度高達 55。空格後面是 steel construction（鋼構工法），一個名詞組；主要子句是 buildings could then have a great many stories（建築物於是能蓋很多層）。兩者的關係是「有了前者，才有後者」——有了鋼構工法，樓才蓋得高。表示「有了……」用 With。填進去讀成 With steel construction, buildings could then have a great many stories。還有一個看得見的印證：主要子句裡的 then（於是、那時候）正好呼應 With 帶出來的那個前提。【干擾選項】In（在……之中）後面接的是空間或範圍；For（為了；因為）帶出的是目的或原因，但鋼構工法不是蓋高樓的目的；Beside（在……旁邊）講的是位置。三個都是介系詞，形態吻合，容易被順手選走。【常考字詞與句型】with ＋ 名詞（有了……）、without ＋ 名詞（沒有……）、a great many ＋ 複數名詞（許多的）、story（樓層；故事）、construction（建造、工法）、beside（在……旁邊）。"
   },
   {
     "id": "Z92_29",
@@ -242,7 +243,8 @@
     "passageId": "92_24-30",
     "accuracyRate": 54,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 invent 的不同形態，你會先想時態，但這一題真正要先判的是語態。【怎麼判斷】鑑別度高達 55。先判語態：主詞是 the elevator（電梯），電梯不會自己發明東西，它是被人發明出來的，所以必須用被動。四個選項裡只有 was invented 是被動——這一步就定了。再看時態：整段講的是十九世紀的事，配過去式沒有問題。填進去讀成 to make tall buildings more accessible to their users, the elevator was invented（為了讓高樓更方便進出，電梯就被發明出來了）。判主動被動最快的一招就是問一句：主詞是做這個動作的那一方，還是被做的那一方。【干擾選項】invented 與 had invented 都是主動，會讀成「電梯發明了別的東西」；would have invented 是與過去事實相反的假設，但這一句陳述的是真實發生過的事，不是假設。【常考字詞與句型】be invented（被發明）、被動語態（主詞是承受動作的那一方）、make A more accessible to B（使 A 對 B 更容易進出或取得）、an elevator（電梯）、solve a problem（解決問題）、way of life（生活方式）。"
   },
   {
     "id": "Z92_22",
@@ -265,7 +267,8 @@
     "accuracyRate": 42,
     "discrimination": 49,
     "contextSpan": "跨句",
-    "contextNote": "further 承接前一句已列出的調查結果，再補一項"
+    "contextNote": "further 承接前一句已列出的調查結果，再補一項",
+    "note": "【你可能會這樣想】further 這個字，你的印象大概是「更遠的」（walk further）或當形容詞的「進一步的」，不太會想到它可以夾在主詞與動詞之間當副詞用，意思是「進一步地、還」。【怎麼判斷】答對率四成二。這是邏輯勾環，線索一定要跨句才看得到。前面已經列了好幾項調查結果：多少人覺得網路方便、多少人改看書、多少人沒用過網路、多少人不讀課外書、各類讀物各佔多少。空格這一句 The survey ______ indicated that 45 percent of the school children read at least five books every month 是在同一份清單上再補一項。表示「再進一步、還指出」，用 further。填進去讀成 The survey further indicated that...（調查進一步指出……）。【干擾選項】thus（因此）要求後面是前面造成的結果，但新的一項數據並不是前面那些數據造成的；otherwise（否則）要求前面先有一個條件；for instance（舉例來說）要求後面是前面某個通則的例子，但這一句是新的一項發現，不是在為前面舉例。【常考字詞與句型】further（進一步地，副詞）、furthermore（此外）、a further step（進一步的措施）、at least（至少）、indicate that ＋ 子句（指出、顯示）、per month（每個月）。"
   },
   {
     "id": "Z92_23",
@@ -311,7 +314,8 @@
     "accuracyRate": 65,
     "discrimination": 61,
     "contextSpan": "跨句",
-    "contextNote": "however 與前一句二十世紀椅子的材料對比"
+    "contextNote": "however 與前一句二十世紀椅子的材料對比",
+    "note": "【你可能會這樣想】however 這個字，你的印象大概只有「站在句首」那一種擺法，看到它夾在主詞與動詞中間、前後各一個逗號，反而不敢選。【怎麼判斷】鑑別度高達 61。這是邏輯勾環，線索一定要跨句才看得到。前一句說二十世紀有些椅子是用鋼和塑膠做的；空格這一句 These materials, ______, were undreamed of in the 18th century（這些材料在十八世紀是想都想不到的）把時間往回拉——現在有、過去連想都沒想過，兩句站在相反的位置，所以用 however。填進去讀成 These materials, however, were undreamed of in the 18th century。位置的部分：however 屬於連接副詞，可以出現在副詞能出現的任何位置，夾在主詞與動詞之間、前後各加一個逗號是常見的擺法。指考 97 年第 16 題也考同一個位置的 however，兩題可以擺在一起看。【干擾選項】finally（最後）要求前面有一個順序；in addition（此外）是往同一個方向加東西，但這裡是轉折；as a result（結果）要求前面是原因，但十八世紀想不到這些材料，並不是二十世紀用鋼和塑膠造成的。【常考字詞與句型】however（然而，連接副詞，位置靈活）、nevertheless（儘管如此）、be undreamed of（想都想不到）、as a result（結果、因此）、in addition（此外）、make something possible（使某事成為可能）。"
   },
   {
     "id": "Z92_26",
@@ -333,7 +337,8 @@
     "passageId": "92_24-30",
     "accuracyRate": 66,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是幾個字合起來當一個介系詞用的組合，你會憑中文挑一個，而 In spite of 最眼熟，很容易先被選走。【怎麼判斷】鑑別度高達 63。先看空格後面接的是什麼：its strength（它的強度），一個名詞組，不是子句——所以四個選項在形態上都過關，得靠邏輯定。前後兩件事是：鋼很堅固、鋼很快成為好用的建材。堅固是原因、成為好建材是結果，方向相同，所以用 Because of（因為）。填進去讀成 Because of its strength, steel soon became a useful building material。順帶記一個對照：because 是連接詞，後面接完整的子句（because it is strong）；because of 是介系詞，後面接名詞（because of its strength）。意思一樣，接什麼決定用哪一個——先看空格後面是名詞還是子句，這一步在克漏字裡幾乎每次都用得上。【干擾選項】In spite of（儘管）要求前後語意相反，但堅固與成為好建材是同一個方向；Prior to（在……之前）講的是時間先後；Not to mention（更別提）用在追加一件更誇張的事，這一句沒有那個語氣。【常考字詞與句型】because of ＋ 名詞（因為）、because ＋ 子句（因為）、due to ＋ 名詞（由於）、in spite of ＋ 名詞（儘管）、prior to ＋ 名詞（在……之前）、not to mention（更別提）。"
   },
   {
     "id": "Z93_16",
@@ -424,7 +429,8 @@
     "passageId": "93_21-25",
     "accuracyRate": 72,
     "discrimination": 38,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個字 take 的四種形態，你會直覺開始找主詞、判主動被動。【怎麼判斷】先看逗號前面：This is reading for deeper understanding 已經是一個完整的句子，主詞 This、動詞 is 都在。逗號後面不能再放一個限定動詞，所以 take 與 takes 先出局。剩下 to take 與 taking，再看它與前面那一句的關係：後半 ______ a thoughtful look at what lies beneath the surface（______仔細看一眼表面底下的東西）不是在講「為了」做什麼，而是把前面那句話換一種說法再講一次——為了更深的理解而讀，就是仔細看表面底下有什麼。這種補充說明用現在分詞，所以填 taking。填進去讀成 This is reading for deeper understanding, taking a thoughtful look at what lies beneath the surface。順帶留意 what lies beneath the surface 這一串：what 自己帶著先行詞，等於 the thing that lies beneath the surface（藏在表面底下的那個東西），這是 what 最常見的用法。【干擾選項】take 與 takes 都是限定動詞，前面沒有連接詞就接不上一個完整的句子；to take 表目的，但這一句不是在講讀的目的，而是在解釋前一句的意思。【常考字詞與句型】分詞構句（補充說明前面整句話）、what 等於 the thing that（……的東西，自己帶著先行詞）、take a look at（看一眼）、lie beneath the surface（藏在表面之下）、identify with（認同、與……感同身受）、implication（言外之意）。"
   },
   {
     "id": "Z93_27",
@@ -446,7 +452,8 @@
     "passageId": "93_26-30",
     "accuracyRate": 51,
     "discrimination": 37,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是助動詞，後面都接原形的 be，形態上刷不掉，你會憑中文挑一個。【怎麼判斷】答對率剛過五成。整句是 Outbreaks of avian influenza ______ be devastating for the poultry industry and for farmers（禽流感疫情______對家禽業與農民造成毀滅性的打擊）。這一句在陳述一種有可能發生的後果，不是命令、不是承諾，也不是必要條件。表示「有可能會」用 can——can 除了「能夠」，也用來說一件事在某些情況下會發生，例如 Winters here can be very cold.（這裡的冬天有時會非常冷）。填進去讀成 Outbreaks of avian influenza can be devastating。【干擾選項】shall 在現代英文裡主要用於法律條文或提議（Shall we go?），不用來陳述可能性；dare 與 need 當助動詞時只用在否定句與疑問句（He dare not go.、You needn't worry.）；要在肯定句裡表達同樣的意思，就得換成一般動詞的 dare to V 與 need to V，那時候它們的詞性已經不是助動詞了。三個都是助動詞，形態吻合，容易被順手選走。【常考字詞與句型】can（能夠；有可能會）、Winters here can be very cold.（這裡的冬天有時會非常冷）、dare not ＋ 原形（不敢）、need not ＋ 原形（不必）、be devastating for（對……造成毀滅性打擊）、an outbreak of（……的爆發）。"
   },
   {
     "id": "Z93_29",
@@ -468,7 +475,8 @@
     "passageId": "93_26-30",
     "accuracyRate": 43,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項裡有 that 也有 where，中文都能說成「那個」「那裡」，你會憑語感挑一個。【怎麼判斷】答對率四成三。關係詞的題目一律用同一招：把先行詞代回子句裡，看它在子句裡變成什麼形式。這是關係代名詞的定義本身——它就是代替前面出現過的那個名詞，所以把名詞放回去，答案自己就出來了。先行詞是 developing countries（開發中國家），子句是 poultry raising is an important source of income（養禽是重要的收入來源）。把「開發中國家」代回去，句子要寫成 poultry raising is an important source of income in those countries——國家在子句裡是「在那些國家」這個地方副詞，前面得補一個介系詞 in，既不是主詞也不是受詞。代回去變成地方副詞的，就用關係副詞 where。填進去讀成 in developing countries where poultry raising is an important source of income。代回去長什麼樣就用哪一個：當主詞用 who 或 which、當受詞用 whom 或 which、變成所有格用 whose、變成地方副詞用 where、變成時間副詞用 when。【干擾選項】that 是關係代名詞，代回去要能直接當主詞或受詞，但這一句代回去是 in those countries，少不了那個 in，所以 that 接不上（真要用也得寫成 in which）；until（直到）與 although（雖然）是連接詞，填進去語意都不通。【常考字詞與句型】where（關係副詞，先行詞代回子句後變成地方副詞）、in which 等於 where（在其中）、whose（關係代名詞的所有格，代回子句後變成所有格）、a source of income（收入來源）、impoverished（貧困的）、rural（鄉村的）。"
   },
   {
     "id": "Z93_19",
@@ -584,7 +592,8 @@
     "passageId": "93_26-30",
     "accuracyRate": 54,
     "discrimination": 45,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是幾個字合起來當一個介系詞用的組合，你會憑中文挑一個。【怎麼判斷】先看空格後面接的是什麼：nearly US$ 65 million（將近六千五百萬美元），一個金額。四個選項裡，後面能直接接金額、講「代價是多少」的只有 at a cost of。整句在說一九八三到八四年美國那場禽流感疫情導致超過一千七百萬隻禽鳥被撲殺，代價將近六千五百萬美元。填進去讀成 the destruction of more than 17 million birds at a cost of nearly US$ 65 million。【干擾選項】with a view to（為了、著眼於）後面接的是目的，而且接的是名詞或動名詞；in regard to（關於）帶出的是話題；on account of（因為）帶出的是原因——金額不是原因，是結果的代價。三個都是多字介系詞，形態吻合，容易被順手選走。【常考字詞與句型】at a cost of ＋ 金額（代價為……）、at the cost of（以……為代價）、with a view to ＋ V-ing（為了、著眼於）、in regard to（關於）、on account of（因為）、the destruction of（對……的撲殺或摧毀）。"
   },
   {
     "id": "Z93_30",
@@ -607,7 +616,8 @@
     "accuracyRate": 66,
     "discrimination": 53,
     "contextSpan": "跨句",
-    "contextNote": "Therefore 承接前一句「疫情擴散後難以控制」的結果"
+    "contextNote": "Therefore 承接前一句「疫情擴散後難以控制」的結果",
+    "note": "【你可能會這樣想】四個選項都是轉承語，位置一樣、形態一樣，你會憑中文挑一個。【怎麼判斷】這是邏輯勾環，線索一定要跨句才看得到。前一句是 When outbreaks become widespread within a country, control can be extremely difficult（疫情一旦在國內擴散，就極難控制）。空格這一句是 government authorities usually undertake aggressive emergency control measures as soon as an outbreak is detected（政府當局通常一偵測到疫情就立刻採取強力的緊急防控措施）。既然擴散之後很難控制，就得趁還沒擴散時趕快動手——前面是原因、後面是因應的做法，方向相同，所以用 Therefore（因此）。填進去讀成 Therefore, government authorities usually undertake aggressive emergency control measures。【干擾選項】Instead（反而、改為）是副詞，自己單獨站著、後面接逗號，形態上完全放得進去，容易被順手選走；但它要求前面那件事是被否定或被放棄的，而這一句並沒有推翻前一句，是順著它往下走。順帶把最常混的兩個一次分清楚：instead 是副詞，自己單獨用（I didn't go; I stayed home instead.）；instead of 是介系詞，後面一定要接名詞、代名詞或 V-ing（instead of going out）。柯林斯的 English Usage 特別提醒不可以寫成 instead to do something。By no means（絕不）是否定用語，放在句首時主要子句要倒裝，本句沒有倒裝；On the contrary（正好相反）要求後面推翻前面，方向不對。【常考字詞與句型】therefore（因此）、instead（反而、改為，副詞自己單獨用）、instead of ＋ 名詞或 V-ing（而不是）、by no means ＋ 主要子句倒裝（絕不）、on the contrary（正好相反）、undertake measures（採取措施）。"
   },
   {
     "id": "Z93M_18",
@@ -4074,7 +4084,8 @@
     "passageId": "92_16-23",
     "accuracyRate": 56,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是常見動詞的過去式，後面也都能接 that 子句，你會憑中文挑一個。【怎麼判斷】鑑別度高達 55。先確認主詞 it 指的是什麼——同一句前半的 The survey（那項調查）。一項調查能對一件事做什麼？它會「發現」。find that ＋ 子句是研究與調查報告最常用的說法，中文就是「調查發現……」。填進去讀成 it found that 77 percent of the students considered the Internet to be the most convenient source of information（調查發現有七成七的學童認為網路是最方便的資訊來源）。【干擾選項】took（拿；花費）後面接的是被拿走的東西或花掉的時間；put（放）後面要接受詞再接地點；knew（知道）的主詞要是人——調查本身不會「知道」，是人透過調查才知道。三個都是過去式動詞，形態吻合，容易被順手選走。【常考字詞與句型】find that ＋ 子句（發現、調查顯示）、conduct a survey（進行調查）、a source of information（資訊來源）、consider A to be B（認為 A 是 B）、respondent（受訪者）、according to（根據）。"
   },
   {
     "id": "Z92_17",
@@ -4096,7 +4107,8 @@
     "passageId": "92_16-23",
     "accuracyRate": 45,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是動詞加介副詞的片語，形態一樣，你會憑中文挑一個。【怎麼判斷】答對率四成五。先看空格前後：主詞是 14 percent of the respondents（一成四的受訪者），空格後面是 books for information instead of going online（書，為了找資料，而不是上網）。這一句在說有些人不上網、改去找書，所以要的是「轉而去用、求助於」——turn to。turn to something for something 是成組的說法，後面接的是你轉向的那樣東西與你要的東西。填進去讀成 they often turned to books for information（他們常轉而向書本找資料）。這與課本教過的 turn to somebody for help（向某人求助）是同一個 turn to，只是這裡轉向的不是人而是書。【干擾選項】used up（用完）後面接的是被用光的東西；went off（響起；離開；變質）不接受詞講「找資料」；made into 要寫成 make A into B，而且 A 是原料、B 是成品，書並不是被做成資料。【常考字詞與句型】turn to somebody for help（向某人求助）、turn to something for something（轉而向……尋求……）、use up（用完）、go off（響起；變質）、instead of ＋ V-ing（而不是做某事）、go online（上網）。"
   },
   {
     "id": "Z92_18",
@@ -4118,7 +4130,8 @@
     "passageId": "92_16-23",
     "accuracyRate": 55,
     "discrimination": 43,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是名詞，都能接在 the 後面，你會憑中文挑一個。【怎麼判斷】關鍵在定冠詞 the。the ＋ 名詞指的是前面已經提過的那一個，而這一篇從頭到尾在講的就是網路。Net 是 Internet 的簡稱，the Net 就是「網路」。整句在說：所有受調查的學童裡，有兩成七說他們從來沒用過網路。填進去讀成 27 percent said they had never used the Net。前一句的 instead of going online（而不是上網）也在同一條線上，兩句講的是同一件事的兩面。【干擾選項】survey（調查）填進去會變成「學童從沒用過這項調查」，但調查是做在他們身上的，不是他們拿來用的東西；books（書）與前一句剛講過「有人轉而看書」自相矛盾；respondents（受訪者）是人，不是拿來「用」的。【常考字詞與句型】the Net（網路，Internet 的簡稱）、surf the Net（上網瀏覽）、the ＋ 名詞（回指前面提過的那一個）、those surveyed（被調查的那些人）、a questionnaire（問卷）、percent（百分之……）。"
   },
   {
     "id": "Z92_19",
@@ -4140,7 +4153,8 @@
     "passageId": "92_16-23",
     "accuracyRate": 43,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能修飾後面的 parts，你會憑中文挑一個。【怎麼判斷】答對率四成三。先看整句在做什麼：The survey randomly selected 4,200 students in 26 primary schools in ______ parts of Taiwan（這項調查在台灣______地區的二十六所小學隨機抽選了四千兩百名學童）。關鍵在 randomly selected（隨機抽選）與 26 primary schools（二十六所學校）——一項要有代表性的調查，抽樣一定要分散在不同的地方，所以填 various（各種的、不同的），various parts of Taiwan 就是「台灣各地」。填進去讀成 in 26 primary schools in various parts of Taiwan。【干擾選項】convenient（方便的）講的是取樣方便，那與隨機抽樣的原則剛好相反；youthful（年輕的）修飾的是人，不是地區；routine（例行的）講的是重複發生的事，地區不會例行。三個都是形容詞，形態吻合，容易被順手選走。【常考字詞與句型】various parts of（……的各地）、a variety of（各式各樣的）、randomly select（隨機抽選）、reading habits（閱讀習慣）、convenient（方便的）、routine（例行的、慣常的）。"
   },
   {
     "id": "Z92_20",
@@ -4185,7 +4199,8 @@
     "passageId": "92_16-23",
     "accuracyRate": 68,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】extracurricular 是四個選項裡最長、最陌生的一個，你可能因為不認得就先把它排除，改挑一個眼熟的。【怎麼判斷】鑑別度高達 56。先看形態：空格後面是 reading materials（讀物），所以空格要填的是修飾它的形容詞。四個選項裡 story、comic、technology 三個主要當名詞用，只有 extracurricular 是形容詞——光看詞性就定了一半。再看字本身：extra 是「額外的」、curricular 來自 curriculum（課程），合起來就是「課程以外的」，也就是課外。填進去讀成 they did not read any extracurricular reading materials（他們不讀任何課外讀物）。下一句列出漫畫、寓言故事、自然科學、科技類的書，正是課外讀物的種類，可以拿來驗算。【干擾選項】story、comic、technology 勉強擺在 reading materials 前面都不是英文的說法；而且下一句才在列漫畫、寓言故事這些類別，如果空格填了 comic，就會與下一句自相矛盾——不讀漫畫的人怎麼會有兩成五愛讀漫畫。【常考字詞與句型】extracurricular activities（課外活動）、reading materials（讀物）、curriculum（課程）、fable（寓言）、comic（漫畫）、natural sciences（自然科學）。"
   },
   {
     "id": "Z92_25",
@@ -4207,7 +4222,8 @@
     "passageId": "92_24-30",
     "accuracyRate": 53,
     "discrimination": 64,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是動詞加介系詞的組合，形態一樣，你會憑中文挑一個。【怎麼判斷】鑑別度高達 64。先看空格前後：主詞是 one invention（一項發明），空格後面是 another（另一項發明）。整句 As new materials develop, one invention often ______ another 在說材料一發展，發明就一個帶出一個。所以要的是「導致、帶來」——lead to，後面接的正是被帶出來的結果。填進去讀成 one invention often leads to another（一項發明往往帶出另一項）。接下來那一段正是在示範這條鏈：鋼被發明出來、鋼構建築出現、樓層變多、於是需要電梯，可以拿來驗算。指考 97 年第 22 題考的 result in 與這裡的 lead to 是同一組，後面接的都是結果；而 result from 後面接的是原因，方向相反，三個一起記最省事。【干擾選項】finds out（查明、發現）後面接的是被查明的事實；succeeds in（成功做到）後面要接 V-ing；agrees with（同意；合乎）的主詞通常是人。【常考字詞與句型】lead to（導致、帶來）、result in（導致）、result from（起因於）、find out（查明、發現）、succeed in ＋ V-ing（成功做到）、agree with（同意；合乎）。"
   },
   {
     "id": "Z92_28",
@@ -4229,7 +4245,8 @@
     "passageId": "92_24-30",
     "accuracyRate": 54,
     "discrimination": 70,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】flight 這個字，你的印象大概只有「飛行、班機」，看到 flights of 就往飛機那邊想，於是挑了 planes 或 crews。【怎麼判斷】鑑別度高達 70，是本批最會分人的一題，在全庫也少見。關鍵在 flight 的另一個意思：a flight of stairs 指的是「一段樓梯」，也就是兩個樓層之間那一段連續的階梯，與飛行無關。整句是 no one could be expected to walk up 8, 10, or 30 flights of ______（不能指望有人爬八層、十層甚至三十層的______）。動詞是 walk up（往上走），走的當然是樓梯，所以填 stairs。填進去讀成 walk up 30 flights of stairs（爬三十層樓梯）。下一句說為了讓高樓更好進出而有了電梯，正是在說明為什麼需要電梯——因為樓梯爬不動。【干擾選項】planes（飛機）與 crews（機組人員）都是被 flight 的「班機」義帶著走的，形態吻合，容易被順手選走，但沒有人 walk up 一架飛機；attendants（服務員）同理，三個都與 walk up 這個動作接不上。【常考字詞與句型】a flight of stairs（一段樓梯）、walk up（往上走、爬上）、take the stairs（走樓梯）、flight（飛行；班機；一段樓梯）、a flight attendant（空服員）、expect somebody to V（指望某人做某事）。"
   },
   {
     "id": "Z92_30",
@@ -4251,7 +4268,8 @@
     "passageId": "92_24-30",
     "accuracyRate": 42,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是兩個字的組合，你會憑中文挑一個；而且 growing up 與 increasing by 看起來都與「人變多」有關，很容易把你吸走。【怎麼判斷】答對率四成二。先看結構：空格前是 a world（一個世界），後面是 people（人）。空格這一串是掛在 a world 後面補充說明它是什麼樣的世界，所以要的是一個能擺在名詞後面當修飾語、而且後面還能接 people 的形式。be crowded with 是「擠滿了……」，把 be 動詞拿掉、只留過去分詞片語 crowded with people 掛在名詞後面，就是「一個擠滿人的世界」。填進去讀成 in a world crowded with people（在一個擠滿人的世界裡）。這與 a book written by him（他寫的書）是同一個結構：過去分詞片語擺在名詞後面當修飾語。【干擾選項】jammed on 的成組說法是 jam on the brakes（猛踩煞車），後面接的不是人；growing up（成長）是不及物的，後面不能直接接 people；increasing by 後面接的是增加的幅度（increasing by 5 percent），不是增加的東西。【常考字詞與句型】be crowded with（擠滿了）、be filled with（充滿了）、be packed with（塞滿了）、過去分詞片語當名詞的後位修飾語（例如 a book written by him 他寫的書）、jam on the brakes（猛踩煞車）、much-needed space（亟需的空間）。"
   },
   {
     "id": "Z93_18",
@@ -4296,7 +4314,8 @@
     "passageId": "93_21-25",
     "accuracyRate": 40,
     "discrimination": 45,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能修飾後面的 steps，你會憑中文挑一個。【怎麼判斷】答對率四成。關鍵在同一句的 but 與句尾的 simultaneously。整句是 These do not occur always as ______ steps but may happen simultaneously（這三種反應不一定以______的步驟發生，反而可能同時發生）。but 要求前後相反，而後半是 simultaneously（同時地），所以前半那個形容詞必須是「同時」的反面——分開的、一個接一個的，也就是 separate。填進去讀成 do not occur always as separate steps but may happen simultaneously。【干擾選項】childish（幼稚的）、artistic（藝術的）、innocent（天真的）三個都是形容詞，形態吻合，容易被順手選走，但沒有一個與 simultaneously 形成對比——這一格要的不是評價好壞，是「分開」對「同時」這一組相反的概念。【常考字詞與句型】separate（分開的、各自獨立的）、simultaneously（同時地）、at the same time（同時）、occur（發生）、an encounter with（與……的接觸、遭遇）、childish（幼稚的）。"
   },
   {
     "id": "Z93_23",
@@ -4318,7 +4337,8 @@
     "passageId": "93_21-25",
     "accuracyRate": 60,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是動詞原形，都能接在 to 後面，你會憑中文挑一個。【怎麼判斷】鑑別度高達 60。線索在破折號後面：more books and more poems of different sorts（更多的書、更多不同類型的詩）。空格這個動作的方向是「往外去找更多」，那就是 explore（探索、進一步去探究）。填進去讀成 they are ready and eager to explore further。而且這一篇開頭就把三種反應列出來了：enjoyment, exploration, and deepening understanding（享受、探索、加深理解），exploration 正是 explore 的名詞形——空格要的字，文章第一句已經先講過一次。【干擾選項】escape（逃離）方向相反，是離開而不是深入；accustom（使習慣）要寫成 accustom oneself to，不能單獨用；appear（出現）是不及物的，與「去找更多的書和詩」也接不上。【常考字詞與句型】explore（探索、探究）、exploration（探索）、be eager to V（渴望做某事）、accustom oneself to（使自己習慣於）、of different sorts（各種不同類型的）、delight（樂趣、喜悅）。"
   },
   {
     "id": "Z93M_19",
