@@ -2760,7 +2760,8 @@
     "fullPassage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as __11__ his life of adventure.\nHemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to __12__ such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been __13__ .\nHemingway liked to portray soldiers, hunters, bullfighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this __14__ lose hope and faith. His straightforward prose is particularly effective in his short stories, some of __15__ are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
     "accuracyRate": 55,
     "discrimination": 52,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】some of them 讀起來非常順，中文「其中有些被收錄在……」也完全對得上，所以 them 是這一題最誘人的選項；these 同理。【怎麼判斷】這一題不靠語意，靠數句子的成分。先數限定動詞：逗號前 His straightforward prose is particularly effective in his short stories 已經是一個完整的句子（主詞 prose、動詞 is）；逗號後 some of ______ are collected in Men Without Women 又有一個動詞 are。一個句子裡出現兩個限定動詞，中間卻只有一個逗號、沒有對等連接詞——這時後面那一段一定得靠關係詞接上去，四個選項裡能引導子句的只有 what 與 which。接著刷掉 what：劍橋 English Grammar Today 的 what 條目說 what 不能當一般的關係代名詞，前面若已經有名詞先行詞就得改用 which 或 that（This is the book which the lecturer mentioned.，不可寫成 the book what...）。本句 of 前面站著先行詞 short stories，what 出局。剩下 which，還原成兩句就看得很清楚：His straightforward prose is particularly effective in his short stories. 加上 Some of the short stories are collected in Men Without Women.，把第二句的 the short stories 換成 which 接上去，就是 some of which。這一組整批記起來最省力：some of which、most of which、all of which、none of which。另外記一個硬規則：介系詞後面不能接 that，所以不會有 some of that 這種寫法。【干擾選項】them 與 these 都是代名詞。代名詞只能在句子裡當名詞用，沒有把兩個句子接起來的能力；填進去會變成兩個完整的句子中間只放一個逗號，這在英文裡不成立，中間必須有連接詞或關係詞。中文讀起來順正是它誘人的原因，但英文的連接規則不會因為中文順就放行。what 前面已經有先行詞，理由見上。這一格的鑑別度 52，分開的就是有沒有先數清楚句子裡的動詞與連接詞，而不是憑中文語感。【常考字詞與句型】some of which（其中一些，介系詞加關係代名詞）、most of which（其中大部分）、none of which（其中沒有一個）、be collected in（被收錄於）、straightforward（直截了當的、不繞彎的）、be awarded（被授予）"
   },
   {
     "id": "Z104_19",
@@ -2808,7 +2809,8 @@
     "accuracyRate": 74,
     "discrimination": 53,
     "contextSpan": "跨句",
-    "contextNote": "For example 為前一句「路跑常是社區活動」舉例"
+    "contextNote": "For example 為前一句「路跑常是社區活動」舉例",
+    "note": "【你可能會這樣想】四個選項都是擺在句首的轉承說法，中文讀起來好像都能硬接，尤其 Above all（最重要的是）看起來像在加強語氣，很容易覺得說得通。【怎麼判斷】轉承語是最好認的邏輯勾環，判準只有一句——先看前一句在做什麼，再看這一句在做什麼，兩者的關係決定填哪一個。前一句 Road running is often a community-wide event that highlights or raises money for an issue or project.（路跑常是全社區的活動，用來凸顯某個議題或為某個計畫募款）講的是通則；這一句 Race for the Cure is held throughout the U.S. to raise breast cancer awareness. 端出來的是一個有名有姓的具體活動。從通則走到具體個案，就是 For example。順便把兩組容易混的分清楚：for example 與 for instance 是舉一個具體的例子；that is 與 in other words 是把同一件事換句話說，後面接的還是同一件事。（學測 89 年第 27 題與第 29 題把這兩組擺在同一篇裡考，可以對照著看。）同一篇的第 17 題其實也在做「先講通則再舉例」的事：because it caters to all ages and abilities 是通則，下一句的 first time amateurs 與 world-class 選手就是例子，只是那裡沒有用轉承語標出來。有標記的與沒標記的都要讀得出來。【干擾選項】Above all（最重要的是）用來在好幾件事情裡挑出最重要的一件，但前文沒有列出一串事情讓你挑。As it appears（就目前看來）帶著「只是表面如此、未必確定」的口吻，而 Race for the Cure 是實際在美國各地舉辦的活動，不是看起來如此。To some extent（在某種程度上）是打折扣、退一步的說法，這一句沒有在讓步，是在正面舉證支持前一句。【常考字詞與句型】for example（舉例來說）、in other words（換句話說）、above all（最重要的是）、to some extent（在某種程度上）、raise money for（為……募款）、raise awareness（喚起大眾對某事的重視）"
   },
   {
     "id": "Z105_13",
@@ -2856,7 +2858,8 @@
     "accuracyRate": 67,
     "discrimination": 59,
     "contextSpan": "跨句",
-    "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」"
+    "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」",
+    "note": "【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，文法上都放得進去，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定——轉承語是最好認的邏輯勾環，看到 Nevertheless、however、therefore、for example 這一類字，先回頭看前一句，方向就出來了。Nevertheless（然而、儘管如此）要求這一句與前一句相反：前一句剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉——這麼大的貢獻，卻幾乎沒有人聽過他的名字。few（幾乎沒有）本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。順便把 few 與 a few 分清楚：few 是幾乎沒有，a few 是有一些；little 與 a little 同理，差一個冠詞就差很多。這一格的鑑別度高達 59，分開的正是「有沒有回頭讀前一句」——只讀空格所在的這一句，四個選項其實都塞得進去。另外一提：這一篇選文後來被 107 學年度起適用的指考參考試卷沿用，同一格在那份卷子上是第 17 題，兩邊是同一題，不是網站重複。【干擾選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.），單獨擺在一個陳述事實的肯定句裡當主詞的修飾語並不成立。【常考字詞與句型】few 加可數複數名詞（幾乎沒有）、a few 加可數複數名詞（有一些）、little 加不可數名詞（幾乎沒有）、a little 加不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）"
   },
   {
     "id": "Z105_18",
@@ -2879,14 +2882,15 @@
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
     "accuracyRate": 51,
     "discrimination": 23,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格前一個子句剛用過 had already come up with（過去完成式），對稱的慣性會讓你想再選一次同樣的形態，had become 於是讀起來特別順；句首的 By the time he was 23 又是過去完成式的典型訊號，更加深了這個念頭。答對率只有五成一。【怎麼判斷】四個選項是同一個動詞 become 配上四種不同的助動詞，但它們問的不是同一件事：would 問的是時間方向，should 問的是語氣，could have 問的是與事實相符與否，had 問的是先後順序。一格要同時判四樣，所以動手之前先把句子的結構定下來，再一項一項刷。先看 what 在子句裡站哪個位置：the idea of what ______ the modern computer，what 是複合關係代名詞（等於 the thing that），它自己就是這個子句的主詞，所以空格填的必定是這個子句的動詞。接著把時間軸排出來：圖靈 23 歲那年（過去）想出了一個構想，那個構想是後來才發展成現代電腦的。站在過去往後看，用的是過去的未來，形態就是 would 加原形。國中的掛鉤是間接引述 He said he would come.（他說他會來）：說的動作在過去，來的動作在那之後。填 would become，讀成「後來會成為現代電腦的那個東西」，時間軸才對得上。這一題的鑑別度只有 23，連高分群考生也在這裡失手，原因就在前一個子句的 had already come up with：對過去完成式越敏感的人，越容易把它當成整句的基準形態照抄一次。但那個過去完成式說的是「想出構想」比 23 歲更早，方向往前；空格這一格要往後看，方向相反，不能照抄。【干擾選項】had become 方向剛好相反，它表示「在 23 歲之前就已經是現代電腦」，但現代電腦是後來的事，時間顛倒了。should become 的 should 帶著建議或義務的口吻，這一句只是在敘述後來發生的事，沒有人在建議什麼。could have become 是「本來有可能成為，但實際上沒有」，與事實不符——同一段後面還寫著 Today, Turing machines are still used in theoretical computation.【常考字詞與句型】would 加原形（站在過去看未來，後來會……）、come up with（想出、提出）、by the time 加子句（到……的時候）、what 等於 the thing that（複合關係代名詞）、could have 加過去分詞（本來有可能……但沒有）、be used in（用於……）"
   },
   {
     "id": "Z105_14",
     "year": "105年",
     "source": "105年指考",
     "blankNum": 14,
-    "category": "字彙選義",
+    "category": "介系詞",
     "sentence": "For instance, people often avoid eye contact with someone standing __14__ them, or they pretend that these people are lifeless objects in their personal space.",
     "options": {
       "A": "long before",
@@ -2902,7 +2906,8 @@
     "fullPassage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have __11__ you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated. According to scientists, personal space involves certain invisible forces imposed on you through all the __12__. For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare. In certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their __13__ distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing __14__ them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may __15__ to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
     "accuracyRate": 74,
     "discrimination": 43,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是兩個字，長得像同一類東西，很容易囫圇讀過去；加上 long before 與 soon after 這兩個時間說法在文章裡看多了，眼睛掃到會自動接受，於是就選了其中一個。【怎麼判斷】先看空格前後：someone standing ______ them，空格夾在分詞 standing 與代名詞 them 之間，要填的是把「站」與「他們」接起來的那個東西，講的是位置。close to（靠近）正好，整句讀成「避免與站在身旁的人眼神接觸」，與這一段在講的個人空間被壓縮完全一致。四個選項雖然都是兩個字，其實分成兩型，值得一次分清楚。一型是幾個字合起來當一個介系詞用，例如 aside from，劍橋 English Grammar Today 的 Prepositions 條目把這一類收在一起；另一型是前面那個字只是副詞，真正管事的是後面那個介系詞，long before 與 soon after 就是這一型，before 與 after 本來就是介系詞，long 與 soon 只是在修飾它們（劍橋 English Grammar Today 的 Prepositional phrases 條目）。驗算法很簡單：把前面那個字拿掉，看句子還通不通。standing before them、standing after them 拿掉 long 與 soon 都還成句，可見管事的是 before 與 after；standing from them 拿掉 aside 就不成句，可見 aside from 得整組一起用。close to 的 to 也拿不掉，它得跟著 close 一起走。【干擾選項】long before（很久以前）與 soon after（不久之後）都在講時間先後，但這一句要的是位置，不是時間。aside from（除了……之外）是把某樣東西排除或另外提出來，standing aside from them 會變成「站在他們之外」，與後半句接不上——後半句說的是 they pretend that these people are lifeless objects，明明人就在旁邊，卻假裝那些人是沒有生命的物體，前提正是「靠得很近」。【常考字詞與句型】close to（靠近、接近）、aside from（除了……之外）、long before（很久以前）、soon after（不久之後）、avoid eye contact with（避免與……眼神接觸）、lifeless（沒有生命的、死氣沉沉的）"
   },
   {
     "id": "Z105_19",
@@ -2925,7 +2930,8 @@
     "fullPassage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the __16__ uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, __17__ people have even heard his name. Turing displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what __18__ the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human. The postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. __19__ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This __20__ drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
     "accuracyRate": 44,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格後面是 being hailed as one of the crucial figures in defeating the Nazis（被譽為擊敗納粹的關鍵人物之一），這是好事，後半句卻是被判罪。很容易先抓到「被譽為英雄」這幾個字，覺得這一句在講他的功績，於是選 Because of，把整句讀成「因為被譽為英雄，所以……」。答對率四成四。【怎麼判斷】四個選項都是幾個字合起來當一個介系詞用，後面接名詞或動名詞（劍橋 English Grammar Today 的 Prepositions 條目），所以 being hailed 這個動名詞誰都接得住，文法上刷不掉任何一個，可見這一格考的是空格兩邊的邏輯關係，屬於邏輯勾環。把兩邊的方向各標一次：前半是「被讚譽為擊敗納粹的關鍵人物」（正面），後半是「被以嚴重猥褻罪定罪」（負面）。一正一負，而且不只是轉折，是「該發生的沒有發生，發生的是相反的事」。Instead of 正是這個意思，不是 A 而是 B，國中的掛鉤是 Let's walk instead of taking a bus.（不搭公車，改用走的）；注意它整組當一個介系詞用，後面接動詞時一定要用動名詞，題幹裡的 being hailed 正好呼應這一點。填進去讀成「非但沒有被當成英雄看待，反而被定罪」，落差才出得來。同一篇的第 17 題在做同一件事，先給一個很正面的事實再整個翻過來，只是那一格用的是轉承語 Nevertheless，這一格用的是介系詞，兩題可以擺在一起看。【干擾選項】Because of（因為）會變成「因為被譽為英雄所以被定罪」，因果講不通，而且真正的原因前一句已經寫了：他是同性戀者，在當時的英國是罪行。In addition to（除了……之外，還）要求前後同方向、可以累加，但這裡一好一壞，加不起來。With respect to（關於、就……而言）用來帶出討論的主題，放在句首會變成「就被譽為英雄這件事而言，他被定罪」，兩半接不上。【常考字詞與句型】instead of 加 V-ing（不做 A，而是 B）、be hailed as（被譽為）、be convicted of（被判……罪成立）、in addition to 加名詞（除了……之外，還）、with respect to（關於、就……而言）、crucial（關鍵的、至關重要的）"
   },
   {
     "id": "Z106_16",
@@ -3696,7 +3702,7 @@
     "passageId": "Z107參_16-20",
     "contextSpan": "跨句",
     "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定。Nevertheless（然而、儘管如此）是轉折語，它要求這一句與前面那一句方向相反：前面剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉，這麼大的貢獻，卻幾乎沒有人聽過他的名字。few 是「幾乎沒有」，本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。注意 few 與 a few 差一個冠詞就差很多：few 是幾乎沒有，a few 是有一些，little 與 a little 同理。同一篇的第 19 題也在做同一件事，先給一個很正面的事實，再整個翻過來，只是那一格用的是整組當一個介系詞用的 Instead of，這一格用的是轉承語 Nevertheless，兩題可以擺在一起看。【干擾選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.，通常配情態助動詞或講通則），單獨擺在一個陳述事實的肯定句句首當主詞的修飾語並不成立。【常考字詞與句型】few ＋ 可數複數名詞（幾乎沒有）、a few ＋ 可數複數名詞（有一些）、little ＋ 不可數名詞（幾乎沒有）、a little ＋ 不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定。Nevertheless（然而、儘管如此）是轉折語，它要求這一句與前面那一句方向相反：前面剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉，這麼大的貢獻，卻幾乎沒有人聽過他的名字。few 是「幾乎沒有」，本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。注意 few 與 a few 差一個冠詞就差很多：few 是幾乎沒有，a few 是有一些，little 與 a little 同理。同一篇的第 19 題也在做同一件事，先給一個很正面的事實，再整個翻過來，只是那一格用的是整組當一個介系詞用的 Instead of，這一格用的是轉承語 Nevertheless，兩題可以擺在一起看。另外一提：這一篇選文取自 105 年指考，同一格在那份卷子上是第 17 題，兩邊是同一題，不是網站重複。【干擾選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.，通常配情態助動詞或講通則），單獨擺在一個陳述事實的肯定句句首當主詞的修飾語並不成立。【常考字詞與句型】few ＋ 可數複數名詞（幾乎沒有）、a few ＋ 可數複數名詞（有一些）、little ＋ 不可數名詞（幾乎沒有）、a little ＋ 不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）"
   },
   {
     "id": "Z107參_18",
@@ -5720,7 +5726,8 @@
     "passageId": "104_11-15",
     "accuracyRate": 47,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -tion 結尾的抽象名詞，長得很像同一類東西；這一句又長，讀到 in this ______ 的時候前面那一大串已經模糊了，只好憑感覺挑一個。答對率四成七。【怎麼判斷】句首那個 this 就是入口，這是指標勾環：this 加上一個名詞是回指，用一個比較概括的名詞把前面剛講過的內容收攏起來再指一次（Halliday 與 Hasan「Cohesion in English」談的指稱銜接）。所以先回頭問：this 指的是前面哪一件事？同一句的前半寫著 whose courage and honesty are set against the brutal ways of modern society（他們的勇氣與正直與現代社會的殘酷相對抗）。那件事用一個名詞收攏起來，就是一場對抗——confrontation。再看構詞就更穩：confront 是動詞「面對、正面對抗」，加上 -ation 變成名詞，與前半句的 set against 是同一件事換個說法，屬同義勾環。兩條連結指向同一個答案時，就可以放心填。這一招與同一年段考過的 This 加名詞是同一條線，差別只在指的距離：本題的 this 指的是同一句的前半，105 年第 20 題的 This 指的是前一句，近的遠的都要會找。【干擾選項】limitation（限制）在這一句裡找不到對應的東西，把人物寫成「在這種限制中失去希望」，前半句講的卻是對抗不是受限。classification（分類）與 modification（修改）更明顯，前半句既沒有在分類，也沒有人在修改什麼，回頭讀一次 this 指向的內容就全部出局。三個選項的共同毛病是：只看空格附近的 lose hope and faith 也許都塞得進去，但沒有一個接得住 this 指向的那件事。【常考字詞與句型】be set against（與……相對抗）、confrontation（對抗、衝突）、confront（面對、正面對抗）、lose faith（失去信念）、at times（有時）、portray（描繪、刻畫）"
   },
   {
     "id": "Z104_16",
@@ -5742,7 +5749,8 @@
     "passageId": "104_16-20",
     "accuracyRate": 72,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】10K、21.1K、42.2K 這些數字看起來就是量出來的數值，measurements（測量值、尺寸）於是顯得很合理，這是本題最誘人的選項。【怎麼判斷】空格填的是一個概括詞，而清單就緊接在後面：10K runs, half marathons (21.1K), and marathons (42.2K)。遇到「概括詞加清單」的句子，判準只有一句——清單裡那幾樣東西的共同點是什麼，空格就填什麼。三樣並列的東西共同點很清楚：都是「跑多遠」，也就是距離，所以填 distances。整句讀成「路跑賽事最常見的三種距離是十公里、半程馬拉松與全程馬拉松」，也緊扣住這一篇的核心軸線：整篇都在講 road running 這項運動怎麼分類、誰能參加。【干擾選項】measurements 指的是量出來的數值或尺寸本身（the measurements of the room），著眼在「測量」這個行為與結果；但這一句在講的是賽事的分類方式，賽事是按跑多遠來分的，英文講賽事規格用 distance。journeys（旅程）強調的是移動的過程與經歷，路跑不是在講旅程。destinations（目的地）是終點的地點，路跑賽事不是以「跑到哪裡」來分類的，何況同一場賽事常常起點與終點相同。這一格的鑑別度 51，分開的是有沒有停下來確認清單裡那三樣東西到底共同在講什麼。【常考字詞與句型】distance（距離）、a 10K run（十公里路跑）、half marathon（半程馬拉松）、as opposed to（而不是、與……相對）、paved road（鋪面道路）、accessible（容易接觸到的、門檻低的）"
   },
   {
     "id": "Z104_17",
@@ -5764,7 +5772,8 @@
     "passageId": "104_16-20",
     "accuracyRate": 47,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】cater 這個字，你的印象大概只有「外燴、供應餐點」（a catering company 是外燴公司），很難想到它有「迎合、滿足某一群人的需求」這個常用義，所以四個選項看起來好像都沾不上邊。答對率四成七。【怎麼判斷】四個選項都是動詞加介系詞的組合，形態上刷不掉任何一個，可見這一格考的是語意。線索在同一句的 because：Road running is unique among athletic events because it ______ all ages and abilities.，because 引出的是「為什麼獨特」，所以空格要填的是一個能解釋獨特性的動作。下一句立刻把答案講白了：初次參賽的業餘者可以和路跑社團成員、甚至現役的世界級選手同場，有時還包含輪椅參賽者——不分年齡、不分程度都容納得下。cater to somebody 正是「滿足某一群人的需求、迎合某一群人」（劍橋詞典的 cater 詞條），填進去讀成 it caters to all ages and abilities，主詞 it 指的是 road running，第三人稱單數所以動詞加 -s。這個字的兩個意思其實是同一件事：外燴業者得按客人的口味與人數準備餐點，那就是在滿足需求；把餐點抽掉，剩下「按對方的需要來安排」，就是本題的用法。【干擾選項】depends on（取決於、依賴）填進去會變成「路跑取決於所有年齡與能力」，主詞與受詞的關係整個反過來了。goes after（追求、追捕）帶著主動去爭取的意思，一項運動不會去追誰。identifies with（認同、對……有共鳴）的主詞通常是人，講的是心理上把自己與某人放在一起，賽事本身不會產生認同。這一格的鑑別度高達 57，分開的就是認不認得 cater to 的這個意思——三個干擾選項都是你很熟的片語，熟悉度在這裡幫不上忙。【常考字詞與句型】cater to somebody（迎合、滿足某人的需求）、depend on（取決於、依賴）、go after（追求、追捕）、identify with（認同、對……有共鳴）、be unique among（在……當中獨一無二）、all ages and abilities（各年齡層與各種程度的人）"
   },
   {
     "id": "Z104_18",
@@ -5786,7 +5795,8 @@
     "passageId": "104_16-20",
     "accuracyRate": 53,
     "discrimination": 31,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】world-class 後面接 matches，讀成「世界級賽事」本身是很自然的組合，眼睛掃到就覺得順，於是直接填了進去。【怎麼判斷】這一格靠並列定案，三步走完就好。第一步先找對等連接詞：participate in the same event as running club members and even current world-class ______，連接詞是 and。第二步確定它連的是哪兩樣：左邊是 running club members（路跑社團的成員），右邊就是空格，兩個一起當 as 的受詞。第三步從已經寫出來的那一邊反推空白的那一邊——左邊是「人」，右邊就必須也是「人」。用國中數學的分配律驗算最快：把共用的部分分配進去，還原成兩句——first time amateurs are welcome to participate in the same event as running club members，加上 ...as current world-class champions，兩句都單獨成立，可見 and 連的確實是兩個對等的人。界線也要記住：不是每個 and 都拆得開，Tom and Mary are a good couple. 拆開就不成立，那種 and 連的是一個整體，不能照抄形態。四個選項裡只有 champions（冠軍選手）是人，一步定案，整句讀成「初次參賽的業餘者可以與社團成員、甚至現役的世界級冠軍選手同場」。這一格的鑑別度只有 31，連高分群考生也在這裡失手，原因就在 world-class matches 這個組合太自然——對字詞搭配越敏感的人，越容易在看到 world-class 的當下就把 matches 填進去，不會回頭確認 and 前面那一項是什麼。字詞搭配平常是很好用的線索，但它只保證「這兩個字常放在一起」，不保證「在這一句的位置上站得住」，並列結構的對等要求比搭配的眼熟度優先。【干擾選項】matches（比賽）不是人，與 and 左邊的 club members 對不起來，理由見上。civilians（平民、老百姓）雖然是人，但它的對照組是軍人或警消，跑步的場合沒有這一組對比。associations（協會、組織）是團體不是個人，與 amateurs、club members 這條「參賽者」的線也接不上。【常考字詞與句型】world-class（世界級的）、champion（冠軍、冠軍選手）、amateur（業餘者）、participate in（參加，participate 是不及物動詞，一定要有 in）、be welcome to V（歡迎做某事）、wheelchair entrant（輪椅參賽者）"
   },
   {
     "id": "Z105_11",
@@ -5808,7 +5818,9 @@
     "passageId": "105_11-15",
     "accuracyRate": 73,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "線索在前一句的 irritated，空格是它的同義改寫",
+    "note": "【你可能會這樣想】offend 這個字，你的印象大概只有「冒犯」兩個字，而且多半綁在言語上——說錯話得罪人。耳機音樂外洩、在車廂裡佔掉兩個位子，這些事在你的印象裡不會被歸到「冒犯」底下，所以就算認得這個字，也不見得敢把它填進來。加上空格後面接的是 you with the loud music，「動詞加人加 with 加東西」這個排法會讓 supplied 看起來形態吻合。【怎麼判斷】動手填之前先問一句：這一段在講什麼？第一句就把核心問出來了——Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long?（你是不是被那種排隊靠太近、講話太大聲、盯著你看太久的人惹惱過？）整段從頭到尾都在講「別人踩進你的空間、讓你不舒服」，irritated 就是這一段的核心用字。空格這一句用 Or 接下去，做的事情與前一句一模一樣，只是再舉兩個例子：耳機裡的音樂太大聲、在擁擠的地鐵車廂裡佔了不只一個位子。既然是同一件事換個說法再講一次，空格要的就是與 irritated 同方向的那個字。這就是同義勾環：空格與前後文的某個字是同義改寫。英文的習慣是不把同一個字重複用，改寫時會換成同義字（Halliday 與 Hasan「Cohesion in English」把同義詞複現列為詞彙銜接的手段之一），所以這裡不會再出現一次 irritated，而是換成 offend，讀成 they may have offended you with the loud music，與第一句對得起來。這一招比逐個選項推敲可靠得多：先找出這一段在講什麼、核心用字是哪一個，再看空格是不是那個字的改寫。找得到這條連結才敢填，找不到就表示還沒讀懂這一段。【干擾選項】三個干擾選項的毛病其實是同一個：方向不對。這一段從第一句起就在講別人做了讓你不舒服的事，空格要的必須是一個負面的動作。supply（提供）是把對方需要的東西給他，帶正面或中性的意思；controlled（控制）語意太重，用大聲音樂與佔位子講不到控制別人；acquired（取得、習得）後面接的是東西不是人，acquired you 根本說不通。supplied 另外有一個地方要提防：它的形態與 you with 這個排法完全吻合，看起來很像 supply somebody with something（The hotel supplies its guests with towels.）。但句中那個 with 不是 supply 帶來的，它是表「用什麼手段」的 with，證據在後半句的並列——with the loud music 與 or by taking up more than one seat 對等，一個是 with 加名詞、一個是 by 加動名詞，兩個都在回答「用什麼方式」。順便記一個通則：句子裡出現一個介系詞時，不要單獨拿它去挑動詞，因為配得上同一個介系詞的動詞往往不只一個，學測 91 年第 23 題的 give birth to 正是同一招失靈的例子。【常考字詞與句型】offend somebody（冒犯、惹惱某人）、be irritated by（被……惹惱）、supply somebody with something（提供某人某物）、take up（佔用時間或空間）、may have 加過去分詞（推測過去可能發生過的事）、more than one 加單數名詞（不只一個）"
   },
   {
     "id": "Z105_12",
@@ -5830,7 +5842,9 @@
     "passageId": "105_11-15",
     "accuracyRate": 65,
     "discrimination": 41,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "線索在下一句 For example 舉的 sound, smell, or stare（聽覺、嗅覺、視覺）",
+    "note": "【你可能會這樣想】invisible forces（看不見的力量）這個說法很抽象，讀起來像在講方位或範圍，所以 angles（角度）與 regions（區域）都顯得說得通——力量從各個角度加在你身上，讀起來很順，於是就填了。【怎麼判斷】四個選項都是名詞複數、都接在 through all the 後面，文法上都放得進去，可見這一格考的是語意，落在大考中心說的「詞彙量」這一項上。定案的線索完全在下一句：For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare.（不想聽到的聲音、不想聞到的氣味、不想被盯著看的注視）。聲音、氣味、注視分別對應聽覺、嗅覺、視覺，三樣並列的東西同屬一類，就是感官。上一句說那些看不見的力量是 through all the ______ 加在你身上的，下一句立刻用三種感官把它拆開來舉例，所以空格填 senses。這一題只讀空格所在的那一句是定不了案的：through all the angles 讀起來也不算不通。For example 是最好認的邏輯勾環，看到它就要回頭與前一句對齊——舉例句是用來說明前一句的，前一句抽象在哪裡，例子就在補哪裡，反過來就是最可靠的線索。【干擾選項】angles（角度）與 regions（區域）都是空間概念，但下一句舉的三個例子沒有一個與方位有關。events（事件）指的是發生的事，聲音、氣味、注視都不是事件，而且 through all the events 會變成「透過所有事件」，與 imposed on you（加諸在你身上）接不起來。三個選項的毛病其實是同一個：只要真的把下一句讀進來，沒有一個接得住。【常考字詞與句型】through the senses（透過感官）、impose something on somebody（把某事強加在某人身上）、invade（侵犯、入侵）、be violated（被侵犯）、an unwelcome sound（不受歡迎的聲音）、for example（舉例來說）"
   },
   {
     "id": "Z105_15",
@@ -5852,7 +5866,8 @@
     "passageId": "105_11-15",
     "accuracyRate": 43,
     "discrimination": 43,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】retreat 這個字，你的印象大概只有軍事上的「撤退」，很難把它跟「人在擁擠的車廂裡往角落挪」連在一起，所以四個選項看起來好像都沾不上邊。答對率四成三，一半以上的人在這裡失手。【怎麼判斷】四個選項都是原形動詞、都接在 may 後面，文法上都放得進去，可見這一格考的是語意。定案的線索就在同一句的後半段：putting distance between themselves and strangers（拉開自己與陌生人之間的距離）。句尾這個逗號加 V-ing 是現在分詞片語，用來補充說明前面整句話所造成的結果（劍橋 English Grammar Today 的 -ing clause 表結果），還原成 and it puts distance between themselves and strangers 就看得出來：先做了空格那個動作，結果才拉開了距離。所以空格要的是一個往後退、離開人群的動作，retreat to a corner（退到角落）方向完全對得上。retreat 的「撤退」與「退到角落」其實是同一個意思：往後退、離開原來的位置。軍隊往後撤是它，一個人在車廂裡往角落挪也是它，差別只在規模。把軍事那個畫面縮小成一個人，這個字就用得出來了。【干擾選項】explore（探索）方向剛好相反，是往外去而不是往後退，而且 explore 是及物動詞，後面直接接受詞（explore the city），不接 to。dispense 後面接的是被分發的東西，dispense to a corner 沒有意義；它最常見的組合是 dispense with something（省去、不用）。connect（連結）與後半句的 putting distance 語意矛盾，一個要靠近、一個要拉開。【常考字詞與句型】retreat to（退到……）、put distance between A and B（拉開 A 與 B 之間的距離）、dispense with something（省去、不需要）、coping strategy（因應策略）、given the opportunity（有機會的話）、deal with（處理、應付）"
   },
   {
     "id": "Z105_16",
@@ -5897,7 +5912,9 @@
     "passageId": "105_16-20",
     "accuracyRate": 62,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "This 回指前一句「非但沒有被當成擊敗納粹的關鍵人物看待，反而被以嚴重猥褻罪定罪」",
+    "note": "【你可能會這樣想】四個選項都是名詞，若只讀空格所在的這一句 This ______ drove him to commit suicide in 1954，句子本身根本沒告訴你這個東西是什麼，只能憑感覺挑，compromise（妥協）因為聽起來帶著「不得已」的味道而顯得可選。【怎麼判斷】關鍵在句首那個 This，這是最典型的指標勾環。this 加上一個名詞是回指：用一個比較概括的名詞，把前面剛講過的內容整個收攏起來再指一次（Halliday 與 Hasan「Cohesion in English」談的指稱銜接）。所以這一格的線索完全在前一句，句內找不到——前一句說圖靈非但沒有被當成擊敗納粹的關鍵人物看待，反而被以嚴重猥褻罪定罪。回頭問一句：那件事對他而言是什麼？是公開的羞辱。humiliation（屈辱、羞辱）正是能把前一句整件事收攏起來的那個概括名詞。這一招值得記起來：看到 This 或 These 帶著一個名詞，先停下來問「這個 this 指的是前面哪一段」，再看四個選項哪一個接得住。這一格的鑑別度高達 58，分開的就是有沒有真的回頭做這個動作。【干擾選項】compromise（妥協、折衷）指雙方各退一步達成的結果，前一句沒有任何協商。procession（隊伍、行列）是遊行或列隊行進，與前文無關，只是與 process（過程）長得像才顯得眼熟。supplement（補充品、增補）指額外補上的東西，也接不住前一句。三個選項的毛病其實是同一個：只要真的回頭把 This 指向的那一句讀進來，沒有一個接得住。【常考字詞與句型】humiliation（屈辱、羞辱）、drive somebody to V（迫使某人做某事）、this 加概括名詞（回指前面剛說過的內容）、compromise（妥協、折衷）、supplement（補充品、增補）、at the age of（在……歲時）"
   },
   {
     "id": "Z106_20",
