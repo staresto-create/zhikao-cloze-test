@@ -623,7 +623,8 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_16-20",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】jar 是個罐子，罐子就是容器，容器就是「地方」，所以 where 讀起來特別順——「放進第二個罐子，那裡面裝著酒精」。中文這樣講完全通，英文卻不行，差別在空格後面那個子句缺不缺東西。【怎麼判斷】關係詞這一類題有一個自己動手就能驗算的方法：先找出前面那個名詞（先行詞），再把它整個搬回空格後面的子句裡，看句子成不成立、它站的是哪一個位置。本題的先行詞是 the second jar，搬回去就成了 The second jar contained alcohol.（第二個罐子裝著酒精。）句子完全成立，而且它站的是主詞的位置——主詞被抽走了，空格就要填一個代替主詞的關係代名詞，答案是 which。where 之所以不行，正是因為它是關係副詞：關係副詞後面的子句必須自己完整，像 the jar where he put the worm（他把蟲放進去的那個罐子），子句裡 he 是主詞、the worm 是受詞，成分都齊了；本題的 contained alcohol 少了主詞，非得由關係代名詞補上不可。what 也出局，理由在劍橋 English Grammar Today 的 what 條目：what 自己就帶著先行詞（等於 the thing that），前面若已經站著一個名詞，就得改用 which 或 that，所以英文說 This is the book which the lecturer mentioned.，不能說成 the book what ...。【干擾選項】when 的先行詞必須是時間（the day when we met），jar 不是時間；where 與 what 的問題如上。這三個選項都不是敗在語意，而是敗在子句的成分上——它們都沒辦法在 contained 前面補出一個主詞。【常考字詞與句型】which 引導的關係子句（補充說明前面的名詞，並代替子句裡的主詞或受詞）、關係副詞 where（先行詞是地方，且後面的子句必須完整）、take something out of（把某物從……取出）、put something in（把某物放進……）、say to somebody（對某人說）、reaction（反應）"
   },
   {
     "id": "Z93M_21",
@@ -643,7 +644,8 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】空格前面是 feast、後面接著一整句話，很容易先想到 which 那一類的關係詞；但選項裡沒有單獨的 which，四個都是兩三個字組成的東西，一時不知道從哪裡下手，只好挑讀起來最順的 such that。【怎麼判斷】先看空格後面那一串是什麼：thousands of musicians, cooks, and craftspeople welcome 500,000 visitors each year（數以千計的音樂家、廚師、工藝家每年迎接五十萬名遊客）——主詞是 thousands of musicians...，動詞是 welcome，受詞是 500,000 visitors，主詞受詞都齊了，是一個成分完整的句子。這一步最關鍵：成分既然不缺，就沒有位置留給關係代名詞，which、that 這一類進不來。同一份試卷第 18 題正好相反，那一格後面的 contained alcohol 少了主詞，所以要填 which；兩題擺在一起看最省力。那麼前面的 feast 與後面這個完整句子要怎麼接？答案是介系詞加關係代名詞：in which 等於 in the feast，補上介系詞之後，feast 就以「地點」的身分回到子句裡。把先行詞搬回去驗算一次：Thousands of musicians, cooks, and craftspeople welcome 500,000 visitors in the feast.（在這場盛會裡，數以千計的音樂家、廚師、工藝家迎接五十萬名遊客。）句子完整，介系詞 in 也用得上。in which 在這個位置等於關係副詞 where，兩種說法都通行。【干擾選項】in order for 後面要接「某人 ＋ to ＋ 原形動詞」（in order for us to finish on time 為了讓我們準時完成），但空格後面的 welcome 是沒有 to 的原形，形態就對不上；such that 表示「如此……以致於」，前面要先說出一個程度或性質才接得下去，這一句只是在描述盛會的內容，沒有程度可言；as many as 後面要接數字（as many as 500,000 visitors 多達五十萬名遊客），它修飾的是數量，不是用來連接兩個句子的。三個選項都不是「能把一個完整句子掛回前面那個名詞」的東西。【常考字詞與句型】in which（介系詞加關係代名詞，在這個位置等於 where）、cultural feast（文化盛宴）、as many as ＋ 數字（多達……）、in order for somebody to V（為了讓某人做某事）、welcome（迎接）、craftspeople（工藝家，單數是 craftsperson）"
   },
   {
     "id": "Z93M_22",
@@ -663,7 +665,8 @@
     "answer_source": "official_key_corrected",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】across 與 around 的中文都可以說成「遍及、各地」，看起來分不出高下，於是憑語感二選一；也有人一看到 the world 就急著找一個「全世界」的說法，結果卡在這兩個之間。【怎麼判斷】先用並列結構的三步判準。第一步，找對等連接詞：句子裡有 and。第二步，確定 and 連的是哪兩樣——不是 the region 與 the world 兩個名詞，而是 from the region 與空格帶出的那一串兩個介系詞片語，兩個都掛在 artisans 後面說明這些工藝家從哪裡來。這一步可以借國中數學的分配律驗算：and 兩邊共用同一個 artisans，把它分配進去，還原成 artisans from the region 與 artisans around the world 兩組，兩組都站得住，可見 and 連的正是那兩個介系詞片語。反過來想也清楚：英文之所以寫成並列，就是為了不必把 artisans 說兩次——把共用的部分提到前面，比兩句話分開寫短，這與數學上把公因式提出來、A（B＋C）＝AB＋AC 左邊比右邊短是同一回事。要提醒的是並不是每個 and 都拆得開：Tom and Mary are a good couple. 拆開就不成立，那表示 and 連的是一個整體，不是兩樣東西。第三步，依據在左：左邊已經寫出來的是 from the region（來自這個地區，也就是在地），右邊那一格就要與它形成「在地對全球」的一組，才說得通「在地與各地的工藝家都來了」。這一步刷掉 against（對抗）與 about（關於），兩個都不是表範圍的說法。剩下的 across 與 around 才是真正的難處：牛津高階兩個都收了「遍及」的意思——across 的第四義是 in every part of a place, group of people（同義詞 throughout），例句是 Her family is scattered across the country.（她的家人散居全國各地）；around 則是 in or to many places in an area（在一個範圍裡的許多地方）。兩個都有辭典依據，語意刷不掉，最後定案靠的是字詞搭配：講「世界各地」時，英文最制式的組合就是 around the world，與前面的 from 連起來讀成 from the region and around the world 也最自然。這一題不能用「兩個意思差不多的選項一定同時錯」去砍，那一招在這裡會把正確答案一起砍掉。【干擾選項】against（對抗、靠著）方向完全不同，artisans against the world 會變成「與世界為敵的工藝家」；about（關於）後面接的是主題不是地點，artisans about the world 不成話；across 如上，意思本身站得住，只是這個位置的制式說法是 around。【常考字詞與句型】around the world（世界各地）、across ＋ 地方或群體（遍及，牛津高階第四義，同義詞 throughout）、from the region（來自當地）、artisan（工藝家、匠人）、purchase（購買）、works（作品，此義用複數）"
   },
   {
     "id": "Z93M_23",
@@ -683,7 +686,8 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】concerts 是「音樂會」，音樂會會「發生」，所以 happen to 讀起來好像可以；也有人看到 participate in（參與）覺得音樂會在不同地點「參與」，勉強說得通。這兩個都是把主詞讀錯造成的——音樂會不是動作的執行者，是被安排、被辦出來的那一方。【怎麼判斷】先確認主詞與空格的關係：主詞是 The evening concerts（晚間音樂會），它自己不會去做什麼，只能被人辦出來，所以這一格要的是被動。四個選項裡 happen to 與 participate in 都是主動，先出局。剩下 are held at 與 are taken in 兩個被動的，再看介系詞與語意：後面接的是 different locations（不同的地點），要的是「在某個地點舉行」，英文的制式說法是 be held at ＋ 地點。國中學過的 The meeting will be held at the school hall.（會議將在學校禮堂舉行）就是這個句型。順便把主動與被動這一組講清楚：同一件事用主動講是 take place（The concert took place at the stadium. 演唱會在體育場舉行），用被動講才是 be held（The concert was held at the stadium.），兩個都對，但不能混成 be taken place 那種寫法。【干擾選項】happen to 後面接的是人（Something strange happened to me yesterday. 我昨天碰上一件怪事），接地點不成話；participate in（參與）的主詞必須是人或團體，音樂會自己不會去參與什麼；are taken in 的 take in 是「收留」或「欺騙」（Don’t be taken in by his promises. 別被他的承諾騙了），語意完全不對。三個選項不是主動被動錯，就是主詞挑錯。【常考字詞與句型】be held at ＋ 地點（在……舉行）、take place（舉行、發生，主動用法）、happen to somebody（發生在某人身上）、participate in（參與）、be taken in by（被……欺騙）、location（地點）"
   },
   {
     "id": "Z93M_27",
@@ -703,14 +707,15 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_26-30",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到 come from ___ to win，你知道整句在講逆轉獲勝，於是要找一個表示落後的字。down 這時候特別誘人，因為 be down by ten points（落後十分）確實是英文裡真實存在的說法，運動報導天天在用。問題不在 down 的意思，在它能不能接在 from 後面。【怎麼判斷】這一格考的是一個整組的慣用語：come from behind。劍橋詞典把它收為慣用語、標示 C1，正體中文的釋義就是「（比賽中）成功扭轉劣勢，後來居上」，整組記起來就好，不必拆開分析 behind 在裡面算什麼詞性。behind 之所以是那個字，可以掛回國中學過的用法：Our team is 3 points behind the winners.（我們這隊落後冠軍三分）——behind 除了「在……後面」，本來就有「落後」這一層意思。再用篇內驗算：前一句問的是「上半場就領先三十分的那一隊，還是它的對手比較可能贏」，同一句後半又說 the chances of overcoming that kind of lead are slim（要扭轉那樣的領先差距，機會很渺茫），可見這一格說的正是「從落後的位置追上來」。【干擾選項】down 是本題最強的干擾，而且它的落後義是真的——劍橋收有 The Cavaliers were 20 points down at half-time.（騎士隊中場休息時落後二十分）。但請看劍橋另一個例句：Michigan, down (by) ten points at the half, came back to win the football game.（密西根隊中場落後十分，後來反敗為勝。）同樣是落後、同樣是 at the half，劍橋配的動詞是 came back，不是 come from——down 走的是「幾分 down」這種形容詞式的說法，接不到 from 後面；能接在 from 後面表示落後位置的是 behind。above（在……之上）與 underneath（在……下方）都是講空間位置，一個方向還相反，一個不用在比分上。【常考字詞與句型】come from behind（從落後中逆轉獲勝）、come back to win（反敗為勝）、be ＋ 數字 ＋ points down（落後幾分）、be ＋ 數字 ＋ points ahead（領先幾分）、overcome a lead（扭轉領先差距）、slim（機會渺茫的）"
   },
   {
     "id": "Z93M_16",
     "year": "93年指考(敏督利颱風應變試題)",
     "source": "93年指考敏督利颱風應變試卷",
     "blankNum": 16,
-    "category": "慣用語／片語",
+    "category": "介系詞",
     "sentence": "He displayed two jars in front of the group, one containing water and the other containing alcohol, __16__ a very healthy worm.",
     "options": {
       "A": "in addition",
@@ -723,7 +728,8 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_16-20",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】in addition 的中文是「此外」，把它擺進空格讀成「此外還有一條很健康的蟲」，意思好像完全通順，於是就直接選了它。落差在於：in addition 後面接的是一整句話（He displayed two jars. In addition, he showed a worm.），它自己接不住名詞；要讓它後面直接放名詞，非得補上 to 不可——劍橋詞典收為介系詞的是 in addition to，例句是 In addition to doing an exam, applicants also had to do an interview.（除了考試之外，申請人還得面試。）【怎麼判斷】先看空格後面接的是什麼：a very healthy worm 是一個名詞組，前面沒有動詞、也沒有連接詞帶出新的句子，可見這一格要的是能直接接名詞的東西。四個選項有三個做得到（along with、on account of、as a result of 後面都接名詞），只有 in addition 少了 to，形態本身就不完整。片語題先檢查冠詞與介系詞有沒有缺，缺零件的往往一眼就刷得掉，這一招很值得練熟。剩下三個再用語意分：這一整句從頭到尾都在列「他擺出了什麼」——兩個罐子，一個裝水、一個裝酒精，再加上一條蟲，是一份展示品的清單，不是因果關係。along with 的意思正是「連同、和……一起」，接得上這份清單。【干擾選項】on account of（因為）與 as a result of（由於……的結果）雖然都能直接接名詞，但兩個講的都是原因，而那條蟲不是他擺出兩個罐子的理由。in addition 若要成立，句子得改寫成 ..., and in addition, he showed a very healthy worm.，先有對等連接詞與主詞動詞才行。這三個選項有一個共同的破綻：沒有一個能把那條蟲掛進「展示品清單」裡。【常考字詞與句型】along with（連同、和……一起）、in addition to ＋ 名詞或動名詞（除了……之外還有）、on account of（因為，後面接名詞）、as a result of（由於……的結果）、display（展示、陳列）、one ... the other ...（兩者之中一個……另一個……，國中學過的 I have two pens. One is red; the other is blue. 就是這個）"
   },
   {
     "id": "Z93M_17",
@@ -743,7 +749,8 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_16-20",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】as 這個字，你的印象大概停在「因為」，於是看到 The group watched closely as ... 就想成「他們仔細看，因為蟲在漂」，語意接不起來，只好回頭在 if、yet、or 之間猜。【怎麼判斷】四個選項都是連接詞，形態上一個也刷不掉，可見這一格考的是空格前後兩件事之間的邏輯關係。先確認兩邊各在講什麼：前半是「這群人仔細地看」，後半是「蟲在罐子裡漂浮、懸垂、游動」。後半不是前半的原因，也不是與前半相反的事，它就是他們看到的那個過程本身，而且同時在發生。as 除了「因為」，還有「當……的時候」這個身分（劍橋詞典 as 條目），表示兩件事同時進行，正好接得上。判斷 as 的方法永遠是同一句：先看它後面接的是子句還是名詞，再看語意。這裡 the worm floated 有主詞也有動詞，是完整的子句，所以 as 走的是連接詞那一路。這個用法國中就見過，只是當時多半用 while：I was doing my homework while my brother was watching TV.（我在寫功課，我弟弟在看電視。）兩件事同時進行，as 與 while 在這個用法上可以互換。學測題庫裡還有一題幾乎是本題的雙胞胎：86 年第 23 題，選項是 or／if／as／but，答案同樣是 as，也同樣表示「當……的同時」，連 if 與 or 兩個干擾選項都與本題重複，兩題擺在一起看最省力。as 出現過的四種身分一併記起來（以下都在學測題庫）：86 年第 23 題與本題是「當……的同時」、87 年第 31 題是「當……時」、91 年第 24 題是「隨著」、94 年第 18 題是介系詞「以……的身分」。【干擾選項】if（如果）帶的是假設，但蟲在罐子裡漂是眼前正在發生的事實，不是假設；yet（然而）要求前後相反，「仔細看」與「蟲在漂」並沒有互相牴觸；or（或者）要求兩邊是可以二選一的選項，而「這群人仔細看」與「蟲在漂」不是兩個並排的選擇。三個都給不出「同時發生」這層關係。【常考字詞與句型】as ＋ 子句（當……的時候，表兩件事同時進行）、watch closely（仔細觀看）、float（漂浮）、dangle（懸垂、晃來晃去）、yet 當連接詞（然而，等於 but）、drop something in ＋ 容器（把某物丟進……裡）"
   },
   {
     "id": "Z93M_28",
@@ -763,7 +770,9 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_26-30",
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "空格的正負由下一句開頭的 But 決定",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都能接 of us，文法上一個也刷不掉，只能比語意；而「我們有些人／很多人無法完全確定未來」聽起來也很合理，Some 與 Many 就這樣被選走。這一題的線索不在空格所在的這一句，在下一句的第一個字。【怎麼判斷】先把下一句讀完：But we can, and often do, think of the possibilities.（但我們可以、而且經常會去思考各種可能性。）開頭是 But，But 要求前後相反。既然後面是肯定的「我們可以思考可能性」，前面那一句就必須是否定的——四個選項裡只有 None 是否定的，填進去讀成 None of us can be perfectly sure about how things will turn out in the future.（我們沒有人能完全確定未來會怎麼發展。）前後就成了「沒有人能確定，但我們仍然會去想」，這才是這一段要說的話。這一格是「先讀連接詞再回頭填空」的典型：空格所在的句子自己是中立的，正負要由下一句的 But 決定。順帶記一個同句裡的用法：we can, and often do, think of... 的 do 是替代，代替後面的 think of the possibilities，避免重複；國中的 Do you like it? — Yes, I do. 就是同一招。【干擾選項】All of us can be perfectly sure（我們全都能完全確定）填進去，後面的 But 就沒有東西可以轉折了，而且與整篇「機率是用來讓猜測更準確」的主旨相反；Some 與 Many 都是「有一部分人能確定」，同樣接不上 But——如果真有人能確定，後面就不必說「但我們可以去思考可能性」了。三個選項的共同破綻是：它們都讓下一句的 But 失去作用。【常考字詞與句型】none of us（我們沒有人……）、turn out（結果變成、演變成）、be sure about（對……有把握）、think of（想到、思考）、do 的替代用法（代替前面出現過的動作，國中掛鉤 Do you like it? — Yes, I do.）、possibility（可能性）"
   },
   {
     "id": "Z93M_29",
@@ -779,18 +788,19 @@
       "D": "whether"
     },
     "answer": "D",
-    "explanation": "whether 引導名詞子句作 guess 的受詞，表示「猜測是否會發生這件事或那件事」，whether...or... 是固定的「是否」句型。since／though／because 都不能引導這種作受詞的名詞子句。",
+    "explanation": "whether 引導名詞子句當 guess 的受詞，意思是「是否」。注意本句的 or 連接的是 this 與 that 兩個代名詞，不是 whether A or B 的句型。since／though／because 都不能引導這種當受詞的名詞子句。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_26-30",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到句子裡有 or，很多人會反射性地想到 whether A or B（是否……）這個句型，然後回頭找 A 與 B 在哪裡——但這一題的 or 連的根本不是 whether 的那兩個選項，這一步想錯了反而會亂。另一種卡住的方式是把 since、because 讀成「因為」，覺得「我們可以猜，因為這件事可能發生」也講得通。【怎麼判斷】這一格與同一份試卷的第 18、21 兩題是同一組判準的第三種情形：看空格前面接的是名詞還是動詞。第 18 題前面是名詞 jar、第 21 題前面是名詞 feast，兩題填的都是關係詞；本題前面是動詞 guess（猜測），動詞後面要的是受詞，所以空格帶出來的那一串是一個當受詞用的名詞子句，四個選項裡只有 whether 帶得出名詞子句。填進去是 guess whether this or that might happen（猜測這件事或那件事會不會發生）。至於句中那個 or，用國中數學的分配律驗算一次就清楚了：把 might happen 分配到 or 兩邊，還原成 whether this might happen or that might happen，兩邊都成立，可見 or 連的是 this 與 that 兩個代名詞，不是 whether A or B 那個句型。並列結構的第二步是「確定 and 或 or 連的是哪兩樣」，這一題是很好的練習——層級抓錯，整題就跟著錯。【干擾選項】since、though、because 三個都是帶副詞子句的從屬連接詞，它們帶出來的子句是用來說明原因或讓步的，不能站在動詞後面當受詞。驗算方式很直接：把它們填進去讀一次，guess since this might happen 沒有受詞可交代，句子就斷在那裡。【常考字詞與句型】guess whether ＋ 子句（猜測是否……）、whether ＋ 子句（是否……，可以整包當動詞的受詞）、this or that（這個或那個）、might（可能，表推測）、名詞子句當受詞（動詞後面接 whether 或 wh- 詞帶出的子句）、in some cases（在某些情況下）"
   },
   {
     "id": "Z93M_26",
     "year": "93年指考(敏督利颱風應變試題)",
     "source": "93年指考敏督利颱風應變試卷",
     "blankNum": 26,
-    "category": "慣用語／片語",
+    "category": "連接詞／轉承語",
     "sentence": "Which would you wear to a football game, a sweater or a raincoat? __26__ the raincoat if you thought there was a good chance of rain.",
     "options": {
       "A": "Probably",
@@ -803,7 +813,9 @@
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "93M_26-30",
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "簡答省略掉的主詞與動詞要靠前一句的問句還原",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 -ly 結尾的副詞，中文擺進去好像都能講，於是憑語感挑；Consequently（因此）特別誘人，因為它看起來最像在承接前面那一句。真正卡住人的其實不是選項，是這一格所在的句子根本不完整——它沒有主詞也沒有動詞，只有一個副詞加一個名詞 the raincoat，會讓人懷疑自己是不是讀漏了什麼。【怎麼判斷】先回頭看前一句：Which would you wear to a football game, a sweater or a raincoat?（去看美式足球賽，你會穿毛衣還是雨衣？）這是一個問句，而空格所在的這一句正是它的答句。英文的答句可以只留下真正回答問題的部分，與問句重複的主詞和動詞一起省掉；把省掉的補回來就是 You would probably wear the raincoat if you thought there was a good chance of rain.（如果你覺得很可能下雨，你大概會穿雨衣。）這種簡答國中就練過：Do you like it? — Yes, I do. 答句不必把 like it 再說一次。既然這一格是在回答「會穿哪一件」，要填的就是一個表示可能性的副詞，Probably 正好。要注意的是，這一格不看前一句就定不了案——單看 ___ the raincoat if you thought...，四個副詞在形態上都放得進去。【干擾選項】Consequently（因此）要求前面是一個原因，但前面是問句，問句當不了原因；Similarly（同樣地）要求前後兩件事同向並列，前面只問了一個問題，沒有第一件事可以「同樣」；Formally（正式地）講的是方式，回答「穿哪一件」時說「正式地雨衣」不成話。三個選項都接不上「回答可能性」這件事。【常考字詞與句型】probably（大概、很可能）、a good chance of ＋ 名詞（很有可能……）、consequently（因此）、similarly（同樣地）、formally（正式地）、簡答時可以把與問句重複的主詞和動詞一起省略"
   },
   {
     "id": "Z94_19",
@@ -1580,7 +1592,7 @@
     "fullPassage": "The Kingdom of Bhutan is a landlocked nation situated between India and China. The entire country is mountainous, __26__ a small strip of subtropical plains in the extreme south. The elevation gain from the subtropical plains to the glacier-covered Himalayan heights exceeds 7,000 m. Its traditional __27__ is based on forestry, animal husbandry and subsistence agriculture. However, these __28__ less than 50% of the GDP now that Bhutan has become an exporter of hydroelectricity. Besides, cash crops and tourism are also __29__. Bhutan is one of the most isolated nations in the world, __30__ foreign influences and tourism regulated by the government to preserve its traditional Tibetan Buddhist culture. It is often described as the last surviving refuge of traditional Himalayan Buddhist culture.",
     "hasFullPassage": true,
     "accuracyRate": 23,
-    "note": "答對率 23%。【你可能會這樣想】exception 你認得名詞「例外」，卻不見得知道 with the exception of 是一個完整的介系詞片語，功能等同 except for。【先確認整句的邏輯關係】The entire country is mountainous, ___ a small strip of subtropical plains in the extreme south.——前半用了 The entire country（全境），是一個「全部」的敘述，後面接的自然是例外。「看到 entire、all、every 這類表全體的字，就往「排除」的方向找。」【干擾選項】in terms of 是「就…而言」（in terms of cost）；as a part of 會變成「平原是山地的一部分」，自相矛盾；in accordance with 是「依照」，用於規定或程序。【常考字詞與句型】with the exception of（除…之外）、except for（除…之外）、without exception（無一例外）、make an exception（破例）、in terms of（就…而言）。",
+    "note": "答對率 23%。【你可能會這樣想】exception 你認得名詞「例外」，卻不見得知道 with the exception of 是幾個字合起來當一個介系詞用，功能等同 except for。【先確認整句的邏輯關係】The entire country is mountainous, ___ a small strip of subtropical plains in the extreme south.——前半用了 The entire country（全境），是一個「全部」的敘述，後面接的自然是例外。「看到 entire、all、every 這類表全體的字，就往「排除」的方向找。」【干擾選項】in terms of 是「就…而言」（in terms of cost）；as a part of 會變成「平原是山地的一部分」，自相矛盾；in accordance with 是「依照」，用於規定或程序。【常考字詞與句型】with the exception of（除…之外）、except for（除…之外）、without exception（無一例外）、make an exception（破例）、in terms of（就…而言）。",
     "discrimination": 18,
     "contextSpan": "句內"
   },
@@ -1861,7 +1873,7 @@
     "fullPassage": "A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way __26__ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could __27__ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced __28__ the event. Recycling cans were also provided for items such as __29__ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's $250 award for the most creative memory destined for __30__. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.",
     "hasFullPassage": true,
     "accuracyRate": 23,
-    "note": "答對率 23%。【你可能會這樣想】beforehand 是最主要的陷阱——它的中文也是「事先、預先」，語意與 prior to 幾乎相同，你一看中文對得上就選了。但這一題真正考的不是語意，而是「詞性」：beforehand 是副詞，只能單獨使用、通常放在句尾（Let me know beforehand. 請事先告訴我），後面不能再接名詞；prior to 才是介系詞片語，後面必須接名詞或動名詞。空格後面緊接著 the event（名詞），所以只能填 prior to。【判斷方法：看空格後面接什麼】遇到這種「語意都對、只有一個能用」的題目，一律回到句法：空格後面是名詞，就找介系詞；是完整子句，就找連接詞；什麼都沒有（直接句號或逗號），才可能是副詞。這個順序能解掉大部分的詞性題。【同義但詞性不同的一組】before 既是介系詞也是連接詞（before the event／before the event started）；prior to 只能當介系詞；beforehand 與 in advance 是副詞片語，放句尾。四個一起整理，寫作時才不會用錯。【文內驗證】本句 as the organizers had announced ___ the event（正如主辦單位在活動前所宣布的）用了過去完成式 had announced，本身就標示「更早之前」的時間點，與 prior to 的語意完全吻合。【干擾選項】until 是「直到」，會變成「宣布直到活動為止」，語意不通；above all 是「最重要的是」，是轉承語，與時間無關。【常考字詞與句型】prior to + 名詞（在…之前）、before + 名詞／子句（在…之前）、beforehand（事先，副詞）、in advance（事先）、announce（宣布）。",
+    "note": "答對率 23%。【你可能會這樣想】beforehand 是最主要的陷阱——它的中文也是「事先、預先」，語意與 prior to 幾乎相同，你一看中文對得上就選了。但這一題真正考的不是語意，而是「詞性」：beforehand 是副詞，只能單獨使用、通常放在句尾（Let me know beforehand. 請事先告訴我），後面不能再接名詞；prior to 才是幾個字合起來當一個介系詞用，後面必須接名詞或動名詞。空格後面緊接著 the event（名詞），所以只能填 prior to。【判斷方法：看空格後面接什麼】遇到這種「語意都對、只有一個能用」的題目，一律回到句法：空格後面是名詞，就找介系詞；是完整子句，就找連接詞；什麼都沒有（直接句號或逗號），才可能是副詞。這個順序能解掉大部分的詞性題。【同義但詞性不同的一組】before 既是介系詞也是連接詞（before the event／before the event started）；prior to 只能當介系詞；beforehand 與 in advance 是副詞片語，放句尾。四個一起整理，寫作時才不會用錯。【文內驗證】本句 as the organizers had announced ___ the event（正如主辦單位在活動前所宣布的）用了過去完成式 had announced，本身就標示「更早之前」的時間點，與 prior to 的語意完全吻合。【干擾選項】until 是「直到」，會變成「宣布直到活動為止」，語意不通；above all 是「最重要的是」，是轉承語，與時間無關。【常考字詞與句型】prior to + 名詞（在…之前）、before + 名詞／子句（在…之前）、beforehand（事先，副詞）、in advance（事先）、announce（宣布）。",
     "discrimination": 13,
     "contextSpan": "句內"
   },
@@ -1934,7 +1946,7 @@
     "accuracyRate": 36,
     "discrimination": 39,
     "contextSpan": "句內",
-    "note": "答對率 36%。【你可能會這樣想】四個選項都是介系詞片語，中文翻起來都通順，只能靠語意的方向判斷。in case of ＝ 萬一發生…時，帶有「預先防範」的意味：In case of fire, use the stairs.（萬一失火，請走樓梯）。【線索是 security】空格前面是 providing security for a girl（為女子提供保障）——既然是「保障」，後面接的必然是「萬一遇到什麼狀況」，這兩個概念天生配成一對。「看到 security、protection、insurance 這類字，後面常接 in case of 或 against。」【干擾選項】due to 是「由於」，會變成「因為困難而提供保障」，因果顛倒——保障是預先給的，不是事後補的；apart from 是「除…之外」；with reference to 是「關於」。【in case 的兩種用法】in case of + 名詞（萬一發生…）；in case + 子句（以防…）：Take an umbrella in case it rains.（帶把傘以防下雨）。【常考字詞與句型】in case of fire／emergency（萬一失火／發生緊急狀況）、in case + 子句（以防…）、provide security for（為…提供保障）、insure against（為…投保）。"
+    "note": "答對率 36%。【你可能會這樣想】四個選項都是幾個字合起來當一個介系詞用（劍橋 English Grammar Today 的 Prepositions 條目），中文翻起來都通順，只能靠語意的方向判斷。in case of ＝ 萬一發生…時，帶有「預先防範」的意味：In case of fire, use the stairs.（萬一失火，請走樓梯）。【線索是 security】空格前面是 providing security for a girl（為女子提供保障）——既然是「保障」，後面接的必然是「萬一遇到什麼狀況」，這兩個概念天生配成一對。「看到 security、protection、insurance 這類字，後面常接 in case of 或 against。」【干擾選項】due to 是「由於」，會變成「因為困難而提供保障」，因果顛倒——保障是預先給的，不是事後補的；apart from 是「除…之外」；with reference to 是「關於」。【in case 的兩種用法】in case of + 名詞（萬一發生…）；in case + 子句（以防…）：Take an umbrella in case it rains.（帶把傘以防下雨）。【常考字詞與句型】in case of fire／emergency（萬一失火／發生緊急狀況）、in case + 子句（以防…）、provide security for（為…提供保障）、insure against（為…投保）。"
   },
   {
     "id": "Z98_17",
@@ -3082,7 +3094,7 @@
     "accuracyRate": 45,
     "discrimination": 28,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】前一段一路在否認：名字聽起來嚴重、其實通常不嚴重；很多人以為是缺鈣缺鋅、其實不是。整段這個「其實不是」的框架很強，讀到 In reality 開頭的這一句，你會順著那個框架覺得這裡也在轉折，於是 in spite of（儘管）看起來特別對味。【怎麼判斷】四個選項都是介系詞片語、後面都接名詞，可見這一格考的是空格前後兩件事的關係。前面是 these spots most often develop（這些斑點多半會長出來），後面是 mild to moderate trauma to your nail（指甲受到輕度到中度的創傷），創傷是原因、斑點是結果，要的是表結果的 as a result of。把它換成 because of 讀一次，語意完全成立，這是最快的驗算法。另外提醒一個常見的落差：develop 這個字，你的印象大概只有「發展、開發」，在醫學語境裡它是不及物的「（症狀）出現、長出來」，認出這一點才看得到原因與結果這條線。答對率四成五，鑑別度只有 28：整段的否認框架太強，讀得越進去的人越容易覺得這一格當然又是在轉折，忘了先確認這一句自己在做什麼事。【干擾選項】in spite of（儘管）要求前後語意相反，但輕到中度的創傷正是斑點出現的原因，不是阻力。to the best of 只出現在 to the best of my knowledge、to the best of my ability 這幾個說法裡，後面固定接 knowledge、ability、belief 這類名詞，接 trauma 根本不成句，片語本身的形態就不完整，可以一眼刷掉。for the sake of（為了…的緣故）表目的，斑點不會為了創傷而長出來。【常考字詞與句型】as a result of（由於…的結果）、result in（導致）、result from（起因於）、to the best of my knowledge（就我所知）、for the sake of（為了…的緣故）、mild to moderate（輕度到中度的）"
+    "note": "【你可能會這樣想】前一段一路在否認：名字聽起來嚴重、其實通常不嚴重；很多人以為是缺鈣缺鋅、其實不是。整段這個「其實不是」的框架很強，讀到 In reality 開頭的這一句，你會順著那個框架覺得這裡也在轉折，於是 in spite of（儘管）看起來特別對味。【怎麼判斷】四個選項都是幾個字合起來當一個介系詞用、後面都接名詞（劍橋 English Grammar Today 的 Prepositions 條目），可見這一格考的是空格前後兩件事的關係。前面是 these spots most often develop（這些斑點多半會長出來），後面是 mild to moderate trauma to your nail（指甲受到輕度到中度的創傷），創傷是原因、斑點是結果，要的是表結果的 as a result of。把它換成 because of 讀一次，語意完全成立，這是最快的驗算法。另外提醒一個常見的落差：develop 這個字，你的印象大概只有「發展、開發」，在醫學語境裡它是不及物的「（症狀）出現、長出來」，認出這一點才看得到原因與結果這條線。答對率四成五，鑑別度只有 28：整段的否認框架太強，讀得越進去的人越容易覺得這一格當然又是在轉折，忘了先確認這一句自己在做什麼事。【干擾選項】in spite of（儘管）要求前後語意相反，但輕到中度的創傷正是斑點出現的原因，不是阻力。to the best of 只出現在 to the best of my knowledge、to the best of my ability 這幾個說法裡，後面固定接 knowledge、ability、belief 這類名詞，接 trauma 根本不成句，片語本身的形態就不完整，可以一眼刷掉。for the sake of（為了…的緣故）表目的，斑點不會為了創傷而長出來。【常考字詞與句型】as a result of（由於…的結果）、result in（導致）、result from（起因於）、to the best of my knowledge（就我所知）、for the sake of（為了…的緣故）、mild to moderate（輕度到中度的）"
   },
   {
     "id": "Z107_19",
@@ -3439,7 +3451,7 @@
     "passageId": "109R_11-15",
     "fullPassage": "\"Anne! Jo! I mean, Max!\" Mothers often mix up their children's names, but studies show that moms are not the only ones who make this mistake. __11__ name phenomenon turns out to be very common. Almost everyone sometimes mixes up the names of their family and friends.\nThe phenomenon is called a \"cognitive glitch\" by researchers in the field of cognitive science. It is not caused by a bad memory or by aging processes that affect brain functioning. It is simply a result of the way our brain __12__ those we love.\nWhen our brain is attempting to retrieve a name so that we can say it, it is likely that another name in the same group will come to our lips __13__ the one we meant to say. That is because in order to find the name we are looking for, we are essentially __14__ the whole set of names in that group, which includes all our beloved family members. Scientists also report that the category __15__ the person belongs (family, close friends, etc.) is far more influential in causing a mix-up than any phonetic similarity between names. Names that sound alike do not usually trigger the mix-up.\nIsn't it great to know that when you call others by the wrong name, it is evidence of your love for them all?",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是介系詞片語，一個一個代進去讀都不算太怪；due to（由於）特別誘人，因為整段都在解釋原因。【怎麼判斷】先看清楚這一句在講什麼：another name in the same group will come to our lips ______ the one we meant to say（同一組裡的另一個名字會脫口而出，______ 我們本來想講的那一個）。空格兩邊擺著兩個名字：實際跑出來的那一個，與本來要講的那一個。兩者是互相取代的關係——出來的是甲，而不是本來要講的乙。instead of（而不是、取代）正好是這個意思。空格兩邊各站著一樣東西時，先問它們是取代、並列、還是因果，比把四個選項逐一代進去快得多。順帶記住這一類選項的共同點：四個都由兩三個字組成，但整組當一個介系詞用，後面一律接名詞，所以它們是片語介系詞，不是連接詞——連接詞後面要接的是子句。【干擾選項】as for（至於）用來換一個話題（As for the price, we can talk later），這一句沒有換話題。due to（由於）會變成「另一個名字因為我們本來想講的那個而脫口而出」，因果講不通；真正的原因作者寫在下一句的 That is because。far beyond（遠遠超過）用在程度或範圍的比較，兩個名字之間沒有高低多寡可比。【常考字詞與句型】instead of ＋ 名詞（而不是、取代）、as for（至於）、due to（由於）、come to one's lips（脫口而出）、attempt to V（試圖、企圖）、retrieve（取回、檢索）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是幾個字合起來當一個介系詞用，一個一個代進去讀都不算太怪；due to（由於）特別誘人，因為整段都在解釋原因。【怎麼判斷】先看清楚這一句在講什麼：another name in the same group will come to our lips ______ the one we meant to say（同一組裡的另一個名字會脫口而出，______ 我們本來想講的那一個）。空格兩邊擺著兩個名字：實際跑出來的那一個，與本來要講的那一個。兩者是互相取代的關係——出來的是甲，而不是本來要講的乙。instead of（而不是、取代）正好是這個意思。空格兩邊各站著一樣東西時，先問它們是取代、並列、還是因果，比把四個選項逐一代進去快得多。順帶記住這一類選項的共同點：四個都由兩三個字組成，後面一律接名詞，也都不是連接詞——連接詞後面要接的是子句。但這四個還要再分成兩型。as for、instead of、due to 是幾個字合起來當一個介系詞用，中間拆不開（劍橋 English Grammar Today 的 Prepositions 條目就是這樣處理的：some pairs and groups of words operate like single prepositions，列出的例子有 because of、in place of、in addition to、in front of、up to）。far beyond 不一樣：far 是副詞、beyond 才是介系詞，兩個字各做各的，拿掉 far 句子照樣成立——劍橋的 beyond 條目就收了 just beyond the hedge（就在樹籬那頭）這個例句，用的是同一型。驗算法很簡單：拿掉前面那個字還通，就是副詞加介系詞；不通，才是整組當一個介系詞用。【干擾選項】as for（至於）用來換一個話題（As for the price, we can talk later），這一句沒有換話題。due to（由於）會變成「另一個名字因為我們本來想講的那個而脫口而出」，因果講不通；真正的原因作者寫在下一句的 That is because。far beyond（遠遠超過）用在程度或範圍的比較，兩個名字之間沒有高低多寡可比。【常考字詞與句型】instead of ＋ 名詞（而不是、取代）、as for（至於）、due to（由於）、come to one's lips（脫口而出）、attempt to V（試圖、企圖）、retrieve（取回、檢索）"
   },
   {
     "id": "Z109R_18",
@@ -3461,7 +3473,7 @@
     "passageId": "109R_16-20",
     "fullPassage": "Astronomers have discovered the darkest alien planet known to exist in the galaxy.\nThe Jupiter-sized planet, known as TrES-2b, is located in another solar system some 750 million light years away from Earth. Reflecting less than one percent of the sunlight __16__ on it, TrES-2b is less reflective than black acrylic paint, and is blacker than coal. The only light that comes from TrES-2b is a faint red glow, __17__ the heated coils on an electric stove or a very dim light bulb. Researchers believe this results from its extremely hot atmosphere, which is as high as 1,800°F (980°C), __18__ its closeness to its sun—its source of energy.\nSo how does this planet manage to absorb about 99% of the light it receives from its sun? __19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known. Although they may never be able to __20__ exactly how the planet remains so stealthily hidden, scientists are sure of one thing—there are many more even darker planets out there just waiting to be discovered!",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】thanks to 這個組合，你的印象大概只有「感謝」兩個字，很難立刻想到它其實是在講原因；四個選項又都由兩三個字組成、長得像，容易憑語感挑。【怎麼判斷】先確認空格兩邊的關係。前面是 its extremely hot atmosphere（它極熱的大氣層），後面是 its closeness to its sun，而破折號後面作者把話講白了：its source of energy（那是它的能量來源）。離能量來源很近，所以非常熱——這是因果關係，空格要填的是帶出原因的說法。thanks to 的意思正是「由於、多虧」。特別要記的是它不帶好壞的感情色彩，壞事一樣能用：The game was cancelled thanks to the rain.（比賽因為下雨取消了），別被字面的 thanks 綁住。另外看這四個選項的共同身分：它們後面一律接名詞，整組當一個介系詞用，是片語介系詞而不是連接詞——連接詞後面接的是子句。【干擾選項】regardless of（不管、無論）表示不受影響，但這一句的高溫正是被距離影響的，方向剛好相反。in addition to（除了……之外，還）要求前後是可以相加的兩樣東西，但「離恆星近」不是與「大氣很熱」並列的另一件事，它是那件事的原因。in terms of（就……而言、從……的角度）用來限定討論的角度（in terms of cost），接在這裡讀不通。【常考字詞與句型】thanks to（由於、多虧，不限好事）、regardless of（不管、無論）、in terms of（就……而言）、as high as（高達）、closeness to（與……的接近程度）、source of energy（能量來源）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】thanks to 這個組合，你的印象大概只有「感謝」兩個字，很難立刻想到它其實是在講原因；四個選項又都由兩三個字組成、長得像，容易憑語感挑。【怎麼判斷】先確認空格兩邊的關係。前面是 its extremely hot atmosphere（它極熱的大氣層），後面是 its closeness to its sun，而破折號後面作者把話講白了：its source of energy（那是它的能量來源）。離能量來源很近，所以非常熱——這是因果關係，空格要填的是帶出原因的說法。thanks to 的意思正是「由於、多虧」。特別要記的是它不帶好壞的感情色彩，壞事一樣能用：The game was cancelled thanks to the rain.（比賽因為下雨取消了），別被字面的 thanks 綁住。另外看這四個選項的共同身分：它們後面一律接名詞，整組當一個介系詞用，是多字介系詞而不是連接詞——連接詞後面接的是子句。這個分法有依據：劍橋 English Grammar Today 的 Prepositions 條目說 some pairs and groups of words operate like single prepositions，並把 because of、in place of、in addition to、in front of、up to 列為例子。【干擾選項】regardless of（不管、無論）表示不受影響，但這一句的高溫正是被距離影響的，方向剛好相反。in addition to（除了……之外，還）要求前後是可以相加的兩樣東西，但「離恆星近」不是與「大氣很熱」並列的另一件事，它是那件事的原因。in terms of（就……而言、從……的角度）用來限定討論的角度（in terms of cost），接在這裡讀不通。【常考字詞與句型】thanks to（由於、多虧，不限好事）、regardless of（不管、無論）、in terms of（就……而言）、as high as（高達）、closeness to（與……的接近程度）、source of energy（能量來源）"
   },
   {
     "id": "Z109R_19",
@@ -3620,7 +3632,7 @@
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是三個字組成的片語，長得很像，很容易憑哪個最眼熟就直接選它；so much as 又特別眼熟，因為你在 not so much as（連……都沒有）裡見過它。【怎麼判斷】四個選項都是介系詞片語、後面接名詞，文法上全部放得進去，可見這一格考的是空格兩邊的邏輯關係。先看清楚兩邊各是什麼：前面是 the various Nobel Peace Prize Laureates and their activities（歷屆和平獎得主與他們的事蹟），後面是 the remarkable history of Alfred Nobel（諾貝爾本人不凡的生平）。兩邊都是這個中心讓你 experience and learn about 的東西，方向相同、地位對等，是單純的並列，不是誰讓步給誰，也不是誰代替誰出面。四個選項裡只有 as well as 表示「以及、還有」；把它換成 and 讀一次，learn about A and B，語意完全一樣，就確定了。順便記一個課本常考的細節：A as well as B 當主詞時，動詞跟前面的 A 一致，例如 Tom, as well as his friends, is going.【干擾選項】so much as 幾乎只活在兩個固定的組合裡——without so much as ＋ 名詞（連……都沒有）與 not so much A as B（與其說是 A，不如說是 B），單獨拿來連接兩個名詞並不成立。in spite of（儘管）要求前後語意相反，但這裡兩邊都是這個中心的展示內容，方向相同。on behalf of（代表……）用在某人代替另一人出面的場合，展覽不會「代表」諾貝爾的生平。【常考字詞與句型】as well as（以及、還有）、not so much A as B（與其說是 A，不如說是 B）、without so much as ＋ 名詞（連……都沒有）、in spite of（儘管，等於 despite）、on behalf of（代表……）、learn about（認識、了解）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是三個字組成的片語，長得很像，很容易憑哪個最眼熟就直接選它；so much as 又特別眼熟，因為你在 not so much as（連……都沒有）裡見過它。【怎麼判斷】四個選項都是幾個字合起來當一個介系詞用、後面接名詞（劍橋 English Grammar Today 的 Prepositions 條目），文法上全部放得進去，可見這一格考的是空格兩邊的邏輯關係。先看清楚兩邊各是什麼：前面是 the various Nobel Peace Prize Laureates and their activities（歷屆和平獎得主與他們的事蹟），後面是 the remarkable history of Alfred Nobel（諾貝爾本人不凡的生平）。兩邊都是這個中心讓你 experience and learn about 的東西，方向相同、地位對等，是單純的並列，不是誰讓步給誰，也不是誰代替誰出面。四個選項裡只有 as well as 表示「以及、還有」；把它換成 and 讀一次，learn about A and B，語意完全一樣，就確定了。順便記一個課本常考的細節：A as well as B 當主詞時，動詞跟前面的 A 一致，例如 Tom, as well as his friends, is going.【干擾選項】so much as 幾乎只活在兩個固定的組合裡——without so much as ＋ 名詞（連……都沒有）與 not so much A as B（與其說是 A，不如說是 B），單獨拿來連接兩個名詞並不成立。in spite of（儘管）要求前後語意相反，但這裡兩邊都是這個中心的展示內容，方向相同。on behalf of（代表……）用在某人代替另一人出面的場合，展覽不會「代表」諾貝爾的生平。【常考字詞與句型】as well as（以及、還有）、not so much A as B（與其說是 A，不如說是 B）、without so much as ＋ 名詞（連……都沒有）、in spite of（儘管，等於 despite）、on behalf of（代表……）、learn about（認識、了解）"
   },
   {
     "id": "Z107參_14",
@@ -3684,7 +3696,7 @@
     "passageId": "Z107參_16-20",
     "contextSpan": "跨句",
     "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定。Nevertheless（然而、儘管如此）是轉折語，它要求這一句與前面那一句方向相反：前面剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉，這麼大的貢獻，卻幾乎沒有人聽過他的名字。few 是「幾乎沒有」，本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。注意 few 與 a few 差一個冠詞就差很多：few 是幾乎沒有，a few 是有一些，little 與 a little 同理。同一篇的第 19 題也在做同一件事，先給一個很正面的事實，再整個翻過來，只是那一格用的是介系詞片語 Instead of，這一格用的是轉承語 Nevertheless，兩題可以擺在一起看。【干擾選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.，通常配情態助動詞或講通則），單獨擺在一個陳述事實的肯定句句首當主詞的修飾語並不成立。【常考字詞與句型】few ＋ 可數複數名詞（幾乎沒有）、a few ＋ 可數複數名詞（有一些）、little ＋ 不可數名詞（幾乎沒有）、a little ＋ 不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定。Nevertheless（然而、儘管如此）是轉折語，它要求這一句與前面那一句方向相反：前面剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉，這麼大的貢獻，卻幾乎沒有人聽過他的名字。few 是「幾乎沒有」，本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。注意 few 與 a few 差一個冠詞就差很多：few 是幾乎沒有，a few 是有一些，little 與 a little 同理。同一篇的第 19 題也在做同一件事，先給一個很正面的事實，再整個翻過來，只是那一格用的是整組當一個介系詞用的 Instead of，這一格用的是轉承語 Nevertheless，兩題可以擺在一起看。【干擾選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.，通常配情態助動詞或講通則），單獨擺在一個陳述事實的肯定句句首當主詞的修飾語並不成立。【常考字詞與句型】few ＋ 可數複數名詞（幾乎沒有）、a few ＋ 可數複數名詞（有一些）、little ＋ 不可數名詞（幾乎沒有）、a little ＋ 不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）"
   },
   {
     "id": "Z107參_18",
@@ -3726,7 +3738,7 @@
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】空格後面是 being hailed as one of the crucial figures in defeating the Nazis（被譽為擊敗納粹的關鍵人物之一），這是好事，後半句卻是被判罪。很容易先抓到「被譽為英雄」這幾個字，覺得這一句在講他的功績，於是選 Because of，把整句讀成「因為被譽為英雄，所以……」。【怎麼判斷】四個選項都是介系詞片語，後面接名詞或動名詞，所以 being hailed 這個動名詞誰都接得住，文法上刷不掉任何一個，可見這一格考的是空格兩邊的邏輯關係。把兩邊的方向各標一次：前半是「被讚譽為擊敗納粹的關鍵人物」（正面），後半是「被以嚴重猥褻罪定罪」（負面）。一正一負，而且不只是轉折，是「該發生的沒有發生，發生的是相反的事」。Instead of 正是這個意思，不是 A 而是 B，國中的掛鉤是 Let's walk instead of taking a bus.（不搭公車，改用走的）；注意它是介系詞片語，後面接動詞時一定要用動名詞，題幹裡的 being hailed 正好呼應這一點。填進去讀成「非但沒有被當成英雄看待，反而被定罪」，落差才出得來。【干擾選項】Because of（因為）會變成「因為被譽為英雄所以被定罪」，因果講不通，而且真正的原因前一句已經寫了，他是同性戀者，在當時的英國是罪行。In addition to（除了……之外，還）要求前後同方向、可以累加，但這裡一好一壞，加不起來。With respect to（關於、就……而言）用來帶出討論的主題，放在句首會變成「就被譽為英雄這件事而言，他被定罪」，兩半接不上。【常考字詞與句型】instead of ＋ V-ing（不做 A，而是 B）、be hailed as（被譽為）、be convicted of（被判……罪成立）、in addition to ＋ 名詞（除了……之外，還）、with respect to（關於、就……而言）、crucial（關鍵的、至關重要的）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】空格後面是 being hailed as one of the crucial figures in defeating the Nazis（被譽為擊敗納粹的關鍵人物之一），這是好事，後半句卻是被判罪。很容易先抓到「被譽為英雄」這幾個字，覺得這一句在講他的功績，於是選 Because of，把整句讀成「因為被譽為英雄，所以……」。【怎麼判斷】四個選項都是幾個字合起來當一個介系詞用，後面接名詞或動名詞（劍橋 English Grammar Today 的 Prepositions 條目），所以 being hailed 這個動名詞誰都接得住，文法上刷不掉任何一個，可見這一格考的是空格兩邊的邏輯關係。把兩邊的方向各標一次：前半是「被讚譽為擊敗納粹的關鍵人物」（正面），後半是「被以嚴重猥褻罪定罪」（負面）。一正一負，而且不只是轉折，是「該發生的沒有發生，發生的是相反的事」。Instead of 正是這個意思，不是 A 而是 B，國中的掛鉤是 Let's walk instead of taking a bus.（不搭公車，改用走的）；注意它是整組當一個介系詞用，後面接動詞時一定要用動名詞，題幹裡的 being hailed 正好呼應這一點。填進去讀成「非但沒有被當成英雄看待，反而被定罪」，落差才出得來。【干擾選項】Because of（因為）會變成「因為被譽為英雄所以被定罪」，因果講不通，而且真正的原因前一句已經寫了，他是同性戀者，在當時的英國是罪行。In addition to（除了……之外，還）要求前後同方向、可以累加，但這裡一好一壞，加不起來。With respect to（關於、就……而言）用來帶出討論的主題，放在句首會變成「就被譽為英雄這件事而言，他被定罪」，兩半接不上。【常考字詞與句型】instead of ＋ V-ing（不做 A，而是 B）、be hailed as（被譽為）、be convicted of（被判……罪成立）、in addition to ＋ 名詞（除了……之外，還）、with respect to（關於、就……而言）、crucial（關鍵的、至關重要的）"
   },
   {
     "id": "Z98參_12",
@@ -3791,7 +3803,7 @@
     "hasFullPassage": true,
     "passageId": "Z98參_11-15",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是介系詞片語，一個一個看都很眼熟，很容易憑語感挑。in effect（實際上）尤其誘人，因為前半句剛說化石燃料其實一直在慢慢形成，讀起來像要接一個「實際上」。【怎麼判斷】看空格後面接的是什麼：approximately 100,000 times faster than they are formed（比它們形成的速度快大約十萬倍）。那是一個速度，所以空格要填的必須是能帶出速度的說法，四個選項裡只有 at a rate 是講速率的（at a rate of ＋ 數量）。整句的對等連接詞是 but，它連的是兩個子句——前面說「其實一直在慢慢形成」、後面說「我們用掉的速度快十萬倍」，一慢一快正好對立，這也再次確認後半句的重點在速度。【干擾選項】in effect（實際上、事實上）是副詞片語，後面不接名詞，直接放進去會讓 100,000 times faster 整串懸空。by all means（當然可以、務必）用在答應對方的請求或加強語氣，與速度無關。on the point of 後面要接動名詞，意思是「正要做某事」（be on the point of leaving），既接不上後面的比較級，意思也不對。【常考字詞與句型】at a rate of（以……的速率）、in effect（實際上、事實上）、by all means（當然、務必）、be on the point of V-ing（正要做某事）、use up（用光）、times faster than（比……快幾倍）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是幾個字合起來當一個介系詞用（劍橋 English Grammar Today 的 Prepositions 條目），一個一個看都很眼熟，很容易憑語感挑。in effect（實際上）尤其誘人，因為前半句剛說化石燃料其實一直在慢慢形成，讀起來像要接一個「實際上」。【怎麼判斷】看空格後面接的是什麼：approximately 100,000 times faster than they are formed（比它們形成的速度快大約十萬倍）。那是一個速度，所以空格要填的必須是能帶出速度的說法，四個選項裡只有 at a rate 是講速率的（at a rate of ＋ 數量）。整句的對等連接詞是 but，它連的是兩個子句——前面說「其實一直在慢慢形成」、後面說「我們用掉的速度快十萬倍」，一慢一快正好對立，這也再次確認後半句的重點在速度。【干擾選項】in effect（實際上、事實上）是副詞片語，後面不接名詞，直接放進去會讓 100,000 times faster 整串懸空。by all means（當然可以、務必）用在答應對方的請求或加強語氣，與速度無關。on the point of 後面要接動名詞，意思是「正要做某事」（be on the point of leaving），既接不上後面的比較級，意思也不對。【常考字詞與句型】at a rate of（以……的速率）、in effect（實際上、事實上）、by all means（當然、務必）、be on the point of V-ing（正要做某事）、use up（用光）、times faster than（比……快幾倍）"
   },
   {
     "id": "Z98參_18",
@@ -4253,7 +4265,9 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_16-20",
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "struggle 爭取的目標由下一句蟲萎縮、崩解到死亡的結局定案",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】audience 這個字剛剛才在同一篇裡出現過（He said to the audience），眼睛掃到選項時會覺得特別眼熟，很容易直接選它。但眼熟不等於正確——刻意從文章裡取用出現過的字來當干擾選項，是常見的命題手法，看到一個「剛剛好像看過」的選項，那正是要停下來驗算的訊號，不是選它的理由。把 struggle for audience 讀一次就知道不通：蟲不會為了觀眾而掙扎。【怎麼判斷】四個選項都是名詞，文法上都放得進 for 後面，可見這一格考的不是文法而是語意，只能往上下文找。這一格落在大考中心說的「詞彙量」這一項上，問的是 struggle for 後面接的是什麼。只讀空格所在的這一句還定不了案：the worm go down into the water and soon begin to struggle（蟲沉進液體裡，隨即開始掙扎）只說了牠在掙扎，沒說牠在爭取什麼——為了浮上來、為了游出去、為了活下去，讀到這裡都還講得通。定案的依據在下一句：Right there and then every one in the group witnessed the worm shrinking and disintegrating. Then it died.（就在當下，這群人親眼看著那條蟲萎縮、崩解，然後牠死了。）結局是死亡，那麼前一句那場掙扎爭的就只會是一條命。把 survival 放回去讀一次，struggle for survival（為求生存而掙扎）語意完全接得上；這是常考的字詞搭配，兩個字要整組記起來。這一類題有一招很省力：讀到「掙扎」而句內看不出掙扎的目標是什麼時，往下讀一句看結局，結局會反過來告訴你目標。【干擾選項】health（健康）方向不對，蟲不是在爭取變健康，是在保命；proof（證據）是這場示範要拿給人看的東西，不是蟲自己要爭取的；audience（觀眾）如上，是眼熟造成的陷阱。三個選項雖然都是名詞，卻沒有一個能當「掙扎」的目標，也沒有一個接得上下一句的死亡結局。【常考字詞與句型】struggle for survival（為求生存而掙扎）、struggle to V（努力想做某事）、see somebody 或 something ＋ 原形動詞（看到某人或某物做某事，如 I saw him leave.）、go down into（往下沉進……）、witness（目睹）、proof（證據，動詞形是 prove 證明）"
   },
   {
     "id": "Z93M_20",
@@ -4273,7 +4287,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_16-20",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】這一題四個動詞片語的語意差得很遠，讀到 After a long silence, someone from the rear（沉默許久之後，後排有個人）接著開口說話，多數人會直接選 stood up，而且選對了。唯一會讓人停一下的是 looked over：如果把它讀成「往那邊看」，好像也接得上。【怎麼判斷】先站起來再發言，是一群人裡有人要開口時最自然的動作，stood up 一次到位；它是 stand up 的過去式，與 and 後面的 said 時態一致，並列的兩個動作形態剛好對齊。這一題語意已經夠明顯，不必再繞文法；真要多一道保險，可以看空格後面有沒有受詞——and said 中間什麼都沒有，而 put out、look over、bring back 三個都是及物的，只有 stand up 不及物。同一份試卷的第 24 題才真的要靠這一招，到那裡會再講一次。【干擾選項】looked over 是「檢視、審視」（look over the document 把文件從頭看過一遍），與「往那邊看」的 look over there 不是同一件事——後者的 over there 是地方副詞、不是受詞，這個差別值得順手記下來。put out 常見的是 put out a fire（滅火），bring back 是 bring back memories（勾起回憶），兩個也都在等受詞。【常考字詞與句型】stand up（站起來，不及物）、look over（檢視、審視，及物）、look over there（往那邊看，over there 是地方副詞）、put out a fire（滅火）、bring back memories（勾起回憶）、after a long silence（沉默許久之後）"
   },
   {
     "id": "Z93M_24",
@@ -4293,7 +4308,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】celebrate 這個字，你的印象大概只有「慶祝」——慶祝生日、慶祝節日，都要有一個日子。這一句的受詞卻是 the indigenous music and culture（在地的音樂與文化），不是一個日子，於是會覺得 celebrate 接不上去，轉頭去找別的選項；cooperate 又長得像「合作」，音樂節聽起來就是大家合作辦出來的，特別容易被選走。【怎麼判斷】先用一個不必想語意的判準：空格後面直接站著受詞 the indigenous music and culture，中間沒有任何介系詞，所以這一格只能填及物動詞。cooperate 是不及物動詞，後面要接人或單位時一定得補 with（cooperate with the police 與警方合作），不能直接放名詞。第一篇第 20 題用「有沒有受詞」刷掉三個及物的動詞片語，這一題是同一招的反面用法，刷掉的是不及物的那一個，兩題可以對照著看。接著看語意。celebrate 除了「慶祝」，還有「頌揚、讚頌」這個意思，牛津高階把它列為及物用法，解釋就是 to praise，例句有 songs that celebrate the joys of romantic love（歌頌浪漫愛情之樂的歌曲）、a movie celebrating the life and work of Nelson Mandela（一部頌揚曼德拉生平與貢獻的電影）；劍橋詞典的 Her music celebrates the power of nature.（她的音樂頌揚大自然的力量）與本句是同一個型——主詞是作品或活動，受詞是抽象的文化或價值。填進去讀成 The Festival celebrates the indigenous music and culture ...（這個音樂節頌揚紐奧良與路易斯安那的在地音樂與文化），後面的 so 才接得下去：正因為要頌揚在地，曲風才會涵蓋所有與這座城市和這個州相關的類型。【干擾選項】compensate（補償）要嘛接人（compensate the victims 補償受害者），要嘛用 compensate for（彌補），而音樂節也不是在補償什麼；calculate（計算）的受詞得是算得出來的東西，文化算不了；cooperate 如上，形態上就進不來。【常考字詞與句型】celebrate（頌揚、讚頌，牛津高階及物義 to praise）、cooperate with（與……合作，不及物）、compensate for（彌補、補償）、calculate（計算）、indigenous（原生的、在地的）、encompass（涵蓋）"
   },
   {
     "id": "Z93M_25",
@@ -4301,7 +4317,7 @@
     "source": "93年指考敏督利颱風應變試卷",
     "blankNum": 25,
     "category": "字彙選義",
-    "sentence": "...so the music encompasses every style associated with the __25__ and the state: blues, R&B, gospel, Cajun, Afro-Caribbean, folk, Latin, rock, rap, country, bluegrass and everything in between.",
+    "sentence": "The Festival __24__ the indigenous music and culture of New Orleans and Louisiana, so the music encompasses every style associated with the __25__ and the state: blues, R&B, gospel, Cajun, Afro-Caribbean, folk, Latin, rock, rap, country, bluegrass and everything in between.",
     "options": {
       "A": "U.S.",
       "B": "city",
@@ -4313,7 +4329,8 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_21-25",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是地方或範圍的名詞，填哪一個讀起來好像都通；而且這一句前半剛提到 New Orleans and Louisiana，整篇又在講美國的爵士樂，很容易直接選 U.S. 或 nation，覺得「美國的曲風」講得通。【怎麼判斷】這一格與同一篇的第 22 題一樣靠並列結構定案，只是依據落在相反的那一邊。第一步，找對等連接詞：the ___ and the state 中間有 and。第二步，確定它連的是哪兩樣：兩邊各是一個「the ＋ 名詞」，層級必須相同。第三步，依據在右——右邊已經寫出來的是 the state（這個州），左邊那一格就得是同一組行政層級裡的另一個單位。四個選項裡只有 city 與 state 是同一組（市與州）；U.S. 與 nation 是國家層級、world 是全世界，與 state 並列都高了一階，讀起來會變成「美國和這個州」，層級不對稱。第 22 題的依據在左（先看到 from the region 才推出 around the world），這一題的依據在右（先看到 the state 才推出 the city），兩題放在一起，正好把「依據可能在左也可能在右」演示完整。再用同句前半驗算：The Festival celebrates the indigenous music and culture of New Orleans and Louisiana——New Orleans 是城市、Louisiana 是州，the city and the state 剛好一一對上。這裡還有一個值得記住的寫法：the city 不是隨便哪座城市，而是用一個比較概括的名詞把前面提過的 New Orleans 再指一次。看到「the ＋ 名詞」而那個名詞前面沒有出現過，就往回找它指的是誰。【干擾選項】U.S.（美國）與 nation（國家）都是國家層級，與 the state 並列會大小不對等，而且這一句要說的是曲風與紐奧良、路易斯安那的關係，不是與整個美國的關係；world（世界）更大，同一篇第 22 題的 around the world 講的是工藝家的來源，與這一句在講的曲風來源不是同一件事，兩者不要混在一起。【常考字詞與句型】the city and the state（該市與該州）、the ＋ 概括名詞（回指前面提過的人事物）、be associated with（與……有關）、everything in between（介於兩者之間的一切）、contemporary（當代的）、style（曲風、風格）"
   },
   {
     "id": "Z93M_30",
@@ -4333,7 +4350,9 @@
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "93M_26-30",
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "chance 的抽象義由前一句把該學門命名為 probability 定案",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】sport 與 weather 兩個選項都眼熟——這一篇從頭到尾在講美式足球、籃球和下雨，掃到選項時很容易覺得「剛剛看過」；future 也一樣，前面才出現過 how things will turn out in the future。但眼熟不等於正確，刻意從文章裡取用出現過的字來當干擾選項是常見的命題手法。【怎麼判斷】定案的依據就在前一句：The branch of mathematics that helps make our guesses more accurate is called probability.（這門幫助我們把猜測變得更準確的數學分支叫做機率。）既然上一句剛把這門學問命名為 probability，這一句 Probability is the science of ___ 就是在替它下定義，空格要填的是 probability 這門學問到底在研究什麼，也就是或然性、可能性——chance。這一篇還有一條值得注意的線：chance 在同一篇裡出現了三次，意思一路從具體滑向抽象。第一次是 a good chance of rain（很有可能下雨），講的是一件事的可能性；第二次是 the chances of overcoming that kind of lead are slim（扭轉那種領先差距的機會很渺茫），講的是勝算；第三次就是本題的 the science of chance，抽象成一整門學問要探討的東西。同一個字在一篇文章裡反覆出現時，回頭把前面幾次看一遍，往往就推得出這一次是什麼意思。【干擾選項】sport（運動）：文章拿球賽當例子，但機率不是研究運動的科學；weather（天氣）：下雨只是第一個例子，同樣不是這門學問的定義；future（未來）：前面確實提過未來，但機率研究的不是「未來」這個時間，是事情發生的可能性，兩者差一層。三個選項都是靠眼熟取勝，沒有一個接得上前一句的 probability。【常考字詞與句型】the science of chance（研究或然性的科學）、probability（機率、或然性）、by chance（偶然、碰巧）、a branch of ＋ 學科（……的一個分支）、accurate（精準的）、among the fastest growing（成長最快的……之一）"
   },
   {
     "id": "Z94_11",
@@ -4877,7 +4896,7 @@
     "year": "97年",
     "source": "97年指考",
     "blankNum": 17,
-    "category": "字彙選義",
+    "category": "慣用語／片語",
     "sentence": "Research shows that the substances __17__ these colors actually protect plants from chemical damage.",
     "options": {
       "A": "capable of",
