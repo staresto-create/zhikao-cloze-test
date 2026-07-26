@@ -1061,7 +1061,8 @@
     "accuracyRate": 56,
     "discrimination": 51,
     "contextSpan": "跨句",
-    "contextNote": "If not 指前一句的條件（若沒看過那部電影）"
+    "contextNote": "If not 指前一句的條件（若沒看過那部電影）",
+    "note": "【你可能會這樣想】四個選項都是 If 加一個短短的字，形態一模一樣，你會憑中文挑一個。【怎麼判斷】線索一定要跨句才看得到。前一句是 If you've ever seen the Sean Connery movie Medicine Man, then...（如果你看過那部電影，那麼……就會很熟悉）。空格這一句要講的是相反的那一半：那如果沒看過呢？英文不必把整個條件再說一次，用 If not 就好——它等於 If you haven't seen it，not 把前面那個條件整個否定掉。填進去讀成 If not, get prepared for the overwhelming attack of wizards and witches here（如果沒看過，那就準備好迎接這裡巫師與女巫的猛烈攻勢）。這是英文常見的省略：重複的部分不必再說一次。國中學過的簡答就是同一件事——Do you like it?—Yes, I do.（do 代替 like it）、Are you coming?—I'm afraid not.（not 代替 I'm not coming）。看到 If not、if any、if ever 這幾個短形，先問一句「它在代替前面哪一段」。【干擾選項】If any（如果有的話）用來限定數量，常接在名詞後面（Correct the mistakes, if any.）；If ever（如果真有的話）用來加強「幾乎不曾」（He seldom, if ever, complains.）；If only（要是……就好了）表示與事實相反的願望，後面通常配假設語氣。三個都是 If 加一個字的短形，形態吻合，容易被順手選走。【常考字詞與句型】if not（如果不是的話，代替前面否定掉的條件）、if any（如果有的話）、if ever（如果真有的話）、if only（要是……就好了）、I'm afraid not.（恐怕不行，not 代替整個否定句）、get prepared for（做好準備迎接）。"
   },
   {
     "id": "Z95_12",
@@ -1083,7 +1084,8 @@
     "passageId": "95_11-15",
     "accuracyRate": 56,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項後面都接得上 using 這個 -ing 形，形態刷不掉，你會憑中文挑一個；而且 After 與 Before 的中文只差一個字，很容易看反。【怎麼判斷】先確認形態：空格後面是 using any thermometer，一個動名詞片語，所以這一格要的是後面能接名詞或動名詞的用法。Before 與 After 都能這樣用，For 與 Without 也接得上，四個在形態上全部過關，所以只能靠邏輯定。主要子句是 double check that it covers the right temperature range（再確認一次它涵蓋的溫度範圍對不對）——檢查一定發生在使用之前，溫度計爆了才檢查就來不及了。所以填 Before。填進去讀成 Before using any thermometer, double check...（使用任何溫度計之前，先再確認一次）。順帶記一個容易忽略的點：before 與 after 這兩個字既能當連接詞接子句（Before you use it, ...），也能當介系詞接名詞或動名詞（Before using it, ...），兩種都對，看後面接的是什麼。【干擾選項】After 方向相反，變成用完才檢查；For 若讀成「為了」，後面該接目的，「為了使用溫度計而先檢查」邏輯繞不通；Without（沒有……就）會讀成「不用溫度計就先檢查」，與這一句要講的先後順序無關。【常考字詞與句型】before ＋ V-ing（在做某事之前）、before ＋ 子句（在……之前）、after ＋ V-ing（在做某事之後）、without ＋ V-ing（沒有做某事就……）、double check（再確認一次）、make sure（確認、確保）。"
   },
   {
     "id": "Z95_13",
@@ -1105,7 +1107,8 @@
     "passageId": "95_11-15",
     "accuracyRate": 42,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是名詞，都能接在 temperature 後面組成一個名詞組，你會憑中文挑一個。【怎麼判斷】答對率四成二。關鍵在空格前面的動詞 covers。cover 在這裡是「涵蓋、包含」，它涵蓋得住的必然是一段有寬度的東西，而不是一個點。所以填 range，temperature range 就是「溫度範圍」。填進去讀成 double check that it covers the right temperature range for your activity（再確認一次它涵蓋的溫度範圍適不適合你要做的事）。下一句的例子也能驗算：花園用的溫度計拿去量沸騰的液體會爆掉，正是因為它涵蓋的範圍不夠高。【干擾選項】record（紀錄）指的是記下來的數值，一個紀錄不需要被「涵蓋」；system（系統）在這一篇最後一段確實出現過（different systems of measures 不同的度量系統），形態也吻合，容易被順手選走，但溫度計涵蓋的不是一套系統；unit（單位）是刻度的名稱，公尺、公斤都是單位，是一個點而不是一段。【常考字詞與句型】temperature range（溫度範圍）、cover a range（涵蓋一段範圍）、a wide range of（各式各樣的）、conversion tables（換算表）、unit（單位）、system of measures（度量系統）。"
   },
   {
     "id": "Z95_14",
@@ -1128,7 +1131,8 @@
     "accuracyRate": 47,
     "discrimination": 42,
     "contextSpan": "跨句",
-    "contextNote": "for instance 為前一句「先確認溫度範圍」舉例"
+    "contextNote": "for instance 為前一句「先確認溫度範圍」舉例",
+    "note": "【你可能會這樣想】四個選項都是插在主詞與動詞之間的轉承語，位置一樣、形態一樣，你會憑語感挑一個。【怎麼判斷】答對率四成七。這是邏輯勾環，而且線索一定要跨句才看得到。前一句是一句通則：double check that it covers the right temperature range for your activity（先確認溫度計涵蓋的範圍對不對）。空格這一句 A garden thermometer will burst if you try to use it for boiling liquids（花園用的溫度計拿去量沸騰的液體會爆掉）是那句通則底下的一個具體個案——範圍不夠會出什麼事。從通則走到具體個案，用 for instance（舉例來說）。填進去讀成 A garden thermometer, for instance, will burst...。順帶留意這個位置：轉承語夾在主詞與動詞之間、前後各一個逗號，是常見的擺法，不是只能放句首。【干擾選項】in short（簡言之）用在把前面講過的收攏成結論，但這一句是往下展開；in turn（依序、轉而）要求前面有一個順序或連鎖關係；by contrast（相較之下）要求前後相反，但這一句正是在支持前一句、不是在反駁它。【常考字詞與句型】for instance（舉例來說）、for example（舉例來說）、in short（簡言之）、in turn（依序、轉而）、by contrast（相較之下）、boiling liquids（沸騰的液體）。"
   },
   {
     "id": "Z95_16",
@@ -1150,7 +1154,8 @@
     "passageId": "95_16-20",
     "accuracyRate": 56,
     "discrimination": 34,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】ever 這個字，你的印象大概只有疑問句與否定句裡的「曾經」（Have you ever been to Japan?），不太會想到它可以擺在 since 前面加強語氣。【怎麼判斷】鑑別度只有 34。這一格連高分群考生也常失手，原因就在 ever 的這個用法平常很少被單獨拿出來教——越熟悉 Have you ever ... 那個 ever 的人，越不會想到它能站在 since 前面。先看形態：主要子句是 Lake Catemaco has been a centre for alternative medicine（現在完成式），而 since pre-Hispanic times 標出起點。現在完成式配 since 起點本來就成立，空格要填的是一個能加強「一直持續」的字，那就是 ever。ever since 是成組的說法，意思是「自從……以來一直」。填進去讀成 Ever since pre-Hispanic times, Lake Catemaco has been a centre for alternative medicine（自前西班牙時期以來，卡特馬科湖一直是另類醫療的中心）。【干擾選項】Not、Only、Rarely 都是否定或限定的字，填進去會把整句變成否定或設限，與後面「一直是……中心」的肯定敘述矛盾；而且 Only 與 Rarely 放在句首時主要子句要倒裝，本句沒有倒裝，形態上就先出局——這一招在句首否定副詞的題目裡幾乎每次都用得上。【常考字詞與句型】ever since ＋ 時間點（自從……以來一直）、since ＋ 時間點 ＋ 現在完成式（自……以來）、Only ＋ 副詞片語 ＋ 主要子句倒裝（只有……才）、rarely（很少，否定副詞）、converge on（聚集到某地）、alternative medicine（另類醫療）。"
   },
   {
     "id": "Z95_17",
@@ -1173,7 +1178,8 @@
     "accuracyRate": 75,
     "discrimination": 30,
     "contextSpan": "跨句",
-    "contextNote": "In fact 強化前一句對該地的描述"
+    "contextNote": "In fact 強化前一句對該地的描述",
+    "note": "【你可能會這樣想】四個選項都是 In 開頭的片語，長得像一家人，你會憑哪個中文順挑一個。【怎麼判斷】這是邏輯勾環，線索一定要跨句才看得到。前一句說卡特馬科湖自前西班牙時期以來一直是另類醫療的中心；空格這一句說這個地區與巫術的關聯可以追溯到兩千多年前的奧爾梅克時期——時間往前推得更遠，是把前一句講的事再加強一層。這種「不只如此，其實還更……」用 In fact（事實上）。填進去讀成 In fact, the area's association with witchcraft dates back to Olmec times。鑑別度只有 30，但它本身不難：四個選項裡只有 In fact 是中學階段常見的轉承語，其餘三個本來就少見，各種程度的人都答得出來，題目自然分不出高低。【干擾選項】In advance（事先）講的是時間上的提前，與這一句的補充說明無關；In all（總計）用在把數量加總；In sum（總之）是收尾用的，但這一句是往下加、不是在收尾。【常考字詞與句型】in fact（事實上）、as a matter of fact（事實上）、in advance（事先）、in all（總計）、in sum（總之）、date back to（追溯到）。"
   },
   {
     "id": "Z95_18",
@@ -1195,7 +1201,8 @@
     "passageId": "95_16-20",
     "accuracyRate": 60,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】中文說「如果……那麼就……」，你會直覺想找一個「就」，而 so 的中文正是「所以」，很容易先被選走。【怎麼判斷】鑑別度高達 60，分開的是知不知道 if 子句後面該用哪一個字呼應。逗號前面已經有一個從屬連接詞 If 帶著子句，逗號後面是主要子句。英文不允許在同一組主從結構裡再放一個對等連接詞來連，所以 so 出局；since 與 though 都是從屬連接詞，放進去會變成兩個從屬子句、整句沒有主要子句，也不成立。剩下 then——它是副詞、不是連接詞，正好可以擺在主要子句前面呼應前面的 If，中文就是「那麼」。填進去讀成 If you've ever seen the movie Medicine Man, then the annual convention will be familiar to you。國中學過的「一個句子裡不能同時用 Although 和 but」是同一件事：中文的「雖然……但是……」「如果……所以……」到了英文只能留一邊。【干擾選項】so 是對等連接詞，中文的「所以」讓它看起來剛好，但它不能與句首的 If 並用；since（既然、自從）與 though（雖然）都是從屬連接詞，會讓整句缺少主要子句。【常考字詞與句型】If ..., then ...（如果……那麼……）、Although ＋ 子句（雖然，主要子句不再加 but）、so（所以，對等連接詞）、though（雖然）、be familiar to somebody（為某人所熟悉）、convention（大會、集會）。"
   },
   {
     "id": "Z95_22",
@@ -1217,7 +1224,8 @@
     "passageId": "95_21-25",
     "accuracyRate": 57,
     "discrimination": 66,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】even 這個字，你的印象大概是「甚至」或「平的、偶數的」，不太會想到它最常見的用法之一就是擺在比較級前面加強語氣。【怎麼判斷】鑑別度高達 66，是本批最會分人的題目之一。空格後面是 shorter，一個比較級，所以要找一個能修飾比較級的字。英文裡能擺在比較級前面加強的字是固定那幾個：even、much、far、a lot、still。四個選項裡只有 even 在這一組裡。填進去讀成 the time span can be even shorter（停留的時間可能更短）。語意也對得上：前一句說一般參觀者平均只花四秒看一件作品，這一句說年輕的參觀者還要更短——「還要更」正是 even 的作用。【干擾選項】almost（幾乎）修飾的是程度接近某個點，不能拿來加強比較級；also（也）是在加另一件事，不是加強程度；meanwhile（同時、在此期間）是轉承語，接不上一個形容詞。三個都是副詞，形態吻合，容易被順手選走。【常考字詞與句型】even ＋ 比較級（更加……）、much ＋ 比較級（……得多）、far ＋ 比較級（遠比……）、a lot ＋ 比較級（……得多）、time span（時間長度、持續時間）、on average（平均而言）。"
   },
   {
     "id": "Z95_25",
@@ -1239,7 +1247,8 @@
     "passageId": "95_21-25",
     "accuracyRate": 59,
     "discrimination": 44,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 no 加一個比較級的組合，長得極像，中文又都能說成「不比……更」，你會憑語感挑一個。【怎麼判斷】先看整句在講什麼：young visitors get more out of a visit if they focus on ______ nine objects（如果只專注在______九件作品，年輕的參觀者收穫更多）。前一段剛講過看太多會累，這一句給的是一個上限的建議，所以空格要的是「不超過、只有」——no more than 就是這個意思，等於 only，重點在強調數量少。填進去讀成 focus on no more than nine objects（只專注在九件作品上）。【干擾選項】no less than（不少於，等於「多達」）方向剛好相反，填進去會變成「多達九件」，與整段勸人少看的建議矛盾，這一組尤其要小心；no better than 是「跟……一樣糟」，用來評價好壞，不是講數量；no sooner than 不是成立的組合，成組的說法是 no sooner ... than ...（一……就……）。【常考字詞與句型】no more than（只有、不超過，等於 only）、no less than（多達、不少於）、no better than（跟……一樣糟）、no sooner ... than ...（一……就……）、get more out of（從……得到更多）、focus on（專注於）。"
   },
   {
     "id": "Z95_27",
@@ -1261,7 +1270,8 @@
     "passageId": "95_26-30",
     "accuracyRate": 44,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是兩三個字組成的片語，你會憑哪個中文順挑一個；而且句子裡的 275 meters long 已經寫得很清楚，你可能覺得空格填什麼都不太影響意思。【怎麼判斷】答對率四成四。空格後面是 275 meters long（長達兩百七十五公尺），一個數量。這一句在說那些動物圖形有多長，而前面是 about fifty animal figures（大約五十個）——五十個圖形不會每一個都剛好一樣長，所以這個數字講的是上限。表示「最高達、多達」的說法是 up to。填進去讀成 There are about fifty animal figures up to 275 meters long（約有五十個動物圖形，最長達兩百七十五公尺）。這四個選項有一個共同的結構值得認出來：up to、far from、as much as 都是由一個副詞加一個介系詞組成、整組當一個介系詞用，後面接名詞或數量。認得這個組合，就不會把它們拆開來一個字一個字翻。【干擾選項】far from（遠非、一點也不）後面接的是被否定的形容詞或名詞（far from perfect 一點也不完美），接一個長度數字讀不通；such as（例如）後面接的是舉例的東西，不是數量；as much as 帶著「竟然有這麼多」的驚訝語氣，多用在金額、數量或程度上，而這一句只是在陳述最長多少，沒有那個語氣。【常考字詞與句型】up to ＋ 數量（多達、最高達）、far from ＋ 形容詞（一點也不）、as much as（多達，帶驚訝語氣）、as many as（多達，用於可數名詞）、such as（例如）、meters long（長達幾公尺）。"
   },
   {
     "id": "Z95_29",
@@ -4651,7 +4661,8 @@
     "passageId": "95_11-15",
     "accuracyRate": 61,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 副詞、都能擺在 be 動詞與形容詞之間，形態上刷不掉，你會憑中文哪個順挑一個。【怎麼判斷】鑑別度高達 57。四個選項都是副詞，但這一格要修飾的是後面的形容詞 important，所以必須是一個能講「程度」的副詞。deliberately（刻意地）與 instantly（立刻）修飾的是動作怎麼做、什麼時候做，擺在形容詞前面講不通；scarcely（幾乎不）是否定副詞，會讀成「準確的測量幾乎不重要」，與整段強調測量很要緊的方向相反。只剩 particularly（尤其、特別），它正是用來把程度往上加的。填進去讀成 Accurate measurements are particularly important for scientific experiments（準確的測量對科學實驗尤其重要）。「尤其」還帶一層對照：前一句講的是廚房裡的量杯、磅秤與溫度計，這一句把場景換到實驗室，要求自然更嚴格。【干擾選項】deliberately 與 instantly 講的是動作的方式與時機，不能拿來說一件事「有多重要」；scarcely 是否定副詞，方向完全相反。三個都是 -ly 副詞，形態吻合，容易被順手選走。【常考字詞與句型】particularly（尤其、特別）、especially（尤其）、scarcely（幾乎不，否定副詞）、deliberately（刻意地）、accurate measurements（準確的測量）、meet one's needs（符合需求）。"
   },
   {
     "id": "Z95_15",
@@ -4673,7 +4684,8 @@
     "passageId": "95_11-15",
     "accuracyRate": 40,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】mass 這個字，你的印象大概是「大量、群眾」（mass media、the masses），不太會想到它在度量衡與物理裡就是「質量」。【怎麼判斷】答對率四成，但這一格靠並列結構就定得下來，不必猜。空格落在一串三個並列的組合裡：meters for length（公尺對長度）、kilograms for ______（公斤對什麼）、seconds for time（秒對時間）。三組的格式一模一樣，都是「單位 for 那個單位在量的東西」。既然公斤量的是質量，空格就必須填 mass。填進去讀成 with meters for length, kilograms for mass, and seconds for time。並列結構是克漏字裡最省力的一招：先數清楚 and 或逗號連的是哪幾樣，確認它們的格式相同，缺的那一格照著同一個格式補就好。【干擾選項】distance（距離）與 length 重複，而且距離的單位也是公尺不是公斤；temperature（溫度）的單位是度，這一篇開頭就講過廚房裡的溫度計；volume（體積）的單位是公升或量杯，開頭那句 measures for volume (measuring cups) 已經寫得很清楚。三個都是這一篇出現過的度量名稱，形態吻合，容易被順手選走。【常考字詞與句型】mass（質量；大量）、the mass media（大眾媒體）、volume（體積；音量）、length（長度）、the International System of measures（國際單位制）、scales and weights（磅秤與砝碼）。"
   },
   {
     "id": "Z95_20",
@@ -4718,7 +4730,8 @@
     "passageId": "95_21-25",
     "accuracyRate": 71,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能接在 This is 後面，你會憑印象挑一個。【怎麼判斷】鑑別度高達 58。空格落在引號裡的一段話，那是一個逛累了的孩子心裡的抱怨。後面緊接著三句：I could have done the painting myself（這畫我自己也畫得出來）、When can we sit down?（什麼時候可以坐下）、What time is it?（現在幾點）。三句都在表達不耐煩，所以引號裡的第一句必定是負面的評價——This is boring（好無聊）。填進去讀成 This is boring. I could have done the painting myself。同一段稍後的 a feeling of boredom and monotony（無聊與單調的感覺）用的正是 boring 的名詞形，再一次確認。【干擾選項】cool（很酷）與 exciting（令人興奮）都是正面的，與後面三句抱怨的口氣相反；difficult（困難的）雖然是負面的，但「這很難」與「我自己也畫得出來」互相矛盾——後面那句正是在說它一點也不難。【常考字詞與句型】boring（令人厭煩的）與 bored（感到厭煩的）、boredom（無聊、厭煩）、monotony（單調）、museum feet（逛博物館逛到腳痠的疲憊感）、could have ＋ 過去分詞（當初其實可以……）、complain about（抱怨）。"
   },
   {
     "id": "Z95_23",
@@ -4740,7 +4753,8 @@
     "passageId": "95_21-25",
     "accuracyRate": 46,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 副詞，形態一樣，你會憑中文哪個順挑一個。【怎麼判斷】答對率四成六，鑑別度高達 61。空格夾在 leading 與 to 之間，修飾的是 lead to（導致）這個動作。先看整句在講什麼：a feeling of boredom and monotony will build up, leading ______ to impatience and fatigue——無聊與單調的感覺會慢慢累積，最後導致不耐煩與疲憊。關鍵在 build up（逐漸累積）：既然是慢慢累積起來的，導致的結果就是在一段時間之後才出現，所以要的是講時間終點的 eventually（最終、到頭來）。填進去讀成 leading eventually to impatience and fatigue。【干擾選項】efficiently（有效率地）是在評價做事的效率，累積無聊不談效率；fortunately（幸好）是正面的評價，但不耐煩與疲憊不是好事；permanently（永久地）指的是狀態不再改變，但逛完博物館的疲憊會消退，並非永久。三個都是 -ly 副詞，形態吻合，容易被順手選走。【常考字詞與句型】eventually（最終、到頭來）、lead to（導致）、build up（逐漸累積）、impatience（不耐煩）、fatigue（疲憊）、permanently（永久地）。"
   },
   {
     "id": "Z95_24",
@@ -4762,7 +4776,8 @@
     "passageId": "95_21-25",
     "accuracyRate": 57,
     "discrimination": 67,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 a 開頭的動詞，長得像一家人，你會掃過去挑一個最眼熟的。【怎麼判斷】鑑別度高達 67，是本批最會分人的一題。句首的 To ______ museum feet 是表目的的不定詞，後面的主要子句是 try not to have children look at too many things in one visit（別讓孩子在一次參觀裡看太多東西）。主要子句是一個預防的建議，所以目的必定是「避免」逛到腳痠這件事發生——填 avoid。填進去讀成 To avoid museum feet, try not to have children look at too many things（為了避免逛到腳痠，別讓孩子一次看太多）。【干擾選項】affect（影響）後面接的是被影響的那樣東西，但沒有人的目的是「去影響腳痠」；approach（接近、著手處理）方向相反，是往它靠過去；assure（向……保證）後面要先接一個人，assure somebody of something 是「向某人保證某事」，這一句沒有要向誰保證，而且它與 ensure（確保）也很容易混。四個都是 a 開頭的動詞原形，形態吻合，容易被順手選走。【常考字詞與句型】avoid ＋ V-ing 或名詞（避免）、prevent A from V-ing（防止 A 做某事）、assure somebody of something（向某人保證某事）、ensure（確保）、affect（影響）、approach（接近；著手處理）。"
   },
   {
     "id": "Z95_26",
@@ -4784,7 +4799,8 @@
     "passageId": "95_26-30",
     "accuracyRate": 47,
     "discrimination": 36,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】cover 這個字，你的印象大概是「蓋住、覆蓋」（cover the pot），或是書的封面，不太會想到它可以用來講「佔地多大面積」。【怎麼判斷】答對率不到五成。空格後面是 500 square kilometers（五百平方公里），一個面積。四個選項裡，能直接接一個面積數字、講「佔地多大」的只有 cover。填進去讀成 they cover 500 square kilometers（這些線條佔地五百平方公里）。cover 的兩個意思是接得起來的：先是「蓋住某個表面」，往抽象推一步就是「範圍涵蓋多大」——這一份考卷第 13 題的 covers the right temperature range（涵蓋正確的溫度範圍）用的也是這個抽象義，兩題可以擺在一起看。【干擾選項】circle（環繞成圈）講的是繞著某物轉，線條不會繞著一片面積轉；contain（容納、內含）的主詞要是容器或整體，後面接的是裡面的內容物，而不是面積；wrap（包裹）後面接的是被包起來的那樣東西。三個都是動詞原形，形態吻合，容易被順手選走。【常考字詞與句型】cover ＋ 面積（佔地、涵蓋）、square kilometers（平方公里）、contain（容納、內含）、wrap（包裹）、be cut into（被刻進、被切成）、the desert's surface（沙漠表面）。"
   },
   {
     "id": "Z95_28",
@@ -4807,7 +4823,8 @@
     "accuracyRate": 62,
     "discrimination": 64,
     "contextSpan": "跨句",
-    "contextNote": "More amazing 是與前一句的描述相比較"
+    "contextNote": "More amazing 是與前一句的描述相比較",
+    "note": "【你可能會這樣想】四個選項都是 -ing 結尾的形容詞，形態一樣，你會憑中文挑一個。【怎麼判斷】鑑別度高達 64。線索一定要跨句才看得到。前面幾句一路在講納斯卡線有多驚人——巨大的圖形、複雜的圖案、幾千條筆直的線、佔地五百平方公里、最長兩百七十五公尺、一千年前就畫好了。空格這一句 More ______ is the fact that they can be viewed only from the air（更______的是，這些線條只能從空中看見）用的是 More ＋ 形容詞的比較級，拿來跟前面那一整串比。既然前面講的都是驚人的事，這一句要再往上加一層，形容詞就必須是 amazing（令人驚奇的）。填進去讀成 More amazing is the fact that they can be viewed only from the air。順帶留意這個句型：More amazing is the fact that... 是把補語提到句首的倒裝，正常語序是 The fact that they can be viewed only from the air is more amazing。【干擾選項】hesitating（猶豫的）與 interacting（互動的）都只用在人或會互動的東西身上，一個事實不會猶豫，也不會互動；satisfying（令人滿意的）雖然是正面的，但這一句要講的是驚奇，不是滿意。三個都是 -ing 形容詞，形態吻合，容易被順手選走。【常考字詞與句型】amazing（令人驚奇的）與 amazed（感到驚奇的）、More ＋ 形容詞 ＋ is the fact that ...（更……的是……，補語提前的倒裝）、the fact that ＋ 子句（……這個事實）、be viewed from the air（從空中看）、satisfying（令人滿意的）、perfectly straight（筆直的）。"
   },
   {
     "id": "Z95_30",
@@ -4829,7 +4846,8 @@
     "passageId": "95_26-30",
     "accuracyRate": 43,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 un- 開頭的形容詞，長得像一家人，你會憑中文挑一個。【怎麼判斷】答對率四成三。先看整句：The only thing certain is that the Nazca lines remain one of the world's most fascinating ______ mysteries（唯一確定的是，納斯卡線仍是世上最迷人的______之謎）。關鍵在同一句的 The only thing certain is（唯一確定的只有這件事），言下之意是其他都還沒有答案。前面幾句也把各種猜測列了一遍：有人說是外星人的降落場、有人說是引水道、有人說是日曆，全都只是「有人說」。所以這些謎至今沒有被解開，填 unsolved。填進去讀成 one of the world's most fascinating unsolved mysteries（世上最迷人的未解之謎之一）。unsolved mysteries 是成組的說法，整組記起來就好。【干擾選項】unchanged（未改變的）講的是狀態沒變，但謎的重點不在變不變；undetermined（未確定的）語意雖然接近，但它通常用在數量、日期、結果這類還沒定案的事情上（The date is still undetermined.），不與 mystery 搭配；unfolded 是 unfold（展開、逐漸揭露）的過去分詞，意思會變成「已經展開的」，方向剛好相反。三個都是 un- 開頭的形容詞，形態吻合，容易被順手選走。【常考字詞與句型】unsolved mysteries（未解之謎）、solve a mystery（解開謎團）、unfold（展開、逐漸揭露）、undetermined（未確定的）、remain ＋ 補語（仍然是……）、fascinating（迷人的）。"
   },
   {
     "id": "Z96_12",
