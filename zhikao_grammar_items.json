@@ -1307,7 +1307,8 @@
     "hasFullPassage": true,
     "accuracyRate": 48,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】satisfied 的中文是「滿意」，中文說「對……滿意」，你很容易照中文選 for 或 at。【怎麼判斷】答對率不到五成。這一格考的是字詞搭配，沒有推理可做，只能看認不認得：be satisfied with（對……感到滿意）。填進去讀成 how satisfied they are with their lives（他們對自己的人生有多滿意）。這一型的題目值得建立一個習慣：形容詞與介系詞是成組記的，不能靠中文推——中文的一個「對」，在英文裡可能是 with、to、at、about 或 for，一組一組記下來才可靠。【干擾選項】for、at、of 三個都是常見介系詞，形態上都放得進去，容易被順手選走，但 satisfied 固定配 with。順帶把幾個容易混的擺在一起：be satisfied with（滿意）、be angry with somebody（對某人生氣）、be surprised at（對……感到驚訝）、be afraid of（害怕）。【常考字詞與句型】be satisfied with（對……感到滿意）、be content with（滿足於）、be surprised at（對……感到驚訝）、be afraid of（害怕）、satisfaction（滿意、滿足）、a smile-shaped curve（微笑曲線）。"
   },
   {
     "id": "Z96_13",
@@ -1331,7 +1332,8 @@
     "accuracyRate": 44,
     "discrimination": 40,
     "contextSpan": "跨句",
-    "contextNote": "After that 承接前一句「四十幾歲是最低潮」的時間點"
+    "contextNote": "After that 承接前一句「四十幾歲是最低潮」的時間點",
+    "note": "【你可能會這樣想】四個選項都在講時間，中文都能說成「那之後」「那時候」，你會憑語感挑一個。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。答對率四成四。前一句是 For many of them, the most miserable period in their life is their 40s（對許多人來說，人生最低潮是四十幾歲）；空格這一句是 their levels of happiness climb（快樂程度開始回升）。回升發生在低潮之後，所以要的是「在那之後」——After that，其中的 that 指的正是前一句那個四十幾歲的低潮期。填進去讀成 After that, their levels of happiness climb。【干擾選項】By that time（到那時為止）把時間停在低潮那一刻，但回升是在低潮之後才發生；Not for long（不會持續太久）本身不是時間的順接，後面該接一個會結束的狀態；Before now（在此之前）指的是到現在為止的過去，與這一段在描述一生的曲線對不上。【常考字詞與句型】after that（在那之後）、by that time（到那時為止）、from then on（從那時起）、not for long（不會持續太久）、the most miserable period（最低潮的時期）、climb（攀升、上升）。"
   },
   {
     "id": "Z96_14",
@@ -1402,7 +1404,8 @@
     "hasFullPassage": true,
     "accuracyRate": 40,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是幾個字合起來當一個介系詞用的組合，你會憑哪個中文順挑一個，其中 due to 最眼熟，很容易先被選走。【怎麼判斷】答對率四成。先看空格後面接的是什麼：exactly what these lights are and what causes them——兩個 what 引導的名詞子句。所以空格要的是一個能帶出「關於什麼」的說法。四個選項裡只有 as to 是「關於、至於」，而且它後面正好可以接疑問詞引導的名詞子句（as to what、as to whether）。前面的 not certain 與它成組：be certain 或 uncertain as to ＋ 疑問詞子句，就是「對……確定或不確定」。填進去讀成 Science is still not certain as to exactly what these lights are（科學界對這些光究竟是什麼仍不確定）。【干擾選項】due to（由於）帶出的是原因；instead of（而不是）帶出的是被取代的那樣東西；in spite of（儘管）要求前後語意相反。三個後面都只接名詞或動名詞，接不上這裡的 what 子句，語意也都不是「關於」。【常考字詞與句型】as to ＋ 疑問詞子句（關於、至於）、be uncertain as to whether（不確定是否）、due to（由於）、instead of（而不是）、a dazzling spectacle（令人目眩的奇景）、the northern lights（北極光）。"
   },
   {
     "id": "Z96_17",
@@ -1474,7 +1477,8 @@
     "hasFullPassage": true,
     "accuracyRate": 43,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個片語的四種時態，你會去找句子裡有沒有時間副詞，找不到就憑語感挑一個。【怎麼判斷】答對率四成三，鑑別度高達 54。先確認這一句在做什麼事：According to scientific measurements（根據科學測量），後面講的是北極光發生在離地五十到一百英里的高度——這是一個一直都成立的事實，不是某一次發生過的事件。陳述科學事實、自然現象與恆常狀態，一律用簡單現在式，所以填 takes place。填進去讀成 this discharge of light takes place from 50 to 100 miles above the earth。整篇的動詞形態也能拿來驗算：前後的 is、spread、looks、hang、sway 全是現在式，這一格跟著它們對齊就好。【干擾選項】took place 是簡單過去式、was taking place 是過去進行式、had taken place 是過去完成式，三個都把這件事鎖在過去某個時間點上，與「科學測量得出的恆常事實」對不上，而且句子裡沒有任何過去的時間標記可以搭。【常考字詞與句型】take place（發生、舉行）、according to（根據）、scientific measurements（科學測量）、discharge（放電、排放）、above the earth（在地球上方）、from A to B（從 A 到 B 的範圍）。"
   },
   {
     "id": "Z96_20",
@@ -1570,7 +1574,8 @@
     "hasFullPassage": true,
     "accuracyRate": 47,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項擺進去好像都通，尤其 very probable 完全合文法，你可能就直接選它。【怎麼判斷】答對率四成七，鑑別度高達 57。這一格 very 也放得進去、文法上挑不出毛病，所以形態刷不掉，真正要判的是方向。主詞是 poor people and poor countries（貧窮的人與貧窮的國家），後面接的是 to have the money and resources they need（擁有他們所需的金錢與資源）。貧窮的人與國家當然比較不可能有錢與資源，所以要的是往下的方向——less probable。填進去讀成 poor people and poor countries are less probable to have the money and resources they need。【干擾選項】very probable（很可能）方向剛好相反；most probable 是最高級，前面通常要有 the，而這一句也沒有比較的範圍；further（更進一步的）修飾的是距離或程度上的推進，不能拿來修飾 probable。【常考字詞與句型】less ＋ 形容詞（較不……）、be likely to V（可能會）、be unlikely to V（不太可能會）、probable（可能的）、the money and resources（金錢與資源）、generally（一般來說）。"
   },
   {
     "id": "Z96_26",
@@ -1610,14 +1615,15 @@
       "D": "in"
     },
     "answer": "B",
-    "explanation": "【句型】with + 受詞 + 過去分詞，獨立分詞構句，with foreign influences and tourism regulated 表示「外國影響力與觀光業受到政府管制」這個伴隨狀況。by／for／in 都無法構成這種「with + 受詞 + 分詞」的獨立結構。",
+    "explanation": "【句型】with + 受詞 + 過去分詞，with foreign influences and tourism regulated 表示「外國影響力與觀光業受到政府管制」這個伴隨狀況。by／for／in 都無法構成這種「with + 受詞 + 分詞」的獨立結構。",
     "answer_source": "official_key",
     "passageId": "96_26-30",
     "fullPassage": "The Kingdom of Bhutan is a landlocked nation situated between India and China. The entire country is mountainous, __26__ a small strip of subtropical plains in the extreme south. The elevation gain from the subtropical plains to the glacier-covered Himalayan heights exceeds 7,000 m. Its traditional __27__ is based on forestry, animal husbandry and subsistence agriculture. However, these __28__ less than 50% of the GDP now that Bhutan has become an exporter of hydroelectricity. Besides, cash crops and tourism are also __29__. Bhutan is one of the most isolated nations in the world, __30__ foreign influences and tourism regulated by the government to preserve its traditional Tibetan Buddhist culture. It is often described as the last surviving refuge of traditional Himalayan Buddhist culture.",
     "hasFullPassage": true,
     "accuracyRate": 48,
     "discrimination": 28,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】with 這個字，你的印象大概只有「和……一起」與「用……」，看到它後面接著一長串 foreign influences and tourism regulated by the government，會覺得沒有一個介系詞放得進去。【怎麼判斷】答對率不到五成，鑑別度只有 28，是本批最低的一題。這一題難，卻連高分群考生也常失手，原因在於這個句型擺在句子最後面、後面又跟著一長串修飾語，形狀不容易認出來。先把空格後面拆成兩層：foreign influences and tourism 是受詞，regulated by the government 是補充說明這個受詞處於什麼狀態，還原成完整子句就是 foreign influences and tourism are regulated by the government（外國影響力與觀光業受到政府管制）。能還原成「受詞是或處於那個狀態」，就確定是 with ＋ 受詞 ＋ 受詞補語（表附帶狀態）這個課本長教的句型，空格填 with。同一年第 11 題也考 with，但那一題考的是 be satisfied with 這個固定的字詞搭配，兩題擺在一起，正好看出同一個介系詞的兩種考法。【干擾選項】by、for、in 後面都只能接名詞或名詞組，接不了「受詞加補語」這兩層；把它們填進去，regulated by the government 那一串就沒有地方可以掛。【常考字詞與句型】with ＋ 受詞 ＋ 受詞補語（表附帶狀態）、with his eyes closed（閉著眼睛）、with the engine running（引擎還發動著）、be regulated by（受……管制）、preserve a culture（保存文化）、isolated（孤立的、與外界隔絕的）。"
   },
   {
     "id": "Z97_13",
@@ -1714,7 +1720,8 @@
     "accuracyRate": 68,
     "discrimination": 60,
     "contextSpan": "跨句",
-    "contextNote": "however 轉折前一句「蔬果有鮮豔顏色」的表面印象"
+    "contextNote": "however 轉折前一句「蔬果有鮮豔顏色」的表面印象",
+    "note": "【你可能會這樣想】however 這個字，你的印象大概只有「站在句首」那一種擺法，看到它夾在主詞與動詞之間、前後各一個逗號，反而不敢選。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。鑑別度高達 60，分開的是認不認得 however 的這個位置。前一句是 The fruits and vegetables we eat often come in distinctive colors（我們吃的蔬果常有鮮明的顏色），讀到這裡的第一印象就是「顏色是為了好看」；空格這一句 The rich colors are not there only to attract attention（這些濃豔的顏色並不只是為了吸引目光）把那個印象翻過來，是轉折，所以填 however。位置的部分：however 屬於連接副詞，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today），夾在主詞與動詞之間、前後各加一個逗號是常見的擺法。填進去讀成 The rich colors, however, are not there only to attract attention。【干擾選項】almost（幾乎）、rarely（很少）、relatively（相對地）三個都是副詞、都能插在這個位置，形態吻合，容易被順手選走，但都不表轉折：almost 是加強程度、rarely 是否定的頻率（讀成「很少不只是為了吸引目光」繞不通）、relatively 需要一個比較的基準。【常考字詞與句型】however（然而，連接副詞，位置靈活）、nevertheless（儘管如此）、come in（有……的樣式或顏色）、attract attention（吸引目光）、perform a function（發揮功能）、relatively（相對地）。"
   },
   {
     "id": "Z97_18",
@@ -1737,7 +1744,8 @@
     "hasFullPassage": true,
     "accuracyRate": 74,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】which 與 that 中文都能說成「這個、那個」，你大概覺得兩個都行，就挑一個讀起來順的。【怎麼判斷】先數句子成分：逗號後面是 ______ may cause harmful elements to form，動詞 may cause 缺一個主詞，所以空格要填的是一個能當主詞的關係代名詞，先行詞是逗號前的 the sun's ultraviolet (UV) light。接著看那個逗號：逗號隔開的是非限定關係子句，只是補充說明，不是用來限定先行詞是哪一個——而非限定關係子句不能用 that，只能用 which（劍橋 English Grammar Today 的 Relative clauses 條目）。還原一次驗算：..., and it may cause harmful elements to form within the plant cells。【干擾選項】that 在限定關係子句裡可以代替 which，但一碰到逗號就不行；what 自己帶著先行詞（等於 the thing that），這一句前面已經有 UV light 當先行詞，再放 what 就多了一個；such 不是關係代名詞，接不上。【常考字詞與句型】逗號 ＋ which（非限定關係子句，只能用 which 不能用 that）、cause A to V（導致 A 做某事）、protect A from B（保護 A 免於 B）、antioxidants（抗氧化物質）、form（形成、產生）、ultraviolet light（紫外線）。"
   },
   {
     "id": "Z97_19",
@@ -1760,7 +1768,9 @@
     "hasFullPassage": true,
     "accuracyRate": 60,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "more 或 less 要靠前文「顏色來自抗氧化物質」那句主題句定案",
+    "note": "【你可能會這樣想】四個選項都是 much 與 little 的比較級或最高級，形態很近，你會憑中文挑一個。【怎麼判斷】鑑別度高達 59。先用形態刷一輪：句尾有 than，而 than 只跟比較級搭配，most 與 least 是最高級，一步出局。剩下 more 與 less，這一步句內就分不出來了——空格前是 an intensely colored plant（顏色濃豔的植物），than 後面是 a paler one（顏色較淡的），但顏色濃到底代表那些化學物質多還是少，這一句自己沒有講。要回到前面那句主題句：The colors come mainly from chemicals known as antioxidants（這些顏色主要來自被稱為抗氧化物質的化學物質）。顏色既然是那些物質造出來的，顏色越濃就代表物質越多，所以填 more。填進去讀成 has more of these protective chemicals than a paler one does。另外留意句尾那個 does：它代替的是前面整串 has ... of these protective chemicals，免得同樣的話再說一次。這與國中學過的 Do you like it?—Yes, I do. 是同一件事，用助動詞把重複的部分頂掉。比較句的句尾常常就掛著這樣一個 does、did 或 is，看到它先問一句「它在代替前面哪一串」，句子的骨幹就清楚了。【干擾選項】less 方向剛好相反；most 與 least 是最高級，不能與 than 連用，而且最高級前面通常要有 the。【常考字詞與句型】more of ＋ 名詞 ... than（比……有更多的）、the ＋ 最高級（最……的，不與 than 連用）、than ＋ 主詞 ＋ does（助動詞代替前面重複的動詞部分）、intensely colored（顏色濃豔的）、pale（顏色淡的、蒼白的）、protective（保護性的）。"
   },
   {
     "id": "Z97_21",
@@ -1831,7 +1841,8 @@
     "hasFullPassage": true,
     "accuracyRate": 42,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Since 與 As 都很眼熟，你會直覺把這一格讀成「因為……」或「當……時」，然後開始找後面的子句。【怎麼判斷】答對率四成二，鑑別度高達 54。先數句子成分：空格後面是 a circumstance（一個單數名詞組），再往後是 often preconditions（動詞），整句缺的是主詞。所以空格要填的必須是一個能修飾 a circumstance、把它變成主詞的字。Since 與 As 是連接詞，後面要接完整的子句，不能直接掛在一個名詞組前面；All 後面接複數或不可數名詞，不能接 a。只剩 Such——such a ＋ 單數名詞就是「這樣的一個……」。填進去讀成 Such a circumstance often preconditions teenagers...（這樣的情況往往讓青少年更容易……）。而「這樣的」指的就是前一句那個狀況：習慣性飲酒的人覺得酒精不夠刺激、想找更刺激的東西。【干擾選項】Since（因為、自從）與 As（當……時、因為）都是連接詞，形態上就接不起來；All 若要接 circumstance 得寫成 All circumstances（複數），這一句用的是 a circumstance。【常考字詞與句型】such a ＋ 單數名詞（這樣的一個……）、such ＋ 複數名詞（這樣的……）、precondition somebody to（使某人預先傾向於）、habitual drinkers（習慣性飲酒的人）、stimulating（刺激的、令人振奮的）、seek other substances（尋求其他物質）。"
   },
   {
     "id": "Z97_26",
@@ -1854,7 +1865,8 @@
     "hasFullPassage": true,
     "accuracyRate": 67,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個字 bid 的四種形態，你會直覺開始分主動被動、找意義主詞。【怎麼判斷】先看空格前面是什麼：a new way（一個新方法）。way 這個名詞後面習慣接不定詞來說明「做什麼的方法」——a way to do something，與國中學過的 the best way to learn English 是同一個結構，所以空格填 to bid。整組是 bid farewell to（向……道別），填進去讀成 a new way to bid farewell to 2007（一個向 2007 年道別的新方法）。【干擾選項】bid 是原形，不能直接掛在名詞後面當修飾語；bidding 是動名詞或現在分詞，way 後面不接動名詞；bidden 是過去分詞、表被動，但道別的是人不是 way，方向不對。四個都是同一個動詞的形態，形態吻合，容易被順手選走，關鍵是先認出 way 後面該接什麼。【常考字詞與句型】a way to V（做某事的方法）、bid farewell to（向……道別）、say goodbye to（向……說再見）、offer somebody something（提供某人某物）、a new beginning（新的開始）、sanitation department（環境清潔部門）。"
   },
   {
     "id": "Z97_28",
@@ -1902,7 +1914,8 @@
     "accuracyRate": 51,
     "discrimination": 40,
     "contextSpan": "跨句",
-    "contextNote": "the machine 指前文提到的碎紙機"
+    "contextNote": "the machine 指前文提到的碎紙機",
+    "note": "【你可能會這樣想】四個選項都是同一個名詞 machine 的變化，只差冠詞與單複數，你會覺得差別不大，隨手挑一個。【怎麼判斷】答對率剛過五成。這是指標勾環，關鍵在冠詞。machine 是可數名詞，單數不能光著身子站在句子裡，所以無冠詞的 machine 先出局。剩下三個要看指的是什麼：前文說的是 a huge paper-cutting machine was set up in Times Square（時代廣場架了一台大型碎紙機），全場就那一台。既然是前面已經提過、而且是特定的那一台，就要用定冠詞 the machine。填進去讀成 the most creative memory destined for the machine（最有創意、注定要被送進那台機器的回憶）。冠詞的規則就是這一句：第一次提到用 a，之後再提到那同一個東西改用 the。【干擾選項】machines 是複數，但活動現場只有一台；a machine 是「某一台機器」，隨便哪一台都算，與「前面提過的那一台」不同；machine 無冠詞不合單數可數名詞的用法。【常考字詞與句型】the ＋ 名詞（回指前面提過的那一個）、a ＋ 名詞（第一次提到某一個）、be destined for（注定要去、注定要成為）、win an award（獲獎）、be happy to V（樂於、很高興做某事）、creative（有創意的）。"
   },
   {
     "id": "Z98_13",
@@ -4861,7 +4874,9 @@
     "passageId": "96_21-25",
     "accuracyRate": 49,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "an additional 的「額外」相對於主題句的 increased by almost one degree",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能擺在 an 與數字之間，你會憑中文挑一個。【怎麼判斷】答對率不到五成。空格前是 increase an ______，後面接的是一個溫度的增幅（兩到六華氏度）。increase an additional ＋ 數量 是成組的說法，意思是「再增加多少」。為什麼是「再」：這一段的主題句 Average global temperature has increased by almost one degree Fahrenheit over the past century（過去一世紀全球平均溫度已上升將近一華氏度）已經先講過一次上升，空格這一句講的是未來一百年還要在那之上再加。填進去讀成 increase an additional two to six degrees（再增加兩到六度）。這一格真正該學起來的不只是這個字：同一個現象，文章前後會換不同的說法再講一次。主題句用 increased by（上升了多少），空格這一句改用 increase an additional（再增加多少），講的是同一件事的兩個階段。讀克漏字時把整段的核心概念放在心上，遇到空格先問一句「這是不是在把前面講過的事換個說法再說一遍」，很多格就是這樣定下來的。【干擾選項】extreme（極端的）是在評價幅度大不大，但這一句只是在報數字；immediate（立即的）講的是時間上的馬上，與「未來一百年」矛盾；original（原本的、最初的）指的是最早那一個，這裡講的卻是後來再增加的部分。三個都是形容詞，形態吻合，容易被順手選走。【常考字詞與句型】an additional ＋ 數量（額外的、再增加的）、in addition（此外）、increase by ＋ 幅度（增加了多少）、average global temperature（全球平均溫度）、over the next hundred years（在接下來一百年）、original（原本的、最初的）。"
   },
   {
     "id": "Z96_24",
@@ -4883,7 +4898,8 @@
     "passageId": "96_21-25",
     "accuracyRate": 48,
     "discrimination": 37,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】adapt 與 adopt 只差一個字母，你的印象大概混在一起；而且四個選項都是「動詞加介系詞」，形態一樣，刷不掉。【怎麼判斷】答對率不到五成。先看主詞與後面接的東西：主詞是 people and nature（人與自然），空格後面是 climate change（氣候變遷）。人與自然面對氣候變遷能做的事，是去配合它、調整自己，也就是 adapt to（適應）。填進去讀成 How people and nature adapt to climate change（人與自然如何適應氣候變遷）。順帶把兩個形近字分清楚：adapt 是「適應、改編」（adapt to a new environment），adopt 是「採用、收養」（adopt a new policy、adopt a child）。【干擾選項】result from（起因於）方向剛好相反——氣候變遷不是人與自然造成的結果，而是他們要面對的那件事；count on（依賴、指望）後面接的是可以依靠的人或事，沒有人會指望氣候變遷；stand for（代表、象徵）後面接的是被代表的那個意思。【常考字詞與句型】adapt to（適應）、adopt（採用；收養）、cope with（應付、處理）、result from（起因於）、count on（依賴、指望）、stand for（代表、象徵）。"
   },
   {
     "id": "Z97_11",
@@ -4974,7 +4990,8 @@
     "passageId": "97_16-20",
     "accuracyRate": 68,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 結尾的副詞，形態一樣，你會憑中文哪個順挑一個。【怎麼判斷】鑑別度高達 57。四個選項都是副詞、都放得進 more 後面，形態這條路斷掉，考的是語意與搭配。空格前是 brains work more ______，先問「大腦運作得更怎麼樣才算是好事」——答案是更有效率，而 work efficiently（有效率地運作）正是成組的說法。填進去讀成 help our own brains work more efficiently（幫助我們的大腦運作得更有效率）。末句 eating richly colored fruits and vegetables makes us both healthier and smarter（吃顏色濃豔的蔬果讓我們更健康也更聰明）正是在替這一句收尾，可以拿來驗算。【干擾選項】obviously（顯然地）是說話者對事情明不明顯的評價，不是運作的方式；diligently（勤奮地）只用在人身上，大腦不會勤奮；superficially（表面地、膚淺地）是負面的，與整段的方向相反。三個都是 -ly 副詞，形態吻合，容易被順手選走。【常考字詞與句型】work efficiently（有效率地運作）、brain function（大腦功能）、affect（影響）、in other words（換句話說）、superficially（表面地、膚淺地）、diligently（勤奮地）。"
   },
   {
     "id": "Z97_22",
@@ -4996,7 +5013,8 @@
     "passageId": "97_21-25",
     "accuracyRate": 64,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「動詞加介系詞」的組合，形態一樣，你會憑中文挑一個。【怎麼判斷】鑑別度高達 57。先看空格前後各是什麼：主詞 it 指的是前面講的那件事——酒精改變情緒的方式被社會普遍接受；空格後面是 over drinking（飲酒過量）。前面那件事是原因、飲酒過量是結果，所以要的是一個「導致」的說法——result in，它後面接的正是結果。填進去讀成 oftentimes it results in over drinking（往往就導致飲酒過量）。同一篇第 21 題的 lead to 也是「導致」，兩個可以擺在一起記：result in 與 lead to 後面接的都是結果，而 result from 後面接的是原因，方向相反。【干擾選項】applies to（適用於）後面接的是適用的範圍；arrives at 講的是抵達某處，抽象用法 arrive at a conclusion（得出結論）後面接的是想法而不是行為；plans on（打算）的主詞要是人，it 指的是一件事，事情不會自己作打算。【常考字詞與句型】result in（導致，後接結果）、result from（起因於，後接原因）、arrive at a conclusion（得出結論）、apply to（適用於）、over drinking（飲酒過量）、alter one's mood（改變心情）。"
   },
   {
     "id": "Z97_25",
@@ -5041,7 +5059,8 @@
     "passageId": "97_26-30",
     "accuracyRate": 67,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是常見動詞，中文擺進去好像都能講通，你會憑語感挑一個。【怎麼判斷】鑑別度高達 65，是本批最會分人的一題，分開的是有沒有把同一句前半那台機器讀進來。空格前是 a huge paper-cutting machine was set up（架了一台大型碎紙機），空格後是 their lingering bad memories（揮之不去的壞回憶）。碎紙機能對紙做的事只有一件：把它切碎、銷毀。所以填 destroy——把寫著壞回憶的東西送進碎紙機，等於把回憶銷毀掉。填進去讀成 so people could destroy their lingering bad memories。下一句 Everything from photos of ex-lovers to lousy report cards could be cut into small pieces（從前情人的照片到難看的成績單都能被切成碎片）正是在說明銷毀的方式。【干擾選項】maintain（維持、保存）方向剛好相反，沒有人架一台碎紙機來保存壞回憶；dislike（不喜歡）是心裡的感受，不是碎紙機能做的動作；create（創造）也與碎紙機的功能相反。三個都是動詞原形，形態吻合，容易被順手選走。【常考字詞與句型】destroy（銷毀、摧毀）、set up（架設、設立）、be cut into small pieces（被切成碎片）、lingering（揮之不去的、遲遲不散的）、an ex-lover（前情人）、maintain（維持、保存）。"
   },
   {
     "id": "Z97_29",
@@ -5388,7 +5407,8 @@
     "passageId": "96_26-30",
     "accuracyRate": 48,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是抽象名詞、都能接在 traditional 後面，你會憑印象挑一個；culture 尤其眼熟，因為整篇最後就在講傳統文化。【怎麼判斷】答對率不到五成，鑑別度高達 63，是本批最會分人的題目之一，分開的是有沒有先看空格後面列的那三樣東西。空格後是 based on forestry, animal husbandry and subsistence agriculture（以林業、畜牧業與自給農業為基礎）——三樣都是產業，是一個國家靠什麼生產與謀生的部分，那就是 economy（經濟）。填進去讀成 Its traditional economy is based on forestry, animal husbandry and subsistence agriculture。下一句用 GDP 這個經濟指標講「如今這些只佔國內生產毛額不到一半」，再一次確認。【干擾選項】culture（文化）在整篇最後一段確實出現過（傳統藏傳佛教文化），形態也吻合，容易被順手選走，但文化不會「以林業與畜牧業為基礎」；politics（政治）與 religion（宗教）同理，三種產業撐不起政治或宗教。【常考字詞與句型】be based on（以……為基礎）、forestry（林業）、animal husbandry（畜牧業）、subsistence agriculture（自給農業）、GDP（國內生產毛額）、landlocked（內陸的、不臨海的）。"
   },
   {
     "id": "Z96_28",
@@ -5411,7 +5431,8 @@
     "accuracyRate": 47,
     "discrimination": 38,
     "contextSpan": "跨句",
-    "contextNote": "these 指前一句列出的傳統經濟部門"
+    "contextNote": "these 指前一句列出的傳統經濟部門",
+    "note": "【你可能會這樣想】四個選項都是「動詞加介系詞」的片語，形態一樣，你會憑中文挑一個。【怎麼判斷】答對率四成七。這是指標勾環：先問句首的 these 指的是什麼——前一句列的 forestry, animal husbandry and subsistence agriculture（林業、畜牧業與自給農業）這三個傳統產業。接著看空格後面：less than 50% of the GDP（國內生產毛額的不到一半），是一個比例。主詞是幾個產業、後面接一個比例，要的就是「佔多少比例」這個說法——account for。填進去讀成 these account for less than 50% of the GDP（這些如今只佔國內生產毛額不到一半）。account 這個字有好幾種用法，這裡是「佔比例」，另外還有「說明原因」（That accounts for his absence.）與名詞的「帳戶」。【干擾選項】figure out（想出、弄懂）後面接的是被弄懂的問題；relate to（與……有關）只說得出有關聯，講不出比例；conform to（遵從、符合）後面接的是規則或標準。三個都是片語動詞，形態吻合，容易被順手選走。【常考字詞與句型】now that ＋ 子句（既然、由於）、figure out（想出、弄懂）、conform to（遵從、符合）、relate to（與……有關）、hydroelectricity（水力發電）、less than half（不到一半）。"
   },
   {
     "id": "Z96_29",
