@@ -3311,7 +3311,8 @@
     "fullPassage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this __16__ proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he __17__ in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long __18__ dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to __19__ the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance __20__ , however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
     "accuracyRate": 64,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是助動詞加動詞，很容易一個一個去想這個語氣通不通。這一類時態題有更快的路：先找句子裡的時間標記，時間標記決定時態，不必憑語感。【怎麼判斷】時間標記就寫在句首：Before the vacation（在休假之前）。整段敘事的基準時間是過去——前一句才說 It was his first day coming back to work after a long vacation.（那是他休完長假回來上班的第一天）。「休假之前」比這個過去的基準點更早，所以要用過去完成式，也就是 had piled。國中掛鉤是 By the time I got there, he had left.：兩件事都發生在過去，先發生的那一件往前推一格用過去完成式。同一句後半的 in which he had been growing bacteria 用的也是同一個時間層，兩者互相印證。【干擾選項】might have piled 形態上也帶著 have 與過去分詞，最容易被誤認；但 might have ＋ 過去分詞 是對過去的推測（當時也許堆了），而本文是在敘述一件確實發生過的事，不是在猜測。was piling 是過去進行式，強調當時正在進行的動作，但這裡要的是在那之前就已經完成的事。would pile 是過去的未來或過去的習慣性動作，兩者都對不上這個時間點。鑑別度 40，比同篇其他題略低，原因是這一格的判準很單純：認得先發生的事要往前推一格就選得出來，不太需要回頭讀上下文推理。【常考字詞與句型】過去完成式（表示比過去某個時間點更早發生）、by the time ＋ 過去式子句（等到……的時候）、might have ＋ 過去分詞（當時也許……，對過去的推測）、pile sth in／on（把……堆在……）、a number of（若干、一些）、petri dish（培養皿）"
   },
   {
     "id": "Z109_15",
@@ -3334,7 +3335,8 @@
     "fullPassage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, __11__ the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and __12__ pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in __13__ with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements __14__ to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. __15__ its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
     "accuracyRate": 76,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】With 你的印象大概只有「和……一起」（go with me）與「用……工具」（write with a pen）。它還有一個很常考的用法：擺在句首帶出一個名詞組，表示憑藉、具備——靠著某樣條件，才做得到後面那件事。【怎麼判斷】四個選項都是介系詞，後面接的名詞組是固定的（its regulatory power and administrative resources 它的管理權力與行政資源），可見這一格考的是這兩部分之間的語意關係。主要子句說 the Committee plays a crucial role in protecting consumers（該委員會在保障消費者上扮演關鍵角色）。權力與資源是它能扮演這個角色的憑藉，兩者是「有這些，所以做得到」的關係，四個選項裡只有 With 表達得出這一層。【干擾選項】Despite（儘管）是讓步，代進去變成儘管有管理權力與行政資源，它仍扮演關鍵角色——有資源本來就有助於發揮作用，讓步關係根本不成立，方向整個相反。Beyond（超出、越過）講的是超越某個範圍或界線，與這裡的憑藉關係無關。From（從……）表示起點或來源，但本句不是在講角色從哪裡來，而是在講靠什麼做到。鑑別度 54，分開的是有沒有先把兩個部分的關係想清楚，再回頭挑介系詞。【常考字詞與句型】with ＋ 名詞（憑藉、具備）、despite（儘管，等於 in spite of）、play a crucial role in（在……扮演關鍵角色）、regulatory power（管理權力）、administrative resources（行政資源）、beyond（超出、越過）"
   },
   {
     "id": "Z109_20",
@@ -3485,7 +3487,8 @@
     "passageId": "Z110_11-15",
     "accuracyRate": 79,
     "discrimination": 26,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到四個從屬連接詞排在一起，很容易先緊張，覺得又要分辨什麼細微的語氣差別。這一題其實沒那麼複雜，它問的就是前後兩個子句之間是什麼關係而已。【怎麼判斷】四個選項都是從屬連接詞，形態上刷不掉任何一個，可見這一格考的是子句之間的邏輯關係。把兩半的意思擺出來看：前半是「我們的身體處於脆弱狀態」，後半是「一波壓力會迅速動員身體自身的修復系統來防禦受損的部位」。後半是前半發生時隨之出現的反應，兩者是時間上的順接——什麼時候發生、就跟著發生什麼，這正是 When 的工作。國中就學過的 I will call you when I get there. 走的是同一個結構：when 帶出一個時間點，主要子句講那個時間點發生的事。【干擾選項】Unless（除非）帶的是否定條件，等於 if...not，代進去會變成「除非身體脆弱，否則壓力會動員修復系統」，與整段在講的「短期壓力對身體有益」正好相反。Whereas（然而）要求前後對比，但這兩半是同一件事的先後，不是兩件相反的事。Till（直到）講的是持續到某個時間點為止，代進去讀不通。鑑別度只有 26，是本篇最低的一題，但這不是難題造成的——when 引導時間副詞子句國中就教過，各種程度的人都答得出來，題目自然分不出高低。這一型的低鑑別度要和「連高分群考生也失手」的那種難題分清楚，兩者的成因剛好相反。【常考字詞與句型】when 引導時間副詞子句（當……的時候）、unless（除非，等於 if...not）、whereas（然而，用於對比）、a burst of（一陣、一波）、be in a vulnerable situation（處於脆弱的狀態）、mobilize（動員、調動）"
   },
   {
     "id": "Z110_14",
@@ -3507,7 +3510,8 @@
     "passageId": "Z110_11-15",
     "accuracyRate": 57,
     "discrimination": 32,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是比較級，後面又跟著 than，很容易直接認定這是比較級的文法題，開始檢查形態對不對。但四個形態都對，這一格真正在問的是：哪一個副詞跟 remember 這個動作搭得起來。【怎麼判斷】先把句子的主要結構拉出來：they remembered their way through mazes far ___ than rats that were in a relaxed state.（牠們記得走出迷宮的路，比處於放鬆狀態的老鼠……）空格修飾的是 remembered 這個動作，要回答的是「記得得怎麼樣」。空格前面那個 far 也值得順手認識：它是用來加強比較級的字之一，劍橋 English Grammar Today 的 Comparison: adjectives 條目列出可以強調比較級的有 much、a lot、far、even、rather。四個選項裡，能說明記得的程度、方向又與整段一致的只有 better——整段都在講短期壓力讓記憶更敏銳。【干擾選項】harder 講的是用力、費勁，remember hard 不是英文會有的說法；真要講努力回想，用的是 try hard to remember。less 方向相反，代進去變成記得比較差，與前一句 Small amounts of stress hormones may even sharpen our memory. 直接牴觸。further 是距離或程度上的「更遠、更進一步」，可以說 look further into the matter，但不拿來評價記憶的好壞。鑑別度只有 32，原因是這一格不考推理：答案落在 remember 與哪個副詞搭配，前後文再讀幾遍也推不出來，反而是對比較級規則越熟的人越容易在四個形態之間繞一圈，繞回原點。【常考字詞與句型】remember sth better（記得更清楚）、much／a lot／far／even／rather ＋ 比較級（可以加強比較級的字）、sharpen one's memory（使記憶更敏銳）、find one's way through（找到穿過……的路）、place sb under stress（使某人承受壓力）、be in a relaxed state（處於放鬆的狀態）"
   },
   {
     "id": "Z110_15",
@@ -3529,7 +3533,8 @@
     "passageId": "Z110_11-15",
     "accuracyRate": 44,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】keep 這個字，你的印象大概停在 keep ＋ V-ing（keep talking 一直講、keep running 一直跑），所以看到 balancing 就覺得眼熟，很容易直接選它。但那個 keep 後面是直接接動名詞、中間沒有受詞；本句的 keep 後面卡著一個受詞 our stress level，走的是完全不同的句型。答對率四成四，多半就折在這裡。【怎麼判斷】本句是 keep ＋ 受詞 ＋ 受詞補語，受詞是 our stress level，空格是補語，用來說明這個受詞被保持在什麼狀態。國中學過的 The news made me happy.（那個消息使我開心）就是同一個結構：made 是動詞、me 是受詞、happy 是受詞補語。接下來只要判斷主動還是被動：壓力程度不會自己去平衡別的東西，而是被保持在平衡的狀態，所以用過去分詞 balanced。還原成完整的說法驗算一次：keep our stress level balanced ＝ keep our stress level (which is) balanced。【干擾選項】balancing 是現在分詞，方向是主動的，代進去等於說壓力程度自己在平衡什麼東西，語意不通。balances 是限定動詞，這個句子裡已經有 is 當主要動詞，不可能再放一個有時態的動詞進來。to balance 是不定詞，keep 不走 keep ＋ 受詞 ＋ to V 這條路。鑑別度 55，分開的是有沒有停下來判斷 stress level 與 balance 之間的主動被動關係。【常考字詞與句型】keep ＋ 受詞 ＋ 受詞補語（使……保持在某種狀態）、keep sth balanced（讓……保持平衡）、the key to ＋ 名詞（……的關鍵）、a healthy lifestyle（健康的生活型態）、stress level（壓力程度）、low motivation（動力低落）"
   },
   {
     "id": "Z110_17",
@@ -3551,7 +3556,8 @@
     "passageId": "Z110_16-20",
     "accuracyRate": 58,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是助動詞加上 be，中間還混了兩個 have been，很容易一頭栽進「這是在考語氣還是在考時態」的分析。這一題不必想那麼遠，前一句就把答案定下來了。【怎麼判斷】把前後兩句擺在一起看：Some are very large and may be hundreds of feet wide. Others ___ the size of a small stone.（有些非常大，可能寬達數百英尺。其他的只有小石頭那麼大。）Some... Others... 是一組成對的說法，兩句在講同一件事的兩半，句型與時態理當一致。前一句用的是現在式的 are 與 may be，講的是流星體現在普遍的樣子；後一句照抄同一個形態就對了。這一招在克漏字裡非常好用：遇到並列或對稱的結構，先找出前面那一個是什麼形態，後面照抄。【干擾選項】must have been 與 could have been 都是助動詞加上 have 與過去分詞，講的是對過去的推測（當時一定是……、當時可能是……）。但本文在描述流星體現在的性質，不是在回推某件已經發生的事，時間層整個對不上。would be 用在假設或過去的未來，本句既沒有假設的前提，也沒有一個過去的時間點可以往後看。鑑別度 56，分開的是有沒有回頭讀前一句，還是只盯著空格附近推敲語氣。【常考字詞與句型】Some... Others...（有些……其他的……）、may be（可能是，表推測）、must have ＋ 過去分詞（當時一定……）、could have ＋ 過去分詞（當時可能……）、the size of（……那麼大）、chunks of rock or metal（石塊或金屬碎塊）"
   },
   {
     "id": "Z110_20",
@@ -3574,7 +3580,8 @@
     "accuracyRate": 82,
     "discrimination": 43,
     "contextSpan": "跨句",
-    "contextNote": "For example 為前一句「大隕石會造成巨大破壞」舉例"
+    "contextNote": "For example 為前一句「大隕石會造成巨大破壞」舉例",
+    "note": "【你可能會這樣想】四個轉承語擺在一起，很容易憑讀起來順不順挑一個。這一類題目其實有更快的做法：先問前一句在做什麼、本句在做什麼，兩句之間的關係就決定了答案，不必靠語感。【怎麼判斷】前一句是 Large meteorites can cause great explosions and much destruction on the surface of the Earth.（大型隕石可能在地表造成劇烈爆炸與嚴重破壞），這是一句通則。本句搬出亞利桑那州的巴林傑隕石坑，還附上直徑一千二百公尺、深約一百七十公尺這些具體數字。從通則走到一個具體的個案，這正是 For example 的工作。判斷這一類題目，一律先確認本句是把前一句換句話說、往前推進了一步，還是舉了一個例子。【干擾選項】Indeed（的確、確實）是把前一句的說法再加重一層，但本句並沒有加重，它是換到一個具體案例上。Nevertheless（然而）要求前後轉折，可是這兩句同向，隕石坑正是破壞力的證據，不是反例。In short（總之）用來收攏前面講過的一串內容做總結，但本句反而比前一句更細、更具體，方向剛好相反。鑑別度 43，分開的是有沒有動手確認兩句之間的關係，還是停在哪一個讀起來比較順。【常考字詞與句型】for example（舉例來說）、indeed（的確，加強前面的說法）、nevertheless（然而，表轉折）、in short（總之，做總結）、measuring ＋ 尺寸（量起來有……，分詞片語放在名詞後面）、be produced by（由……造成）"
   },
   {
     "id": "Z107參_12",
@@ -6168,7 +6175,8 @@
     "passageId": "109_11-15",
     "accuracyRate": 60,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】serve 你的印象大概是餐廳裡的上菜或服務，很難聯想到它可以用來講一個機關擔任什麼角色。serve as 是很常見的正式用法，意思是擔任、充當，後面接的是一個身分或功能。【怎麼判斷】先看空格後面接的是什麼：the supervisor and coordinator（監督者與協調者），這是一個身分。所以這一格要的是能接身分的動詞片語，serve as ＋ 身分正好對上。這裡的 as 就是「以……的身分」那個 as，與 As a small child, he lived in India. 走的是同一條路：as 後面接名詞時是介系詞，表示身分或資格。【干擾選項】corresponds to 最誘人，因為它後面同樣接名詞，形態上完全通；但 correspond to 是「相當於、對應於」，講的是兩樣東西彼此對得上，代進去會變成消保會相當於監督者與協調者，把一個機關的職務寫成了某種對應關係，語意不對。fights for（為……而奮鬥）後面接的是目標或理想，不是職稱。persists in（堅持、固執於）後面接的是某件事，也不能接身分。鑑別度 54，分開的是有沒有先確認空格後面那一串是身分，而不是別的東西。【常考字詞與句型】serve as（擔任、充當）、correspond to（相當於、對應於）、fight for（為……而奮鬥）、persist in（堅持、固執於）、put sth into practice（把……付諸實行）、rights and interests（權益）"
   },
   {
     "id": "Z109_12",
@@ -6190,7 +6198,8 @@
     "passageId": "109_11-15",
     "accuracyRate": 64,
     "discrimination": 68,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】reasonable 你的印象大概是形容人的「講理的、通情達理的」，像 a reasonable person。它用在價格上時意思是價格公道、不會太貴，a reasonable price 是很高頻的說法。同一個字，形容人與形容價錢是兩種都常考的用法。【怎麼判斷】四個選項都是形容詞，文法上都修飾得了 pricing，可見這一格考的是語意。線索在 and 的前面：the Committee advocates fair trade and ___ pricing（該委員會倡導公平交易與……的定價）。and 把兩個受詞並列，兩邊的語意方向要一致。fair trade 講的是交易要公平，那麼定價自然也要走同一個方向，也就是公道、合理。並列結構不只形態要對等，語意類別也要同一類，這一題考的正是後者。【干擾選項】prominent（顯著的、傑出的）用來講地位或能見度，不會拿來形容定價。essential（必要的、不可或缺的）代進去變成必要的定價，價格本身沒有必不必要的問題。intensive（密集的、強化的）用在課程、訓練或農業上，像 an intensive course，與價格無關。鑑別度高達 68，是本批最高的一題，分開的是有沒有把 fair 當成線索——讀到 fair trade 就知道空格要同向，一步定案；沒讀到的人只能在四個形容詞裡憑印象挑。【常考字詞與句型】a reasonable price（合理的價格）、fair trade（公平交易）、advocate（倡導、主張）、prominent（顯著的、傑出的）、an intensive course（密集課程）、goods and services（商品與服務）"
   },
   {
     "id": "Z109_13",
@@ -6212,7 +6221,8 @@
     "passageId": "109_11-15",
     "accuracyRate": 48,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】dispute 你大概只記得動詞的「爭論、提出異議」，沒認出它當名詞時是「糾紛、爭議」，而且是消費新聞裡的高頻字——消費糾紛就是 consumer disputes。答對率四成八，多半是這個名詞用法太陌生。【怎麼判斷】四個選項都是名詞複數，文法上都填得進 involved in ___ with businesses，可見這一格考的是語意。有兩個線索要一起看：一是同句前半的 assisting consumers（協助消費者）——既然需要協助，表示有麻煩要處理；二是 with businesses or manufacturers（與企業或製造商之間的），表示這件事發生在雙方之間。既要有麻煩、又要是雙方之間的，只有糾紛說得通。be involved in a dispute with sb 是很常見的組合。【干擾選項】purchases（購買）最誘人，因為消費者本來就在購買，involved in purchases 文法上也通；但「協助消費者處理與企業之間的購買」語意空洞，接不上 assisting 所暗示的有問題要解決。references（參考資料、推薦函）與 shortages（短缺）都不是消費者與企業之間的關係，套進 with businesses 這個結構就讀不通。鑑別度 60，分開的是有沒有把 assisting 這個字讀進來——它是整句最關鍵的提示，卻很容易被當成無關緊要的背景。【常考字詞與句型】a dispute with sb（與某人的糾紛）、be involved in（涉入、牽涉其中）、settle a dispute（解決糾紛）、raise consumer awareness（提高消費意識）、manufacturer（製造商）、well-being（福祉）"
   },
   {
     "id": "Z109_16",
@@ -6258,7 +6268,9 @@
     "passageId": "109_16-20",
     "accuracyRate": 43,
     "discrimination": 37,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "段落開頭 Fleming had long been known for having an untidy laboratory 先立好「實驗室一向凌亂」，後面才接他把培養皿堆在水槽裡",
+    "note": "【你可能會這樣想】unattended 因為陌生，眼睛很容易直接跳過去。它其實是拆得開的：un-（否定）＋ attend（照料、看顧）＋ -ed，合起來就是沒人照料的、無人看管的。attend 你的印象大概只有「參加」（attend a meeting），但它還有一個常用意思是照料、看護，attend to a patient 就是照顧病人。答對率四成三，多半是卡在 attend 的這個意思沒被叫出來。【怎麼判斷】四個選項都是過去分詞當形容詞用，修飾後面的 dishes，可見這一格考的是語意。線索有兩層。第一層在同一句裡：空格前面就是 long（長時間），long ___ 要能講出長時間處於什麼狀態。第二層在前一句：他休假前把培養皿隨手堆在水槽裡，然後放了一個長假才回來——那些培養皿當然是長時間沒人管。兩層線索指向同一件事。機場廣播裡常聽到的 Do not leave your baggage unattended.（請勿讓行李無人看管）走的就是這個字。【干擾選項】disabled（失能的）、excluded（被排除的）、misunderstood（被誤解的）三個都能擺在名詞前面當修飾語，形態上刷不掉，但套在培養皿上都不成立——培養皿不會失能、沒有被排除在什麼之外，也談不上被誤解。鑑別度 37，比同篇其他題低，原因是這一格不考推理：線索完全落在認不認得 unattended 這個字，回頭把上下文讀幾遍也推不出另外三個為什麼不對，大量閱讀的人在這裡佔便宜。【常考字詞與句型】leave sth unattended（讓……無人看管）、attend to sb／sth（照料、處理）、sort through（逐一翻找、整理）、be contaminated with（受……污染）、ruin an experiment（毀掉一項實驗）、fungus（黴菌）"
   },
   {
     "id": "Z109_19",
@@ -6280,7 +6292,8 @@
     "passageId": "109_16-20",
     "accuracyRate": 61,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】toss 你的印象大概是擲硬幣、拋球那個「拋、扔」的動作，像 toss a coin，沒把它跟丟垃圾連在一起。toss out 就是把不要的東西扔掉，和國中學過的 throw away 是同一個意思，只是換了一組字。【怎麼判斷】四個選項都是動詞片語，先從語意線索下手。前一句說他發現有些培養皿長了黴菌，which had ruined his experiment（那毀掉了他的實驗）——實驗既然毀了，接下來的自然動作就是把這些培養皿處理掉。空格後面直接跟著受詞 the dishes，所以這一格要的是能帶受詞、而且意思是丟棄的片語。整句用 be about to V（正要……）帶出來，接著用 but 轉折：正要丟掉，卻注意到異常——這個差一點就錯過的轉折，正是整篇在講機緣巧合的核心。【干擾選項】get off（下車、脫身）與 catch up（趕上、跟上）語意都與丟棄無關，擺在 the dishes 前面也接不順。carry on（繼續進行）形態上帶得了受詞，但意思是把某件事繼續下去，代進去變成他正要繼續那些培養皿，語意不通，而且與後面的 but 轉折接不上——如果他打算繼續做，發現黴菌就不算意外的插曲了。鑑別度 57，分開的是有沒有把前一句的 ruined his experiment 讀進來。【順便把這個 since 記起來】下一句藏著一個高頻考點：a drug that has since saved millions of lives。你學過的 since 後面一定要接東西——接時間點（since 2010）或接子句（since I was a child）；這裡的 since 後面什麼都沒接，夾在助動詞與過去分詞之間，這時它是單獨當副詞用，意思等於 since then（自那時起）。判準就這一句：since 後面不接名詞也不接子句，它就是 since then。同型的句子題庫裡還有兩處——指考 101 年那篇的 security measures have since been tightened（自那時起安全措施已加強）、學測文意選填 113 年那篇的 Phones ... have since been built around the world（自那時起世界各地陸續建起）。學測文意選填 93 年第 36 題考的正是這個字（have since perished），答對率只有一成五，是歷年最低的幾題之一。【常考字詞與句型】toss out（扔掉、丟棄）、throw away（丟掉）、be about to V（正要……）、carry on（繼續進行）、catch up with（趕上）、give rise to（引發、導致）"
   },
   {
     "id": "Z109R_11",
@@ -6402,7 +6415,8 @@
     "passageId": "Z110_11-15",
     "accuracyRate": 57,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】chronic 這個字，你的印象大概只有醫學上的「慢性病」（chronic disease），一看到它就覺得跟壓力沾不上邊，於是往其他三個看起來比較日常的選項找。但 chronic 的核心意思是「長期持續、拖很久的」，慢性病只是它最常出現的場合，不是它的全部。【怎麼判斷】四個選項都是形容詞，文法上都修飾得了 stress，可見這一格考的是語意，只能往句子裡找線索。線索就在同一句：While ___ stress can be dangerous to the body, short-term stress is actually healthy. 這裡的 while 是「雖然、然而」，前後兩半要形成對比；後半明明白白寫著 short-term stress，所以空格要的是它的反面，也就是長期的壓力。四個選項裡只有 chronic 站在 short-term 的對立面。【干擾選項】contagious（會傳染的）用在疾病上，壓力不會傳染給別人。diagnostic（診斷用的）講的是用來診斷的工具或方法，不是在說壓力的性質。tedious（冗長乏味的）雖然也帶一點「拖很久」的味道，但重點在無聊，而且全文最後一句才說壓力太少會導致 boredom，方向剛好相反。鑑別度高達 60，分開的正是有沒有把 while 與 short-term 這一組對比讀出來——只看空格附近挑一個跟壓力有關的字，四個都像；讀到對比，答案只剩一個。【常考字詞與句型】chronic（長期的、慢性的）、chronic disease（慢性病）、short-term（短期的）／long-term（長期的）、contagious（會傳染的）、be dangerous to sb（對某人有危險）、while 引導對比子句（雖然、然而）"
   },
   {
     "id": "Z110_13",
@@ -6424,7 +6438,8 @@
     "passageId": "Z110_11-15",
     "accuracyRate": 54,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】shield 這個字，你的印象大概只有名詞的「盾牌」，遊戲裡拿來擋攻擊的那一面。它當動詞用的時候意思很直接——像盾牌一樣擋在前面，也就是保護、遮擋，而且幾乎固定與 from 一起出現。【怎麼判斷】判斷的關鍵不在空格本身，在空格後面那個 from。這一格要的是能走「動詞 ＋ 受詞 ＋ from ＋ 所要擋掉的東西」這條路的動詞，而且語意上要說得通：This ___ us from physical discomfort and sickness.（這使我們免於身體不適與生病）。國中學過的 protect ... from 就是同一個結構，shield 是它比較有畫面的說法。遇到動詞題，先看一眼空格後面的介系詞，常常一步就把範圍縮到剩一兩個。【干擾選項】conceal 雖然也能接 from，但 conceal sth from sb 是「對某人隱瞞某事」，代進去會變成這件事對我們隱瞞了不適與生病，語意不通。derive 確實常與 from 連用，但 derive from 是「源自」，主詞要是被衍生出來的那個東西，而本句主詞 This 指的是前一句的修復機制，它並不是從不適與生病衍生出來的。transform 配的是 into（transform A into B），不配 from。鑑別度高達 65，分開的是有沒有把 from 當成線索去反推動詞，還是只把四個動詞的中文意思擺進去憑感覺挑。【常考字詞與句型】shield sb from sth（保護某人免於……）、protect sb from sth（保護某人免於……）、conceal sth from sb（對某人隱瞞某事）、derive from（源自）、transform A into B（把 A 轉變成 B）、physical discomfort（身體上的不適）"
   },
   {
     "id": "Z110_16",
@@ -6447,7 +6462,8 @@
     "accuracyRate": 61,
     "discrimination": 48,
     "contextSpan": "跨句",
-    "contextNote": "下一段「有的非常大、可達數百英尺寬，有的只有小石頭大」顯示大小在同一類裡差異極大，可刷掉 size"
+    "contextNote": "下一段「有的非常大、可達數百英尺寬，有的只有小石頭大」顯示大小在同一類裡差異極大，可刷掉 size",
+    "note": "【你可能會這樣想】往下讀一段，馬上就看到 very large、hundreds of feet wide、the size of a small stone，滿眼都是在講大小，size 看起來簡直是為這一格準備的。但那幾句其實是反證：它們說的是同一類東西裡面，大小可以差到好幾百倍。既然同一類內部就差這麼多，大小當然不可能是用來區分三個名詞的依據。【怎麼判斷】四個選項都是名詞，文法上都放得進去，可見這一格考的是語意，只能往上下文找。這一句是全篇的主旨句：However, the difference is all about their ___.（然而，差別全在於它們的……）後面三段就是答案——第一段說 Meteoroids are far up in the sky（流星體在高空之中），第二段說進入大氣層燃燒時叫 meteor，第三段說撐過大氣層落到地面的叫 meteorite。同一個東西，只因為所在的位置不同就換了名字。四個選項裡只有 location 撐得起這個結構。【干擾選項】size 是命題端刻意設下的誘答，取材自空格後面出現過的字詞。眼熟不等於正確——看到一個剛剛好像看過的選項，那正是要停下來驗算的訊號，不是選它的理由。weight（重量）全篇從頭到尾沒有拿來比較過。temperature（溫度）只在 heat up and burn 那裡沾到一點邊，但那是流星體進入大氣層之後才發生的事，不是三個名詞的區別所在。【常考字詞與句型】be all about sth（重點全在於……）、the difference between A and B（A 與 B 的差別）、find sth confusing（覺得……令人困惑）、far up in the sky（在高空之中）、speed through space（高速穿越太空）、hundreds of feet wide（數百英尺寬）"
   },
   {
     "id": "Z110_18",
@@ -6469,7 +6485,8 @@
     "passageId": "Z110_16-20",
     "accuracyRate": 75,
     "discrimination": 52,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】heat up 你大概只想到廚房裡的加熱——把飯菜熱一熱，後面一定跟著一個受詞。本句的 heat up 沒有受詞，是不及物的用法，意思是自己升溫、變熱。同一個片語，及物與不及物兩種用法都很常見，這一題考的正是後者。【怎麼判斷】四個選項都是動詞片語，文法上都接得上 cause it to ___，可見這一格考的是語意。線索是空格後面那個 and burn：空格與 burn 由 and 並列，兩者要是同一個過程裡先後發生的事。整句在講流星體高速穿過大氣層時與空氣摩擦——摩擦生熱，熱到極點就燒起來，先升溫再燃燒，順序完全吻合。【干擾選項】wear out（磨損、耗盡）雖然摩擦聽起來像會磨損，但它接不上 and burn，磨損不會導致燃燒。turn off（關掉）用在電器與開關上，流星體沒有開關可以關。break through（突破、穿透）表面上很誘人，因為流星體確實是穿過大氣層——但這一格與 burn 並列，要的是摩擦造成的結果，而穿透是它本來就在做的事，不是摩擦造成的。鑑別度 52，分開的是有沒有用 and 後面那個 burn 去回推空格。【常考字詞與句型】heat up（升溫、變熱；及物時是把……加熱）、cause sth to V（導致某物……）、friction with（與……的摩擦）、wear out（磨損、耗盡）、break through（突破、穿透）、travel at high speed（高速前進）"
   },
   {
     "id": "Z110_19",
@@ -6491,7 +6508,8 @@
     "passageId": "Z110_16-20",
     "accuracyRate": 57,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】survive 你的印象大概是在災難中活下來，而且會下意識覺得它後面要接介系詞，寫成 survive from 之類。實際上 survive 是及物動詞，後面直接接那個難關本身：survive the war（撐過戰爭）、survive the crash（在墜機中生還）。本句的 survives its fiery journey 就是這個用法——挺過那趟熾熱的旅程。【怎麼判斷】四個選項都是及物動詞，文法上都接得了 its fiery journey，可見這一格考的是語意，線索要往前一句找。前一句寫著 Most meteors vaporize completely before they hit the ground.（大多數流星在撞擊地面之前就完全氣化了）——本句用 If any meteor ___ ... and lands on Earth 接下去，講的正是那少數的例外。既然多數都在半路氣化，能落到地面的就是撐過來的那些。空格與後面的 lands on Earth 由 and 並列，兩個一起構成成為隕石的條件。【干擾選項】approaches（接近）代進去變成接近它的熾熱旅程，旅程不是一個可以接近的地點，語意不通。confirms（證實）與 targets（以……為目標）都把流星寫成了有意識、會判斷的東西，與整篇科學說明的語氣完全不合。鑑別度 56，分開的是有沒有把前一句的 vaporize completely 讀進來當對照——只看本句，四個動詞都塞得進去；讀到對比，答案只剩一個。【常考字詞與句型】survive sth（撐過、在……中生還，及物，後面不加介系詞）、vaporize（氣化、蒸發）、hit the ground（落地、撞擊地面）、land on（降落在……上）、a streak of light（一道光跡）、fiery（熾熱的、火一般的）"
   },
   {
     "id": "Z98參_11",
