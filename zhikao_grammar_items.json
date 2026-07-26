@@ -355,7 +355,8 @@
     "passageId": "93_16-20",
     "accuracyRate": 72,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】turn 後面能接的介系詞很多——turn on、turn off、turn down、turn to——你會憑印象挑一個最眼熟的。【怎麼判斷】先確認空格前後各是什麼：前面是 turning newspapers（把報紙變成……），後面是 charcoal（木炭）。這是一個「A 變成 B」的結構，起點是報紙、終點是木炭，而標出終點的介系詞是 into。turn A into B 是成組的說法。填進去讀成 turning newspapers into charcoal（把報紙變成木炭）。同一組的說法可以一起記：change A into B、transform A into B、translate A into B，介系詞一律用 into——指考 99 年第 13 題考的 transform sunlight into electric power（把陽光轉換成電力）就是同一個結構。【干擾選項】turn off（關掉）後面接的是電器或開關；turn for 不是成立的組合；turn upon 雖然存在（turn upon somebody 突然翻臉攻擊某人），主詞要是人或動物，而且與「變成什麼」完全無關。【常考字詞與句型】turn A into B（把 A 變成 B）、change A into B（把 A 改變成 B）、turn to somebody for help（向某人求助）、turn off（關掉）、stack up（堆積起來）、a substitute for（……的替代品）。"
   },
   {
     "id": "Z93_17",
@@ -377,7 +378,8 @@
     "passageId": "93_16-20",
     "accuracyRate": 60,
     "discrimination": 29,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個字 tear 的四種形態，你會直覺開始分主動被動、找意義主詞。【怎麼判斷】這一格靠並列結構就定得下來。and 連的是空格前的 soaking sheets of newspaper in water 與空格這一串，兩邊都掛在句首那個 by 底下——by ＋ 動名詞（藉由做某事）。既然 and 前面是 soaking（動名詞），後面就必須是同樣形態的 tearing，兩邊才對得齊。填進去讀成 by soaking sheets of newspaper in water for two hours and then tearing them into small pieces（先把報紙泡水兩小時，然後撕成小片）。並列結構最省力的地方就在這裡：只要認出 and 連的是哪兩樣，形態直接照前面那一個抄。鑑別度只有 29，但它本身不難：介系詞後面接動名詞、and 前後形態要一致，這兩點都是課本教過的，各種程度的人都答得出來，題目自然分不出高低。【干擾選項】tear 是原形、tore 是過去式，兩個都不能接在介系詞 by 後面；torn 是過去分詞、表被動，但撕報紙的是人、報紙是被撕的那一方，這裡要的動作方向是主動。【常考字詞與句型】by ＋ V-ing（藉由做某事）、and 前後形態一致（並列結構的基本要求）、tear A into pieces（把 A 撕成碎片）、soak A in water（把 A 泡在水裡）、be compressed into（被壓縮成）、tear down（拆除）。"
   },
   {
     "id": "Z93_24",
@@ -489,7 +491,8 @@
     "accuracyRate": 53,
     "discrimination": 48,
     "contextSpan": "跨句",
-    "contextNote": "Another 指前一句已提過的第一項建議"
+    "contextNote": "Another 指前一句已提過的第一項建議",
+    "note": "【你可能會這樣想】四個選項都是指示或限定的字，中文都能說成「這個、那個、另一個」，你會憑語感挑一個。【怎麼判斷】這是指標勾環，線索一定要跨句才看得到。前面已經給過一項建議：把舊報紙做成木炭。空格這一句 ______ suggestion made by the experts is to dip newspaper sheets in vinegar and water（專家提出的______建議是把報紙浸在醋水裡）講的是第二項，與前面那一項並列。要說「除了前面那個之外，另一個」，用 Another。填進去讀成 Another suggestion made by the experts is to dip newspaper sheets in vinegar and water。還有一個形態上的印證：Another 本身就是 an 加 other，所以後面一定接單數可數名詞，而 suggestion 正是單數。【干擾選項】This 與 That 是回頭指前面已經提過的那一個，但這一句要講的是新的一項，不是同一項；Other 後面要接複數名詞（other suggestions）或不可數名詞，接不上單數的 suggestion，形態上就先出局——這一招比慢慢想語意快。【常考字詞與句型】another ＋ 單數可數名詞（另一個）、other ＋ 複數名詞（其他的）、the other（兩者中的另一個）、others（其他人、其他東西）、an option other than（除……以外的選擇）、dip A in B（把 A 浸在 B 裡）。"
   },
   {
     "id": "Z93_20",
@@ -512,7 +515,8 @@
     "accuracyRate": 73,
     "discrimination": 49,
     "contextSpan": "跨句",
-    "contextNote": "also 累加前面已提到的用途"
+    "contextNote": "also 累加前面已提到的用途",
+    "note": "【你可能會這樣想】四個選項都是副詞，都能擺在 can 與 be 之間，你會憑中文挑一個。【怎麼判斷】這是邏輯勾環，線索一定要跨句才看得到。前面已經列了兩項舊報紙的用途：做成木炭、拿來擦窗戶與鏡子。空格這一句 Old papers can ______ be used to line rubbish bins and as packing material（舊報紙______可以拿來墊垃圾桶、當包裝材料）講的是第三項用途，是在同一份清單上再加一項。表示累加，用 also。填進去讀成 Old papers can also be used to line rubbish bins。順帶留意它的位置：also 是副詞，習慣擺在助動詞 can 之後、主要動詞之前，這是課本教過的固定位置。【干擾選項】soon（很快）講的是時間，這一句沒有時間先後的問題；thus（因此）要求後面是前面造成的結果，但第三項用途不是前兩項造成的；rather（相當地；寧可）擺在這裡兩個意思都接不上。【常考字詞與句型】also（也，擺在助動詞之後、主要動詞之前）、as well（也，擺在句尾）、too（也，擺在句尾）、be used to V（被用來做某事）、line a rubbish bin（在垃圾桶內側鋪一層）、packing material（包裝材料）。"
   },
   {
     "id": "Z93_22",
@@ -860,7 +864,8 @@
     "passageId": "94_16-20",
     "accuracyRate": 47,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能接在 readily 後面，你會憑中文挑一個。【怎麼判斷】答對率不到五成，鑑別度高達 58。先看空格前後：Berners-Lee fashioned a universal one that made information readily ______（他打造出一套通用的系統，讓資訊變得______）。前一句說他是被「各種資訊系統要存取都得繞一大圈」這件事困住才動手做的——他要解決的正是「拿不到、不好拿」這個問題，所以他做出來的系統要讓資訊變得容易取得，那就是 available（可取得的、可使用的）。填進去讀成 made information readily available。【干擾選項】consistent（一致的）講的是前後不矛盾；important（重要的）是在評價價值，但資訊的重要性不是這套系統造成的；unforgettable（難忘的）與取得的難易完全無關。三個都是形容詞，形態吻合，容易被順手選走。【常考字詞與句型】be available to somebody（可供某人使用）、availability（可取得性）、accessible（容易接近或取得的）、complicated access（存取起來很麻煩）、fashion（動詞：打造、製作）、a multitude of（大量的、許多的）。"
   },
   {
     "id": "Z94_21",
@@ -882,7 +887,8 @@
     "passageId": "94_21-25",
     "accuracyRate": 57,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是關係詞或疑問詞，你會憑語感挑一個，而 that 與 which 都很眼熟，很容易先被選走。【怎麼判斷】鑑別度高達 61。先看並列：not only for their individual beauty, but also for ______ they represent——not only ... but also ... 連的是兩個 for 後面的東西。前面那個 for 接的是名詞組 their individual beauty，所以後面這個 for 接的也必須是一個名詞性質的東西。空格後面是 they represent，一個缺受詞的子句，所以要的是一個自己帶著先行詞、整包當名詞用的關係詞——what（等於 the thing that）。填進去讀成 but also for what they represent（也因為它們所代表的東西）。【干擾選項】which 與 that 在限定關係子句裡可以互換，但兩個都必須有先行詞，而這一句的 for 後面直接就是空格，沒有先行詞可以接；when 是關係副詞，後面要接完整的子句，而且 for when 不成立。【常考字詞與句型】what 等於 the thing that（……的東西，自己帶著先行詞）、not only A but also B（不只 A 而且 B）、a road map to（通往……的路線圖）、breathtaking（令人屏息的）、inscription（銘文、碑文）、represent（代表）。"
   },
   {
     "id": "Z94_22",
@@ -904,7 +910,8 @@
     "passageId": "94_21-25",
     "accuracyRate": 65,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是常見介系詞，形態上都放得進去，你會憑中文的「對……開放」去猜一個。【怎麼判斷】這一格考的是字詞搭配，沒有推理可做，只能看認不認得：be open to somebody 是「對某人開放」，後面接的是被允許進來的人。填進去讀成 it is not open to visitors（它並不對外開放參觀）。這一型與同一篇第 21 題那種靠結構推的題目不一樣——形容詞配哪一個介系詞是成組記的，中文的一個「對」，在英文裡可能是 to、with、at 或 about，一組一組記下來才可靠。指考 96 年第 11 題考的 be satisfied with 是同一型。【干擾選項】with、by、among 三個都是高頻介系詞，形態上放得進去，容易被順手選走；但 open 固定配 to。open with 是「以……開場」（The concert opened with a song.）；open by 沒有這個搭配；among（在……之中）講的是位置。【常考字詞與句型】be open to（對……開放）、be closed to（不對……開放）、be similar to（與……相似）、be exposed to（暴露於）、open with（以……開場）、guarded warehouses（有人看守的倉庫）。"
   },
   {
     "id": "Z94_23",
@@ -926,7 +933,8 @@
     "passageId": "94_21-25",
     "accuracyRate": 53,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】which 與 where 中文都能說成「那裡」，你會憑語感挑一個。【怎麼判斷】鑑別度高達 61。先看空格後面那個子句完不完整：only a few people can see it——主詞 only a few people、動詞 can see、受詞 it，樣樣都在，是一個完整的子句。既然子句不缺任何成分，空格填的就不能是關係代名詞（which 要在子句裡當主詞或受詞，這裡沒有位置給它），而要填關係副詞。先行詞是 unknown, guarded warehouses（不為人知、有人看守的倉庫），是地點，所以用 where。填進去讀成 It is held in unknown, guarded warehouses where only a few people can see it。這一招值得固定下來：看到關係詞的題目，先看空格後面那個子句缺不缺成分——缺主詞或缺受詞就用關係代名詞，主詞與受詞都齊全就用關係副詞。（所有格的 whose 是例外，它後面的子句本來就完整。）【干擾選項】which 是關係代名詞，要在子句裡佔一個位置，但那個子句已經滿了；until（直到）與 unless（除非）是連接詞，填進去語意也不通——「直到只有少數人看得到」「除非只有少數人看得到」都不成句意。【常考字詞與句型】where ＋ 完整子句（關係副詞，先行詞是地點）、which ＋ 缺成分的子句（關係代名詞）、in which 等於 where（在其中）、the reason why（……的原因）、be held in（被存放在）、a few（少數幾個）。"
   },
   {
     "id": "Z94_28",
@@ -948,7 +956,8 @@
     "passageId": "94_26-30",
     "accuracyRate": 67,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個字 study 的四種形態，你會直覺開始找主詞、判主動被動。【怎麼判斷】先看逗號前面：He began his career as a zoologist 已經是一個完整的句子，主詞 He、動詞 began 都在。逗號後面不能再放一個限定動詞，所以 study 與 studied 先出局。剩下 studying 與 being studied，再判方向：研究軟體動物的是皮亞傑本人，他是主動去研究，不是被研究，所以用現在分詞 studying。填進去讀成 He began his career as a zoologist, studying mollusks and their adaptations to their environment（他以動物學家的身分展開生涯，研究軟體動物以及牠們對環境的適應）。這就是分詞構句：分詞的意義主詞與主要子句的主詞是同一個人，用來補充說明他同時在做什麼。【干擾選項】study 與 studied 都是限定動詞，前面沒有連接詞就不能接在一個完整句子後面；being studied 是被動，方向剛好相反——軟體動物才是被研究的那一方。【常考字詞與句型】分詞構句（分詞的意義主詞與主要子句的主詞相同）、現在分詞表主動、過去分詞表被動、begin one's career as（以……的身分展開職業生涯）、adaptation to（對……的適應）、mollusk（軟體動物）。"
   },
   {
     "id": "Z94_29",
@@ -993,7 +1002,8 @@
     "passageId": "94_11-15",
     "accuracyRate": 66,
     "discrimination": 49,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 副詞，形態一樣，你會憑中文哪個順挑一個。【怎麼判斷】空格夾在 and 與 stopped 之間，修飾的是 stopped 這個動作。先看整句在講什麼：The cab went up on the footpath and ______ stopped centimeters away from a shop window（計程車衝上人行道，______停在離店面櫥窗幾公分的地方）。從「衝上人行道」到「停下來」是一段驚險的過程，車子是滑了一段之後才終於停住的，所以要的是講「最後、終於」的 finally。填進去讀成 and finally stopped centimeters away from a shop window。【干擾選項】hardly（幾乎不）是否定副詞，會讀成「幾乎沒有停下來」，與後面「停在離櫥窗幾公分處」矛盾；likely（可能）不單獨修飾動詞，要寫成 be likely to V；mainly（主要地）是在區分主要與次要，這一句只有一個停車的動作，沒有主次可分。【常考字詞與句型】finally（最後、終於）、at last（終於）、hardly（幾乎不，否定副詞）、be likely to V（可能會）、centimeters away from（離……幾公分）、go up on（衝上）。"
   },
   {
     "id": "Z94_18",
@@ -1015,7 +1025,8 @@
     "passageId": "94_16-20",
     "accuracyRate": 61,
     "discrimination": 23,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是時間片語，你會憑語感挑一個。【怎麼判斷】空格前是 may also dramatically affect our lives ______（可能還會大幅影響我們的生活）。關鍵在助動詞 may 與副詞 also：may 講的是還沒發生、只是有可能；而同一句前半用的是 have had a direct impact on our everyday lives（現在完成式，已經造成的影響）。前半講已經發生的，後半用 may 講還會怎樣，時間軸自然往後走，所以填 in the future（在未來）。填進去讀成 may also dramatically affect our lives in the future。鑑別度只有 23，是本批最低的一題，但它本身不難：may 指向未來這一點各種程度的人都判得出來，題目自然分不出高低。【干擾選項】for a moment（一會兒）講的是短暫的時間長度；at that time（在那個時候）要指一個已經提過的過去時間點，但 may 講的不是過去；from then on（從那時起）同樣要有一個過去的起點，這一句沒有。【常考字詞與句型】in the future（在未來）、in the near future（在不久的將來）、for a moment（一會兒）、from then on（從那時起）、have an impact on（對……造成影響）、take something for granted（把某事視為理所當然）。"
   },
   {
     "id": "Z94_25",
@@ -4436,7 +4447,8 @@
     "passageId": "94_11-15",
     "accuracyRate": 46,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -tion 結尾的抽象名詞，長得像一家人，你會掃過去挑一個最眼熟的。【怎麼判斷】答對率不到五成，鑑別度高達 57。空格前是 After informing the driver of his ______（在告訴司機他的______之後）。先問一件事：上了計程車，第一件要告訴司機的是什麼？當然是要去哪裡。destination 就是「目的地」。填進去讀成 After informing the driver of his destination（告訴司機目的地之後）。後文也能驗算：Alexander 後來發現 the driver had detoured from the familiar route（司機偏離了熟悉的路線）——他會知道偏離，正是因為一開始就講明了目的地。【干擾選項】motivation（動機）、expectation（期望）、solution（解決辦法）三個都是 -tion 名詞，形態吻合，容易被順手選走，但沒有一個是上車時會告訴司機的事。【常考字詞與句型】destination（目的地）、inform somebody of something（告知某人某事）、hail a taxi（招計程車）、detour from（偏離、繞道）、resort to（訴諸、只好轉而做）、motivation（動機）。"
   },
   {
     "id": "Z94_12",
@@ -4458,7 +4470,8 @@
     "passageId": "94_11-15",
     "accuracyRate": 46,
     "discrimination": 28,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】look up 這個片語，你的印象大概只有「查」（look up a word 查一個字），不太會想到它最字面的意思就是「把頭抬起來往上看」。【怎麼判斷】答對率四成六，鑑別度只有 28。這一格連高分群考生也常失手，原因就在 look up 的字面義平常很少被單獨拿出來教——越熟悉「查字典」那個用法的人，越會覺得四個選項沒有一個對。回到場景：Alexander 正低頭讀「達文西密碼」讀到第 120 頁，然後 Suddenly, Alexander ______ and noticed that the driver had detoured（突然，Alexander ______，發現司機偏離了路線）。要「發現」路線不對，就得先把埋在書裡的頭抬起來——looked up 就是這個動作。填進去讀成 Suddenly, Alexander looked up and noticed that the driver had detoured。這裡沒有受詞也是一個線索：look up 當「查閱」時後面一定要接查的東西（look it up、look up the word），而這一句空格後面直接就是 and，所以用的是不及物的「抬頭」。【干擾選項】took off（起飛；脫掉）、turned in（繳交；就寢）、got on（上車；相處）三個都是動詞加介副詞的片語，形態吻合，容易被順手選走，但沒有一個接得上「抬頭發現路線不對」這個動作。【常考字詞與句型】look up（抬頭看；查閱）、look up to somebody（敬佩某人）、look down on（看不起）、take off（起飛；脫掉）、turn in（繳交；就寢）、get on with somebody（與某人相處融洽）。"
   },
   {
     "id": "Z94_14",
@@ -4480,7 +4493,8 @@
     "passageId": "94_11-15",
     "accuracyRate": 50,
     "discrimination": 31,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】realize 這個字，你的印象裡可能一半是「實現」（realize a dream 實現夢想），一半是「了解」，不太會直接想到它在道歉的場合就是「我沒想到」。【怎麼判斷】答對率五成，鑑別度只有 31。這一格連高分群考生也常失手，原因在於四個選項後面都接得上 that 子句，形態這條路整個斷掉，只能靠語意，而 realize 在這個場合的中文正好不是最直覺的那一個。先看場景：Alexander 拍了司機肩膀一下，把司機嚇得失控，他道歉之後說 I didn't ______ that a little tap would scare you so much（我不______輕輕拍一下會把你嚇成這樣）。道歉時要說的是「我沒想到、我沒意識到」，那就是 realize。填進去讀成 I didn't realize that a little tap would scare you so much。【干擾選項】find（發現）後面接 that 子句時，講的是經過觀察或經驗得出的結論（I found that he was right.），但這一句是當下才知道，不是觀察出來的；wonder（想知道）後面習慣接 whether 或疑問詞，語意是「我不曉得會不會」，與道歉的語氣不合；admit（承認）後面接的是自己做過的事，但「輕輕一拍會嚇到人」不是他做過的事，而是他沒預料到的後果。【常考字詞與句型】realize that ＋ 子句（意識到、想到）、realize a dream（實現夢想）、find that ＋ 子句（發現）、wonder whether 或 if（想知道是否）、admit ＋ V-ing（承認做過某事）、a little tap（輕輕一拍）。"
   },
   {
     "id": "Z94_15",
@@ -4502,7 +4516,8 @@
     "passageId": "94_11-15",
     "accuracyRate": 75,
     "discrimination": 52,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是名詞，都能接在 your 後面，你會憑中文挑一個。【怎麼判斷】空格落在司機說的話裡：Sorry, sir. It's not really your ______.（先生，抱歉，這其實不是你的______。）接著他解釋：今天是他第一天開計程車，過去二十五年開的是靈車——他在說明真正的原因在自己身上，所以前面那一句是在替乘客免責。It's not your fault（不是你的錯）是道歉場合的固定說法。填進去讀成 It's not really your fault。指考 100 年第 13 題考的 when the customer is at fault（當過錯在客戶那一方時）用的是同一個 fault，兩題可以擺在一起看：fault 講的就是過錯與責任歸屬。【干擾選項】matter 要在 What's the matter?（怎麼了）這種說法裡才這樣用，It's not your matter 不成立；decision（決定）與這裡的責任歸屬無關；trouble 雖然有 It's no trouble.（不麻煩）這個說法，但那是回應道謝、不是回應道歉，而且 your trouble 會變成「你的麻煩」。【常考字詞與句型】It's not your fault.（不是你的錯）、at fault（有過失、該負責）、find fault with（挑剔、找碴）、What's the matter?（怎麼了）、It's no trouble.（不麻煩）、scare the living daylights out of somebody（把某人嚇得魂飛魄散）。"
   },
   {
     "id": "Z94_16",
@@ -4616,7 +4631,8 @@
     "passageId": "94_26-30",
     "accuracyRate": 54,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是動詞加介副詞的片語，你會憑中文挑一個。【怎麼判斷】空格後面接的是 to devote his life to developing a biological explanation of knowledge（把一生投入於發展一套知識的生物學解釋）。所以空格要填的必須是一個後面能接不定詞、而且意思是「開始去做」的片語。set out to V 就是「著手去做、立志去做」，用在一個人決定投入某件長遠的事情上，正好對得上十五歲立定志向這個情境。填進去讀成 At age 15, he set out to devote his life to developing a biological explanation of knowledge。順帶留意 devote 後面那個 to 是介系詞，所以接的是 developing 而不是 develop——同一句裡兩個 to、詞性不同，這是常見的陷阱。【干擾選項】put down（放下；記下）後面接的是被放下或被寫下的東西；passed on（傳遞下去）後面接的是被傳遞的東西；ended up（最後落得）後面接的是 V-ing 或形容詞，不接不定詞，而且它講的是結果、不是起點。【常考字詞與句型】set out to V（著手、立志去做）、devote oneself to ＋ V-ing（致力於做某事）、be devoted to ＋ 名詞（專注於）、end up ＋ V-ing（最後落得）、put down（放下；記下）、pass on（傳遞下去）。"
   },
   {
     "id": "Z94_30",
