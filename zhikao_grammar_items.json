@@ -19,7 +19,8 @@
     "passageId": "91_16-20",
     "accuracyRate": 42,
     "discrimination": 26,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 most of 後面空一格、再接一個動詞，很容易覺得這裡要放關係詞，於是在 which 和 what 之間猶豫。答對率只有四成二，多數人卡在這一步。【怎麼判斷】關係詞題一律用代入法：把先行詞代回去，看它在子句裡變成什麼形式。空格指的是前半句的 the world's water。代進去讀成 most of water is trapped in polar ice，這已經是一個完整的句子，不缺任何成分——空格要的只是一個代替 water 的代名詞，不是關係詞。water 是不可數名詞，所以用單數的 it。這是指標勾環：代名詞回指前面出現過的東西，填之前先問「它代替的是哪一個字」。鑑別度只有 26，難題卻分不出高下，原因就在這一步是反射動作——看到 most of 加空格就認定是關係子句題，文法練得越熟的人越容易一頭栽進 which 與 what 的比較，忘了先確認這一句到底缺不缺成分。【干擾選項】which：關係代名詞要接子句，寫法應該是 ..., most of which is trapped ...，前面要有逗號讓它接上先行詞；本句 and 後面是一個獨立的子句，放 which 反而多出一個沒有主要動詞的結構。what：它沒有先行詞可以代，本身要展開成 the thing(s) that，代進去變成 most of the thing that is trapped，與前半句接不起來。them：複數，water 不可數，數不合。【常考字詞與句型】most of it（其中大部分）、less than（少於）、be trapped in（受困於……）、too ... to ...（太……以致於無法……）、fresh water（淡水）、polar ice（極地冰層）。"
   },
   {
     "id": "Z91_19",
@@ -87,7 +88,8 @@
     "passageId": "91_21-25",
     "accuracyRate": 60,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格前面緊貼著 Olympiads（複數），耳朵一順就填了 have。這正是本題設下的陷阱：真正的主詞不是離空格最近的那個字。【怎麼判斷】先把主詞的中心語找出來。Each of the six science Olympiads 裡，主詞的中心語是 Each（每一個），of the six science Olympiads 只是介系詞片語，用來說明「從哪一群裡面挑出每一個」。Each 一次只看一個，所以是單數，動詞用第三人稱單數 has。國中學過的 One of my friends is a doctor. 是同一個道理：主詞是 One，不是 friends。再看語意：後面接 its specific aims（它自己的具體目標），要的是「擁有」，be 動詞塞不進去。鑑別度高達 61，這一題分開的正是兩種讀法：跟著最近的名詞走的人填複數，先找到中心語 Each 的人填單數。介系詞片語隔在主詞與動詞中間，是主詞與動詞一致最常見的考法。【干擾選項】have：複數動詞，只有在主詞是 the six science Olympiads 時才對，但那是介系詞 of 的受詞。is：數對了，語意不對——這一句要說的是每一個奧林匹亞「有」自己的目標，不是「是」自己的目標。are：數與語意兩層都錯。【常考字詞與句型】each of ＋ 複數名詞 ＋ 單數動詞（其中的每一個……）、one of ＋ 複數名詞 ＋ 單數動詞（……當中的一個）、specific aims（具體的目標）、be three-fold（分成三方面）、most important of all（最重要的是）、all over the world（全世界）。"
   },
   {
     "id": "Z91_26",
@@ -109,7 +111,8 @@
     "passageId": "91_26-30",
     "accuracyRate": 47,
     "discrimination": 34,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個字根的四種形態，形態排在一起就知道考的是形態，但 pirating 與 pirated 一時分不出來。答對率四成七。【怎麼判斷】空格後面是名詞 CDs，空格要填的是修飾 CDs 的字。分詞當形容詞用時，主動或被動看的是名詞與那個動作的關係：CD 是被人盜版製作出來的，不會自己去盜版別人，所以用過去分詞，pirated CDs（盜版的 CD）。國中學過的 a broken window（破掉的窗戶，被打破）對 a barking dog（在叫的狗，自己在叫），判準完全一樣。【干擾選項】pirating：現在分詞表主動，pirating CDs 會讀成「正在盜版 CD 的」，方向不對。pirate：動詞原形或名詞「海盜」，原形動詞不能直接掛在名詞前面當修飾語。piracy：抽象名詞「盜版行為」。兩個名詞並排時，前面那個要能說明後面那個屬於哪一類，piracy CDs 說不通；同一篇第 27 題的 fight piracy 才是這個字該出現的位置。【常考字詞與句型】pirated CDs（盜版光碟）、stop V-ing（停止做……）、respect the copyright（尊重著作權）、intellectual property right（智慧財產權）、think otherwise（有不同的看法）、attend a demonstration（參加示威活動）。"
   },
   {
     "id": "Z91_28",
@@ -131,14 +134,15 @@
     "passageId": "91_26-30",
     "accuracyRate": 66,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 to 就反射地想接原形動詞，於是先把 to making 排掉。這裡的 to 是介系詞，不是不定詞符號，後面要接動名詞。【怎麼判斷】句型是 devote ＋ 時間或心力 ＋ to ＋ V-ing（把……投入在做某事上）。填進去讀成 singers devote most of their time to making their music perfect（歌手把大部分時間投入在讓自己的音樂臻於完美上）。to 後面接動名詞的還有 be used to V-ing（習慣於）、look forward to V-ing（期待）、object to V-ing（反對），這一組要整批記起來。再看空格後面：their music perfect 是「受詞加形容詞」的形式，要一個能帶這種結構的動詞，make ＋ 受詞 ＋ 形容詞（使……變得……）正好，國中學過的 The news made me happy. 就是這個句型。【干擾選項】in doing、for singing、at playing：三個介系詞都與 devote 搭不起來，devote 只配 to。就算不看搭配，把 doing、singing、playing 代進去也接不出 their music perfect 這個結構——只有 make 能。【常考字詞與句型】devote time to V-ing（把時間投入在……）、be devoted to（致力於……）、look forward to V-ing（期待……）、make ＋ 受詞 ＋ 形容詞（使……變得……）、sign a contract with（與……簽約）、be busy V-ing（忙著做……）。"
   },
   {
     "id": "Z91_16",
     "year": "91年",
     "source": "91年指考",
     "blankNum": 16,
-    "category": "慣用語／片語",
+    "category": "連接詞／轉承語",
     "sentence": "There is, __16__, only a limited amount of water on the planet.",
     "options": {
       "A": "meanwhile",
@@ -154,7 +158,8 @@
     "accuracyRate": 59,
     "discrimination": 31,
     "contextSpan": "跨句",
-    "contextNote": "in fact 修正前一句對缺水人數的描述"
+    "contextNote": "前一句先立說法：2025 年將有超過 27 億人嚴重缺水；這一句用 in fact 補上背後的事實——地球上的水本來就有限",
+    "note": "【你可能會這樣想】in fact 你背的是「事實上」，四個選項代進去中文好像都通，只好憑語感挑一個。問題是這一格不是在考中文翻譯，是在考前後兩句的關係。【怎麼判斷】in fact 是強調用的轉承語：先講一句話，再用 in fact 對剛剛講過的內容補上更詳細的資訊，把前一句講得更重、更清楚（劍橋 English Grammar Today 的 In fact 條目）。回頭讀前一句：到 2025 年將有超過 27 億人面臨嚴重缺水。這一句說地球上的水本來就只有這麼多——不是換話題，是把前一句背後的事實端出來，正是 in fact 的位置。這是邏輯勾環，線索一定要跨句才看得到。另外注意它夾在兩個逗號中間。in fact 確實常放句首，但插在句子中間同樣正常；101 年學測第 18 題的 in fact 也是插在 is 與 an outdoor museum 之間，同一個考點。【干擾選項】for example（舉例來說）是最像的一個：它後面接的必須是前一句的其中一個個案。「地球的水有限」不是「27 億人缺水」的一個個案，它是背後的原因，方向剛好相反；真要用 for example，後面接的應該是「某個國家今年遭遇乾旱」這種具體的例子。meanwhile（同時）要有兩件同時進行的事；besides（此外）是再加一件新的事，但這一句沒有加新的東西，只是把前一句說得更深。【常考字詞與句型】in fact（事實上）、as a matter of fact（事實上，與 in fact 同義）、in actual fact（實際上，語氣更強）、face severe shortages of（面臨嚴重的……短缺）、a limited amount of（有限的……）、on the planet（在地球上）。"
   },
   {
     "id": "Z91_25",
@@ -176,7 +181,8 @@
     "passageId": "91_21-25",
     "accuracyRate": 42,
     "discrimination": 19,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】分號前面是 not only ... but also ...，很容易讀成「這一句在並列兩件事」，於是找一個表示補充或對比的轉承語。答對率四成二，鑑別度只有 19，是全卷最分不出高低的一題。原因就在這裡：not only ... but also 的框架越熟，越容易把注意力鎖在分號前面那兩個並列的名詞上，沒有回頭問分號後面那一句在做什麼——連高分群考生也大量失手。【怎麼判斷】分號不是句界，前後兩半在同一句裡，關係自己就看得出來。前半：任何一場 IMO 競賽把年輕數學家與他們的指導老師聚在一起。後半：IMO 的最終目標是為全世界數學課程與教學經驗的交流創造機會。人先聚在一起是條件，交流的機會是結果，中間是順接的因果，用 therefore（因此）。這是邏輯勾環：轉承語本身就是線索，先確定前後兩半是哪一種關係，再挑詞。【干擾選項】whereas（然而）：把兩件相反的事並排比較，但前後兩半同向。nevertheless（儘管如此）：要有讓步關係，前半必須是一個會讓後半難以成立的事實，這裡沒有。likewise（同樣地）：後面要接一件與前面平行的事，而後半不是再舉一件同類的事，是前面那件事帶出來的結果。【常考字詞與句型】not only ... but also ...（不只……而且……）、bring people together（把人聚在一起）、create opportunities for（為……創造機會）、the exchange of information（資訊交流）、throughout the world（在全世界）、whereas（然而，用於前後對比）。"
   },
   {
     "id": "Z91_29",
@@ -198,7 +204,8 @@
     "passageId": "91_26-30",
     "accuracyRate": 63,
     "discrimination": 34,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】however 你的印象大概是「站在句首、前面要有句號」，所以看到它要填在分號後面會猶豫。however 屬於連接副詞，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today）；分號後面接 however 再加逗號，是很常見的寫法。【怎麼判斷】分號不是句界，前後兩半在同一句裡。前半：支撐唱片公司王國的是歌迷。後半：業界從未回饋歌迷，也就是從未調降 CD 售價。前面是歌迷付出、後面是業界不回報，一正一負，要的是轉折，用 however（然而）。這是邏輯勾環：先確定前後兩半同向還是反向，再挑轉承語。另外這一句也是強調句型 It is the fans that support ...，被強調的是主詞 the fans（歌迷）；依劍橋 English Grammar Today，焦點是人的時候，that 也可以寫成 who。【干擾選項】indeed（的確）：用來加強、確認前面的說法，方向同向。hence（因此）：表結果，但「歌迷支撐了唱片業」推不出「業界不回饋」，那是相反的事。furthermore（此外）：再加一件同方向的事，同樣表達不出落差。【常考字詞與句型】however（然而，可插在句中）、give feedback to（給……回饋）、lower the price of（調降……的價格）、indeed（的確，用於加強）、hence（因此，表結果）、furthermore（此外，用於補充）。"
   },
   {
     "id": "Z92_27",
@@ -3973,7 +3980,8 @@
     "passageId": "91_21-25",
     "accuracyRate": 45,
     "discrimination": 47,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是四個不同的動詞，文法上都放得進 to 後面的原形位置，可見這一格考的是語意，只能往搭配上找。答對率四成五。【怎麼判斷】先看空格後面接的是什麼：global understanding and mutual appreciation（全球性的理解與相互欣賞）。這兩個都是抽象的、可以「往上推動」的東西，能與它們搭配的動詞是 promote（促進、增進）：promote global understanding 是常考的字詞搭配，同一組的還有 promote peace、promote cooperation。破折號在這裡不是句界，它引出的是前面 a simple intention（一個單純的目的）的內容，所以整句自己就選得出答案。【干擾選項】sponsor（贊助）：出錢支持一項活動或一個人，受詞通常是比賽、節目、選手，不能贊助一個「理解」。determine（決定、查明）：把某件事定下來或查清楚，understanding 不是可以被決定的東西。calculate（計算）：拿來算數字的，接不了抽象名詞。三個的方向都不對，只有 promote 站得住。【常考字詞與句型】promote understanding（增進理解）、promote cooperation（促進合作）、mutual appreciation（相互欣賞）、with the intention of（抱著……的意圖）、sponsor an event（贊助一項活動）、determine the cause（查明原因）。"
   },
   {
     "id": "Z91_23",
@@ -4004,7 +4012,7 @@
     "source": "91年指考",
     "blankNum": 24,
     "category": "字彙選義",
-    "sentence": "...young mathematicians of all countries can foster friendly __24__.",
+    "sentence": "Secondly, it is by participating in any IMO contest that young mathematicians of all countries can foster friendly __24__.",
     "options": {
       "A": "behaviors",
       "B": "messages",
@@ -4018,7 +4026,8 @@
     "passageId": "91_21-25",
     "accuracyRate": 50,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是名詞，文法上都放得進去，只能靠語意判斷。答對率五成。【怎麼判斷】空格前面是 foster friendly（培養友好的……），要問的是「培養友好的什麼」。foster friendly relations（建立友好關係）是常考的字詞搭配，同一組的還有 maintain friendly relations。同句就選得出答案；下一句「因此鼓勵並建立更多國際交流」可以再驗算一次，方向完全吻合。【干擾選項】behaviors（行為）：friendly behavior 本身說得通，但「培養友好的舉止」講的是個人的舉止，與下一句的國際交流接不上。messages（訊息）：訊息是傳遞的，不是培養的。guests（客人）：與 foster 完全搭不起來，這一段講的是國與國之間的往來，不是招待客人。【順便把強調句型學起來】這一句的架構是 it is by participating in any IMO contest that ...，這是強調句型（分裂句，cleft sentence，劍橋 English Grammar Today 的 Cleft sentences 條目）。它把一個訊息拆成兩個子句：接在 It is 後面的是要強調的部分，that 後面裝的是已經知道的資訊。還原成一般語序就是 Young mathematicians of all countries can foster friendly relations by participating in any IMO contest.，被搬到 It is 後面的是 by participating in any IMO contest（透過參加 IMO 競賽）這個介系詞片語，強調的是「靠什麼方式」。公式是 It is ＋ 要強調的成分 ＋ that ＋ 句子的其餘部分——英文一句話本來先把主詞和動詞這個骨幹交代出去，強調句型就是把你要強調的成分搬到骨幹的位置。要強調的成分是人的時候，that 可以換成 who。句子的主要動詞不能單獨搬進那個位置，要強調動作得改用另一型 What he did was ...；但像本題的 by participating（透過參加）這種被介系詞帶著的動名詞，整組是介系詞片語，進得去。同一份考卷的第三篇有兩處同型，強調的都是主詞：it is the recording industry that wants to fight piracy（第 27 題所在句）、It is the fans that support the kingdoms（第 29 題所在句）。三處對照就知道，被強調的成分可以是主詞，也可以是介系詞片語。【常考字詞與句型】maintain friendly relations（維持友好關係）、establish relations with（與……建立關係）、It is ＋ 強調的成分 ＋ that ...（強調句型）、international exchange（國際交流）、based upon（根據……）、by V-ing（藉由做……）。"
   },
   {
     "id": "Z91_27",
@@ -4040,7 +4049,8 @@
     "passageId": "91_26-30",
     "accuracyRate": 57,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】piracy 你認得是「盜版」，但要用哪一個動詞去對付它？中文說「打擊盜版」，英文是不是也用 fight，多數人不太確定。【怎麼判斷】四個選項是四個不同的動詞，可見這一格考的是語意與搭配。fight 除了「打架」，更常用的是「對抗、打擊」一個抽象的壞東西：fight piracy（打擊盜版）、fight crime（打擊犯罪）、fight poverty（對抗貧窮）、fight a disease（對抗疾病）。受詞是問題而不是人的時候，fight 走的就是這個意思。另外這一句是強調句型 it is the recording industry that wants to fight piracy，接在 It is 後面被強調的是主詞 the recording industry（唱片業），作者要說的是「想打擊盜版的是唱片業」，與前一句歌迷未必這麼想形成對照，句型的完整說明見第 24 題。【干擾選項】kill：殺死有生命的東西，盜版是一種行為，不是生物。win：贏得比賽或獎項，受詞是 the game、the prize 這一類；要說打贏這場仗得寫成 win the fight against piracy。shut：關上門窗或關閉店家，與 piracy 搭不起來。【常考字詞與句型】fight piracy（打擊盜版）、fight crime（打擊犯罪）、fight against（對抗……）、win a prize（贏得獎項）、shut down（關閉、歇業）、the recording industry（唱片業）。"
   },
   {
     "id": "Z91_30",
@@ -4062,7 +4072,8 @@
     "passageId": "91_26-30",
     "accuracyRate": 52,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】前一句才剛出現過 feedback，眼睛還停在那個字上，很容易順手把它填進來。答對率五成二。【怎麼判斷】空格前面是 arithmetic（算術的），要問的是「算術的什麼」。an arithmetic question（一道算術題）是常考的字詞搭配，同義的說法還有 an arithmetic problem。四個選項裡只有 question 與 arithmetic 搭得起來，同句就選得出答案。下一句可以再驗算一次：街上 NT$50 就買得到的 CD，為什麼要花 NT$300 以上買同一張？這正是一道算術題。鑑別度高達 54，分開的是兩種讀法：把 It 讀成單純回指前一句的人，順手選了剛出現過的 feedback；看出這一句是在替下一句那道價差算式起頭的人，選了 question。【干擾選項】feedback（回饋）：前一句才出現過，但「一個簡單的算術回饋」講不通，它與 arithmetic 搭不起來。product（產品）：唱片是產品沒錯，但在數學裡 product 指的是「乘積」，與這裡要說的「一道題目」是兩回事。industry（產業）：與 arithmetic 完全無關。【常考字詞與句型】an arithmetic question（一道算術題）、an arithmetic problem（一道算術題，同義說法）、solve a problem（解決問題）、spend ＋ 金錢 ＋ on（把錢花在……上）、the same one（同一個）、feedback（回饋，不可數名詞）。"
   },
   {
     "id": "Z92_16",
