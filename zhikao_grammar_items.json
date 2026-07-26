@@ -2156,7 +2156,8 @@
     "hasFullPassage": true,
     "accuracyRate": 63,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項的中文都能說成某種關係，therefore 的「因此」尤其眼熟，你會覺得它擺在這裡也通。【怎麼判斷】這是邏輯勾環，但要先解決一個形態問題再談語意。空格後面是 it is bad news to the receiver，一個完整的子句，所以空格要的是連接詞，不是副詞——therefore 是連接副詞，它可以出現在副詞能出現的位置，卻不能拿來把兩個子句接起來（劍橋 English Grammar Today）。這一步就刷掉一個。再看語意：前半是「拒絕調整的信最需要你的溝通技巧」，後半是「因為對收信的人來說這是壞消息」——後面那一句正是前面那一句的原因，所以用 because。填進去讀成 requires your best communication skills because it is bad news to the receiver。【干擾選項】till（直到……為止）標示的是時間的終點，兩件事之間不是時間關係；unless（除非）等於 if...not，會變成「除非這是壞消息，否則就需要溝通技巧」，與整段的意思剛好相反；therefore 是副詞，就算語意勉強讀得通，也不能單獨用來連接兩個子句。【常考字詞與句型】because ＋ 子句（因為，連接詞）、because of ＋ 名詞（因為，後面接名詞）、therefore（因此，連接副詞）、unless（除非，等於 if...not）、bad news（壞消息）、communication skills（溝通技巧）。"
   },
   {
     "id": "Z100_15",
@@ -2179,7 +2180,8 @@
     "hasFullPassage": true,
     "accuracyRate": 63,
     "discrimination": 45,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是三四個字的片語，你會挑一個中文讀起來最順的擺進去。【怎麼判斷】這是邏輯勾環：要判斷的是同一句裡兩件事之間的關係。整句是 You have to refuse the claim and retain the customer ______.（你必須拒絕這項索賠，並且______留住這位客戶）。拒絕與留住是兩件方向相反的事，卻要在同一封信裡一起做到，這種「一邊……一邊……、然而同時」的關係就是 at the same time。這個片語除了字面的「同時」，還有一層轉折的用法——先承認前面那件事，再提出一件與它拉扯的事，中文常譯成「但另一方面」。填進去讀成 refuse the claim and retain the customer at the same time（拒絕索賠，同時又要把客戶留住）。【干擾選項】over and over（一再地、反覆地）講的是次數，留住客戶不是一件反覆做的事；for the same reason（基於同樣的理由）要求前面先出現過一個理由，這一句前面沒有；by and large（大體而言）是對整體情況下評語，接在這裡讀不出與「拒絕」的拉扯。【常考字詞與句型】at the same time（同時；但另一方面）、over and over（一再地、反覆地）、for the same reason（基於同樣的理由）、retain a customer（留住客戶）、refuse a claim（拒絕索賠要求）、handle a claim（處理索賠）。"
   },
   {
     "id": "Z100_16",
@@ -2203,7 +2205,8 @@
     "accuracyRate": 64,
     "discrimination": 43,
     "contextSpan": "跨句",
-    "contextNote": "for example 為前一句「各文化差異很大」舉例"
+    "contextNote": "for example 為前一句「各文化差異很大」舉例",
+    "note": "【你可能會這樣想】四個選項都是插在主詞與動詞之間的插入語，位置一樣、形態一樣，你會憑語感挑一個。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。前一句是 Cultures sometimes vary greatly in this regard（各種文化在這方面的差異有時很大），是一句通則；本句 A group of researchers in Japan, ______, studied the facial reactions of students to a horror film 講的是日本一組研究者做的一項研究，這是那句通則底下的一個具體個案。從通則走到具體個案，用 for example。填進去讀成 A group of researchers in Japan, for example, studied...（舉例來說，日本一組研究者研究了……）。順帶留意這個位置：轉承語夾在主詞與動詞之間、前後各一個逗號，是常見的擺法，不是只能放句首。【干擾選項】as usual（一如往常）要求前面有一個慣例，這一句是新提出來的研究，不是慣例；in some cases（在某些情況下）雖然也能插在這個位置，但它後面該接的是「某些情況下會怎樣」的通則，而不是一項具體的研究；to be frank（老實說）是說話者要坦白講一件不好說的事，這裡沒有那個語氣。【常考字詞與句型】for example（舉例來說）、as usual（一如往常）、in some cases（在某些情況下）、to be frank（老實說）、vary greatly（差異很大）、facial reactions（臉部反應）。"
   },
   {
     "id": "Z100_17",
@@ -2220,13 +2223,14 @@
       "D": "with"
     },
     "answer": "D",
-    "explanation": "【句型】with + 受詞 + 形容詞/分詞，獨立分詞構句，with the teacher present 表示「在老師在場的情況下」這個伴隨狀況。of／as／from 都無法構成這種「with + 受詞 + 補語」的獨立結構。",
+    "explanation": "【句型】with + 受詞 + 形容詞/分詞，with the teacher present 表示「在老師在場的情況下」這個伴隨狀況。of／as／from 都無法構成這種「with + 受詞 + 補語」的獨立結構。",
     "answer_source": "official_key",
     "fullPassage": "People may express their feelings differently on different occasions. Cultures sometimes vary greatly in this regard. A group of researchers in Japan, __16__, studied the facial reactions of students to a horror film. When the Japanese students watched the film __17__ the teacher present, their faces showed only the slightest hints of reaction. But when they thought they were alone (though they __18__ by a secret camera), their faces twisted into vivid mixes of anguished distress, fear, and disgust. The study also shows that there are several unspoken rules about how feelings should be __19__ shown on different occasions. One of the most common rules is minimizing the show of emotion. This is the Japanese norm for feelings of distress __20__ someone in authority, which explains why the students masked their upset with a poker face in the experiment.",
     "hasFullPassage": true,
     "accuracyRate": 40,
     "discrimination": 26,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】present 這個字，你的印象大概只有名詞的「禮物」與形容詞的「現在的」，最多再加一個動詞「呈現」，不太會想到它當形容詞還有「在場的、出席的」這個意思。present 一讀錯，整個句子的結構就跟著塌掉，於是回頭在幾個介系詞裡憑感覺挑一個。【怎麼判斷】答對率四成，鑑別度只有 26，是本批唯一的低鑑別度題。這一題難，卻連高分群考生也常失手，原因不在句型沒學過——with ＋ 受詞 ＋ 受詞補語（表附帶狀態）是課本長教的句型；難的是這一格的受詞補語是形容詞 present，對這個句型越熟的人，越會去找一個長得像分詞的補語，present 不像分詞，反而先被排掉。先看結構：空格後面是 the teacher（受詞）加 present（補充說明老師處於什麼狀態），還原成完整子句就是 the teacher was present（老師在場）。能還原成「受詞是／處於那個狀態」，就確定是這個句型，空格填 with。整句讀成 watched the film with the teacher present（在老師在場的情況下看那部片）。同一篇的第 20 題正好從另一個角度講同一件事：那一格的答案 in the presence of 裡的 presence，就是 present 的名詞形，兩題擺在一起，present 的「在場」義從形容詞與名詞各講一次。【干擾選項】of、as、from 這三個介系詞後面都只能接名詞或名詞組，接不了「受詞加補語」這兩層；把它們填進去，the teacher present 就變成一團沒有結構的字。【常考字詞與句型】with ＋ 受詞 ＋ 受詞補語（表附帶狀態）、with the door open（門開著）、with tears in her eyes（眼裡含著淚）、present（形容詞：在場的、出席的）、the slightest hint of（一絲一毫的跡象）、be absent from（缺席、不在）。"
   },
   {
     "id": "Z100_18",
@@ -2249,7 +2253,8 @@
     "hasFullPassage": true,
     "accuracyRate": 57,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 tape 的各種時態與語態組合排在一起，你會想一次判完時態、語態兩件事，很容易只顧到一邊。【怎麼判斷】鑑別度高達 55，分開的是有沒有把兩件事分開判、而且兩件都判對。先判語態：主詞是 they（那些學子），學子是「被祕密攝影機拍攝」的一方，不是拍攝的人，所以必須是被動，had taped 與 are taping 都是主動，先出局。再判時態：括號外的主要動詞是 thought（過去式），括號裡講的是他們自以為獨處的「那個當下」正在發生的事，所以要用過去進行式的被動 were being taped（當時正被拍攝著）。填進去讀成 though they were being taped by a secret camera（其實當時正被祕密攝影機拍著）。【干擾選項】have been taped 是現在完成式的被動，它的時間落在「到現在為止」，與整段的過去時間軸接不上；had taped 若讀成過去完成式，方向是往更早推，但這裡要講的是同一個當下正在進行的事，不是更早發生的事。【常考字詞與句型】was／were being ＋ 過去分詞（過去進行式的被動）、tape（動詞：錄影、錄音）、twist into（扭曲成）、though ＋ 子句（雖然、其實）、a secret camera（祕密攝影機）、anguished distress（極度的痛苦不安）。"
   },
   {
     "id": "Z100_19",
@@ -2272,7 +2277,8 @@
     "hasFullPassage": true,
     "accuracyRate": 63,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ly 結尾的副詞，形態一模一樣，你會挑一個讀起來最順的。【怎麼判斷】四個選項都是副詞、都放得進 be 動詞與過去分詞之間，形態這條路整個斷掉，可見這一格考的是語意。先看整句在講什麼：there are several unspoken rules about how feelings should be ______ shown on different occasions（有幾條不成文的規定，規範在不同場合情緒該______表現出來）。既然是「規定」，講的就是「該用什麼樣的方式表現才恰當」，所以空格要的是一個評價方式合不合宜的字，也就是 properly（適當地、恰當地）。下一句 One of the most common rules is minimizing the show of emotion（最常見的一條規定是把情緒的流露降到最低）正是在舉一個「怎樣才算恰當」的例子，可以拿來驗算。【干擾選項】rarely（很少、難得）是頻率副詞，講的是次數不是方式，而且不成文規定不會要求情緒「很少被表現」這種次數上的規範；similarly（同樣地）需要前面先有一個拿來對照的東西；critically 有「批判地」與「嚴重地」兩個意思，擺在這裡兩個都接不上「情緒怎麼表現」。【常考字詞與句型】properly（適當地、恰當地）、unspoken rules（不成文的規定）、on different occasions（在不同的場合）、minimize（把……減到最低）、rarely（很少、難得）、critically（批判地；嚴重地）。"
   },
   {
     "id": "Z100_20",
@@ -2295,7 +2301,8 @@
     "hasFullPassage": true,
     "accuracyRate": 60,
     "discrimination": 45,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「介系詞加名詞加 of」的多字介系詞，長得很像，你會憑哪個最眼熟就直接選它。【怎麼判斷】這是主題勾環：這一句在替全篇的實驗場景下結論，要找的是能扣回那個場景的說法。整句是 This is the Japanese norm for feelings of distress ______ someone in authority（這是日本人面對______有權威的人時，處理不安情緒的常態）。空格後面接的是「人」，而全篇的實驗場景就是「老師在場的時候學子面無表情」，所以空格要的是「在某人面前、當著某人的面」，也就是 in the presence of。presence 是形容詞 present（在場的）的名詞形，同一篇第 17 題的 with the teacher present 講的正是同一件事，兩題一個用形容詞、一個用名詞，把「在場」這個概念的兩種寫法都考過了。填進去讀成 feelings of distress in the presence of someone in authority。【干擾選項】with the help of（在……的幫助下）方向不對，權威者在場不是在幫忙，反而是壓力來源；on top of（在……之上；除……之外）講的是位置或追加；in place of（代替、取代）要有一個被取代的東西，這裡沒有。三個都是多字介系詞，形態吻合，容易被順手選走。【常考字詞與句型】in the presence of（在……面前、當著……的面）、presence（名詞：在場、出席）、someone in authority（有權威的人）、with the help of（在……的幫助下）、in place of（代替、取代）、a poker face（面無表情的臉）。"
   },
   {
     "id": "Z101_12",
@@ -2318,7 +2325,8 @@
     "hasFullPassage": true,
     "accuracyRate": 63,
     "discrimination": 44,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是三個字組成的片語，長得很像，很容易憑哪個最眼熟就直接選它；so much as 又特別眼熟，因為你在 not so much as（連……都沒有）裡見過它。【怎麼判斷】四個選項都是幾個字合起來當一個介系詞用、後面接名詞（劍橋 English Grammar Today 的 Prepositions 條目），文法上全部放得進去，可見這一格考的是空格兩邊的邏輯關係。先看清楚兩邊各是什麼：前面是 the various Nobel Peace Prize Laureates and their activities（歷屆和平獎得主與他們的事蹟），後面是 the remarkable history of Alfred Nobel（諾貝爾本人不凡的生平）。兩邊都是這個中心讓你 experience and learn about 的東西，方向相同、地位對等，是單純的並列，不是誰讓步給誰，也不是誰代替誰出面。四個選項裡只有 as well as 表示「以及、還有」；把它換成 and 讀一次，learn about A and B，語意完全一樣，就確定了。順便記一個課本常考的細節：A as well as B 當主詞時，動詞跟前面的 A 一致，例如 Tom, as well as his friends, is going.。【干擾選項】so much as 幾乎只活在兩個固定的組合裡——without so much as ＋ 名詞（連……都沒有）與 not so much A as B（與其說是 A，不如說是 B），單獨拿來連接兩個名詞並不成立。in spite of（儘管）要求前後語意相反，但這裡兩邊都是這個中心的展示內容，方向相同。on behalf of（代表……）用在某人代替另一人出面的場合，展覽不會「代表」諾貝爾的生平。【常考字詞與句型】as well as（以及、還有）、not so much A as B（與其說是 A，不如說是 B）、without so much as ＋ 名詞（連……都沒有）、in spite of（儘管，等於 despite）、on behalf of（代表……）、learn about（認識、了解）。"
   },
   {
     "id": "Z101_14",
@@ -2341,7 +2349,8 @@
     "hasFullPassage": true,
     "accuracyRate": 76,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是常見片語，一個一個看中文都說得通，很容易憑哪個最眼熟就直接選它。one on one（一對一）尤其誘人，因為同一句後面出現 a guided tour（導覽），會讓你聯想到「一對一導覽」。【怎麼判斷】把整句讀完：Visitors are welcome to experience the Center ______ or join a guided tour.。關鍵在 or，它把兩件事擺成二選一，而後面那一件已經寫得清清楚楚，就是參加導覽。所以空格要填的必須是導覽的另一種選擇，也就是「不跟導覽，自己看」。四個選項裡只有 on their own 是這個意思（獨自、靠自己，等於 by themselves）。還有一個看得見的線索：只有這個選項帶著所有格 their，正好回頭指向句首的 Visitors，說明它講的是遊客自己的參觀方式。【干擾選項】in this regard（在這方面）是承接前文的轉承用語，接在動詞後面說明參觀方式並不成立。one on one 用在兩個人面對面的互動（a one-on-one interview），但一對一導覽仍然是導覽，與 or 後面那一半重複，二選一就不成立了。by and large（大體而言）是評論整體情況的說法，不是在講一種參觀方式。【常考字詞與句型】on one's own（獨自、靠自己）、by oneself（獨自）、be welcome to V（歡迎做某事）、join a guided tour（參加導覽）、in this regard（在這方面）、by and large（大體而言）。"
   },
   {
     "id": "Z101_15",
@@ -2364,7 +2373,8 @@
     "hasFullPassage": true,
     "accuracyRate": 45,
     "discrimination": 67,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是介系詞，後面接的又是一長串清單（展覽、活動、講座、文化活動），清單很容易讓你聯想到「包括」而選 including，或讀成「在這些東西之中」而選 among。【怎麼判斷】答對率四成五，鑑別度高達 67，是本批最會分人的一題，分開的是有沒有看出後面那串清單是「拿什麼來做」，不是「範圍在哪裡」。先確認空格前面那一段在做什麼事：the Nobel Peace Center has been educating, inspiring and entertaining its visitors（這個中心一直在教育、啟發、娛樂到訪的遊客）。這是一連串「中心做了什麼」的動作，後面那串清單則是它拿什麼來做，是手段，不是範圍，也不是舉例。through 的本義是「穿過」，往抽象推一步就是「經由某個過程或媒介達成」，例如 learn a lot through experience（從經驗中學到很多）。填進去讀成「藉由展覽、活動、講座與文化活動來教育遊客」，語意才對得上。【干擾選項】among（在……之中）講的是一個東西位在一群東西裡面，但中心並不是「位在展覽之中」。regarding（關於）與 including（包括）都是由分詞轉成介系詞的字，這一類字不必去分析主動被動，認得它就好；但認得之後仍然要看語意，regarding 會變成「關於這些展覽在教育遊客」，句子懸空；including 後面接的必須是前面某個整體的一部分，這裡前面找不到一個可以被「包括」的整體。同一篇的第 13 題剛好相反：那一題四個選項後面全部配 to，介系詞幫不上忙，只能靠語意；這一題則是介系詞本身就是答案，兩題可以對照著看。【常考字詞與句型】through ＋ 名詞（藉由、經由）、learn through experience（從經驗中學到）、regarding（關於）、including（包括）、among（在……之中）、inspire（啟發、激勵）。"
   },
   {
     "id": "Z101_18",
@@ -2387,7 +2397,8 @@
     "hasFullPassage": true,
     "accuracyRate": 80,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格後面是一個單數名詞 team，你會覺得 a 與 each 都放得進去，就憑語感挑一個。【怎麼判斷】這是指標勾環：空格要的是一個回指前面那群人的所有格。先讀完整句——Noisy British fans, after setting off some rockets and fireworks to cheer for ______ team（吵鬧的英國球迷施放煙火為______球隊加油）。為球隊加油的是英國球迷，他們要加油的當然是自己支持的那一隊，所以空格要的是所有格 their，回頭指向句首的 Noisy British fans。填進去讀成 cheer for their team（為自己的球隊加油）。cheer for 後面要說清楚是為誰加油，而這個「誰」一定要在前後文找得到根據，不能憑空給一個沒有指涉的名詞。【干擾選項】a team 是「某一支球隊」，隨便哪一隊都可以，與「為自己這一隊加油」的情境對不上；each 後面雖然接單數名詞，但 each team 是「每一支球隊」，英國球迷不會為兩隊都加油；that 當限定詞時要指一個前面明確提過的單一事物，這裡前面提到的是兩支球隊，指不清楚是哪一支。【常考字詞與句型】cheer for（為……加油）、set off（施放、引爆）、break through（衝破、突破）、a wire fence（鐵絲網）、each ＋ 單數名詞（每一個）、their（他們的，所有格限定詞）。"
   },
   {
     "id": "Z101_20",
@@ -2410,7 +2421,8 @@
     "hasFullPassage": true,
     "accuracyRate": 54,
     "discrimination": 43,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 be 動詞的形態，你會先想「這裡需要一個動詞嗎」，然後被 people 這個看起來像主詞的字帶著走，去找一個有時態的動詞。【怎麼判斷】先看空格前面是什麼：resulted from people ______ trampled underfoot。from 是介系詞，介系詞後面只能接名詞或動名詞，不能接一個有時態的子句，所以 be 與 to be 先出局。這裡的 people 不是主詞，而是 from 的受詞，同時也是後面那個動作意義上的主人——人是「被踩踏」的，不是自己去踩，所以要用被動；動名詞的被動形是 being ＋ 過去分詞，填進去讀成 resulted from people being trampled underfoot（起因於人被踩在腳下）。been 不能單獨用，它前面一定要有 have 或 has 之類的助動詞。【干擾選項】be 與 to be 都接不上介系詞 from；been 是過去分詞，單獨擺在這裡沒有助動詞可以搭。四個都是同一個動詞的形態，形態吻合，容易被順手選走，關鍵是先認出前面那個 from 是介系詞。【常考字詞與句型】result from（起因於、由……造成）、result in（導致、造成）、介系詞 ＋ 受詞 ＋ being ＋ 過去分詞（動名詞的被動）、the majority of（大多數的）、trample underfoot（踩在腳下）、be crushed against（被擠壓在……上）。"
   },
   {
     "id": "Z102_12",
@@ -5312,7 +5324,8 @@
     "accuracyRate": 54,
     "discrimination": 57,
     "contextSpan": "跨句",
-    "contextNote": "However 轉折前一句「多數索賠都獲准」"
+    "contextNote": "However 轉折前一句「多數索賠都獲准」",
+    "note": "【你可能會這樣想】deny 這個字，你的印象大概只有「否認」（deny the accusation 否認指控），不太會想到它也能拿來對一個請求說「駁回、不准」。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。前一句是 Most of these claims are approved because they are legitimate（多數索賠都獲准，因為它們合乎規定）；本句開頭的 However 把方向整個翻過來，所以空格要填的必定是 approved 的反面。再看句子後半 and an adjustment refusal message must be sent（而且必須寄出一封拒絕調整的通知），refusal 這個字已經把答案講出來了。deny a request 就是「駁回、不准某項請求」，填進去讀成 some requests for adjustment must be denied（有些調整要求必須被駁回）。鑑別度高達 57，分開的正是有沒有回頭讀前一句：只讀空格所在的這一句，四個選項在文法上其實都塞得進去。【干擾選項】appreciated（感謝、賞識）方向完全相反，會變成「這些要求受到讚賞」；elaborated（詳述、細說）後面該接的是被說明的內容，公司不會「詳述」一項客戶的請求；retailed（零售）用在商品上，請求不是拿來賣的東西。三個都是過去分詞，形態吻合，容易被順手選走。【常考字詞與句型】deny a request（駁回請求）、approve（核准、批准）、legitimate（正當的、合乎規定的）、elaborate on（詳述、進一步說明）、appreciate（感謝；賞識）、an adjustment refusal（拒絕調整、拒絕理賠）。"
   },
   {
     "id": "Z100_13",
@@ -5334,7 +5347,8 @@
     "passageId": "100_11-15",
     "accuracyRate": 41,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「介系詞加名詞」的片語，中文都能說成「處於某種狀態」，你會覺得每一個好像都放得進去。【怎麼判斷】答對率四成一。四個選項都是介系詞片語、都能接在 be 動詞後面當補語，形態上刷不掉，這一格考的是認不認得這幾個片語各自的意思。先確認整句在講什麼：Adjustment refusals are necessary when the customer is ______ or when the vendor has done all that can reasonably or legally be expected.（在什麼情況下必須拒絕客戶的要求）。這裡有一個 or 連著兩個 when 子句，要先看清楚它連的是哪兩樣——是兩種「該拒絕的情況」；後面那一種寫得很清楚：賣方該做的都已經做到了。既然兩種情況並列，前面那一種就該是「錯不在賣方」的另一半，也就是客戶自己有問題。at fault 正是「有過失、該負責任」，填進去讀成 when the customer is at fault（當過錯在客戶這一方時）。【干擾選項】on call（隨時待命）用在醫師、工程師這類職務上，客戶不會待命；in tears（淚流滿面）講的是情緒，與該不該拒絕無關；off guard（沒有防備）通常出現在 catch somebody off guard（趁人不備）這個組合裡，單獨接在 the customer is 後面很少這樣用。三個都是介系詞片語，形態吻合，容易被順手選走。【常考字詞與句型】at fault（有過失、該負責）、catch somebody off guard（讓某人措手不及）、on call（隨時待命）、in tears（淚流滿面）、reasonably（合理地）、legally（在法律上、依法）。"
   },
   {
     "id": "Z96_27",
@@ -5425,7 +5439,8 @@
     "passageId": "101_11-15",
     "accuracyRate": 58,
     "discrimination": 52,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】mark 這個字，你的印象大概只有「做記號、標記」，所以看到 celebrations to mark 會覺得「慶祝活動去標記一個百年」很奇怪，反而覺得 help 或 take 讀起來比較安全。【怎麼判斷】四個選項是四個不同的動詞，文法上都放得進 to 後面的原形位置，可見這一格考的是語意，只能往前後文找。空格前是 as part of the celebrations to（作為慶祝活動的一環，而活動的目的是……），空格後是 Norway's centenary as an independent country（挪威獨立建國的百週年）。慶祝活動存在的目的，就是紀念這個百年。mark 除了做記號，還有「以活動或儀式紀念、慶祝某個日子或事件」這個意思（劍橋詞典 mark 詞條），常見的組合是 a ceremony to mark the anniversary。兩個意思是接得起來的：先在時間軸上把那個日子標出來，再為它辦活動，就是紀念。同一份考卷的第 16 題四個選項也是四個不同的名詞、文法上全部放得進去，同樣只能靠上下文定案，兩題的做法一樣。另外一提：這一篇選文後來被 107 學年度起適用的指考參考試卷沿用，同一格在那份卷子上是第 11 題，兩邊是同一題，不是網站重複。【干擾選項】help（幫助）、solve（解決）、take（拿、花費）三個都是高頻字，但沒有一個與 centenary 組得起來：慶祝活動不會去「幫助」一個百年；solve 後面接的一定是待解的難題（solve a problem、solve a mystery），「解決一個百年」語意矛盾；take 若讀成「花費」，句子裡缺少要花掉的時間或金錢。【常考字詞與句型】mark an anniversary（紀念某個週年）、a ceremony to mark the occasion（為某個場合舉行的紀念儀式）、as part of ＋ 名詞（作為……的一環）、centenary（百週年）、be officially opened（正式開幕）、solve a problem（解決問題）。"
   },
   {
     "id": "Z101_13",
@@ -5447,7 +5462,8 @@
     "passageId": "101_11-15",
     "accuracyRate": 64,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是動詞加 -ed 的形態，很容易立刻進入文法模式，去分主動被動、去想是不是分詞構句。更麻煩的是這四個字後面都能接 to——be related to、be limited to、be addicted to、contribute to，所以「看介系詞就知道」這一招在這一題完全失靈。【怎麼判斷】鑑別度高達 59，分開的正是有沒有先把句子的骨幹抓出來。主詞是三個並列的名詞 exhibits, discussions, and reflections（展覽、討論與省思），真正的動詞是後面的 are in focus。中間那一串沒有位置再放一個限定動詞，所以空格填的是掛在名詞後面的分詞，補充說明這三樣東西是什麼樣的東西。這就是後位修飾：分詞單獨一個放在名詞前面（a barking dog、a broken window），一旦後面還帶著東西（這裡帶了 to war, peace, and conflict resolution），整串就得移到名詞後面（the man standing there）。四個都是過去分詞、也都配 to，形態與介系詞都刷不掉任何一個，只能靠語意——這個中心的展覽與討論是「與戰爭、和平、衝突解決有關的」，只有 related 講得通。【干擾選項】be limited to 是「僅限於」，會變成「只限這三個主題」，與這一句開頭的 In addition（此外，還有）語意矛盾，那個轉承語正在加東西，不是在設限。be addicted to 是「對……上癮」，只用在人身上，reflections 不會上癮。contribute to 是「對……有所貢獻、促成」，方向相反，reflections contributed to war 會讀成「對戰爭有所貢獻的省思」。【常考字詞與句型】be related to（與……有關）、be limited to（僅限於）、be addicted to（對……上癮）、contribute to（對……有所貢獻）、conflict resolution（衝突解決）、in focus（成為焦點）。"
   },
   {
     "id": "Z101_16",
@@ -5469,7 +5485,9 @@
     "passageId": "101_16-20",
     "accuracyRate": 73,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "The tragedy 的 The 回指前一句「暴動造成多人喪生」",
+    "note": "【你可能會這樣想】四個選項都是抽象名詞，中文擺進去好像都能講通，你會挑一個讀起來最不奇怪的。【怎麼判斷】鑑別度高達 56，分開的是有沒有注意到空格前面那個 The。定冠詞 The 表示這個名詞指的是「剛剛已經提過的那一件事」，所以要往前一句找它到底指什麼——a riot at a Brussels soccer match occurred, in which many fans lost their lives（布魯塞爾一場足球賽發生暴動，許多球迷因此喪生）。死了很多人的事件，中文就是慘劇，英文用 tragedy。填進去讀成 The tragedy began 45 minutes before the start of the European Cup final（這場慘劇在歐洲盃決賽開賽前四十五分鐘就開始了）。【干擾選項】circumstance（情況、情勢）與 phenomenon（現象）都太中性，講不出死傷這一層，而且 phenomenon 指的是反覆出現、可以觀察的現象，不是一次性的突發事件；sequence（順序、一連串）要說明是「什麼的一連串」，單獨用不成意思。三個都是抽象名詞，形態吻合，容易被順手選走。【常考字詞與句型】tragedy（悲劇、慘劇）、phenomenon（現象，複數 phenomena）、circumstance（情況、情勢）、under no circumstances（絕不、在任何情況下都不）、break out（爆發，用於戰爭、火災、暴動）、lose one's life（喪生）。"
   },
   {
     "id": "Z101_17",
@@ -5491,7 +5509,8 @@
     "passageId": "101_16-20",
     "accuracyRate": 54,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項的中文都能說成「對抗、爭奪」，你會憑中文挑一個，不會去檢查它後面該不該接介系詞。【怎麼判斷】先數句子成分：空格後面緊接著名詞組 the Italian team，中間沒有介系詞的位置，所以空格填的必須是一個「後面可以直接接受詞」的及物用法。這一招一次刷掉三個：oppose to 本身就是錯的形態（oppose 是及物動詞，直接接受詞 oppose the plan，不接 to）；fight over 與 battle for 後面接的都是「爭奪的東西」，不是對手。剩下 compete against（與……對抗、較量），後面接的正是對手，填進去讀成 was scheduled to compete against the Italian team（預定要對上義大利隊）。compete 這個字的三種搭配值得一次記起來：compete against 或 compete with 接對手，compete for 接爭奪的目標。【干擾選項】oppose to 的冠詞與介系詞就不齊，形態本身有問題，這一招在片語題裡常常一眼刷掉一個選項；fight over a toy（為一個玩具吵架）、battle for independence（為獨立而戰），把 the Italian team 放進這兩個位置，會讀成「爭奪義大利隊」，語意不對。【常考字詞與句型】compete against（與……對抗、較量）、compete with（與……競爭）、compete for（爭取、爭奪）、be scheduled to V（預定要做某事）、fight over（為……爭吵）、battle for（為……而戰）。"
   },
   {
     "id": "Z101_19",
@@ -5513,7 +5532,8 @@
     "passageId": "101_16-20",
     "accuracyRate": 54,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「動詞加介副詞」的片語動詞，形態一模一樣，你會一個一個把中文代進去讀。【怎麼判斷】鑑別度高達 55。先看空格後面接的是什麼：the main exit（該區的主要出口），是一個地點。再看主詞與情境：The Italians, in panic（義大利球迷驚慌之下）——人在慌亂中，對著一個出口能做的事就是往那裡衝。四個選項裡只有 head for 是「朝……而去、前往」，後面接的正是目的地，填進去讀成 headed for the main exit（朝主要出口衝過去）。head 當名詞是「頭」，當動詞就是「把頭朝向那邊走過去」，兩個意思接得起來。【干擾選項】back up（支援；倒車；備份）後面接的是被支援的人或資料，不是地點；call out（大聲呼喊）後面接的是喊出來的話或被叫的人；pass on（傳遞下去）後面接的是被傳遞的東西。三個都是片語動詞，形態吻合，容易被順手選走，但把 the main exit 放進去都讀不成句子該有的意思。【常考字詞與句型】head for（朝……而去、前往）、in panic（驚慌之下）、back up（支援；倒車）、call out（大聲呼喊）、pass on（傳遞下去）、collapse（倒塌、崩塌）。"
   },
   {
     "id": "Z102_11",
@@ -6091,7 +6111,7 @@
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】mark 這個字，你的印象大概只有「做記號、標記」，所以看到 celebrations to mark 會覺得「慶祝活動去標記一個百年」很奇怪，反而覺得 help 或 take 讀起來比較安全。【怎麼判斷】四個選項是四個不同的動詞，文法上都放得進 to 後面的原形位置，可見這一格考的是語意，只能往前後文找。空格前是 as part of the celebrations to（作為慶祝活動的一環，而活動的目的是……），空格後是 Norway's centenary as an independent country（挪威獨立建國的百週年）。慶祝活動存在的目的，就是紀念這個百年。mark 除了做記號，還有「以活動或儀式紀念、慶祝某個日子或事件」這個意思（劍橋詞典 mark 詞條），常見的組合是 a ceremony to mark the anniversary。兩個意思是接得起來的：先在時間軸上把那個日子標出來，再為它辦活動，就是紀念。同一份試卷的第 16 題（supposedly）也是同一型，你最熟的那個意思都不是答案，兩題可以擺在一起看。【干擾選項】help（幫助）、solve（解決）、take（拿、花費）三個都是高頻字，但沒有一個與 centenary 組得起來：慶祝活動不會去「幫助」一個百年；solve 後面接的一定是待解的難題（solve a problem、solve a mystery），「解決一個百年」語意矛盾；take 若讀成「花費」，句子裡缺少要花掉的時間或金錢。【常考字詞與句型】mark an anniversary（紀念某個週年）、a ceremony to mark the occasion（為某個場合舉行的紀念儀式）、as part of ＋ 名詞（作為……的一環）、centenary（百週年）、be officially opened（正式開幕）、solve a problem（解決問題）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】mark 這個字，你的印象大概只有「做記號、標記」，所以看到 celebrations to mark 會覺得「慶祝活動去標記一個百年」很奇怪，反而覺得 help 或 take 讀起來比較安全。【怎麼判斷】四個選項是四個不同的動詞，文法上都放得進 to 後面的原形位置，可見這一格考的是語意，只能往前後文找。空格前是 as part of the celebrations to（作為慶祝活動的一環，而活動的目的是……），空格後是 Norway's centenary as an independent country（挪威獨立建國的百週年）。慶祝活動存在的目的，就是紀念這個百年。mark 除了做記號，還有「以活動或儀式紀念、慶祝某個日子或事件」這個意思（劍橋詞典 mark 詞條），常見的組合是 a ceremony to mark the anniversary。兩個意思是接得起來的：先在時間軸上把那個日子標出來，再為它辦活動，就是紀念。同一份試卷的第 16 題（supposedly）也是同一型，你最熟的那個意思都不是答案，兩題可以擺在一起看。另外一提：這一篇選文取自 101 年指考，同一格在那份卷子上是第 11 題，兩邊是同一題，不是網站重複。【干擾選項】help（幫助）、solve（解決）、take（拿、花費）三個都是高頻字，但沒有一個與 centenary 組得起來：慶祝活動不會去「幫助」一個百年；solve 後面接的一定是待解的難題（solve a problem、solve a mystery），「解決一個百年」語意矛盾；take 若讀成「花費」，句子裡缺少要花掉的時間或金錢。【常考字詞與句型】mark an anniversary（紀念某個週年）、a ceremony to mark the occasion（為某個場合舉行的紀念儀式）、as part of ＋ 名詞（作為……的一環）、centenary（百週年）、be officially opened（正式開幕）、solve a problem（解決問題）"
   },
   {
     "id": "Z107參_13",
