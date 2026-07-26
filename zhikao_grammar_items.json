@@ -934,7 +934,7 @@
     "accuracyRate": 53,
     "discrimination": 61,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】which 與 where 中文都能說成「那裡」，你會憑語感挑一個。【怎麼判斷】鑑別度高達 61。先看空格後面那個子句完不完整：only a few people can see it——主詞 only a few people、動詞 can see、受詞 it，樣樣都在，是一個完整的子句。既然子句不缺任何成分，空格填的就不能是關係代名詞（which 要在子句裡當主詞或受詞，這裡沒有位置給它），而要填關係副詞。先行詞是 unknown, guarded warehouses（不為人知、有人看守的倉庫），是地點，所以用 where。填進去讀成 It is held in unknown, guarded warehouses where only a few people can see it。這一招值得固定下來：看到關係詞的題目，先看空格後面那個子句缺不缺成分——缺主詞或缺受詞就用關係代名詞，主詞與受詞都齊全就用關係副詞。（所有格的 whose 是例外，它後面的子句本來就完整。）【干擾選項】which 是關係代名詞，要在子句裡佔一個位置，但那個子句已經滿了；until（直到）與 unless（除非）是連接詞，填進去語意也不通——「直到只有少數人看得到」「除非只有少數人看得到」都不成句意。【常考字詞與句型】where ＋ 完整子句（關係副詞，先行詞是地點）、which ＋ 缺成分的子句（關係代名詞）、in which 等於 where（在其中）、the reason why（……的原因）、be held in（被存放在）、a few（少數幾個）。"
+    "note": "【你可能會這樣想】which 與 where 中文都能說成「那裡」，你會憑語感挑一個。【怎麼判斷】鑑別度高達 61。關係詞的題目有一招最可靠：把先行詞代回子句裡，看它在子句裡以什麼形式出現，就用對應的那一個關係詞。這一題的先行詞是 unknown, guarded warehouses（不為人知、有人看守的倉庫），子句是 only a few people can see it。把倉庫代回去，句子要寫成 only a few people can see it in the warehouses——倉庫在子句裡是「在倉庫裡」這個地方副詞，既不是主詞也不是受詞，前面還得補一個介系詞。代回去變成地方副詞的，就用關係副詞 where。填進去讀成 It is held in unknown, guarded warehouses where only a few people can see it。這一招之所以可靠，是因為它連 whose 都涵蓋得住：the boy whose father is a doctor，把先行詞代回子句是 the boy’s father is a doctor，出現的形式是所有格 the boy’s，所以用 whose。代回去長什麼樣就用哪一個：當主詞用 who 或 which、當受詞用 whom 或 which、變成所有格用 whose、變成地方副詞用 where、變成時間副詞用 when。【干擾選項】which 是關係代名詞，代回去要能直接當主詞或受詞；但這一句代回去是 see it in the warehouses，倉庫前面少不了那個 in，所以 which 接不上（要用也得寫成 in which）。until（直到）與 unless（除非）是連接詞，填進去語意也不通——「直到只有少數人看得到」「除非只有少數人看得到」都不成句意。【常考字詞與句型】where（關係副詞，先行詞代回子句後變成地方副詞）、whose（關係代名詞的所有格，代回子句後變成所有格）、in which 等於 where（在其中）、the reason why（……的原因）、be held in（被存放在）、a few（少數幾個）。"
   },
   {
     "id": "Z94_28",
