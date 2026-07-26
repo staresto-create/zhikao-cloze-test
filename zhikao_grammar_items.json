@@ -1640,7 +1640,8 @@
     "hasFullPassage": true,
     "accuracyRate": 56,
     "discrimination": 43,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是從屬連接詞、後面都接子句，形態上刷不掉，你會一個一個代進去讀。【怎麼判斷】這是邏輯勾環：要判斷的是兩個子句之間的邏輯關係。先把兩邊講的事讀清楚：空格後的子句是 they are still called “phones”（它們仍然被叫做「電話」，而 phone 這個字在希臘文裡就是「聲音」）；主要子句是 making voice calls may no longer be their primary function（打語音電話可能不再是它們的主要功能）。名字還叫電話，功能卻不再以講電話為主——兩邊語意相反，這就是讓步關係，用 Even if（即使、縱使）。填進去讀成 Even if they are still called “phones,” making voice calls may no longer be their primary function。【干擾選項】As long as（只要）是條件，會讀成「只要還叫電話，打電話就不再是主要功能」，前後成了因果，說不通；Just as（正如、就像）要求前後是相似的類比，但這裡兩邊相反；Only when（只有當……時）也是條件，而且放句首時主要子句一定要倒裝，本句沒有倒裝，形態上就先出局——先看主要子句有沒有倒裝，比慢慢想語意快得多。【常考字詞與句型】even if（即使、縱使）、even though（雖然，用於既成事實）、as long as（只要）、just as（正如、就像）、only when ＋ 主要子句倒裝（只有當……時）、primary function（主要功能）。"
   },
   {
     "id": "Z97_14",
@@ -1663,7 +1664,8 @@
     "hasFullPassage": true,
     "accuracyRate": 62,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是兩個字組成的片語動詞，你會憑哪個中文順就選了它。【怎麼判斷】鑑別度高達 63。先看空格後面接的是什麼：一長串東西——遙控器、家門鑰匙、掌上遊戲機、地圖、手電筒——全都是別的裝置。所以這一句在說「一支手機同時兼任這些東西的角色」，四個選項裡只有 serve as 是「充當、兼作」，後面接的正是它扮演的那個角色。填進去讀成 the phones may serve as house keys, maps, flashlights（手機可以兼作家門鑰匙、地圖、手電筒）。serve 的兩種常見用法可以擺在一起記：serve as ＋ 角色是「充當」，serve ＋ 人或食物是「服務、供餐」。【干擾選項】call for（需要、要求）後面接的是所需要的東西，手機不是「需要」那些裝置；get over（克服、痊癒）後面接的是困難或疾病；relate to（與……有關）鬆散地讀起來也通、形態也吻合，容易被順手選走，但它只說得出「有關聯」，講不出「取代並兼任」這一層，與下一句「人生的萬能遙控器」那個口氣對不上。【常考字詞與句型】serve as（充當、兼作）、act as（扮演……的角色）、call for（需要、要求）、get over（克服、痊癒）、relate to（與……有關）、house keys（家門鑰匙）。"
   },
   {
     "id": "Z97_15",
@@ -1687,7 +1689,8 @@
     "accuracyRate": 63,
     "discrimination": 61,
     "contextSpan": "跨句",
-    "contextNote": "In short 總結前面幾句對未來手機的描述"
+    "contextNote": "In short 總結前面幾句對未來手機的描述",
+    "note": "【你可能會這樣想】四個選項都是轉承語，你會憑中文挑一個，By the way 尤其眼熟，很容易先被選走。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。鑑別度高達 61，分開的是有沒有看出這一句在收尾。前面幾句一路在鋪陳未來手機的種種變化——外觀看不見、可以嵌進身體、功能一大堆、還能兼作各種裝置；空格這一句 they will be “the remote-control for life”（它們將成為「人生的遙控器」）是把前面那一大串收攏成一句話。把講過的內容收攏成結論，用 In short（簡言之、總之）。填進去讀成 In short, they will be “the remote-control for life”。【干擾選項】As yet（迄今為止）多配否定、講的是「到目前為止還沒有」，但這一句講的是未來；By the way（順帶一提）是要換一個不相干的話題，這一句不是插話而是總結；On the contrary（相反地）要求後面推翻前面，但這一句與前面完全同方向。【常考字詞與句型】in short（簡言之、總之）、in a word（總之、一句話）、as yet（迄今為止，多配否定）、by the way（順帶一提）、on the contrary（相反地）、no longer（不再）。"
   },
   {
     "id": "Z97_16",
@@ -1922,7 +1925,8 @@
     "hasFullPassage": true,
     "accuracyRate": 53,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 in 開頭的片語，長得像一家人，你會憑哪個中文順挑一個。【怎麼判斷】鑑別度高達 55，分開的是有沒有注意到空格後面那個 that。空格後是 that the “patient” understands them completely，一個完整的 that 子句；四個選項裡只有 in order 能直接接 that 子句組成 in order that（以便、為了使……），那是表目的的連接詞。填進去讀成 communicate clearly in order that the patient understands them completely（清楚溝通，好讓病人完全聽懂）。同一個意思的三種說法可以一起記：in order that ＋ 子句、so that ＋ 子句、in order to ＋ 原形動詞。【干擾選項】in return（作為回報）後面要接 for ＋ 名詞，不接 that 子句；in case 雖然也能接子句，但它是「以防萬一」，會讀成「以防病人完全聽懂」，語意剛好相反；in addition（此外）是轉承語，後面要接一個獨立的句子或 to ＋ 名詞，接不上這裡的 that 子句。三個都是 in 開頭的片語，形態吻合，容易被順手選走。【常考字詞與句型】in order that ＋ 子句（以便、為了使……）、in order to ＋ 原形動詞（為了）、in return for（作為……的回報）、in addition to（除……之外）、be forced to V（被迫做某事）、communicate clearly（清楚溝通）。"
   },
   {
     "id": "Z98_16",
@@ -1969,7 +1973,8 @@
     "hasFullPassage": true,
     "accuracyRate": 69,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 wh- 加 -ever，長得一模一樣，你會憑中文挑一個。【怎麼判斷】先看空格在句子裡的位置：gave ______ they could to their daughter，動詞 gave 後面缺一個受詞，也就是給出去的東西，空格就是要填那個受詞。所以空格要的是一個自己帶著先行詞、整包當名詞用的複合關係詞。四個選項照語意分流：whoever 指人（等於 anyone who）、whenever 指時間、whichever 是在已經限定好的一組裡挑一個、whatever 指事物而且範圍開放（等於 anything that）。父母給出去的是東西，而且是「所有能給的」，範圍沒有限定，所以用 whatever。還原一次驗算：the parents gave anything that they could (give) to their daughter。順帶留意句尾 they could 後面的動詞被省略了，省掉的正是重複的 give，這與國中學過的 Do you like it?—Yes, I do. 是同一件事，重複的部分不必再說一次。【干擾選項】whoever 會讀成「父母把能給的人都給了女兒」；whenever 引導的是時間副詞子句，不能當 gave 的受詞；whichever 要求前面先限定好一組東西讓你挑，這一句沒有那一組。三個都是 wh- 加 -ever 的形態，形態吻合，容易被順手選走。【常考字詞與句型】whatever 等於 anything that（無論什麼、任何……的東西）、whoever 等於 anyone who（無論是誰）、whichever（無論哪一個，範圍已限定）、the dowry system（嫁妝制度）、the groom's family（新郎家）、consequently（結果、因此）。"
   },
   {
     "id": "Z98_20",
@@ -1992,7 +1997,8 @@
     "hasFullPassage": true,
     "accuracyRate": 45,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是比較級，形態一樣，你會憑中文哪個順挑一個。【怎麼判斷】答對率四成五。先認出句型：The more educated a man is, the ______ is the expectation for dowry。這是「the ＋ 比較級, the ＋ 比較級」的句型，兩個 the 後面各配一個比較級，意思是「越……就越……」。四個選項都是比較級，這一步刷不掉，關鍵在方向與搭配。前半是 more educated（受教育程度越高），後半的主詞是 the expectation for dowry（對嫁妝的期望），兩者同方向遞增，所以要用 higher（更高的）。為什麼是 high 而不是 good 或 bad：expectation 這個字習慣配 high 與 low（high expectations），這是字詞搭配的問題，不是評價好壞。填進去讀成 the higher is the expectation for dowry（對嫁妝的期望就越高）。末句也能驗算：受過高等教育的女子被要求準備更多嫁妝，因為她們多半嫁給學歷更高的男子。【干擾選項】lower（更低的）方向剛好相反；better（更好的）與 worse（更糟的）是在評價好壞，但這一句要的是期望的高低，而 expectation 不與 good、bad 搭配。三個都是比較級，形態吻合，容易被順手選走。【常考字詞與句型】the ＋ 比較級, the ＋ 比較級（越……就越……）、high expectations（很高的期望）、live up to expectations（達到期望）、be required to V（被要求做某事）、at the time of（在……的時候）、highly educated（受過高等教育的）。"
   },
   {
     "id": "Z99_12",
@@ -2015,7 +2021,8 @@
     "hasFullPassage": true,
     "accuracyRate": 70,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 If 你大概直接讀成「如果……就……」，順手填一個現在式進去；但這一句的 If 子句用的是過去式 used，那正是一個訊號。【怎麼判斷】鑑別度高達 58，分開的是有沒有先看 If 子句的動詞形態。If 子句寫的是 used（過去式），可是講的並不是過去的事——太陽現在就在那裡，是我們現在沒有多用它。這就是與現在事實相反的假設語氣，公式是 If ＋ 過去式，主要子句用 would／could／might ＋ 原形動詞。國中的掛鉤就是 If I were you, I would tell him.（我不可能是你，所以 were 配 would）。四個選項裡只有 could supply 符合這個形態，填進去讀成 it could supply all the power needed throughout the world（它就能供應全世界所需的電力）。【干擾選項】supplies 是現在式，會把整句讀成單純的條件句，與 If 子句的過去式對不上；has supplied 是現在完成式、was supplying 是過去進行式，兩個都在陳述已經發生或當時正在發生的事實，與「假設」剛好相反。三個都是 supply 的形態，形態吻合，容易被順手選走。【常考字詞與句型】If ＋ 過去式，S ＋ would／could ＋ 原形動詞（與現在事實相反的假設語氣）、If I were you（如果我是你）、supply A with B（供應 A 以 B）、harness energy（利用、駕馭能源）、throughout the world（全世界）、all the power needed（所需的全部電力）。"
   },
   {
     "id": "Z99_13",
@@ -2038,7 +2045,8 @@
     "hasFullPassage": true,
     "accuracyRate": 79,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】transform 的中文是「轉變」，你很可能想成「從陽光轉變過來」而選 from，方向剛好搞反。【怎麼判斷】先確認空格前後各是什麼：前面是 transform sunlight（把陽光轉變），後面是 electric power（電力）。轉變一定有起點與終點，這一句的起點 sunlight 已經寫在動詞後面，electric power 是終點；transform A into B 的 into 標的正是終點——變成什麼。填進去讀成 transform sunlight directly into electric power（把陽光直接轉換成電力）。同一組的說法可以一起記：change A into B、turn A into B、translate A into B，介系詞一律用 into。【干擾選項】from 標的是起點，但起點已經寫出來了，再用 from 會變成兩個起點；with 標的是工具或伴隨的東西，電力不是拿來轉換的工具；off 講的是離開表面或關掉，接不上 transform。【常考字詞與句型】transform A into B（把 A 轉變成 B）、turn A into B（把 A 變成 B）、be equipped with（配備有）、absorb heat（吸收熱能）、solar cells（太陽能電池）、electric power（電力）。"
   },
   {
     "id": "Z99_15",
@@ -2062,7 +2070,8 @@
     "accuracyRate": 51,
     "discrimination": 68,
     "contextSpan": "跨句",
-    "contextNote": "What's more 累加前一句對化石燃料的批評"
+    "contextNote": "What's more 累加前一句對化石燃料的批評",
+    "note": "【你可能會這樣想】四個選項都是轉承語，你知道要看前後關係，但這一段前後好像都在講化石燃料的不好，方向看起來一樣，一時分不出該用哪一個。【怎麼判斷】答對率剛好五成，鑑別度高達 68，是本批最會分人的一題，分開的是有沒有看出這一段在列清單。這是邏輯勾環，而且線索要往前跨兩句才完整：Solar energy has a lot to offer（太陽能有很多好處）先開了一個清單，To begin with, it is a clean fuel（首先，它是乾淨的燃料）是清單上的第一項。空格這一句講的是第二項——化石燃料會用完，太陽能不會。既然是在同一個清單上再加一項，用的就是累加的轉承語 What's more（此外、而且）。填進去讀成 What's more, fossil fuels will run out, but solar energy will continue to reach the Earth。填不出來的時候，先確認這一段是不是在列清單、空格落在第幾項，往往一步就定案。【干擾選項】Therefore（因此）要求後面是前面造成的結果，但化石燃料會枯竭並不是「排放有害物質」造成的；In comparison（相比之下）與前一句開頭的 In contrast 撞在一起，同一組對比連著用兩次讀不通，而且這一句真正在做的是加一項、不是再比一次；Otherwise（否則）要求前面先有一個條件或指示，這裡沒有。【常考字詞與句型】what's more（此外、而且）、to begin with（首先）、run out（用完、耗盡）、run dry（枯竭、乾涸）、in comparison（相比之下）、have a lot to offer（有很多好處可提供）。"
   },
   {
     "id": "Z99_17",
@@ -2085,7 +2094,8 @@
     "hasFullPassage": true,
     "accuracyRate": 61,
     "discrimination": 35,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個字 impair 的四種形態，你會直覺開始分主動被動、找意義主詞。【怎麼判斷】先看它跟誰並列：targeted at the blind and visually ______，and 連的是 the blind（視障者）與空格這一串，兩邊都是這個展廳服務的人。空格前的 visually 是副詞，副詞修飾的是形容詞或分詞，所以空格填的是被它修飾的那個字。再判方向：視覺是「受到損害」的一方，不是自己去損害別人，所以用過去分詞 impaired。visually impaired 是講視障最常見的說法，整組記起來就好。填進去讀成 the blind and visually impaired（視障與視覺受損的人）。鑑別度只有 35，但它本身不難：副詞後面接分詞、加上「受損」要用被動這兩層，各種程度的人都答得出來，題目自然分不出高低。【干擾選項】impair 與 impairs 都是限定動詞，前面沒有主詞可以搭；impairing 是現在分詞、表示主動去損害別人，方向相反。【常考字詞與句型】visually impaired（視覺受損的、視障的）、hearing impaired（聽覺受損的）、impair（損害、削弱）、be targeted at（針對……而設）、the ＋ 形容詞（表一群人，the blind 視障者）、sculpture（雕塑作品）。"
   },
   {
     "id": "Z99_20",
@@ -4895,7 +4905,8 @@
     "passageId": "97_11-15",
     "accuracyRate": 62,
     "discrimination": 62,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是過去分詞，形態一樣，你會挑一個中文讀起來最順的。【怎麼判斷】鑑別度高達 62，分開的是有沒有接住破折號前後那條線。這是同義勾環：破折號前面是 future phones will not only look very different（未來的手機不只長得很不一樣），關鍵字是 look（看起來）；破折號後面用 not only 的下半段把話再推一步——連「被看到」都不一定。look 與 be seen 講的是同一件事、同一個感官，所以空格填 seen。填進去讀成 they may not even be seen（它們甚至可能不會被看到）。下一句 They may be hidden in jewelry or accessories, or even embedded in the body（可能藏在珠寶或配件裡，甚至嵌進身體）正是在說明為什麼看不到，可以拿來驗算。【干擾選項】heard（被聽到）與手機的關係看似最近，但破折號前講的是外觀，不是聲音；sold（被賣）與 changed（被改變）文法上都放得進去，形態吻合，容易被順手選走，但兩個都接不上「外觀」這條線——手機當然還是會被賣、會被改良，那樣寫 not even 就完全沒有加強的效果。【常考字詞與句型】not only ... but also ...（不只……而且……）、be embedded in（嵌入、植入）、be hidden in（藏在……裡）、additional features（額外的功能）、evolve（演化、發展）、accessories（配件）。"
   },
   {
     "id": "Z97_12",
@@ -5075,7 +5086,9 @@
     "passageId": "98_11-15",
     "accuracyRate": 42,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "跨句",
+    "contextNote": "Pharmacy 呼應前一句的 pharmacists（訓練未來的藥師）",
+    "note": "【你可能會這樣想】四個選項都是學院的名稱，文法上都放得進 School of 後面，你會憑印象挑一個最常見的。【怎麼判斷】答對率四成二。這是同義勾環：空格要的字，前一句已經用另一個詞性講出來了——to help train the pharmacists of the future（協助訓練未來的藥師）。pharmacists 是「藥師」，換成學院的名稱就是 Pharmacy（藥學），同一個字根、不同詞性。填進去讀成 the university's School of Pharmacy（這所大學的藥學院）。這一格靠自己這一句判不出來，四個學院填進去都合文法，線索一定在前一句。順帶把同字根的變化一起記：pharmacy（藥學、藥局）、pharmacist（藥師）、pharmaceutical（製藥的）。【干擾選項】Education（教育）、Business（商學）、Humanities（人文學科）三個都是真實存在的學院名稱，形態吻合，容易被順手選走；但整篇講的是訓練藥師、模擬病人、藥物過敏反應，沒有一句與教育、商學或人文有關。【常考字詞與句型】School of Pharmacy（藥學院）、pharmacist（藥師）、a virtual patient（虛擬病人）、gain experience in（累積……的經驗）、decision-making（決策）、the humanities（人文學科）。"
   },
   {
     "id": "Z98_12",
@@ -5097,7 +5110,8 @@
     "passageId": "98_11-15",
     "accuracyRate": 54,
     "discrimination": 29,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】emotion 的中文是「情緒」，而 pain 是「疼痛」——你很可能一讀到就覺得「疼痛不是情緒」，於是把正確答案自己刷掉了。【怎麼判斷】鑑別度只有 29，是本批最低的一題。連高分群考生也常在這一格失手，原因正是想得越細越容易吃虧：中文裡疼痛是身體的感覺、情緒是心裡的感受，兩者看起來不同類，emotions 就被排掉了。但 pain 這個字本身就有第二個義項——心理或情緒上的痛苦（劍橋、柯林斯與大英詞典的 pain 詞條都把 mental or emotional suffering 單獨列為一義），擺在 stress 與 anxiety 旁邊並不突兀。判準用並列來定：such as 後面並列的三樣東西必須同一類，後兩個 stress（壓力）與 anxiety（焦慮）明明白白是情緒，那第一個 pain 也就要被歸在同一類看，空格因此要填 emotions。填進去讀成 to indicate emotions such as pain, stress or anxiety。【干擾選項】expressions（表情、說法）指的是表現出來的樣子，但 pain、stress、anxiety 是被表現的內容，不是表現的方式，而且句子前半的 responds verbally or with gestures 已經把「怎麼表現」講完了；elements（要素）與 events（事件）都太空泛，疼痛與焦慮既不是要素也不是事件。三個都是複數名詞，形態吻合，容易被順手選走。【常考字詞與句型】emotions such as（諸如……的情緒）、indicate（表示、顯示）、respond verbally（以口語回應）、with gestures（用手勢）、anxiety（焦慮）、expression（表情；說法）。"
   },
   {
     "id": "Z98_14",
@@ -5165,7 +5179,8 @@
     "passageId": "98_16-20",
     "accuracyRate": 44,
     "discrimination": 64,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能擺在 very 後面，你會憑中文挑一個讀起來順的。【怎麼判斷】答對率四成四，鑑別度高達 64，是本批最會分人的一題，分開的是有沒有先讀懂 deteriorated 這個字。同一句的動詞是 had deteriorated to a point（惡化到某個程度），deteriorate 就是「變壞、惡化」，它已經把方向定了：後面那個形容詞必須落在壞的那一邊。pleasant（愉快的）與 sympathetic（有同情心的）都在好的那一邊，一步刷掉。剩下 greedy（貪心的）與 regretful（後悔的），再看主詞是誰——the groom and his family（新郎與他的家人），惡化的是他們索討嫁妝的態度，不是他們感到後悔，所以是 greedy。填進去讀成 had become very greedy（變得非常貪心）。往下一句也能驗算：嫁妝的要求沒被滿足，新娘就會受到虐待，要求越來越多，正是貪得無厭的表現。【干擾選項】pleasant 與 sympathetic 方向相反，被 deteriorated 直接排除；regretful 雖然也是負面的情緒，但它講的是對已經做過的事感到後悔，與「制度一路惡化」的因果對不上。三個都是形容詞，形態吻合，容易被順手選走。【常考字詞與句型】greedy（貪心的、貪得無厭的）、deteriorate（惡化、變壞）、to a point whereby ＋ 子句（到了……的程度）、meet a demand（滿足要求）、sympathetic（有同情心的）、regretful（後悔的）。"
   },
   {
     "id": "Z98_19",
@@ -5210,7 +5225,8 @@
     "passageId": "99_11-15",
     "accuracyRate": 72,
     "discrimination": 47,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 re- 開頭的動詞，長得像一家人，掃過去每一個都眼熟，於是憑哪個讀起來順就選了它。【怎麼判斷】四個選項都是及物動詞、後面都接得上 energy，形態這條路刷不掉，可見這一格考的是語意。真正的線索在空格後面的 from the sun——from 標出的是來源，而四個選項裡能配 from 講「從某處得到」的只有 receive（收到、接收）。receive A from B 是成組的說法。填進去讀成 the Earth receives 20,000 times more energy from the sun than we currently use（地球從太陽接收到的能量，是我們目前用量的兩萬倍）。【干擾選項】repeats（重複）後面接的是被重複的動作或話；rejects（拒絕、排斥）方向剛好相反——地球不是把太陽能擋回去，而是收下來；reduces（減少）後面接的是被減少的量，與 20,000 times more（多達兩萬倍）語意矛盾。三個都是 re- 開頭的動詞，形態吻合，容易被順手選走。【常考字詞與句型】receive A from B（從 B 收到 A）、a source of energy（能源、能量來源）、reject（拒絕、排斥）、reduce（減少）、times more than（是……的幾倍）、currently（目前、現在）。"
   },
   {
     "id": "Z99_14",
@@ -5233,7 +5249,8 @@
     "accuracyRate": 77,
     "discrimination": 55,
     "contextSpan": "跨句",
-    "contextNote": "In contrast 與前一句「太陽能是乾淨燃料」相對照"
+    "contextNote": "In contrast 與前一句「太陽能是乾淨燃料」相對照",
+    "note": "【你可能會這樣想】四個選項都是形容詞，都能修飾後面的 substances，你會憑中文哪個順挑一個。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。句首的 In contrast（相較之下）就是那個勾環——它要求前後兩句站在相反的位置。前一句是 To begin with, it is a clean fuel（首先，太陽能是乾淨的燃料）；既然 In contrast 把方向翻過來，這一句講化石燃料燃燒後排出的東西，就必須是「不乾淨」的那一邊，也就是 harmful（有害的）。填進去讀成 release harmful substances into the air（把有害物質排放到空氣中）。【干擾選項】usable（可用的）與 clean 站在同一邊，被 In contrast 直接排除；changeable（易變的）講的是會不會變化，與乾不乾淨無關；diligent（勤奮的）只用在人身上，物質不會勤奮。三個都是形容詞，形態吻合，容易被順手選走。【常考字詞與句型】harmful（有害的）、be harmful to（對……有害）、in contrast（相較之下）、release A into the air（把 A 排放到空氣中）、fossil fuels（化石燃料）、usable（可用的）。"
   },
   {
     "id": "Z99_16",
@@ -5278,7 +5295,8 @@
     "passageId": "99_16-20",
     "accuracyRate": 64,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 co- 開頭的抽象名詞，長得像一家人，掃過去挑一個最眼熟的就填了。【怎麼判斷】鑑別度高達 60，分開的是有沒有注意到 a ______ of 這個框架。a ______ of 後面接的是一串複數名詞（獅子、蛇、馬、鷹的雕塑），所以空格要的是一個能把一群東西收攏起來的名詞——a collection of（一批、一組、一系列）。填進去讀成 a collection of sculpted lions, snakes, horses and eagles（一批獅子、蛇、馬、鷹的雕塑）。這一招值得記住：看到 a ______ of ＋ 複數名詞，先問「哪一個字是在講一群」。【干擾選項】cooperation（合作）與 contribution（貢獻）講的是人與人之間的行為，不是一群東西；completion（完成）講的是一件事到了尾聲。三個都是 co- 開頭的抽象名詞，形態吻合，容易被順手選走。【常考字詞與句型】a collection of（一批、一組、一系列）、a group of（一群）、cooperation（合作）、completion（完成）、contribution（貢獻）、reproduction（複製品）。"
   },
   {
     "id": "Z99_19",
