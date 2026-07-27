@@ -368,7 +368,39 @@
   #singleReportId{display:block; margin-bottom:4px; font-family:'IBM Plex Mono',monospace;}
 
   footer{text-align:center; margin-top:32px; color:var(--ink-soft); font-size:11px; font-family:'IBM Plex Mono',monospace;}
-</style>
+
+  .ann-box{background:#EFF3ED; border:1px solid var(--sage); border-radius:4px; padding:12px 16px; margin-bottom:20px; display:flex; align-items:center; gap:14px; flex-wrap:wrap;}
+  .ann-box .ann-main{font-family:'Noto Serif TC',serif; font-weight:900; font-size:15px; color:var(--sage);}
+  .ann-box .ann-sub{font-size:12.5px; color:var(--ink-soft);}
+  .info-box{background:var(--paper-card); border:1px solid var(--rule); border-radius:4px; padding:14px 16px; margin-bottom:20px;}
+  .info-box .stitle{font-family:'Noto Serif TC',serif; font-weight:900; font-size:14px; color:var(--ink); margin-bottom:2px;}
+  .info-box .ssub{font-size:11.5px; color:var(--ink-soft); margin-bottom:12px;}
+  .stat-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-bottom:14px;}
+  .stat-card{background:#FBF8EE; border:1px solid var(--rule); border-radius:4px; padding:12px 14px;}
+  .stat-num{font-size:32px; font-weight:700; line-height:1.1; font-family:'IBM Plex Mono',monospace;}
+  .stat-lab{font-size:13px; color:var(--ink); margin-top:4px;}
+  .stat-sub{font-size:11.5px; color:var(--ink-soft);}
+  .cat-bar{display:flex; height:22px; border-radius:3px; overflow:hidden; margin-bottom:8px;}
+  .cat-key{font-size:11.5px; color:var(--ink-soft); line-height:1.9;}
+  .cat-key i{display:inline-block; width:9px; height:9px; border-radius:2px; margin-right:5px; font-style:normal;}
+  .pt-row{display:flex; gap:10px; padding:9px 0; border-bottom:1px dashed var(--rule); font-size:13px; color:var(--ink); line-height:1.6;}
+  .pt-row:last-child{border-bottom:none;}
+  .pt-eg{font-size:11.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace; white-space:nowrap;}
+  .rc-row{display:flex; gap:11px; padding:11px 0; border-bottom:1px dashed var(--rule);}
+  .rc-row:last-child{border-bottom:none;}
+  .rc-num{width:21px; height:21px; border-radius:50%; color:#FFFDF7; font-size:12px; display:flex; align-items:center; justify-content:center; flex-shrink:0; font-family:'IBM Plex Mono',monospace;}
+  .rc-txt{font-size:13.5px; color:var(--ink); line-height:1.5;}
+  .rc-txt span{font-size:11.5px; color:var(--ink-soft);}
+
+  @media (max-width:560px){
+    .stat-grid{grid-template-columns:1fr; gap:8px;}
+    .stat-card{display:flex; align-items:center; gap:14px;}
+    .stat-num{min-width:66px;}
+    .stat-lab{margin-top:0;}
+    .pt-row{flex-direction:column; gap:2px;}
+    .pt-eg{white-space:normal;}
+  }
+  </style>
 </head>
 <body>
 <div class="wrap">
@@ -380,8 +412,74 @@
   <!-- HOME -->
   <div id="home">
     <div class="status-banner">
-      <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
+      <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。題庫與解析均已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
     </div>
+
+    <div class="ann-box">
+      <span class="ann-main">每一題都有深入解析</span>
+      <span class="ann-sub">作答之後點題目下方的「▸ 看解析」展開：你可能會這樣想／怎麼判斷／干擾選項／常考字詞與句型</span>
+    </div>
+
+    <div class="info-box">
+      <div class="stitle">這 305 題到底在考什麼？</div>
+      <div class="ssub">依本站自訂分類統計，非官方分類</div>
+      <div class="stat-grid">
+        <div class="stat-card"><div class="stat-num" style="color:var(--sage);">59%</div><div><div class="stat-lab">是字彙與片語</div><div class="stat-sub">真正的文法題不到四成</div></div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--gold);">82%</div><div><div class="stat-lab">答案在同一句</div><div class="stat-sub">305 題中有 250 題</div></div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--crimson);">43%</div><div><div class="stat-lab">句型結構答對率</div><div class="stat-sub">題數最少，卻最難</div></div></div>
+      </div>
+      <div class="cat-bar">
+        <div style="width:38.7%; background:#3E6E52;"></div>
+        <div style="width:20.3%; background:#6E9B7E;"></div>
+        <div style="width:12.5%; background:#A9812E;"></div>
+        <div style="width:9.5%; background:#C7A75E;"></div>
+        <div style="width:19.0%; background:#DCD3BB;"></div>
+      </div>
+      <div class="cat-key">
+        <i style="background:#3E6E52;"></i>字彙選義 118　<i style="background:#6E9B7E;"></i>慣用語／片語 62　<i style="background:#A9812E;"></i>連接詞／轉承語 38<br>
+        <i style="background:#C7A75E;"></i>介系詞 29　<i style="background:#DCD3BB;"></i>其餘六類 58
+      </div>
+      <div class="dh-body" id="statHelpBody">
+        指考與學測有一個明顯差別：<b>連接詞／轉承語佔 12.5%、介系詞佔 9.5%，比例都是學測的兩倍以上</b>——這兩類在指考卷上特別值得練。<br>
+        各類的平均答對率：句型結構 43%、慣用語／片語 48%、字彙選義 50%、介系詞 50%、時態／語態 50%、分詞／動狀詞 53%、比較級 53%、代名詞／指示詞 55%、連接詞／轉承語 55%、關係子句／疑問詞 62%。<b>題數最少的句型結構反而最難</b>，遇到就要慢下來。<br>
+        指考英文已於 110 年最後一次施測，這 305 題現在最適合當作學測的進階練習。
+      </div>
+      <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div>
+      <div style="margin-top:12px; padding-top:10px; border-top:1px dashed var(--rule); font-size:13px; color:var(--ink); line-height:1.75;">
+        失分多半不是讀不懂文章，是<b style="color:var(--sage);">字詞搭配不夠熟</b>。句子就在眼前，卻分不出四個選項的差別。
+      </div>
+    </div>
+
+    <div class="info-box">
+      <div class="stitle">最常考的考點</div>
+      <div class="ssub">老師從全部解析裡點出來的重複考點，依重要性排序</div>
+      <div class="pt-row"><div style="flex:1;">並列結構：<b>先找對等連接詞</b>，再照抄前面那一個的形態</div><div class="pt-eg">例：104 年第 15 題</div></div>
+      <div class="pt-row"><div style="flex:1;">分詞當形容詞：<b>看名詞與動作的關係</b>是主動還是被動</div><div class="pt-eg">例：91 年第 26 題</div></div>
+      <div class="pt-row"><div style="flex:1;">關係副詞 <b>where 不只指地點</b>，也能引導抽象的情況</div><div class="pt-eg">例：91 年第 19 題</div></div>
+      <div class="pt-row"><div style="flex:1;">轉承語<b>可以夾在主詞與動詞中間</b>，不一定站句首</div><div class="pt-eg">例：91 年第 16 題</div></div>
+      <div class="pt-row"><div style="flex:1;"><b>what ＝ the thing(s) that</b>，進不進得來看子句缺不缺成分</div><div class="pt-eg">例：91 年第 25 題</div></div>
+      <div class="pt-row"><div style="flex:1;">強調句型 <b>It is ... that ...</b>，被強調的成分搬到 It is 後面</div><div class="pt-eg">例：91 年第 24 題</div></div>
+    </div>
+
+    <div class="info-box">
+      <div class="stitle">最近新增</div>
+      <div class="ssub">新到舊</div>
+      <div class="rc-row"><div class="rc-num" style="background:#3E6E52;">1</div><div class="rc-txt">指考克漏字 305 題深入解析<br><span>全庫完成</span></div></div>
+      <div class="rc-row"><div class="rc-num" style="background:#6E9B7E;">2</div><div class="rc-txt">學測克漏字 565 題深入解析<br><span>全庫完成</span></div></div>
+      <div class="rc-row"><div class="rc-num" style="background:#A9812E;">3</div><div class="rc-txt">學測文意選填<br><span>全新題庫上線</span></div></div>
+    </div>
+
+    <div class="info-box">
+      <div class="stitle">這些解析是怎麼做出來的</div>
+      <div class="ssub">老師與 AI 共同撰寫，第二個 AI 交叉校閱，老師逐則看過</div>
+      <div class="dh-body" id="madeHelpBody">
+        每一則解析由老師與 AI（Claude）共同撰寫，再經第二個 AI（Gemini）交叉校閱，最後<b>由老師逐則看過</b>才上站；文法說法一律查證權威來源（如劍橋 English Grammar Today），並在文中註明出處。<br>
+        即使如此，<b>錯誤仍然可能存在</b>：官方答對率的轉錄可能有疏漏；文法分類與線索範圍是老師的教學判斷、不是官方分類，見仁見智之處在所難免。本站列出的各類題數與比例，也是依這一套自訂分類算出來的，換一套分法數字就會不同。<br>
+        若解析與你的課本或辭典說法不同，請以權威來源與任課老師的說明為準。<b>發現任何錯誤，歡迎回報</b>，我會逐筆核對更正。
+      </div>
+      <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div>
+    </div>
+
     <div class="span-box">
       <div class="stitle">📊 關於本站的答對率（P 值）與鑑別度（D 值）</div>
       題目下方的兩個數字全部來自<b>大考中心公布的官方統計</b>：<b>答對率</b>愈低代表題目愈難，<b>鑑別度</b>愈高代表愈能區分程度。
