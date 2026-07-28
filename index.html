@@ -237,7 +237,7 @@
   .main-thesis{background:transparent; text-decoration:none; transition:.3s;}
   .main-thesis.hint-on{background:#CFE3F5; box-shadow:inset 0 -2px 0 #6FA8DC;}
   .dual-role{background:transparent; transition:.3s;}
-  .dual-role.hint-on{background:linear-gradient(135deg, #FDF3B8 50%, #CFE3F5 50%); box-shadow:inset 0 -2px 0 #6FA8DC;}
+  .dual-role.hint-on{background:#D4EBC4; box-shadow:inset 0 -2px 0 #7CA85C;}
   .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
   .level-select-row{display:flex; align-items:center; gap:6px; margin-bottom:10px; flex-wrap:wrap;}
   .level-caption{font-size:11.5px; color:var(--ink-soft); margin-bottom:8px; line-height:1.6;}
@@ -372,6 +372,16 @@
   .ann-box{background:#EFF3ED; border:1px solid var(--sage); border-radius:4px; padding:12px 16px; margin-bottom:20px; display:flex; align-items:center; gap:14px; flex-wrap:wrap;}
   .ann-box .ann-main{font-family:'Noto Serif TC',serif; font-weight:900; font-size:15px; color:var(--sage);}
   .ann-box .ann-sub{font-size:12.5px; color:var(--ink-soft);}
+  .static-entry{background:var(--paper-card); border:1px solid var(--rule); border-left:4px solid var(--crimson);
+    border-radius:4px; padding:14px 16px; margin-bottom:20px;}
+  .static-entry .se-main{display:block; font-family:'Noto Serif TC',serif; font-weight:700; font-size:16px; margin-bottom:6px;}
+  .static-entry .se-sub{display:block; font-size:13px; color:var(--ink-soft); line-height:1.75; margin-bottom:12px;}
+  .static-entry .se-links{display:flex; flex-wrap:wrap; gap:9px;}
+  .static-entry .se-links a{display:inline-block; padding:8px 14px; border:1.5px solid var(--rule);
+    border-radius:4px; background:#fff; text-decoration:none; font-size:13.5px; color:var(--ink);}
+  .static-entry .se-links a:hover{border-color:var(--crimson); color:var(--crimson);}
+  .static-entry .se-links a.hard{border-color:var(--crimson); color:var(--crimson); background:#FBF1EE; font-weight:700;}
+  .static-entry .se-links a.hard:hover{background:var(--crimson); color:#fff;}
   .info-box{background:var(--paper-card); border:1px solid var(--rule); border-radius:4px; padding:14px 16px; margin-bottom:20px;}
   .info-box .stitle{font-family:'Noto Serif TC',serif; font-weight:900; font-size:14px; color:var(--ink); margin-bottom:2px;}
   .info-box .ssub{font-size:11.5px; color:var(--ink-soft); margin-bottom:12px;}
@@ -420,6 +430,14 @@
       <span class="ann-sub">作答之後點題目下方的「▸ 看解析」展開：你可能會這樣想／怎麼判斷／干擾選項／常考字詞與句型</span>
     </div>
 
+    <div class="static-entry">
+      <span class="se-main">305 題完整詳解，不作答也能直接看</span>
+      <span class="se-sub">每一題獨立成頁，附完整題幹、四個選項、答案，以及「你可能會這樣想／怎麼判斷／干擾選項／常考字詞與句型」四段深入解析。想查特定年度的某一題，或只想讀解析，從這裡進去比較快。</span>
+      <div class="se-links">
+        <a href="y/">依年度瀏覽全部 305 題 →</a>
+        <a class="hard" href="hard/">歷屆最難的 15 題（官方答對率 25% 以下）→</a>
+      </div>
+    </div>
     <div class="info-box">
       <div class="stitle">這 305 題到底在考什麼？</div>
       <div class="ssub">依本站自訂分類統計，非官方分類</div>
@@ -568,12 +586,12 @@
       <b>辨識句型結構與文法：</b>觀察句子整體結構（如使役動詞 make+O+V/Adj、虛主詞It...、分詞構句），判定空格所需的語法形態與詞性。<br>
       <b>解讀轉折詞的邏輯</b>（紅字標示）：however、in fact、therefore 等詞標示句間的邏輯（轉折、因果、補充），可用來預判文意走向。<br>
       <b>追蹤代名詞與近義詞替換：</b>英文寫作習慣用代名詞或同義字承接前文以避免重複；讀到代名詞時，務必回頭確認其指涉對象。<br>
-      <b>掌握全文與段落主旨</b>（黃底標示）：開頭通常先界定主題，後續內容多在闡述其運作方式（How）或重要性（Why）；遇到語意題時，回歸段落主旨句能快速排除偏離主題的選項。<br>
+      <b>掌握全文與段落主旨</b>（全文主旨句藍底、段落主旨句黃底標示）：開頭通常先界定主題，後續內容多在闡述其運作方式（How）或重要性（Why）；遇到語意題時，回歸段落主旨句能快速排除偏離主題的選項。<br>
       <span style="font-size:12px; color:var(--ink-soft);">📌 提醒：並非每一段都有一句「明講」的主旨句——開頭鋪陳段、承接前段的延伸段、或敘事／描述性段落，主旨常常是「隱含」的，沒有一句能直接畫線。遇到這種段落，與其硬找一句話，不如問自己「這段在做什麼」（舉例？補充？延續前段？），用自己的話歸納出這段的重點即可。</span><br><br>
       💡 小叮嚀：這些原則不是每題都要全用；遇到「語意指涉」、「上下文邏輯」或「全文主旨」類型的題目時，拿出這套戰術對照即可快速解題！<br><br>
       <b>📋 全文模式功能說明</b><br>
       <b>段落標示：</b>原文左側標有「第1段、第2段…」，便於快速掌握文章結構。<br>
-      <b>視覺提示：</b>黃底標示段落主旨句，紅字標示關鍵轉折詞。<br>
+      <b>視覺提示：</b>藍底標示全文主旨句，黃底標示段落主旨句，兩者兼具時標為綠底，紅字標示關鍵轉折詞。<br>
       <b>目標分群切換：</b>上方可依據「低分群／中間群／高分群」目標，一鍵設定是否顯示提示(亦可手動開啟／關閉)。<br>
       <b>段落大意摘要：</b>位於文章下方，提供整段摘要，建議於答題完畢複習時對照閱讀。
       </div>
