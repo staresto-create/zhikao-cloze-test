@@ -283,6 +283,11 @@
   .note-box.show{display:block;}
   .note-body{margin-top:2px;}
   .note-body.clamped{display:none;}  /*DIFFTAG 改為完全收合，不留預覽*/
+  .nsec{display:block; margin-bottom:14px;}
+  .nsec:last-child{margin-bottom:0;}
+  .nsec.nlead{margin-bottom:12px; padding-bottom:10px; border-bottom:1px dashed var(--rule); color:var(--ink-soft);}
+  .nsech{display:block; font-family:'Noto Serif TC',serif; font-weight:700; font-size:1.08em; color:var(--sage); margin:0 0 4px;}
+  .nsecb{display:block;}
   .note-toggle{
     display:inline-block; margin-top:8px; cursor:pointer; user-select:none;
     font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--sage);
@@ -1122,6 +1127,23 @@ function toggleHelp(el){
   el.textContent = open ? '▲ 收起說明' : '▼ 看詳細說明';
 }
 //DIFFTAG-E
+function renderNoteHtml(t){
+  if(!t) return '';
+  var br = function(s){ return s.replace(/\n/g,'<br>'); };
+  var re = /\u3010([^\u3011]{1,40})\u3011/g, hits = [], m;
+  while((m = re.exec(t)) !== null){ hits.push({i:m.index, h:m[1], e:re.lastIndex}); }
+  if(!hits.length) return br(t);
+  var out = '';
+  var lead = t.slice(0, hits[0].i).trim();
+  if(lead) out += '<span class="nsec nlead"><span class="nsecb">'+br(lead)+'</span></span>';
+  for(var k=0;k<hits.length;k++){
+    var end = (k+1<hits.length) ? hits[k+1].i : t.length;
+    var body = t.slice(hits[k].e, end).trim();
+    out += '<span class="nsec"><span class="nsech">'+br(hits[k].h)+'</span><span class="nsecb">'+br(body)+'</span></span>';
+  }
+  return out;
+}
+
 function toggleClamp(el){
   const target = el.previousElementSibling;
   if(!target) return;
@@ -1247,7 +1269,7 @@ function answerSingle(letter){
   const noteBox = document.getElementById('singleNoteBox');
   if(it.note){
     //DIFFTAG-S 一律預設收合，只留一個按鈕
-    const noteHtml = it.note.replace(/\n/g,'<br>');
+    const noteHtml = renderNoteHtml(it.note);
     noteBox.innerHTML = '<div class="note-body clamped">'+noteHtml+'</div>'
       + '<span class="note-toggle" onclick="toggleClamp(this)">▸ 看解析</span>';
     //DIFFTAG-E
@@ -1481,7 +1503,7 @@ function gradeFull(){
       : '';
     //DIFFTAG-S 一律預設收合，只留一個按鈕
     const noteHtml = it.note
-      ? `<span class="fnote clamped">${it.note.replace(/\n/g,'<br>')}</span><span class="fnote-toggle" onclick="toggleClamp(this)">▸ 看解析</span>`
+      ? `<span class="fnote clamped">${renderNoteHtml(it.note)}</span><span class="fnote-toggle" onclick="toggleClamp(this)">▸ 看解析</span>`
       : '';
     //DIFFTAG-E
     const spanHtml = it.contextSpan
