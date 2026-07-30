@@ -426,6 +426,8 @@
       305 題，每一題都先告訴你為什麼會選錯，再告訴你怎麼判斷。
     </div>
 
+    <button class="big-btn" style="margin-top:0; margin-bottom:20px;" onclick="quickStart()">立即開始 · 隨機10題</button>
+
     <div class="status-banner">
       <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。題庫與解析均已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
     </div>
@@ -1055,6 +1057,15 @@ function startSession(){
     // 全文模式：不受文法分類篩選影響，一律顯示完整段落所有空格，只依年份與難易度篩選
     startFullMode(it => yearOk(it) && diffOk(it));
   }
+}
+
+function quickStart(){
+  testMode = document.getElementById('testModeToggle').checked;
+  singleQueue = buildQueue(()=>true).slice(0,10);
+  if(singleQueue.length===0) return;
+  singleIdx = 0;
+  showScreen('single');
+  renderSingle();
 }
 
 function startWrongReview(){
