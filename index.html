@@ -410,7 +410,16 @@
     .pt-row{flex-direction:column; gap:2px;}
     .pt-eg{white-space:normal;}
   }
-  </style>
+  
+/* 骨幹說明區改為摺疊（2026-07-31），標示與 hub 一致 */
+details.skill > summary{cursor:pointer; list-style:none; display:flex;
+  justify-content:space-between; align-items:baseline; gap:12px;}
+details.skill > summary > *{margin-bottom:0;}
+details.skill > summary::-webkit-details-marker{display:none;}
+details.skill > summary::after{content:'＋ 展開'; white-space:nowrap;
+  color:var(--crimson,#AE3626); font-weight:700; font-size:13px;}
+details.skill[open] > summary::after{content:'－ 收合';}
+</style>
 </head>
 <body>
 <div class="wrap">
@@ -482,8 +491,8 @@
       <div class="pt-row"><div style="flex:1;">轉承語<b>可以夾在主詞與動詞中間</b>，不一定出現在句首</div><div class="pt-eg">例：91 年第 16 題</div></div>
       <div class="pt-row"><div style="flex:1;"><b>what ＝ the thing(s) that</b>，進不進得來看子句缺不缺成分</div><div class="pt-eg">例：91 年第 25 題</div></div>
       <div class="pt-row"><div style="flex:1;"><b>with ＋ 受詞 ＋ 受詞補語</b>，表示附帶的狀態</div><div class="pt-eg">例：96 年第 30 題</div></div>
-    </div><div class="span-box">
-      <div class="stitle">🔍 讀句子的第一步：先找「什麼」和「怎麼了」</div>
+    </div><details class="skill span-box">
+      <summary><div class="stitle">🔍 讀句子的第一步：先找「什麼」和「怎麼了」</div></summary>
       主詞不一定是人，可以是一個動作、一種物質、一個現象。找到主詞和動詞就抓到<b>骨幹</b>了，其餘的介系詞片語、分詞片語、關係子句、同位語，都是掛在骨幹上的修飾。指考的文章句子普遍比學測長，先抓骨幹再看空格，會省下很多力氣。先看兩句本站的考古題：
       <div class="dh-body" id="skelHelpBody">
 <div class="sk-ex">
@@ -539,7 +548,7 @@
         <div class="sk-more">這種長句在每一種題型裡都會遇到——文意選填、單字題、中翻英，一個也躲不掉。完整說明和其他題庫的例句在<a href="https://staresto-create.github.io/JCEE-vocab-questions/" target="_blank" rel="noopener">題庫入口頁</a>。</div>
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
-    </div><div class="span-box">
+    </details><div class="span-box">
       <div class="stitle">🎯 作答前，先判斷「這一格要看多遠」</div>
       有些空格只看本句就能填，有些必須回頭看前後句。<b>作答前先判斷這一格屬於哪一種</b>——判斷錯了會白花時間。
       <div class="dh-body" id="spanHelpBody"><!--DIFFTAG-S-->克漏字（綜合測驗）的每個空格，需要的線索範圍並不一樣。本站已為全部 305 題逐題標上標籤：<b>句內</b>（讀懂空格所在的那一句就足以作答）、<b>跨句</b>（必須回頭看前一句或後一句）。（學測站另有<b>篇章</b>標籤，指考克漏字則沒有需要掌握整段論述走向才能作答的題目。）標籤會在你作答之後才出現，先自己判斷一次，再對照答案，練久了就會抓。<br>
