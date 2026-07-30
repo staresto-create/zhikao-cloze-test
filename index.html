@@ -1040,9 +1040,6 @@ function buildQueue(filterFn){
 }
 
 function startSession(){
-  const usingDiffFilter = selectedDiffs.size > 0;
-  if(currentMode === 'single' && selectedCats.size===0 && !usingDiffFilter){ alert('請至少選擇一個文法分類（或改用下方「依難易度篩選」，不限文法分類直接練習）'); return; }
-  if(selectedYears.size===0 && !usingDiffFilter){ alert('請至少選擇一個年份（或改用下方「依難易度篩選」，不限年份直接練習）'); return; }
   testMode = document.getElementById('testModeToggle').checked;
   const diffOk = it => selectedDiffs.size===0 || selectedDiffs.has(getDiffTier(it));
   const catOk = it => selectedCats.size===0 || selectedCats.has(it.category);
