@@ -431,8 +431,9 @@ details.skill[open] > summary::after{content:'－ 收合';}
   <!-- HOME -->
   <div id="home">
     <div style="background:#EFF3ED; border-left:3px solid #3E6E52; border-radius:0; padding:13px 16px; margin-bottom:18px; font-size:13.5px; line-height:1.8; color:#221F1A;">
-      克漏字失分，多半不是完全看不懂文章，而是沒有掌握克漏字答題技巧。<br>
-      305 題，每一題都先告訴你為什麼會選錯，再告訴你怎麼判斷。
+      克漏字有 <b><span id="statInnerPct">82.0%</span></b> 的線索就在空格所在的那一句裡。要看的是那一句裡的字詞搭配、句型結構與邏輯關係。<br>
+      <b><span id="statTotal">305</span> 題</b>，每一題都先告訴你為什麼會選錯，再告訴你怎麼判斷。<br>
+      <span style="font-size:11.5px; color:var(--ink-soft);">這個比例是本站逐題判定 <span id="statTotalB">305</span> 題歷屆試題後算出來的，不是官方分類。</span>
     </div>
 
     <button class="big-btn" style="margin-top:0; margin-bottom:20px;" onclick="quickStart()">立即開始 · 隨機10題</button>
@@ -551,10 +552,10 @@ details.skill[open] > summary::after{content:'－ 收合';}
     </details><div class="span-box">
       <div class="stitle">🎯 作答前，先判斷「這一格要看多遠」</div>
       有些空格只看本句就能填，有些必須回頭看前後句。<b>作答前先判斷這一格屬於哪一種</b>——判斷錯了會白花時間。
-      <div class="dh-body" id="spanHelpBody"><!--DIFFTAG-S-->克漏字（綜合測驗）的每個空格，需要的線索範圍並不一樣。本站已為全部 305 題逐題標上標籤：<b>句內</b>（讀懂空格所在的那一句就足以作答）、<b>跨句</b>（必須回頭看前一句或後一句）。（學測站另有<b>篇章</b>標籤，指考克漏字則沒有需要掌握整段論述走向才能作答的題目。）標籤會在你作答之後才出現，先自己判斷一次，再對照答案，練久了就會抓。<br>
-      本站把學測與指考兩份題庫的 <span class="num">870 道試題全部逐題檢查</span>，替每一題標上線索範圍，結果是 <span class="num">769 題（八成八）屬於「句內」</span>。（<b>題目來自大考中心官方歷屆試題，涵蓋全部年度；線索範圍的標籤則是本站依題目內容自行判定的，大考中心並未公布這項分類。</b>）這代表大部分人失分的原因並不是讀不懂文章，而是<b>詞彙與搭配不夠熟</b>——句子就在眼前，卻分不出四個選項的差別。<br>
-      本站的跨句題共 34 題（約一成一），沒有「篇章」題。跨句題的分布並不平均：<b>連接詞／轉承語</b>有 35%、<b>代名詞／指示詞</b>有 33% 需要跨句判斷，約是<b>字彙選義</b>（8%）與<b>慣用語／片語</b>（11%）的三到四倍——看到 this、that、these、another 或轉承語時，回頭看前一句的必要性明顯比其他題型高。不過要注意，跨句題在每一個類別裡都仍是少數，多數空格的線索就在同一句內；指考克漏字的轉承語題比重又比學測高，這一項特別值得練。<br>
-      <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對完答案不要只記正確選項，要把四個選項的差別、以及該字的常見搭配一起記下來，難題的關鍵幾乎都在這裡。
+      <div class="dh-body" id="spanHelpBody"><!--DIFFTAG-S-->克漏字（綜合測驗）的每個空格，需要的線索範圍並不一樣。本站已為全部 <span id="statTotalA">305</span> 題逐題標上兩種標籤：<b>句內</b>、<b>跨句</b>。學測站另有<b>篇章</b>標籤，指考克漏字則沒有需要掌握整段論述走向才能作答的題目。標籤會在你作答之後才出現，先自己判斷一次，再對照答案，練久了就會抓。（這個題型官方在考什麼，見下方「📋 這個題型官方在考什麼」。）<br>
+      本站把指考題庫的 <span class="num"><span id="statTotalC">305</span> 道試題全部逐題檢查</span>，替每一題標上線索範圍，標下來的結果是「句內」<span class="num"><span id="statInnerN">250</span> 題，佔 <span id="statInnerPct2">82.0%</span></span>——要判斷的是空格附近的詞語本身，不是整篇文章的內容。（<b>題目來自大考中心官方歷屆試題，涵蓋全部年度；線索範圍的標籤則是本站依題目內容自行判定的，大考中心並未公布這項分類。</b>）<br>
+      跨句題共 <span id="statCrossN">55</span> 題（<span id="statCrossPct">18.0%</span>），沒有「篇章」題。分布很不平均：<b>連接詞／轉承語</b> 45%、<b>代名詞／指示詞</b> 33%、<b>字彙選義</b> 24%、<b>慣用語／片語</b> 11%、<b>比較級</b> 20%，其餘五類（介系詞、時態／語態、分詞／動狀詞、關係子句／疑問詞、句型結構）在本站的判定裡沒有跨句題。<b>連接詞／轉承語幾乎每兩題就有一題要跨句</b>，這一類不能只盯著空格那一句看。另外，答對率低於 40% 的 64 道難題裡，只有 6 題是跨句——難處主要在字彙選義（25 題）與慣用語／片語（19 題）本身。<br>
+      <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對完答案不要只記正確選項，要把四個選項的差別、以及該字的常見字詞搭配一起記下來，難題的關鍵幾乎都在這裡。
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
     </div>
@@ -657,7 +658,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
       克漏字有幾個反覆出現的解題戰術與「隱形連結」，<b>認得它們比逐題硬猜快得多</b>。
       <div class="dh-body" id="stratHelpBody"><!--DIFFTAG-S--><div style="background:#FBEAEA; border:1px solid var(--crimson); border-radius:4px; padding:10px 12px; margin-bottom:10px;">
         <b style="color:var(--crimson);">⚠️ 黃金鐵則：找不到「前後連結」，這個選項就該重新考慮！</b><br>
-        空格絕非孤立存在。若選了一個選項，卻無法在空格前後找到搭配詞、文法結構或邏輯關聯，請立刻重新思考！
+        空格絕非孤立存在。若選了一個選項，卻無法在空格前後找到字詞搭配、文法結構或邏輯關聯，請立刻重新思考！
       </div>
       <b>🔍 什麼是「隱形連結」？作答時鎖定這4大勾環：</b><br>
       <b>指標勾環（代名詞）：</b>前文提 a new strategy，後文接 this strategy／it／they。讀到代名詞，先回頭找它指的是誰或什麼。<br>
@@ -665,7 +666,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
       <b>主題勾環（核心軸線）：</b>檢查句子是否持續圍繞全文的「核心人物／事件／現象」，脫離主線的內容要特別留意。<br>
       <b>邏輯勾環（轉折詞）：</b>however 找轉折、therefore 找因果、for example 找具體例證。<br><br>
       <b>🎯 五大核心戰術</b><br>
-      <b>鎖定固定搭配（Collocations，字詞搭配）：</b>空格答案常取決於前後字詞的慣用搭配（如介系詞 to/in/with 或動賓組合），而非單純翻譯字義；作答時請優先檢視空格前後1–2個字的搭配習慣。<br>
+      <b>鎖定字詞搭配（collocation）：</b>空格答案常取決於前後字詞的慣用搭配（如介系詞 to/in/with 或動賓組合），而非單純翻譯字義；作答時請優先檢視空格前後1–2個字的搭配習慣。<br>
       <b>辨識句型結構與文法：</b>觀察句子整體結構（如使役動詞 make+O+V/Adj、虛主詞It...、分詞構句），判定空格所需的語法形態與詞性。<br>
       <b>解讀轉折詞的邏輯</b>（紅字標示）：however、in fact、therefore 等詞標示句間的邏輯（轉折、因果、補充），可用來預判文意走向。<br>
       <b>追蹤代名詞與近義詞替換：</b>英文寫作習慣用代名詞或同義字承接前文以避免重複；讀到代名詞時，務必回頭確認其指涉對象。<br>
@@ -922,6 +923,28 @@ async function init(){
   buildDiffChips();
   refreshWrongCount();
   refreshHomeStats();
+  fillSpanStats();
+}
+
+/* 線索範圍統計：由 ITEMS 現算，新增年度後自動更新。
+   HTML 內已寫入目前的正確數字作為後備，JS 失敗時不會出現空白。 */
+function fillSpanStats(){
+  const tot = ITEMS.length;
+  if(!tot) return;
+  const inner = ITEMS.filter(it => it.contextSpan === '句內').length;
+  const disc  = ITEMS.filter(it => it.contextSpan === '篇章').length;
+  const cross = tot - inner - disc;
+  const pct = n => (n / tot * 100).toFixed(1) + '%';
+  const put = (id, val) => { const el = document.getElementById(id); if(el) el.textContent = val; };
+  put('statTotal', tot);
+  put('statTotalA', tot);
+  put('statTotalB', tot);
+  put('statTotalC', tot);
+  put('statInnerPct', pct(inner));
+  put('statInnerPct2', pct(inner));
+  put('statInnerN', inner);
+  put('statCrossN', cross);
+  put('statCrossPct', pct(cross));
 }
 
 function buildCategoryChips(){
