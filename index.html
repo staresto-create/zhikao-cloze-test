@@ -439,7 +439,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
     <button class="big-btn" style="margin-top:0; margin-bottom:20px;" onclick="quickStart()">立即開始 · 隨機10題</button>
 
     <div class="status-banner">
-      <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共305題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。題庫與解析均已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
+      <b>現況說明：</b>目前題庫涵蓋91–110年<b>指考</b>文法與轉承語克漏字（共 <span class="jsTotal">305</span> 題，含補考、颱風應變試題、課綱參考試卷；每篇文章每個空格皆已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。題庫與解析均已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
     </div>
 
     <div class="ann-box">
@@ -448,36 +448,36 @@ details.skill[open] > summary::after{content:'－ 收合';}
     </div>
 
     <div class="static-entry">
-      <span class="se-main">305 題完整詳解，不作答也能直接看</span>
+      <span class="se-main"><span class="jsTotal">305</span> 題完整詳解，不作答也能直接看</span>
       <span class="se-sub">每一題獨立成頁，附完整題幹、四個選項、答案，以及「你可能會這樣想／怎麼判斷／誘答選項／常考字詞與句型」四段深入解析。想查特定年度的某一題，或只想讀解析，從這裡進去比較快。</span>
       <div class="se-links">
-        <a href="y/">依年度瀏覽全部 305 題 →</a>
+        <a href="y/">依年度瀏覽全部 <span class="jsTotal">305</span> 題 →</a>
         <a class="hard" href="hard/">歷屆最難的 15 題（官方答對率 25% 以下）→</a>
       </div>
     </div>
     <div class="info-box">
-      <div class="stitle">這 305 題到底在考什麼？</div>
+      <div class="stitle">這 <span class="jsTotal">305</span> 題到底在考什麼？</div>
       <div class="ssub">依本站自訂分類統計，非官方分類</div>
       <div class="stat-grid">
-        <div class="stat-card"><div class="stat-num" style="color:var(--sage);">59%</div><div><div class="stat-lab">是字彙與片語</div><div class="stat-sub">真正的文法題不到四成</div></div></div>
-        <div class="stat-card"><div class="stat-num" style="color:var(--gold);">82%</div><div><div class="stat-lab">答案在同一句</div><div class="stat-sub">305 題中有 250 題</div></div></div>
-        <div class="stat-card"><div class="stat-num" style="color:var(--crimson);">43%</div><div><div class="stat-lab">句型結構答對率</div><div class="stat-sub">題數最少，卻最難</div></div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--sage);"><span class="jsVocabPct">59%</span></div><div><div class="stat-lab">是字彙與片語</div><div class="stat-sub">真正的文法題不到四成</div></div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--gold);"><span class="jsInnerPct">82%</span></div><div><div class="stat-lab">答案在同一句</div><div class="stat-sub"><span class="jsTotal">305</span> 題中有 <span class="jsInnerN">250</span> 題</div></div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--crimson);"><span class="jsCatAcc" data-cat="句型結構">43%</span></div><div><div class="stat-lab">句型結構答對率</div><div class="stat-sub">題數最少，卻最難</div></div></div>
       </div>
-      <div class="cat-bar">
+      <div class="cat-bar" id="catBar">
         <div style="width:38.7%; background:#3E6E52;"></div>
         <div style="width:20.3%; background:#6E9B7E;"></div>
         <div style="width:12.5%; background:#A9812E;"></div>
         <div style="width:9.5%; background:#C7A75E;"></div>
         <div style="width:19.0%; background:#DCD3BB;"></div>
       </div>
-      <div class="cat-key">
+      <div class="cat-key" id="catKey">
         <i style="background:#3E6E52;"></i>字彙選義 118　<i style="background:#6E9B7E;"></i>慣用語／片語 62　<i style="background:#A9812E;"></i>連接詞／轉承語 38<br>
         <i style="background:#C7A75E;"></i>介系詞 29　<i style="background:#DCD3BB;"></i>其餘六類 58
       </div>
       <div class="dh-body" id="statHelpBody">
-        指考與學測有一個明顯差別：<b>連接詞／轉承語占 12.5%、介系詞占 9.5%，比例都是學測的兩倍以上</b>——這兩類在指考卷上特別值得練。<br>
-        各類的平均答對率：句型結構 43%、慣用語／片語 48%、字彙選義 50%、介系詞 50%、時態／語態 50%、分詞／動狀詞 53%、比較級 53%、代名詞／指示詞 55%、連接詞／轉承語 55%、關係子句／疑問詞 62%。<b>題數最少的句型結構反而最難</b>，遇到就要慢下來。<br>
-        指考英文已於 110 年最後一次施測，這 305 題現在最適合當作學測的進階練習。
+        指考與學測有一個明顯差別：<b>連接詞／轉承語占 <span class="jsCatPct" data-cat="連接詞／轉承語">12.5%</span>、介系詞占 <span class="jsCatPct" data-cat="介系詞">9.5%</span>，比例都是學測的兩倍以上</b>——這兩類在指考卷上特別值得練。<br>
+        各類的平均答對率：句型結構 <span class="jsCatAcc" data-cat="句型結構">43%</span>、慣用語／片語 <span class="jsCatAcc" data-cat="慣用語／片語">48%</span>、字彙選義 <span class="jsCatAcc" data-cat="字彙選義">50%</span>、介系詞 <span class="jsCatAcc" data-cat="介系詞">50%</span>、時態／語態 <span class="jsCatAcc" data-cat="時態／語態">50%</span>、分詞／動狀詞 <span class="jsCatAcc" data-cat="分詞／動狀詞">53%</span>、比較級 <span class="jsCatAcc" data-cat="比較級">53%</span>、代名詞／指示詞 <span class="jsCatAcc" data-cat="代名詞／指示詞">55%</span>、連接詞／轉承語 <span class="jsCatAcc" data-cat="連接詞／轉承語">55%</span>、關係子句／疑問詞 <span class="jsCatAcc" data-cat="關係子句／疑問詞">62%</span>。<b>題數最少的句型結構反而最難</b>，遇到就要慢下來。<br>
+        指考英文已於 110 年最後一次施測，這 <span class="jsTotal">305</span> 題現在最適合當作學測的進階練習。
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div>
       <div style="margin-top:12px; padding-top:10px; border-top:1px dashed var(--rule); font-size:13px; color:var(--ink); line-height:1.75;">
@@ -554,7 +554,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
       有些空格只看本句就能填，有些必須回頭看前後句。<b>作答前先判斷這一格屬於哪一種</b>——判斷錯了會白花時間。
       <div class="dh-body" id="spanHelpBody"><!--DIFFTAG-S-->克漏字（綜合測驗）的每個空格，需要的線索範圍並不一樣。本站已為全部 <span id="statTotalA">305</span> 題逐題標上兩種標籤：<b>句內</b>、<b>跨句</b>。學測站另有<b>篇章</b>標籤，指考克漏字則沒有需要掌握整段論述走向才能作答的題目。標籤會在你作答之後才出現，先自己判斷一次，再對照答案，練久了就會抓。（這個題型官方在考什麼，見下方「📋 這個題型官方在考什麼」。）<br>
       本站把指考題庫的 <span class="num"><span id="statTotalC">305</span> 道試題全部逐題檢查</span>，替每一題標上線索範圍，標下來的結果是「句內」<span class="num"><span id="statInnerN">250</span> 題，佔 <span id="statInnerPct2">82.0%</span></span>——要判斷的是空格附近的詞語本身，不是整篇文章的內容。（<b>題目來自大考中心官方歷屆試題，涵蓋全部年度；線索範圍的標籤則是本站依題目內容自行判定的，大考中心並未公布這項分類。</b>）<br>
-      跨句題共 <span id="statCrossN">55</span> 題（<span id="statCrossPct">18.0%</span>），沒有「篇章」題。分布很不平均：<b>連接詞／轉承語</b> 45%、<b>代名詞／指示詞</b> 33%、<b>字彙選義</b> 24%、<b>慣用語／片語</b> 11%、<b>比較級</b> 20%，其餘五類（介系詞、時態／語態、分詞／動狀詞、關係子句／疑問詞、句型結構）在本站的判定裡沒有跨句題。<b>連接詞／轉承語幾乎每兩題就有一題要跨句</b>，這一類不能只盯著空格那一句看。另外，答對率低於 40% 的 64 道難題裡，只有 6 題是跨句——難處主要在字彙選義（25 題）與慣用語／片語（19 題）本身。<br>
+      跨句題共 <span id="statCrossN">55</span> 題（<span id="statCrossPct">18.0%</span>），沒有「篇章」題。分布很不平均：<b>連接詞／轉承語</b> 45%、<b>代名詞／指示詞</b> 33%、<b>字彙選義</b> 24%、<b>慣用語／片語</b> 11%、<b>比較級</b> 20%，其餘五類（介系詞、時態／語態、分詞／動狀詞、關係子句／疑問詞、句型結構）在本站的判定裡沒有跨句題。<b>連接詞／轉承語幾乎每兩題就有一題要跨句</b>，這一類不能只盯著空格那一句看。另外，答對率低於 40% 的 <span class="jsHardN">64</span> 道難題裡，只有 <span class="jsHardCross">6</span> 題是跨句——難處主要在字彙選義（<span class="jsHardCat" data-cat="字彙選義">25</span> 題）與慣用語／片語（<span class="jsHardCat" data-cat="慣用語／片語">19</span> 題）本身。<br>
       <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對完答案不要只記正確選項，要把四個選項的差別、以及該字的常見字詞搭配一起記下來，難題的關鍵幾乎都在這裡。
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
@@ -945,6 +945,47 @@ function fillSpanStats(){
   put('statInnerN', inner);
   put('statCrossN', cross);
   put('statCrossPct', pct(cross));
+
+  // ---- 以下改為即時計算，避免資料變動後數字對不上 ----
+  const setAll = (cls, val) => document.querySelectorAll('.' + cls).forEach(el => el.textContent = val);
+  const cnt = {};
+  ITEMS.forEach(it => { cnt[it.category] = (cnt[it.category] || 0) + 1; });
+  setAll('jsTotal', tot);
+  setAll('jsInnerN', inner);
+  setAll('jsInnerPct', Math.round(inner / tot * 100) + '%');
+  setAll('jsVocabPct', Math.round(((cnt['字彙選義'] || 0) + (cnt['慣用語／片語'] || 0)) / tot * 100) + '%');
+  document.querySelectorAll('.jsCatPct').forEach(el => {
+    el.textContent = ((cnt[el.dataset.cat] || 0) / tot * 100).toFixed(1) + '%';
+  });
+  document.querySelectorAll('.jsCatAcc').forEach(el => {
+    const a = ITEMS.filter(it => it.category === el.dataset.cat && it.accuracyRate != null)
+                   .map(it => it.accuracyRate);
+    if (a.length) el.textContent = Math.round(a.reduce((x, y) => x + y, 0) / a.length) + '%';
+  });
+  // 難題門檻：低於 40%（不含 40），兩站一致
+  const hard = ITEMS.filter(it => it.accuracyRate != null && it.accuracyRate < 40);
+  setAll('jsHardN', hard.length);
+  setAll('jsHardCross', hard.filter(it => it.contextSpan !== '句內').length);
+  document.querySelectorAll('.jsHardCat').forEach(el => {
+    el.textContent = hard.filter(it => it.category === el.dataset.cat).length;
+  });
+  // 長條圖與圖例：前四大類依題數排序自動取出，不寫死類別名稱
+  const COLORS = ['#3E6E52', '#6E9B7E', '#A9812E', '#C7A75E'];
+  const REST = '#DCD3BB';
+  const CN = ['零','一','二','三','四','五','六','七','八','九','十','十一','十二'];
+  const top4 = Object.keys(cnt).sort((a, b) => cnt[b] - cnt[a]).slice(0, 4);
+  const restN = tot - top4.reduce((x, c) => x + cnt[c], 0);
+  const restC = Object.keys(cnt).length - top4.length;
+  const w = n => (n / tot * 100).toFixed(1);
+  const bar = document.getElementById('catBar');
+  if (bar) bar.innerHTML =
+    top4.map((c, i) => '<div style="width:' + w(cnt[c]) + '%; background:' + COLORS[i] + ';"></div>').join('') +
+    '<div style="width:' + w(restN) + '%; background:' + REST + ';"></div>';
+  const key = document.getElementById('catKey');
+  if (key) key.innerHTML =
+    top4.slice(0, 3).map((c, i) => '<i style="background:' + COLORS[i] + ';"></i>' + c + ' ' + cnt[c]).join('\u3000') +
+    '<br><i style="background:' + COLORS[3] + ';"></i>' + top4[3] + ' ' + cnt[top4[3]] +
+    '\u3000<i style="background:' + REST + ';"></i>其餘' + (CN[restC] || restC) + '類 ' + restN;
 }
 
 function buildCategoryChips(){
