@@ -275,7 +275,6 @@
   .acc-tag.show{display:block;}
   .acc-tag .acc-num{color:var(--sage); font-weight:600;}
   .acc-tag.low .acc-num{color:var(--crimson); font-weight:700;}
-  .acc-tag .acc-warn{color:var(--crimson);}
   .note-box{
     margin-top:8px; padding:12px 14px; background:#EFF3ED; border-radius:3px; border:1px solid var(--rule);
     font-size:13px; line-height:1.8; color:var(--ink-soft); display:none; white-space:pre-line;
@@ -1357,8 +1356,7 @@ function answerSingle(letter){
   const accTag = document.getElementById('singleAccTag');
   if(typeof it.accuracyRate === 'number'){
     const isLow = it.accuracyRate < 35;
-    accTag.innerHTML = '本題全體考生答對率：<span class="acc-num">'+it.accuracyRate+'%</span>'
-      + (isLow ? '　<span class="acc-warn">⚠ 陷阱題，連高分群考生也常答錯</span>' : '');
+    accTag.innerHTML = '本題全體考生答對率：<span class="acc-num">'+it.accuracyRate+'%</span>';
     accTag.classList.toggle('low', isLow);
     accTag.classList.add('show');
   } else {
