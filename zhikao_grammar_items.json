@@ -3717,7 +3717,7 @@
       "D": "on behalf of"
     },
     "answer": "B",
-    "explanation": "as well as 表示「以及」，用來連接兩個並列的認識對象——歷屆得獎者事蹟以及諾貝爾生平；so much as 常用於否定句型（not so much as）；in spite of（儘管）、on behalf of（代表）皆不符合此處單純並列的語意。",
+    "explanation": "as well as（以及、也）連接兩個對等的受詞，表示「你可以了解歷屆得獎者的活動，『以及』諾貝爾的傳奇歷史」。so much as（甚至，常用於否定句）、in spite of（儘管）、on behalf of（代表）都不符合這種對等並列的語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -3738,7 +3738,7 @@
       "D": "by and large"
     },
     "answer": "C",
-    "explanation": "on their own 表示「自行、獨自」，與後方 or join a guided tour（或參加導覽）形成「自行參觀 vs. 跟團導覽」的對比選項；in this regard（在這方面）、one on one（一對一）、by and large（大體而言）皆不符合此處的對比語境。",
+    "explanation": "on their own（自行、獨自）與後面的 or join a guided tour（或參加導覽團）形成對比選項，表示「遊客可以自行參觀，或參加導覽團」。in this regard（在這方面）、one on one（一對一）、by and large（大體上）都不符合這種「自行 vs. 跟團」的對比語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -3759,7 +3759,7 @@
       "D": "through"
     },
     "answer": "D",
-    "explanation": "through 表示「透過」某種手段達成目的，符合「透過展覽、活動、講座與文化活動教育遊客」的語意；among（在…之中）、regarding（關於）、including（包括）皆不符合表示手段的語意。",
+    "explanation": "through（透過）表示手段方式，「透過展覽、活動、講座和文化活動」來教育、啟發並娛樂訪客，符合語意。among（在……之中）、regarding（關於）、including（包括，此處若用會與後面的並列項重複語意）都不符合這種「憑藉手段達成目的」的語意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
@@ -3780,7 +3780,7 @@
       "D": "few"
     },
     "answer": "D",
-    "explanation": "few 表示「很少」，帶有否定意味，呼應句首 Nevertheless（然而）所引導的語意轉折——儘管貢獻卓越，卻幾乎沒什麼人聽過他的名字；many／some 語氣偏肯定，與轉折語意不符；any 通常用於疑問句或否定句中，不能直接置於肯定直述句句首修飾主詞。",
+    "explanation": "【字彙／轉折】前句盛讚其貢獻重大，後句以 Nevertheless（然而）轉折，說明「卻鮮少人聽過他的名字」，故用 few（很少）。many／some 語意相反；any 通常用於否定句或疑問句，不符此處肯定句語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -3802,7 +3802,7 @@
       "D": "had become"
     },
     "answer": "A",
-    "explanation": "此處站在過去（圖靈 23 歲時）的時間點展望「後來會發展成」現代電腦，須用過去式的未來（would + 原 V）表示「未來將成為」；should become 語氣為義務建議，不符；could have become／had become 皆為完成式，表示「本應成為」或「已經成為」，與此處單純敘述未來發展的語意不符。",
+    "explanation": "【未來式的過去】would become 表示「未來將成為」，站在過去時間點描述後來成真的未來事件（此構想後來發展成現代電腦）。should become（應該成為）、could have become（本可能成為，暗示未實現）、had become（過去完成式，時序矛盾）均不合文意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -3823,7 +3823,7 @@
       "D": "With respect to"
     },
     "answer": "B",
-    "explanation": "Instead of 表示「非但沒有…反而」的強烈對比，符合「非但沒有被譽為擊敗納粹的英雄，反而被定罪」的語意落差；文法上 Instead of 為介系詞片語，後方接動詞須用動名詞(V-ing)形式，正好呼應題幹中的 being hailed；Because of（因為）、In addition to（除了…之外，還）、With respect to（關於）皆不符合這種對比轉折的語境。",
+    "explanation": "【轉折語】句意為「他非但沒有因擊敗納粹的重大貢獻而受到推崇，反而被判有罪」，故用 Instead of（而非）表示強烈對比。Because of（因為）、In addition to（此外）、With respect to（關於）皆不符合此處的反差語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -6029,7 +6029,7 @@
     "hasFullPassage": true,
     "passageId": "105_16-20",
     "accuracyRate": 33,
-    "note": "【你可能會這樣想】supposedly 這個副詞課本少見，而且它的作用很微妙——它不是在陳述事實，而是在標示「別人是這麼說的，但未必是真的」。【本句的趣味就在這裡】the supposedly uncrackable Enigma code ＝「那套據稱無法破解的密碼」。既然圖靈把它破解了，uncrackable（無法破解）顯然只是「大家以為」而已——supposedly 就是用來標記這個落差。少了它，句子會變成「他破解了無法破解的密碼」，自相矛盾。【怎麼判斷】看到形容詞前面要填副詞、而那個形容詞又與句子的事實衝突時，就要想到這類「據稱」的字：supposedly、allegedly（據稱，多用於指控）、reportedly（據報導）、seemingly（看似）。另外一提：這一篇選文後來被 107 學年度起適用的指考參考試卷沿用，同一格在那份卷子上是第 16 題，兩邊是同一題，不是網站重複。【常考字詞與句型】supposedly + 形容詞（據稱…的）、allegedly（據稱，多用於指控）、reportedly（據報導）、be supposed to（應該）、crack a code（破解密碼）。",
+    "note": "【你可能會這樣想】supposedly 這個副詞課本少見，而且它的作用很微妙——它不是在陳述事實，而是在標示「別人是這麼說的，但未必是真的」。【本句的趣味就在這裡】the supposedly uncrackable Enigma code ＝「那套據稱無法破解的密碼」。既然圖靈把它破解了，uncrackable（無法破解）顯然只是「大家以為」而已——supposedly 就是用來標記這個落差。少了它，句子會變成「他破解了無法破解的密碼」，自相矛盾。【怎麼判斷】看到形容詞前面要填副詞、而那個形容詞又與句子的事實衝突時，就要想到這類「據稱」的字：supposedly、allegedly（據稱，多用於指控）、reportedly（據報導）、seemingly（看似）。【常考字詞與句型】supposedly + 形容詞（據稱…的）、allegedly（據稱，多用於指控）、reportedly（據報導）、be supposed to（應該）、crack a code（破解密碼）。",
     "discrimination": 36,
     "contextSpan": "句內"
   },
@@ -6252,12 +6252,12 @@
       "D": "supposedly"
     },
     "answer": "D",
-    "explanation": "supposedly uncrackable（據稱無法破解的）表示恩尼格瑪密碼原本被認為是無法破解的，圖靈卻成功破解了它；eventually／precisely／concernedly 均不符合此處語意。",
+    "explanation": "supposedly 意為「據稱、一般認為」，帶有「後來證實並非如此」的暗示：他破解了那套「據稱無法破解」的恩尼格瑪密碼；eventually（最終）、precisely（精確地）、concernedly（關切地）語意都不合。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】supposedly 這個字，你的印象大概只有 be supposed to（應該）那一個組合，很難立刻想到它單獨當副詞時是「據稱、大家都說」。加上這一句講的是圖靈把密碼破解了，uncrackable（無法破解的）看起來與事實矛盾，很容易覺得這一格要填「終於」，於是選了 eventually。【怎麼判斷】四個選項都是 -ly 副詞，擺在形容詞 uncrackable 前面修飾它，文法上都放得進去，可見這一格考的是語意。而句子裡的矛盾正是線索：cracked the ______ uncrackable Enigma code，他破解了一個「無法破解」的密碼。既然事實上破解了，那個「無法破解」就不會是真的，只能是大家原本以為的。supposedly 的意思正是「據稱、一般認為，但未必屬實」，一放進去，矛盾就化解了。把它掛在你熟的 be supposed to 上面記：那個組合也是「別人認為應該如何」，重點都在別人怎麼說，不在事實。順便看構詞：uncrackable 是 un-（不）加 crack（破解）加 -able（可……的），拆開就讀得出來。另外一提：這一篇選文取自 105 年指考，同一格在那份卷子上是第 16 題，兩邊是同一題，不是網站重複。【誘答選項】eventually（最後、終於）講的是時間先後，但空格修飾的是 uncrackable 這個形容詞，「最後無法破解的密碼」講不通；要表達「終於破解」得把它放到動詞旁邊。precisely（精確地）修飾的是量測或說法（precisely at noon），不能拿來修飾「無法破解」。concernedly（憂心地）描述的是人的情緒，密碼不會憂心。【常考字詞與句型】supposedly（據稱、一般認為）、be supposed to V（應該、被認為該做）、crack a code（破解密碼）、turn the tide（扭轉局勢）、un- ＋ 動詞 ＋ -able（不可……的）、precisely（精確地）"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】supposedly 這個字，你的印象大概只有 be supposed to（應該）那一個組合，很難立刻想到它單獨當副詞時是「據稱、大家都說」。加上這一句講的是圖靈把密碼破解了，uncrackable（無法破解的）看起來與事實矛盾，很容易覺得這一格要填「終於」，於是選了 eventually。【怎麼判斷】四個選項都是 -ly 副詞，擺在形容詞 uncrackable 前面修飾它，文法上都放得進去，可見這一格考的是語意。而句子裡的矛盾正是線索：cracked the ______ uncrackable Enigma code，他破解了一個「無法破解」的密碼。既然事實上破解了，那個「無法破解」就不會是真的，只能是大家原本以為的。supposedly 的意思正是「據稱、一般認為，但未必屬實」，一放進去，矛盾就化解了。把它掛在你熟的 be supposed to 上面記：那個組合也是「別人認為應該如何」，重點都在別人怎麼說，不在事實。順便看構詞：uncrackable 是 un-（不）加 crack（破解）加 -able（可……的），拆開就讀得出來。【誘答選項】eventually（最後、終於）講的是時間先後，但空格修飾的是 uncrackable 這個形容詞，「最後無法破解的密碼」講不通；要表達「終於破解」得把它放到動詞旁邊。precisely（精確地）修飾的是量測或說法（precisely at noon），不能拿來修飾「無法破解」。concernedly（憂心地）描述的是人的情緒，密碼不會憂心。【常考字詞與句型】supposedly（據稱、一般認為）、be supposed to V（應該、被認為該做）、crack a code（破解密碼）、turn the tide（扭轉局勢）、un- ＋ 動詞 ＋ -able（不可……的）、precisely（精確地）"
   },
   {
     "id": "Z107參_20",
