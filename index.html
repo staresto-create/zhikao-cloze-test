@@ -239,18 +239,12 @@
   .dual-role{background:transparent; transition:.3s;}
   .dual-role.hint-on{background:#D4EBC4; box-shadow:inset 0 -2px 0 #7CA85C;}
   .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
-  .level-select-row{display:flex; align-items:center; gap:6px; margin-bottom:10px; flex-wrap:wrap;}
   .level-caption{font-size:11.5px; color:var(--ink-soft); margin-bottom:8px; line-height:1.6;}
-  .level-label{font-size:11px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;}
-  .level-chip{
-    font-family:'IBM Plex Mono',monospace; font-size:11px; padding:4px 10px; border-radius:12px;
-    border:1.5px solid var(--rule); cursor:pointer; background:#fff; color:var(--ink-soft);
-  }
-  .level-chip.on{border-color:var(--gold); background:#FBF6E9; color:#8a6d00; font-weight:700;}
   .outline-box{
     margin-top:12px; padding:12px 14px; background:#F7F5F0; border-radius:3px; border:1px dashed var(--rule);
     font-size:12.5px; color:var(--ink-soft); line-height:1.8;
   }
+  .outline-box .ob-note{font-size:11.5px; color:var(--ink-soft); line-height:1.7; margin-bottom:8px;}
   .outline-box .ob-title{font-family:'Noto Serif TC',serif; font-weight:700; color:var(--ink); margin-bottom:6px; font-size:13px;}
   .outline-box ol{margin:0; padding-left:18px;}
   .hint-switch{width:32px; height:17px; background:var(--rule); border-radius:10px; position:relative; transition:.2s;}
@@ -675,8 +669,8 @@ details.skill[open] > summary::after{content:'－ 收合';}
       <b>📋 全文模式功能說明</b><br>
       <b>段落標示：</b>原文左側標有「第 1 段、第 2 段…」，便於快速掌握文章結構。<br>
       <b>視覺提示：</b>藍底標示全文中心思想，黃底標示段落主旨句，兩者皆是時標為綠底，紅字標示關鍵轉折詞。<br>
-      <b>目標分群切換：</b>上方可依據「低分群／中間群／高分群」目標，一次設定是否顯示提示(亦可手動開啟／關閉)。<br>
-      <b>段落大意摘要：</b>位於文章下方，提供整段摘要，建議於答題完畢複習時對照閱讀。
+      <b>提示開關：</b>上方可隨時開啟或關閉顏色標示；切換不影響你已經選好的答案。<br>
+      <b>段落大意摘要：</b>送出批改後會自動出現在文章下方，用來對照你剛才每一段抓到的重點。
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
     </div>
@@ -794,17 +788,11 @@ details.skill[open] > summary::after{content:'－ 收合';}
     <div class="progress-bar"><div class="progress-fill" id="fullProgressFill" style="width:0%"></div></div>
     <div class="card">
       <span class="q-tag" id="fullYearTag"></span>
-      <div class="level-caption">👇 選一個最接近你目前程度的按鈕，會自動幫你決定要不要顯示提示（下面也可以隨時手動開關）</div>
-      <div class="level-select-row">
-        <span class="level-label">我屬於：</span>
-        <div class="level-chip on" data-level="low" onclick="setStudentLevel('low',this)">低分群考生（開提示）</div>
-        <div class="level-chip" data-level="mid" onclick="setStudentLevel('mid',this)">中間群考生（開提示）</div>
-        <div class="level-chip" data-level="high" onclick="setStudentLevel('high',this)">高分群考生（關提示，模擬考場）</div>
-      </div>
       <div class="hint-toggle-row" onclick="toggleFullHint()">
-        <span id="fullHintLabel">主旨句／轉折詞提示：開</span>
+        <span id="fullHintLabel">顯示主旨句與轉折詞提示</span>
         <div class="hint-switch on" id="fullHintSwitch"></div>
       </div>
+      <div class="level-caption">開著的時候，文章裡會用顏色標出<b>段落主旨句</b>與<b>轉折詞</b>。讀長文章抓不到重點時，建議開著；想模擬真正考場的樣子，就關掉。隨時可以切換，不影響你已經選好的答案。</div>
       <div class="hint-legend"><span class="lg4">兩者皆是</span>　<span class="lg3">全文中心思想</span>　<span class="lg1">段落主旨句</span>　<span class="lg2">轉折詞</span></div>
       <div class="passage-text" id="fullPassage"></div>
       <div class="outline-box" id="fullOutlineBox" style="display:none;"></div>
@@ -1482,27 +1470,24 @@ function startFullMode(filterFn){
 let fullHintOn = true;
 function applyHintStyling(){
   document.getElementById('fullHintSwitch').classList.toggle('on', fullHintOn);
-  document.getElementById('fullHintLabel').textContent = '主旨句／轉折詞提示：' + (fullHintOn ? '開' : '關');
   document.querySelectorAll('#fullPassage .topic-sent, #fullPassage .trans-word, #fullPassage .main-thesis, #fullPassage .dual-role').forEach(el => {
     el.classList.toggle('hint-on', fullHintOn);
   });
+}
+// 骨架層（段落大意）由「答完了沒」控制，與提示開關無關。
+// 提示層是作答中的線索、骨架層是作答後的檢討工具，兩者不共用一個開關。
+function renderOutlineBox(){
   const outlineBox = document.getElementById('fullOutlineBox');
-  const pid = fullPassageIds[fullIdx];
-  const passage = PASSAGES[pid];
-  if(passage && passage.outline && passage.outline.length && fullHintOn){
+  const passage = PASSAGES[fullPassageIds[fullIdx]];
+  if(fullGraded && passage && passage.outline && passage.outline.length){
     outlineBox.style.display = 'block';
-    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div><ol>' +
-      passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
+    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div>' +
+      '<div class="ob-note">這是答完才出現的，用來檢討。回頭比對一次：你剛才讀的時候，每一段抓到的重點跟這裡寫的一不一樣？不一樣的那幾段，常常就是失分的地方。</div>' +
+      '<ol>' + passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
   } else {
     outlineBox.style.display = 'none';
     outlineBox.innerHTML = '';
   }
-}
-function setStudentLevel(level, el){
-  document.querySelectorAll('.level-chip').forEach(c => c.classList.remove('on'));
-  el.classList.add('on');
-  fullHintOn = (level !== 'high');
-  applyHintStyling();
 }
 function toggleFullHint(){
   fullHintOn = !fullHintOn;
@@ -1565,15 +1550,7 @@ function renderFull(){
   });
   document.getElementById('fullPassage').innerHTML = html;
 
-  const outlineBox = document.getElementById('fullOutlineBox');
-  if(passage.outline && passage.outline.length && fullHintOn){
-    outlineBox.style.display = 'block';
-    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div><ol>' +
-      passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
-  } else {
-    outlineBox.style.display = 'none';
-    outlineBox.innerHTML = '';
-  }
+  renderOutlineBox();
   document.getElementById('fullReview').style.display = 'none';
   document.getElementById('fullReviewList').innerHTML = '';
   document.getElementById('fullTranslation').innerHTML = '';
@@ -1621,6 +1598,7 @@ function gradeFull(){
   document.getElementById('fullSubmitBtn').style.display = 'none';
   document.getElementById('fullNextBtn').style.display = '';
   fullGraded = true;
+  renderOutlineBox();
 }
 
 function nextFullPassage(){
