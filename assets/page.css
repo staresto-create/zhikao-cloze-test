@@ -160,3 +160,9 @@ footer .fb{color:var(--ink-soft);}
 footer .fb a{color:var(--crimson); font-weight:600;}
 footer{margin-top:26px; font-size:11.5px; color:var(--ink-soft); text-align:center; line-height:1.8;}
 @media (max-width:560px){ body{padding:20px 12px 44px;} .card{padding:18px;} h1{font-size:20px;} }
+
+/* crossRefs 行內連結：靜止時即與內文有別，不依賴 :hover（行動裝置無此動作）。
+   → 表示站內移動，與 ↗（離開本站）分工，勿互換 */
+.sec .xref,.why .xref{color:var(--crimson); text-decoration:underline;
+  text-underline-offset:2px; white-space:nowrap;}
+.sec .xref:hover,.why .xref:hover{background:#FBF0EE;}
