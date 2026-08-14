@@ -161,6 +161,22 @@ footer .fb a{color:var(--crimson); font-weight:600;}
 footer{margin-top:26px; font-size:11.5px; color:var(--ink-soft); text-align:center; line-height:1.8;}
 @media (max-width:560px){ body{padding:20px 12px 44px;} .card{padding:18px;} h1{font-size:20px;} }
 
+/* 段落大意：獨立摺疊區塊，沿用 index.html 的 .outline-box 樣式 */
+details.outline summary{cursor:pointer; padding:12px 16px; font-weight:500; font-size:14.5px;
+  font-family:'Noto Serif TC',serif; background:#F7F5F0; list-style:none; display:flex; align-items:center;}
+details.outline summary::-webkit-details-marker{display:none;}
+details.outline summary::marker{content:"";}
+details.outline summary::before{content:"▸"; color:var(--crimson); font-size:15px; margin-right:9px;
+  display:inline-block; transition:transform .15s ease;}
+details.outline[open] summary::before{transform:rotate(90deg);}
+details.outline summary:focus-visible{outline:2px solid var(--crimson); outline-offset:-2px;}
+@media (prefers-reduced-motion: reduce){ details.outline summary::before{transition:none;} }
+details.outline{border:1px solid var(--rule); border-radius:4px; background:#fff; overflow:hidden;}
+details.outline ol{margin:0; padding:4px 16px 16px 38px; font-size:13.5px; color:var(--ink-soft);
+  line-height:1.85;}
+details.outline ol li{margin-bottom:8px;}
+details.outline ol li:last-child{margin-bottom:0;}
+
 /* crossRefs 行內連結：靜止時即與內文有別，不依賴 :hover（行動裝置無此動作）。
    → 表示站內移動，與 ↗（離開本站）分工，勿互換 */
 .sec .xref,.why .xref{color:var(--crimson); text-decoration:underline;
