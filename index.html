@@ -670,7 +670,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
       <b>段落標示：</b>原文左側標有「第 1 段、第 2 段…」，便於快速掌握文章結構。<br>
       <b>視覺提示：</b>藍底標示全文中心思想，黃底標示段落主旨句，兩者皆是時標為綠底，紅字標示關鍵轉折詞。<br>
       <b>提示開關：</b>上方可隨時開啟或關閉顏色標示；切換不影響你已經選好的答案。<br>
-      <b>段落大意摘要：</b>送出批改後會自動出現在文章下方，用來對照你剛才每一段抓到的重點。
+      <b>內容大意：</b>送出批改後會自動出現在文章下方，用來對照你剛才讀的時候抓到的重點。
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
     </div>
@@ -1474,15 +1474,15 @@ function applyHintStyling(){
     el.classList.toggle('hint-on', fullHintOn);
   });
 }
-// 骨架層（段落大意）由「答完了沒」控制，與提示開關無關。
+// 骨架層（內容大意）由「答完了沒」控制，與提示開關無關。
 // 提示層是作答中的線索、骨架層是作答後的檢討工具，兩者不共用一個開關。
 function renderOutlineBox(){
   const outlineBox = document.getElementById('fullOutlineBox');
   const passage = PASSAGES[fullPassageIds[fullIdx]];
   if(fullGraded && passage && passage.outline && passage.outline.length){
     outlineBox.style.display = 'block';
-    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div>' +
-      '<div class="ob-note">這是答完才出現的，用來檢討。回頭比對一次：你剛才讀的時候，每一段抓到的重點跟這裡寫的一不一樣？不一樣的那幾段，常常就是失分的地方。</div>' +
+    outlineBox.innerHTML = '<div class="ob-title">📋 內容大意</div>' +
+      '<div class="ob-note">這是答完才出現的，用來檢討。你剛才讀的時候抓到的重點，跟這裡寫的一不一樣？對不上的地方，往往就是失分的原因。</div>' +
       '<ol>' + passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
   } else {
     outlineBox.style.display = 'none';
