@@ -5216,7 +5216,7 @@
     "hasFullPassage": true,
     "passageId": "98_11-15",
     "accuracyRate": 34,
-    "note": "【你可能會這樣想】suffer 你大概只記得「受苦」，而且直覺以為主詞一定是人。其實 suffer from 的主詞可以是任何承受負面狀況的一方，本句主詞是那個虛擬病人（the \"patient\"）：can suffer serious reactions ＝ 會出現嚴重反應。【一個常錯的細節】suffer from 用於疾病或長期困擾（suffer from a headache／depression）；若後面接的是一次性的損失或後果，from 可以省略：suffer serious injuries／heavy losses（遭受重傷／重大損失）。【誘答選項】provide with 是「提供」，但句型是 provide sb with sth，主詞該是提供者，本句主詞是承受的一方，方向顛倒；adapt to 是「適應」，break into 是「闖入」。【常考字詞與句型】suffer from a disease（罹患疾病）、suffer losses／injuries（遭受損失／傷害）、be allergic to（對…過敏）、provide sb with sth（提供某人某物）。",
+    "note": "【你可能會這樣想】suffer 你大概只記得「受苦」，而且直覺以為主詞一定是人。其實 suffer from 的主詞可以是任何承受負面狀況的一方，本句主詞是那個虛擬病人（the \"patient\"）：can suffer serious reactions ＝ 會出現嚴重反應。【一個常錯的細節】suffer from 用於疾病或長期困擾（suffer from a headache／depression）；若後面接的是單次的損失或後果，from 可以省略：suffer serious injuries／heavy losses（遭受重傷／重大損失）。【誘答選項】provide with 是「提供」，但句型是 provide sb with sth，主詞該是提供者，本句主詞是承受的一方，方向顛倒；adapt to 是「適應」，break into 是「闖入」。【常考字詞與句型】suffer from a disease（罹患疾病）、suffer losses／injuries（遭受損失／傷害）、be allergic to（對…過敏）、provide sb with sth（提供某人某物）。",
     "discrimination": 29,
     "contextSpan": "句內"
   },
@@ -5591,7 +5591,7 @@
     "discrimination": 56,
     "contextSpan": "跨句",
     "contextNote": "The tragedy 的 The 回指前一句「暴動造成多人喪生」",
-    "note": "【你可能會這樣想】四個選項都是抽象名詞，中文擺進去好像都能講通，你會挑一個讀起來最不奇怪的。【怎麼判斷】鑑別度高達 56，分開的是有沒有注意到空格前面那個 The。定冠詞 The 表示這個名詞指的是「剛剛已經提過的那一件事」，所以要往前一句找它到底指什麼——a riot at a Brussels soccer match occurred, in which many fans lost their lives（布魯塞爾一場足球賽發生暴動，許多球迷因此喪生）。死了很多人的事件，中文就是慘劇，英文用 tragedy。填進去讀成 The tragedy began 45 minutes before the start of the European Cup final（這場慘劇在歐洲盃決賽開賽前四十五分鐘就開始了）。【誘答選項】circumstance（情況、情勢）與 phenomenon（現象）都太中性，講不出死傷這一層，而且 phenomenon 指的是反覆出現、可以觀察的現象，不是一次性的突發事件；sequence（順序、一連串）要說明是「什麼的一連串」，單獨用不成意思。三個都是抽象名詞，形態吻合，容易被順手選走。【常考字詞與句型】tragedy（悲劇、慘劇）、phenomenon（現象，複數 phenomena）、circumstance（情況、情勢）、under no circumstances（絕不、在任何情況下都不）、break out（爆發，用於戰爭、火災、暴動）、lose one's life（喪生）。"
+    "note": "【你可能會這樣想】四個選項都是抽象名詞，中文擺進去好像都能講通，你會挑一個讀起來最不奇怪的。【怎麼判斷】鑑別度高達 56，分開的是有沒有注意到空格前面那個 The。定冠詞 The 表示這個名詞指的是「剛剛已經提過的那一件事」，所以要往前一句找它到底指什麼——a riot at a Brussels soccer match occurred, in which many fans lost their lives（布魯塞爾一場足球賽發生暴動，許多球迷因此喪生）。死了很多人的事件，中文就是慘劇，英文用 tragedy。填進去讀成 The tragedy began 45 minutes before the start of the European Cup final（這場慘劇在歐洲盃決賽開賽前四十五分鐘就開始了）。【誘答選項】circumstance（情況、情勢）與 phenomenon（現象）都太中性，講不出死傷這一層，而且 phenomenon 指的是反覆出現、可以觀察的現象，不是單次的突發事件；sequence（順序、一連串）要說明是「什麼的一連串」，單獨用不成意思。三個都是抽象名詞，形態吻合，容易被順手選走。【常考字詞與句型】tragedy（悲劇、慘劇）、phenomenon（現象，複數 phenomena）、circumstance（情況、情勢）、under no circumstances（絕不、在任何情況下都不）、break out（爆發，用於戰爭、火災、暴動）、lose one's life（喪生）。"
   },
   {
     "id": "Z101_17",
@@ -5730,7 +5730,7 @@
     "discrimination": 63,
     "contextSpan": "跨句",
     "contextNote": "this move 概括前一句「只在週一到週五送信」的決定",
-    "note": "【你可能會這樣想】move 這個字，你的印象大概只有動詞的「移動、搬家」，不太會想到它當名詞是「舉措、做法」。【怎麼判斷】答對率剛過五成，鑑別度高達 63，是本批最會分人的一題，分的是有沒有回頭把 this 的所指釘回前面。這是指標勾環：看到 this 帶著一個名詞，先問「這個 this 指的是前面哪一件事」，再看哪一個選項接得住。前面講的是郵政署決定週六不再送信（stop delivering mail on Saturdays），那是一個決定、一項做法；move 當名詞正是「舉措、行動」，this move 就是「這項措施」。填進去讀成 It is expected that this move will save about $2 billion a year（預計這項措施每年可省下約二十億美元）。這一句自己看不出該填哪一個名詞，四個填進去都合文法，線索一定在前面那幾句。【誘答選項】round（一回合、一輪）要有一連串重複的回合才說得通，這裡是一次性的決定；chance（機會）與 fact（事實）文法上都放得進去，形態吻合，容易被順手選走，但前面那件事既不是一個機會，也不是在陳述一項事實，而是一個做出來的動作。【常考字詞與句型】move（名詞：舉措、行動）、make a move（採取行動、有所動作）、It is expected that ...（預計、預期……）、this + 名詞（回指前面提過的人事物）、a round of（一輪、一回合）、congressional approval（國會批准）。"
+    "note": "【你可能會這樣想】move 這個字，你的印象大概只有動詞的「移動、搬家」，不太會想到它當名詞是「舉措、做法」。【怎麼判斷】答對率剛過五成，鑑別度高達 63，是本批最會分人的一題，分的是有沒有回頭把 this 的所指釘回前面。這是指標勾環：看到 this 帶著一個名詞，先問「這個 this 指的是前面哪一件事」，再看哪一個選項接得住。前面講的是郵政署決定週六不再送信（stop delivering mail on Saturdays），那是一個決定、一項做法；move 當名詞正是「舉措、行動」，this move 就是「這項措施」。填進去讀成 It is expected that this move will save about $2 billion a year（預計這項措施每年可省下約二十億美元）。這一句自己看不出該填哪一個名詞，四個填進去都合文法，線索一定在前面那幾句。【誘答選項】round（一回合、一輪）要有一連串重複的回合才說得通，這裡是一次就決定的事；chance（機會）與 fact（事實）文法上都放得進去，形態吻合，容易被順手選走，但前面那件事既不是一個機會，也不是在陳述一項事實，而是一個做出來的動作。【常考字詞與句型】move（名詞：舉措、行動）、make a move（採取行動、有所動作）、It is expected that ...（預計、預期……）、this + 名詞（回指前面提過的人事物）、a round of（一輪、一回合）、congressional approval（國會批准）。"
   },
   {
     "id": "Z103_11",
