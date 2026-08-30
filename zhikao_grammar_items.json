@@ -1776,7 +1776,7 @@
       "D": "such"
     },
     "answer": "A",
-    "explanation": "which 引導非限定形容詞子句，先行詞是前面整個概念（紫外線），補充說明「紫外線可能導致植物細胞內產生有害物質」。逗點後的非限定子句不能用 that，what 不能有先行詞，such 不是關係代名詞，皆不合。",
+    "explanation": "which 引導非限定關係子句，先行詞是前面整個概念（紫外線），補充說明「紫外線可能導致植物細胞內產生有害物質」。逗號後的非限定子句不能用 that，what 不能有先行詞，such 不是關係代名詞，皆不合。",
     "answer_source": "official_key",
     "fullPassage": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__, are not there only to attract attention. They perform another important function for the plants. Research shows that the substances __17__ these colors actually protect plants from chemical damage. The colors come mainly from chemicals known as antioxidants. Plants make antioxidants to protect themselves from the sun's ultraviolet (UV) light, __18__ may cause harmful elements to form within the plant cells. When we eat colorful fruits and vegetables, the coloring chemicals protect us, too. Typically, an intensely colored plant has __19__ of these protective chemicals than a paler one does. Research on how chemicals in blueberries affect brain function even suggests that these chemicals may help our own brains work more __20__. In other words, eating richly colored fruits and vegetables makes us both healthier and smarter.",
     "hasFullPassage": true,
