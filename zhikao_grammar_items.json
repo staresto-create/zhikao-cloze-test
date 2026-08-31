@@ -128,7 +128,7 @@
       "D": "at playing"
     },
     "answer": "C",
-    "explanation": "【句型】devote + 時間/心力 + to + Ving，是固定用法，表示「把時間投入在……」；make their music perfect（使音樂完美）用 making 呼應 to 之後的動名詞形式。其餘選項的動詞搭配（doing／singing／playing）都無法接續「perfect」形成合理語意。",
+    "explanation": "【句型】devote + 時間/心力 + to + V-ing，是固定用法，表示「把時間投入在……」；make their music perfect（使音樂完美）用 making 呼應 to 之後的動名詞形式。其餘選項的動詞搭配（doing／singing／playing）都無法接續「perfect」形成合理語意。",
     "answer_source": "manual",
     "hasFullPassage": true,
     "passageId": "91_26-30",
@@ -2476,7 +2476,7 @@
       "D": "to be"
     },
     "answer": "C",
-    "explanation": "【句型】result from + Ving（動名詞片語），people being trampled 是「result from」的受詞，being trampled 是動名詞的被動式，表示「人們被踩踏」這個被動動作。be（原形）、been（過去分詞，不能單獨作動名詞）、to be（不定詞不合 from 之後需接動名詞的語法）都不符合。",
+    "explanation": "【句型】result from + V-ing（動名詞片語），people being trampled 是「result from」的受詞，being trampled 是動名詞的被動式，表示「人們被踩踏」這個被動動作。be（原形）、been（過去分詞，不能單獨作動名詞）、to be（不定詞不合 from 之後需接動名詞的語法）都不符合。",
     "answer_source": "official_key",
     "fullPassage": "In 1985, a riot at a Brussels soccer match occurred, in which many fans lost their lives. The __16__ began 45 minutes before the start of the European Cup final. The British team was scheduled to __17__ the Italian team in the game. Noisy British fans, after setting off some rockets and fireworks to cheer for __18__ team, broke through a thin wire fence and started to attack the Italian fans. The Italians, in panic, __19__ the main exit in their section when a six-foot concrete wall collapsed. By the end of the night, 38 soccer fans had died and 437 were injured. The majority of the deaths resulted from people __20__ trampled underfoot or crushed against barriers in the stadium. As a result of this 1985 soccer incident, security measures have since been tightened at major sports competitions to prevent similar events from happening.",
     "hasFullPassage": true,
