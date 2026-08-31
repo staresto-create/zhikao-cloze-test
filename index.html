@@ -753,6 +753,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
   <!-- SINGLE MODE -->
   <div id="single">
     <div class="quiz-meta">
+      <span id="singleSetLabel"></span>
       <span id="singleProgress">0 / 0</span>
       <span id="singleWrongBadge"></span>
     </div>
@@ -916,6 +917,7 @@ async function init(){
   refreshWrongCount();
   refreshHomeStats();
   fillSpanStats();
+  startFromSetHash();
 }
 
 /* 線索範圍統計：由 ITEMS 現算，新增年度後自動更新。
@@ -1115,6 +1117,40 @@ let singleQueue = [];
 let singleIdx = 0;
 let singleAnswered = false;
 
+/* #set- 深連結入口：老師指定一組題目當作業。
+   只讀 hash、不寫 hash，站內操作與既有網址皆不受影響。
+   走的是既有的單題模式，順序照網址給的順序，不套用任何篩選、不打散，
+   讓作業的題序可預期（buildQueue 會打散，故此處不呼叫它）。
+   網址形狀：#set-<題目ID以半形逗號或句點分隔>[|<題組名稱>]
+   例：#set-G83_11_1,G92_29_1|115上第3週U5 */
+/* 其他入口一律清掉題組名稱，避免上一輪 #set- 的標籤殘留在畫面上。 */
+function clearSetLabel(){
+  const el = document.getElementById('singleSetLabel');
+  if(el) el.textContent = '';
+}
+
+function startFromSetHash(){
+  const raw = decodeURIComponent(location.hash || '');
+  const m = raw.match(/^#set-([^|]+)(?:\|(.*))?$/);
+  if(!m) return false;
+  const ids = m[1].split(/[.,]/).map(s => s.trim()).filter(Boolean);
+  const byId = {};
+  ITEMS.forEach(it => { byId[it.id] = it; });
+  const queue = ids.map(id => byId[id]).filter(Boolean);
+  if(queue.length === 0){ alert('這條作業連結裡的題目都不存在，可能是題庫更新過。'); return false; }
+  const label = (m[2] || '').trim() || '指定練習';
+  const miss = ids.length - queue.length;
+  testMode = document.getElementById('testModeToggle').checked;
+  singleQueue = queue;
+  singleIdx = 0;
+  const el = document.getElementById('singleSetLabel');
+  if(el) el.textContent = label + '（' + queue.length + ' 題）';
+  showScreen('single');
+  renderSingle();
+  if(miss > 0) alert('這條作業連結有 ' + miss + ' 題已不存在，已自動略過，其餘 ' + queue.length + ' 題照常作答。');
+  return true;
+}
+
 function buildQueue(filterFn){
   const pool = ITEMS.filter(filterFn);
   // shuffle
@@ -1132,6 +1168,7 @@ function startSession(){
   const yearOk = it => selectedYears.size===0 || selectedYears.has(it.year);
   if(currentMode === 'single'){
     const filterFn = it => catOk(it) && yearOk(it) && diffOk(it);
+  clearSetLabel();
     singleQueue = buildQueue(filterFn);
     if(singleQueue.length===0){ alert('這個篩選條件下沒有題目（難易度篩選可能跟其他條件沒有交集）'); return; }
     singleIdx = 0;
@@ -1145,6 +1182,7 @@ function startSession(){
 
 function quickStart(){
   testMode = document.getElementById('testModeToggle').checked;
+  clearSetLabel();
   singleQueue = buildQueue(()=>true).slice(0,10);
   if(singleQueue.length===0) return;
   singleIdx = 0;
@@ -1156,6 +1194,7 @@ function startWrongReview(){
   const wrongIds = loadWrongIds();
   if(wrongIds.size===0) return;
   testMode = document.getElementById('testModeToggle').checked;
+  clearSetLabel();
   singleQueue = ITEMS.filter(it => wrongIds.has(it.id));
   for(let i=singleQueue.length-1;i>0;i--){
     const j = Math.floor(Math.random()*(i+1));
@@ -1454,6 +1493,7 @@ let fullIdx = 0;
 let fullGraded = false;
 
 function startFullMode(filterFn){
+  clearSetLabel();
   const validItems = ITEMS.filter(filterFn);
   fullPassageIds = Array.from(new Set(validItems.map(it=>it.passageId)));
   if(fullPassageIds.length===0){ alert('這個篩選條件下沒有題目'); return; }
