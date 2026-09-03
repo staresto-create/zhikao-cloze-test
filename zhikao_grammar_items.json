@@ -1066,7 +1066,12 @@
     "accuracyRate": 23,
     "note": "【你可能會這樣想】Except for 與 In addition to 的中文都能翻成「除了」，但邏輯相反：Except for 是「扣掉」（從整體中減去例外），In addition to 是「加上」（在既有的之外再添一項）。中文的「除了」同時涵蓋這兩種意思，英文卻分家，這是這一組最容易混淆的地方。【怎麼判斷】先看主要子句在講什麼。virtually all surviving Angkorian statues, wood carvings and artifacts have been replaced with copies（現存的吳哥雕像、木雕與文物幾乎全被複製品取代）——關鍵在 virtually all，它宣告的是一個「幾乎全部」的整體。一個句子既然已經說了「幾乎全部」，句首那一段介系詞片語的功能就是把例外扣掉，而不是再加一項進來。看到 all、everything、everyone、no one 這類涵蓋全體的字，就往「排除」的方向想。驗算法：把句子拆成兩句唸一遍——Very large pieces are too heavy to move. Everything else has been replaced with copies.（大到搬不動的留在原地，其餘全部換成了複製品。）拆得開，就是排除關係。【誘答選項】三個都是介系詞片語，都能放句首帶名詞，錯在邏輯關係不同。In addition to 是累加，會讀成「除了搬不動的大型文物之外，其他的也都被取代」——意思變成連搬不動的那些也被取代了，與 too heavy to move 自相矛盾。Owing to 表示原因，等於 because of，會讀成「因為有大到搬不動的文物，所以其餘全被複製品取代」，兩件事之間沒有因果。In spite of 表示讓步，等於 despite，會讀成「儘管有大到搬不動的文物，其餘還是全被取代」——讓步要求前後有衝突，但搬不動的文物留在原地與其他文物被替換之間並不衝突。【常考字詞與句型】except for（除…之外，整體扣除例外）、with the exception of（除…之外）、apart from（除…之外）、in addition to（除…之外還有，額外累加）、owing to／due to（由於）、in spite of／despite（儘管）。",
     "discrimination": 21,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：Except for——先講全部，再扣掉不算在內的",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/apart-from-or-except-for",
+      "hint": "重點：except for 只表示「不包括在內」，用在主句已經說了「幾乎全部」的時候；In spite of 是讓步、Owing to 是原因、In addition to 是累加，三個的邏輯方向都不是「扣掉例外」。"
+    }
   },
   {
     "id": "Z95_19",
@@ -1419,7 +1424,13 @@
     "accuracyRate": 12,
     "note": "【你可能會這樣想】once 在你腦中大概只有兩個身分：副詞「曾經」（I once lived in Japan.）與「一次」（once a week），兩個都是國中學過的。它還有第三個身分——從屬連接詞「一旦…就」，後面接完整子句——課本著墨少，所以句子需要連接詞時不容易想到它。【怎麼判斷】先看空格後面：women reach 50 是主詞加動詞的完整子句，需要有東西把它接上主要子句，所以這一格要填連接詞。這一步就把 once 的「曾經」與「一次」排除了——那兩個身分是副詞，帶不了子句。確定要連接詞之後再看語意方向：主要子句說女性的低潮橫跨三十幾與四十幾歲，only climbing 表示要到某個時間點才開始回升，所以連接詞要表達「這個條件成立，結果才發生」。once 當連接詞正是這個意思：Once you understand the rule, the rest is easy.（一旦懂了規則，其餘就簡單了。）驗算在下一句。作者接著寫男性：Men, on the other hand, have the lowest point in their 40s, going up again when they reach 50.——同一個「到五十歲才回升」的意思，寫男性時用 when，寫女性時用 once。前後對照，方向就確定了。順帶把 once 與 as soon as 分清楚，兩者常被當成同義詞。as soon as 重的是時間緊接：As soon as we hear any news, we'll call you.（一有消息就通知你。）once 重的是條件成立：My boss is a nice man once you get to know him.（一旦你了解他，我老闆人很好。）後面這句換成 as soon as 就不通，因為「了解一個人」不是瞬間發生的事，是一道門檻。【誘答選項】三個都是連接詞，句法上都塞得進去，要靠語意刷掉。unless 是「除非」，會讀成「除非女性年滿五十，否則才回升」，條件與結果打結。before 是「在…之前」，時間順序顛倒——低潮是持續「到」五十歲，不是五十歲「之前」就結束。since 當連接詞有「自從」與「因為」兩義：「自從女性年滿五十」要配完成式，本句沒有；「因為女性年滿五十」把時間點說成原因，與 only climbing 的語氣對不上。【常考字詞與句型】once + S + V（一旦…就，重條件）、as soon as（一…就，重時間）、the moment (that)（一…就）、by the time（到…的時候）、once in a while（偶爾）、at once（立刻）。",
     "discrimination": 7,
-    "contextSpan": "句內"
+    "discriminationNote": "鑑別度 7，高低分群的差距不大。本題答對率 12%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都在同一個字上轉向：once 最先想到的是「一次、曾經」這個副詞用法，而這一格用的是連接詞的 once，等於 as soon as 或 after。",
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：once 當連接詞，「一旦…就」",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/once",
+      "hint": "重點：once 當從屬連接詞時等於 as soon as 或 after，引導時間子句，講的是「一旦…就」；本句是女性的低潮要到五十歲才開始回升，unless（除非）是條件而且方向相反，before（在…之前）把先後顛倒過來，since（自從、因為）也對不上。"
+    }
   },
   {
     "id": "Z96_16",
@@ -2185,7 +2196,12 @@
     "accuracyRate": 17,
     "note": "【你可能會這樣想】句子中間插了 opened in December 2008，你看到 opened 就當它是主要動詞，覺得句子已經完整，於是不知道空格要填什麼。這個分詞片語只是修飾主詞，等於 which was opened in December 2008。【怎麼判斷】讀英文句子，先抓兩樣東西：誰、怎麼了——主詞與動詞。這兩樣定了，其餘都是掛在上面的修飾語。先把句子切開看：[The exhibit], opened in December 2008, ___ scheduled to run for about three years. 方括號裡是主詞，緊接著兩個逗號夾住一段修飾語；把它遮掉，剩下 [The exhibit] ___ scheduled…，動詞該站的位置立刻現形。眼睛先撞到 opened 就把它當成動詞，是這一題最容易出的錯。主詞後面接逗號的句子都可以這樣處理：先確認逗號之間是不是修飾語（分詞片語、同位語、介系詞片語），是就遮掉。骨幹露出來之後，要填的是一個有時態的動詞。scheduled 在這裡是過去分詞——展覽是「被安排」的一方，所以要配 be 動詞構成 be scheduled to V（預定要…）。主詞 The exhibit 單數，全文用現在式敘述現況，因此填 is。這個結構你國中就用過：The boy standing there is my brother.（站在那裡的男孩是我哥哥。）standing there 是修飾語，is 才是主要動詞。本題只多兩件事——修飾語換成過去分詞，是被動；而且用兩個逗號插在主詞與動詞中間，把兩者隔得比較開，更容易看走眼。【誘答選項】being 與 having 都是分詞、沒有時態，當不了主要動詞，填進去整句會變成一個沒有動詞的名詞片語。has 的問題不同：has scheduled 是主動語態，意思變成「展覽安排了某件事」，但展覽是被安排的一方，語態顛倒；要用 has，得寫成 has been scheduled 才通。這一招在學測 104 年第 18 題也考過同一個概念：These movements, forming an exercise system, ___ one to effortlessly experience the vital life force.——插入語換成現在分詞，遮掉之後要判斷的是主詞單複數（These movements 要配 allow）。學測 108 年第 17 題是第三種：However, many people, either refusing to accept the new date or not having heard about it, ___ to celebrate New Year’s Day on April 1.——插入語是兩個並列的分詞片語，遮掉之後要判斷的是主要動詞的時態（要配 continued）。本題遮掉之後要判斷的是語態。遮住插入語只是第一步，第二步永遠是問：這個主詞跟這個動詞，在數與語態上對得起來嗎？【常考字詞與句型】be scheduled to V（預定要）、be due to V（預計）、be set to V（即將）、run for（持續、上演）、reproduction（複製品）、keep one's hands off（不碰、別動）。",
     "discrimination": 27,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：限定動詞與非限定動詞——插入的分詞片語不是真正的動詞",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/finite-and-non-finite-verbs",
+      "hint": "重點：兩個逗號中間的 opened in December 2008 是分詞片語，用來修飾 The exhibit，不是這一句的動詞，所以真正的動詞還沒出現；being 與 having 是非限定形式，不能單獨當動詞，has 會變成主動的 has scheduled，語意不通。填 is 才組成 be scheduled to（預定）。"
+    }
   },
   {
     "id": "Z100_11",
@@ -2836,7 +2852,13 @@
     "accuracyRate": 14,
     "note": "【你可能會這樣想】句子讀到 as，你等著看一個完整的子句，結果後面只有一個 did 加一串名詞，會覺得動詞不見了。於是你想把空格填成看起來像動詞的 being 或 doing，把它補成「正在做」的樣子。動詞其實沒有不見——did 就是那個動詞，它代替前面出現過的 influenced，避免同一個字說兩次。【怎麼判斷】讀英文句子，先抓兩樣東西：誰、怎麼了——主詞與動詞。這兩樣定了，其餘都是掛在上面的修飾語。先把句子切開看：[His writing style], characterized by simplicity and understatement, [influenced] modern fiction, as ___ [his life of adventure]. 方括號裡依序是主詞、主要動詞，以及 as 後面那個新的主詞；中間被兩個逗號夾住的是修飾語，遮掉不影響句子成立。接著看 as 後面：主詞是 his life of adventure，那它的動詞在哪裡？被 did 頂替了。驗算只有一步——把 did 還原成它代替的那一串，整句讀成 as his life of adventure influenced modern fiction（他充滿冒險的一生同樣影響了現代小說），句子站得住，方向就對了。這背後是英文避免重複的習慣：同一個動詞不重說第二次，改用一個助動詞頂替。你國中就用過 So do I.、Neither have I.，只是當時記的是整組說法，沒特別去想那個 do 或 have 在頂替什麼；這裡把它拆開看，did 頂的是 influenced modern fiction 一整串。還有一點順手分清楚。國中那組 So have I. 的倒裝是強制的，寫成 So I have. 就錯了；本句的 as did his life of adventure 是選擇性的，寫成 as his life of adventure did 一樣正確。本句選前者，是因為英文習慣把長的成分留到句尾——主詞 his life of adventure 比助動詞長得多，助動詞先出來，句子的重量才落在後面。兩種倒裝長得像，規則不同，別把國中那條「一定要倒裝」直接套過來。【誘答選項】三個選項的錯法各不相同，值得分開記。was 錯在「代錯種類」：代動詞要跟它代替的動詞同一類，前面是 influenced 這個一般動詞，就得用 do 的家族；要用 was，前面得是 be 動詞才行，例如 His style was simple, as was his life.（他的風格簡潔，他的人生也是。）being 與 doing 的問題相同：兩個都是分詞、沒有時態，當不了子句的動詞，而 as 引導的是一個有主詞的子句，需要一個有時態的動詞來搭配。分不出來時回到最基本的一條——一個子句有且只有一組主詞與動詞，這一格要填的就是 his life of adventure 的那個動詞。【常考字詞與句型】as did ／ as does + 主詞（…也是如此，比較子句的倒裝）、as was ／ as were + 主詞（前面是 be 動詞時用）、so do I（我也是）、neither do I（我也不）、be characterized by（以…為特色）、understatement（含蓄、輕描淡寫）。",
     "discrimination": 7,
-    "contextSpan": "句內"
+    "discriminationNote": "鑑別度 7，高低分群的差距不大。本題答對率 14%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都在同一個結構前停住：as 後面接的是代動詞加主詞的倒裝，did 代替前面的 influenced，不是一個要跟主詞搭配的 be 動詞。",
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：as／than 倒裝，用助動詞代替前面出現過的動詞",
+      "url": "https://www.learn-english-today.com/lessons/lesson_contents/verbs/inversion.html",
+      "hint": "重點：as 引導的比較句重複前面用過的一般動詞時，用 do／does／did 代替並倒裝（動詞放在主詞前面），時態跟被代替的動詞一致；本句前面是 influenced，過去式，所以用 did。was 無法代替一般動詞，being 與 doing 是非限定形式，接不上主詞 his life of adventure。"
+    }
   },
   {
     "id": "Z104_15",
@@ -2933,7 +2955,12 @@
     "accuracyRate": 21,
     "note": "【你可能會這樣想】prefer 這個動詞你很熟（prefer A to B），但很少把 preferred 當成一個形容詞記住：「偏好的、首選的」。看到四個選項都由同一個字變化而來，容易覺得要靠語意分，其實這一題靠位置就能定案。【怎麼判斷】先看空格卡在哪裡。their ___ distance——前面是所有格 their，後面是名詞 distance，這個位置只能放形容詞。四個選項都是 prefer 變出來的，所以這一格考的是哪一種形式能當形容詞。先把它還原成關係子句看看：the distance which is preferred by them，他們所偏好的距離。既然過去分詞自己就能當形容詞，這一串就可以直接說成 their preferred distance，跟 our preferred way of living 是一樣的道理。其餘三個用同一個方法還原就過不了關：preferring 還原成 the distance which is preferring，語意不通；being preferred 還原成 the distance being preferred，可見 being preferred 只能放在 distance 後面，放不到 their 跟 distance 中間；prefer 是原形動詞，動詞不能當形容詞。這種「過去分詞當形容詞」你國中就用過：a broken window（破掉的窗戶）、fried rice（炒飯）。【誘答選項】preferring 是現在分詞，還原成 the distance which is preferring，語意不通。being preferred 還原成 the distance being preferred，可見 being preferred 只能放在 distance 後面，放不到 their 跟 distance 中間。prefer 是原形動詞，動詞不能當形容詞。【常考字詞與句型】preferred distance／method（偏好的距離／首選方法）、prefer A to B（喜歡 A 勝過 B）、prefer to V（寧可）、required documents（必備文件）、reserved seats（預留座位）、personal space（個人空間）。",
     "discrimination": 18,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：-ed 形當形容詞（their preferred distance）",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-forms",
+      "hint": "重點：所有格 their 與名詞 distance 中間是形容詞的位置；分詞當形容詞時，-ing 形是主動、-ed 形是被動——距離是「被偏好的」，所以用 preferred。prefer 是動詞原形，接不上；preferring 是主動，讀起來變成 distance 去偏好別人，語意不通；being preferred 是分詞片語，不放在這個位置。"
+    }
   },
   {
     "id": "Z105_17",
@@ -4155,7 +4182,7 @@
       "D": "respondents"
     },
     "answer": "A",
-    "explanation": "the Net（網際網路）呼應全文主題 The Internet has replaced books...，指 27%學生從未使用過網路；survey／books／respondents 皆不符合語境。",
+    "explanation": "the Net（網際網路）呼應全文主題 The Internet has replaced books...，指 27% 學生從未使用過網路；survey／books／respondents 皆不符合語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "92_16-23",
@@ -4711,6 +4738,7 @@
     "accuracyRate": 13,
     "note": "【你可能會這樣想】看到空格後面接 to establish，你會直覺去找「習慣接 to V」的那個字。但這一題用句型篩不出答案：forget to V、afford to V、seek to V、tend to V 四個全都成立，結構這一關四個選項一起過，只能靠語意分。【怎麼判斷】先看骨幹。主詞是 Piaget，空格就是主要動詞，all his life（終其一生）是時間副詞，後半句由 and 接上第二個動詞 became。所以這一格的動詞，語氣要撐得起「終其一生」與「成為極具影響力的人物」兩個條件。seek 是「尋求、追求」，接不定詞時 seek to V 表示「設法、致力於」，語氣積極而持續，兩個條件都對得上。驗算法：把 all his life 拿掉唸一遍，再放回去唸一遍，語氣撐不住 all his life 的選項就不是答案。還有一關在認字。seek 的三態是 seek-sought-sought，與國中學過的 buy-bought-bought、bring-brought-brought、think-thought-thought、fight-fought-fought 同屬 -ought 這一組。要先認得出 sought 是 seek，才輪得到辨義。【誘答選項】forget to V 是「忘記要做某事」，forget V-ing 才是「忘記做過」，這一組國中學過；放進來會變成「終其一生忘記要建立心理學體系」，語意不通。afford to V 是「負擔得起」，配的是花錢或花時間的事，而且多半用在否定與疑問（can't afford to），肯定直述句少見。tend to V 是「傾向於」，講的是性向不是作為。這一格與後半的 became 由 and 連起來，是同一個人先後做的兩件事，前面得是實際投入才接得出「於是成為影響深遠的人物」；一種傾向接不出這個結果。【常考字詞與句型】seek to V（設法、致力於）、seek help／advice（尋求協助／建議）、much sought-after（炙手可熱的）、tend to V（傾向於）、afford to V（負擔得起）、forget to V（忘記要做）／forget V-ing（忘記做過）。",
     "discrimination": 4,
+    "discriminationNote": "鑑別度 4，高低分群的差距不大。本題答對率 13%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都在同一個環節斷了：sought 是 seek 的過去式，字形變化大，認不出這個形態就接不到 seek to V 這個用法。",
     "contextSpan": "句內",
     "readMore": {
       "label": "延伸閱讀：seek 的三態與 seek to V",
