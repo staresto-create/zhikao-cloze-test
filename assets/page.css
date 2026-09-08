@@ -35,17 +35,17 @@ h2{font-family:'Noto Serif TC',serif; font-weight:700; font-size:17px; margin:0 
   border-radius:4px; font-size:12.5px; color:var(--ink-soft); line-height:1.8;}
 .statnote b{color:var(--ink);}
 .statnote b.warn{color:var(--crimson);}
-.stem{font-family:'Lora',serif; font-size:17px; line-height:1.95; margin:4px 0 0;}
+.stem{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:17px; line-height:1.95; margin:4px 0 0;}
 .sblank{display:inline-block; min-width:44px; text-align:center; border-bottom:2px solid var(--crimson);
-  color:var(--crimson); font-family:'IBM Plex Mono',monospace; font-weight:600; padding:0 6px;}
+  color:var(--crimson); font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-weight:600; padding:0 6px;}
 ol.opts{list-style:none; margin:18px 0 0; padding:0;}
 ol.opts li{border:1.5px solid var(--rule); border-radius:4px; background:#fff; padding:10px 14px;
-  margin-bottom:8px; font-family:'Lora',serif; font-size:15.5px;}
+  margin-bottom:8px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15.5px;}
 ol.opts li.right{border-color:var(--sage); background:#F2F7F1;}
-ol.opts li .k{font-family:'IBM Plex Mono',monospace; font-weight:600; color:var(--ink-soft); margin-right:10px;}
+ol.opts li .k{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-weight:600; color:var(--ink-soft); margin-right:10px;}
 ol.opts li.right .k{color:var(--sage);}
-.ans{margin-top:14px; font-size:14.5px;}
-.ans b{color:var(--sage); font-size:17px; font-family:'IBM Plex Mono',monospace;}
+.ans{margin-top:14px; font-size:15.5px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; }
+.ans b{color:var(--sage); font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-weight:600; }
 .why{margin:0; font-size:14.5px; line-height:1.85;}
 .readmore{margin-top:14px; padding:12px 14px; border-left:3px solid var(--sage);
   background:#F2F7F1; border-radius:0 4px 4px 0; font-size:13px; line-height:1.8;}
@@ -79,11 +79,11 @@ details.psg summary::before{content:"▸"; color:var(--crimson); font-size:15px;
 details.psg[open] summary::before{transform:rotate(90deg);}
 details.psg summary:focus-visible{outline:2px solid var(--crimson); outline-offset:-2px;}
 @media (prefers-reduced-motion: reduce){ details.psg summary::before{transition:none;} }
-details.psg .inner{padding:4px 16px 16px; font-family:'Lora',serif; font-size:15px; line-height:1.95;}
+details.psg .inner{padding:4px 16px 16px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:15px; line-height:1.95;}
 details.psg .zh{font-family:'Noto Sans TC',sans-serif; font-size:14px; color:var(--ink-soft);
   border-top:1px dashed var(--rule); padding-top:14px; margin-top:6px; line-height:1.85;}
 .pblank{display:inline-block; min-width:26px; text-align:center; border-bottom:1.5px solid var(--rule);
-  color:var(--ink-soft); font-family:'IBM Plex Mono',monospace; font-size:13px; padding:0 4px;}
+  color:var(--ink-soft); font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:13px; padding:0 4px;}
 .pblank.cur{border-color:var(--crimson); color:var(--crimson); font-weight:600; background:#FBF1EE;}
 .legend{display:flex; flex-wrap:wrap; gap:12px; padding:10px 0 12px; margin-bottom:6px;
   border-bottom:1px dashed var(--rule); font-family:'Noto Sans TC',sans-serif; font-size:11.5px;
@@ -96,7 +96,7 @@ details.psg .zh{font-family:'Noto Sans TC',sans-serif; font-size:14px; color:var
 .topic-sent{background:#FDF3B8;}
 .trans-word{color:var(--crimson); font-weight:700;}
 .legend i.trans-word{background:transparent; border-color:transparent;
-  width:auto; height:auto; font-family:'Lora',serif; font-size:12.5px; line-height:1.2;}
+  width:auto; height:auto; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:12.5px; line-height:1.2;}
 .nav{display:flex; justify-content:space-between; gap:10px; margin-top:4px;}
 .nav a{flex:1; text-align:center; padding:11px 8px; border:1.5px solid var(--rule); border-radius:4px;
   background:#fff; text-decoration:none; font-size:13.5px; color:var(--ink-soft);}
