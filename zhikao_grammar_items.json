@@ -836,7 +836,7 @@
     "passageId": "93M_26-30",
     "contextSpan": "跨句",
     "contextNote": "簡答省略掉的主詞與動詞要靠前一句的問句還原",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 -ly 結尾的副詞，中文擺進去好像都能講，於是憑語感挑；Consequently（因此）特別誘人，因為它看起來最像在承接前面那一句。真正卡住人的其實不是選項，是這一格所在的句子根本不完整——它沒有主詞也沒有動詞，只有一個副詞加一個名詞 the raincoat，會讓人懷疑自己是不是讀漏了什麼。【怎麼判斷】先回頭看前一句：Which would you wear to a football game, a sweater or a raincoat?（去看美式足球賽，你會穿毛衣還是雨衣？）這是一個問句，而空格所在的這一句正是它的答句。英文的答句可以只留下真正回答問題的部分，與問句重複的主詞和動詞一起省掉；把省掉的補回來就是 You would probably wear the raincoat if you thought there was a good chance of rain.（如果你覺得很可能下雨，你大概會穿雨衣。）這種簡答國中就練過：Do you like it? — Yes, I do. 答句不必把 like it 再說一次。既然這一格是在回答「會穿哪一件」，要填的就是一個表示可能性的副詞，Probably 正好。要注意的是，這一格不看前一句就定不了案——單看 ___ the raincoat if you thought...，四個副詞在形態上都放得進去。【誘答選項】Consequently（因此）要求前面是一個原因，但前面是問句，問句當不了原因；Similarly（同樣地）要求前後兩件事同向並列，前面只問了一個問題，沒有第一件事可以「同樣」；Formally（正式地）講的是方式，回答「穿哪一件」時說「正式地雨衣」不成話。三個選項都接不上「回答可能性」這件事。【常考字詞與句型】probably（大概、很可能）、a good chance of + 名詞（很有可能……）、consequently（因此）、similarly（同樣地）、formally（正式地）、簡答時可以把與問句重複的主詞和動詞一起省略。"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 -ly 結尾的副詞，中文擺進去好像都能講，於是憑語感挑；Consequently（因此）特別誘人，因為它看起來最像在承接前面那一句。真正卡住人的其實不是選項，是這一格所在的句子根本不完整——它沒有主詞也沒有動詞，只有一個副詞加一個名詞 the raincoat，會讓人懷疑自己是不是讀漏了什麼。【怎麼判斷】先回頭看前一句：Which would you wear to a football game, a sweater or a raincoat?（去看美式足球賽，你會穿毛衣還是雨衣？）這是一個問句，而空格所在的這一句正是它的答句。英文的答句可以只留下真正回答問題的部分，與問句重複的主詞和動詞一起省掉；把省掉的補回來就是 You would probably wear the raincoat if you thought there was a good chance of rain.（如果你覺得很可能下雨，你大概會穿雨衣。）這種簡答國中就練過：Do you like it? — Yes, I do. 答句不必把 like it 再說一次。既然這一格是在回答「會穿哪一件」，要填的就是一個表示可能性的副詞，Probably 正好。要注意的是，這一格不看前一句就定不了案——單看 ___ the raincoat if you thought...，四個副詞在形態上都放得進去。【誘答選項】Consequently（因此）要求前面是一個原因，但前面是問句，問句當不了原因；Similarly（同樣地）要求前後兩件事同向並列，前面只問了一個問題，沒有第一件事可以「同樣」；Formally（正式地）講的是方式，回答「穿哪一件」時說「正式地雨衣」不成話。三個選項都接不上「回答可能性」這件事。【常考字詞與句型】probably（大概、很可能）、a good chance of + 名詞（很有可能……）、consequently（因此）、similarly（同樣地）、formally（正式地）、簡答省略（答句可省去與問句重複的主詞與動詞）。"
   },
   {
     "id": "Z94_19",
@@ -974,7 +974,7 @@
     "accuracyRate": 67,
     "discrimination": 50,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】四個選項是同一個字 study 的四種形態，你會直覺開始找主詞、判主動被動。【怎麼判斷】先看逗號前面：He began his career as a zoologist 已經是一個完整的句子，主詞 He、動詞 began 都在。逗號後面不能再放一個限定動詞，所以 study 與 studied 先排除。剩下 studying 與 being studied，再判方向：研究軟體動物的是皮亞傑本人，他是主動去研究，不是被研究，所以用現在分詞 studying。填進去讀成 He began his career as a zoologist, studying mollusks and their adaptations to their environment（他以動物學家的身分展開生涯，研究軟體動物以及牠們對環境的適應）。這就是分詞構句：分詞的意義主詞與主要子句的主詞是同一個人，用來補充說明他同時在做什麼。【誘答選項】study 與 studied 都是限定動詞，前面沒有連接詞就不能接在一個完整句子後面；being studied 是被動，方向剛好相反——軟體動物才是被研究的那一方。【常考字詞與句型】分詞構句（分詞的意義主詞與主要子句的主詞相同）、現在分詞表主動、過去分詞表被動、begin one's career as（以……的身分展開職業生涯）、adaptation to（對……的適應）、mollusk（軟體動物）。"
+    "note": "【你可能會這樣想】四個選項是同一個字 study 的四種形態，你會直覺開始找主詞、判主動被動。【怎麼判斷】先看逗號前面：He began his career as a zoologist 已經是一個完整的句子，主詞 He、動詞 began 都在。逗號後面不能再放一個限定動詞，所以 study 與 studied 先排除。剩下 studying 與 being studied，再判方向：研究軟體動物的是皮亞傑本人，他是主動去研究，不是被研究，所以用現在分詞 studying。填進去讀成 He began his career as a zoologist, studying mollusks and their adaptations to their environment（他以動物學家的身分展開生涯，研究軟體動物以及牠們對環境的適應）。這就是分詞構句：分詞的意義主詞與主要子句的主詞是同一個人，用來補充說明他同時在做什麼。【誘答選項】study 與 studied 都是限定動詞，前面沒有連接詞就不能接在一個完整句子後面；being studied 是被動，方向剛好相反——軟體動物才是被研究的那一方。【常考字詞與句型】分詞構句（分詞的意義主詞與主要子句的主詞相同）、分詞的主動與被動（現在分詞表主動，過去分詞表被動）、begin one's career as（以……的身分展開職業生涯）、adaptation to（對……的適應）、mollusk（軟體動物）。"
   },
   {
     "id": "Z94_29",
@@ -1853,7 +1853,7 @@
     "accuracyRate": 36,
     "discrimination": 30,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】空格前面最近的名詞是 people（複數）也好、往前一點是 substances（複數）也好，你可能被中間的 people take 干擾，以為主詞是別的字，於是挑了 leads。【先找關係代名詞代替的是誰】完整結構是 Gateway drugs are substances (that people take) that ___ them to take more drugs.——第二個 that 的先行詞是 substances（那些物質），所以動詞要配合複數，用原形 lead。把中間的 people take 用括號括起來，句子的骨幹就清楚了。【怎麼確認語意】lead sb to V ＝ 促使某人去做某事：What led you to change your mind?（是什麼促使你改變心意？）本句是「這些物質促使人去用更多毒品」——主動去促使的是「物質」，不是「人」。【誘答選項】leading 是現在分詞、led 是過去式或過去分詞，兩者都不能單獨擔任關係子句裡的限定動詞。【常考字詞與句型】lead sb to V（促使某人做…）、lead to（導致）、a gateway drug（入門毒品）、關係子句的動詞須配合先行詞。"
+    "note": "【你可能會這樣想】空格前面最近的名詞是 people（複數）也好、往前一點是 substances（複數）也好，你可能被中間的 people take 干擾，以為主詞是別的字，於是挑了 leads。【先找關係代名詞代替的是誰】完整結構是 Gateway drugs are substances (that people take) that ___ them to take more drugs.——第二個 that 的先行詞是 substances（那些物質），所以動詞要配合複數，用原形 lead。把中間的 people take 用括號括起來，句子的骨幹就清楚了。【怎麼確認語意】lead sb to V ＝ 促使某人去做某事：What led you to change your mind?（是什麼促使你改變心意？）本句是「這些物質促使人去用更多毒品」——主動去促使的是「物質」，不是「人」。【誘答選項】leading 是現在分詞、led 是過去式或過去分詞，兩者都不能單獨擔任關係子句裡的限定動詞。【常考字詞與句型】lead sb to V（促使某人做…）、lead to（導致）、a gateway drug（入門毒品）、關係子句的動詞一致（動詞配合先行詞）。"
   },
   {
     "id": "Z97_23",
