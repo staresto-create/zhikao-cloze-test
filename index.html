@@ -40,7 +40,7 @@
     font-family:'Noto Serif TC',serif; font-weight:900; font-size:26px; letter-spacing:.02em;
   }
   header.top .sub{
-    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft); margin-top:6px;
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--ink-soft); margin-top:6px;
   }
   .card{
     background: var(--paper-card);
@@ -65,13 +65,13 @@
   .mode-card .m-desc{font-size:12.5px; color:var(--ink-soft); line-height:1.6;}
 
   .sec-title{
-    font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:.12em;
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; letter-spacing:.12em;
     color:var(--crimson); text-transform:uppercase; margin: 22px 0 10px; display:flex; align-items:center; gap:8px;
   }
   .sec-title::after{content:""; flex:1; height:1px; background:var(--rule);}
   .cat-grid{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:6px;}
   .cat-chip{
-    font-family:'IBM Plex Mono',monospace; font-size:12px; padding:6px 12px; border-radius:14px;
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; padding:6px 12px; border-radius:14px;
     border:1.5px solid var(--rule); cursor:pointer; user-select:none; background:#fff; color:var(--ink-soft);
     transition:.12s;
   }
@@ -79,7 +79,7 @@
   .cat-chip.disabled{opacity:.32; cursor:not-allowed; text-decoration:line-through;}
   .cat-chip .chip-count{font-size:10px; color:var(--ink-soft); opacity:.7;}
   .cat-chip.on .chip-count{color:var(--sage);}
-  .cat-tools{display:flex; gap:14px; margin-top:8px; font-family:'IBM Plex Mono',monospace; font-size:11px;}
+  .cat-tools{display:flex; gap:14px; margin-top:8px; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px;}
   .cat-tools a{color:var(--ink-soft); cursor:pointer; text-decoration:underline;}
   .diff-hint{font-size:11px; font-weight:400; color:var(--ink-soft); margin-left:6px;}
   .cat-chip[data-diff="hard"].on{border-color:var(--crimson); background:#FBF1EE; color:var(--crimson);}
@@ -108,27 +108,27 @@
   .ghost-btn:hover{background:var(--ink); color:var(--paper-card);}
   .ghost-btn:disabled{opacity:.35; cursor:not-allowed;}
 
-  .stat-line{display:flex; justify-content:space-between; font-size:13px; padding:9px 0; border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono',monospace;}
+  .stat-line{display:flex; justify-content:space-between; font-size:13px; padding:9px 0; border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
   .stat-line:last-child{border-bottom:none;}
-  .stat-badge{background:var(--gold); color:#fff; font-size:11px; padding:1px 7px; border-radius:9px; font-family:'IBM Plex Mono',monospace;}
+  .stat-badge{background:var(--gold); color:#fff; font-size:11px; padding:1px 7px; border-radius:9px; font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
 
   /* ---- QUIZ (shared) ---- */
   #single, #full, #history{display:none;}
   .quiz-meta{
     display:flex; justify-content:space-between; align-items:center;
-    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft); margin-bottom:10px;
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--ink-soft); margin-bottom:10px;
   }
   .progress-bar{height:4px; background:var(--rule); border-radius:2px; overflow:hidden; margin-bottom:20px;}
   .progress-fill{height:100%; background:var(--crimson); transition:width .25s ease;}
   .q-tag{
-    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; color:var(--ink-soft);
     border:1px solid var(--rule); display:inline-block; padding:2px 8px; border-radius:10px; margin-bottom:14px;
     white-space:nowrap;
   }
   .q-tag.cat{color:var(--crimson); border-color:var(--crimson); margin-left:6px;}
 
   .passage-text{
-    font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:17px; line-height:1.85; letter-spacing:.001em;
+    font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif; font-size:17px; line-height:1.85; letter-spacing:.001em;
   }
   .blank-slot{
     display:inline-block; min-width:34px; text-align:center; padding:0 4px;
@@ -146,7 +146,7 @@
   .opt{
     display:flex; align-items:center; gap:12px; text-align:left;
     padding:13px 16px; border:1.5px solid var(--rule); border-radius:3px;
-    background:#fff; cursor:pointer; font-size:16px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif;
+    background:#fff; cursor:pointer; font-size:16px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;
     transition: border-color .12s, background .12s;
     position:relative;
   }
@@ -185,7 +185,7 @@
 
   /* ---- FULL MODE ---- */
   .full-select{
-    font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-size:16px; padding:2px 6px; border-radius:3px;
+    font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif; font-size:16px; padding:2px 6px; border-radius:3px;
     border:1.5px solid var(--rule); background:#fff; color:var(--ink); cursor:pointer;
   }
   .full-select.graded.correct{border-color:var(--sage); background:#F2F7F1; color:var(--sage); font-weight:600;}
@@ -193,17 +193,17 @@
   .full-review{margin-top:24px; padding-top:18px; border-top:1px dashed var(--rule);}
   .full-review-item{
     display:grid; grid-template-columns:44px 1fr; gap:10px; padding:8px 0; font-size:13px;
-    border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono',monospace;
+    border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono','Noto Sans TC',monospace;
   }
   .full-review-item .fn{color:var(--ink-soft);}
   .full-review-item .fcat{color:var(--gold); margin-left:8px; font-size:11px;}
   .full-score{
     font-family:'Noto Serif TC',serif; font-weight:900; font-size:34px; text-align:center; margin:6px 0 2px;
   }
-  .full-score-label{text-align:center; font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft); margin-bottom:10px;}
+  .full-score-label{text-align:center; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--ink-soft); margin-bottom:10px;}
   .hist-row{
     display:flex; justify-content:space-between; align-items:center; padding:9px 0;
-    border-bottom:1px dashed var(--rule); font-size:13px; font-family:'IBM Plex Mono',monospace;
+    border-bottom:1px dashed var(--rule); font-size:13px; font-family:'IBM Plex Mono','Noto Sans TC',monospace;
   }
   .hist-row .hc-name{color:var(--ink);}
   .hist-row .hc-stat{color:var(--ink-soft);}
@@ -211,7 +211,7 @@
   .hist-row .hc-bar-fill{height:100%; background:var(--sage);}
   .hist-recent-item{
     display:flex; justify-content:space-between; padding:7px 0; font-size:12.5px;
-    border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono',monospace; color:var(--ink-soft);
+    border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono','Noto Sans TC',monospace; color:var(--ink-soft);
   }
   .hist-recent-item .hr-ok{color:var(--sage); font-weight:600;}
   .hist-recent-item .hr-no{color:var(--crimson); font-weight:600;}
@@ -229,7 +229,7 @@
   .why-box::before{content:"解析　"; color:var(--sage); font-family:'Noto Serif TC',serif; font-weight:700;}
   .why-readmore{margin-top:8px;}
   .why-readmore-hint{font-size:13px; color:var(--ink-soft); line-height:1.7; margin-bottom:6px; padding-left:2px; border-left:2px solid var(--sage); padding-left:8px;}
-  .why-readmore a{font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--sage); text-decoration:underline;}
+  .why-readmore a{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--sage); text-decoration:underline;}
   .topic-sent{background:transparent; transition:.3s;}
   .topic-sent.hint-on{background:#FDF3B8;}
   .trans-word{color:inherit; font-weight:400; transition:.3s;}
@@ -238,7 +238,7 @@
   .main-thesis.hint-on{background:#CFE3F5; box-shadow:inset 0 -2px 0 #6FA8DC;}
   .dual-role{background:transparent; transition:.3s;}
   .dual-role.hint-on{background:#D4EBC4; box-shadow:inset 0 -2px 0 #7CA85C;}
-  .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
+  .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
   .level-caption{font-size:11.5px; color:var(--ink-soft); margin-bottom:8px; line-height:1.6;}
   .outline-box{
     margin-top:12px; padding:12px 14px; background:#F7F5F0; border-radius:3px; border:1px dashed var(--rule);
@@ -259,11 +259,11 @@
   .passage-para{margin:0 0 16px; padding-left:2px;}
   .passage-para:last-child{margin-bottom:0;}
   .para-num{
-    display:inline-block; font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--sage);
+    display:inline-block; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:10px; color:var(--sage);
     background:var(--sage-soft); border-radius:3px; padding:1px 6px; margin-right:8px; vertical-align:middle;
   }
   .acc-tag{
-    margin-top:8px; font-size:12.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;
+    margin-top:8px; font-size:12.5px; color:var(--ink-soft); font-family:'IBM Plex Mono','Noto Sans TC',monospace;
     display:none;
   }
   .acc-tag.show{display:block;}
@@ -283,14 +283,14 @@
   .nsecb{display:block;}
   .note-toggle{
     display:inline-block; margin-top:8px; cursor:pointer; user-select:none;
-    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--sage);
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--sage);
     border-bottom:1px dotted var(--sage); padding-bottom:1px;
   }
   .note-toggle:hover{color:var(--crimson); border-color:var(--crimson);}
   .full-review-item .fnote.clamped{display:none;}  /*DIFFTAG 改為完全收合，不留預覽*/
   .fnote-toggle{
     display:block; margin-top:4px; cursor:pointer; user-select:none;
-    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--sage);
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; color:var(--sage);
   }
   /*DIFFTAG-S 摺疊式說明框*/
   .dh-body{display:none; margin-top:10px;}
@@ -314,7 +314,7 @@
   .ctx-box.show{display:block;}
   .ctx-box::before{content:"作答線索在哪裡　"; color:var(--gold); font-family:'Noto Serif TC',serif; font-weight:700;}
   .sk-ex{margin:16px 0 0; padding-left:11px; border-left:2px solid var(--sage);}
-  .sk-ex .sk-src{font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:.08em; color:var(--sage); display:block; margin-bottom:3px;}
+  .sk-ex .sk-src{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:10.5px; letter-spacing:.08em; color:var(--sage); display:block; margin-bottom:3px;}
   .sk-ex .sk-en{color:var(--ink); line-height:1.75; margin:0 0 2px;}
   .sk-ex .sk-zh{font-size:12.5px; color:var(--ink-soft); margin:0 0 6px;}
   .sk-ex .sk-core{color:var(--crimson); font-weight:700; line-height:1.7; margin:0;}
@@ -329,9 +329,9 @@
   .span-box .stitle{
     font-family:'Noto Serif TC',serif; font-weight:700; margin-bottom:8px; color:var(--sage); font-size:15px;
   }
-  .span-box .num{font-family:'IBM Plex Mono',monospace; color:var(--crimson); font-weight:700;}
+  .span-box .num{font-family:'IBM Plex Mono','Noto Sans TC',monospace; color:var(--crimson); font-weight:700;}
   .fspan{
-    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--sage);
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; color:var(--sage);
     border:1px solid var(--sage); padding:1px 6px; border-radius:9px; margin-left:6px;
     white-space:nowrap; display:inline-block;
   }
@@ -344,10 +344,10 @@
   .disc-box.show{display:block;}
   .disc-box::before{content:"鑑別度分析　"; color:#8a6d00; font-family:'Noto Serif TC',serif; font-weight:700;}
   .full-review-item .fnote{display:block; margin-top:4px; font-size:12px; color:var(--ink-soft); white-space:pre-line;}
-  .full-review-item .facc{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); margin-left:8px;}
+  .full-review-item .facc{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11.5px; color:var(--ink-soft); margin-left:8px;}
   .full-review-item .facc.low{color:var(--crimson); font-weight:600;}
   .toggle-link{
-    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--sage); cursor:pointer;
+    font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:12px; color:var(--sage); cursor:pointer;
     text-decoration:underline; display:inline-block; margin-top:14px;
   }
   .context-row{margin-top:14px;}
@@ -362,10 +362,10 @@
   .context-btn:active{transform:scale(.98);}
   .context-btn .icon{font-size:16px;}
   .report-row{margin-top:16px; padding-top:12px; border-top:1px dashed var(--rule); font-size:12px; color:var(--ink-soft);}
-  .report-row a.report-link{color:var(--crimson); text-decoration:underline; font-family:'IBM Plex Mono',monospace;}
-  #singleReportId{display:block; margin-bottom:4px; font-family:'IBM Plex Mono',monospace;}
+  .report-row a.report-link{color:var(--crimson); text-decoration:underline; font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
+  #singleReportId{display:block; margin-bottom:4px; font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
 
-  footer{text-align:center; margin-top:32px; color:var(--ink-soft); font-size:11px; font-family:'IBM Plex Mono',monospace;}
+  footer{text-align:center; margin-top:32px; color:var(--ink-soft); font-size:11px; font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
 
   .ann-box{background:#EFF3ED; border:1px solid var(--sage); border-radius:4px; padding:12px 16px; margin-bottom:20px; display:flex; align-items:center; gap:14px; flex-wrap:wrap;}
   .ann-box .ann-main{font-family:'Noto Serif TC',serif; font-weight:900; font-size:15px; color:var(--sage);}
@@ -385,7 +385,7 @@
   .info-box .ssub{font-size:11.5px; color:var(--ink-soft); margin-bottom:12px;}
   .stat-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-bottom:14px;}
   .stat-card{background:#FBF8EE; border:1px solid var(--rule); border-radius:4px; padding:12px 14px;}
-  .stat-num{font-size:32px; font-weight:700; line-height:1.1; font-family:'IBM Plex Mono',monospace;}
+  .stat-num{font-size:32px; font-weight:700; line-height:1.1; font-family:'IBM Plex Mono','Noto Sans TC',monospace;}
   .stat-lab{font-size:13px; color:var(--ink); margin-top:4px;}
   .stat-sub{font-size:11.5px; color:var(--ink-soft);}
   .cat-bar{display:flex; height:22px; border-radius:3px; overflow:hidden; margin-bottom:8px;}
@@ -393,7 +393,7 @@
   .cat-key i{display:inline-block; width:9px; height:9px; border-radius:2px; margin-right:5px; font-style:normal;}
   .pt-row{display:flex; gap:10px; padding:9px 0; border-bottom:1px dashed var(--rule); font-size:13px; color:var(--ink); line-height:1.6;}
   .pt-row:last-child{border-bottom:none;}
-  .pt-eg{font-size:11.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace; white-space:nowrap;}
+  .pt-eg{font-size:11.5px; color:var(--ink-soft); font-family:'IBM Plex Mono','Noto Sans TC',monospace; white-space:nowrap;}
 
   @media (max-width:560px){
     .stat-grid{grid-template-columns:1fr; gap:8px;}
@@ -710,7 +710,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
         資料來源：大考中心<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&amp;qunit=0J066614378153514816&amp;sid=0K042343829406896328" target="_blank" rel="noopener">《一起來認識學測與指考的試題答對率》↗</a>、<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&amp;qunit=0J066614378153514816&amp;sid=0K073687789378174143" target="_blank" rel="noopener">《一起來認識學測與指考的試題鑑別度》↗</a>，皆收錄於「選才電子報 → 數字真相」專欄。
       </div>
 
-      <label style="display:flex; align-items:center; gap:8px; margin-top:16px; font-size:13px; color:var(--ink-soft); cursor:pointer; font-family:'IBM Plex Mono',monospace;">
+      <label style="display:flex; align-items:center; gap:8px; margin-top:16px; font-size:13px; color:var(--ink-soft); cursor:pointer; font-family:'IBM Plex Mono','Noto Sans TC',monospace;">
         <input type="checkbox" id="testModeToggle" style="width:16px; height:16px; cursor:pointer;">
         測試模式（本次作答不計入學習歷程與錯題本）
       </label>
