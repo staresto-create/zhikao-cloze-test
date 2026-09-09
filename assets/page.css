@@ -44,7 +44,7 @@ ol.opts li{border:1.5px solid var(--rule); border-radius:4px; background:#fff; p
 ol.opts li.right{border-color:var(--sage); background:#F2F7F1;}
 ol.opts li .k{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-weight:600; color:var(--ink-soft); margin-right:10px;}
 ol.opts li.right .k{color:var(--sage);}
-.ans{margin-top:14px; font-size:15.5px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; }
+.ans{margin-top:14px; font-size:15.5px; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; }
 .ans b{color:var(--sage); font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif',serif; font-weight:600; }
 .why{margin:0; font-size:14.5px; line-height:1.85;}
 .readmore{margin-top:14px; padding:12px 14px; border-left:3px solid var(--sage);
