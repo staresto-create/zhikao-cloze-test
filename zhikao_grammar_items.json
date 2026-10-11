@@ -27,7 +27,7 @@
     "year": "91 年",
     "source": "91 年指考",
     "blankNum": 19,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Even __19__ supplies are sufficient or plentiful, they are increasingly at risk due to various forms of pollution.",
     "options": {
       "A": "how",
@@ -142,7 +142,7 @@
     "year": "91 年",
     "source": "91 年指考",
     "blankNum": 16,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "There is, __16__, only a limited amount of water on the planet.",
     "options": {
       "A": "meanwhile",
@@ -159,14 +159,14 @@
     "discrimination": 31,
     "contextSpan": "跨句",
     "contextNote": "前一句先立說法：2025 年將有超過 27 億人嚴重缺水；這一句用 in fact 補上背後的事實——地球上的水本來就有限",
-    "note": "【你可能會這樣想】in fact 你背的是「事實上」，四個選項代進去中文好像都通，只好憑語感挑一個。問題是這一格不是在考中文翻譯，是在考前後兩句的關係。【怎麼判斷】in fact 是強調用的轉承語：先講一句話，再用 in fact 對剛剛講過的內容補上更詳細的資訊，把前一句講得更重、更清楚（劍橋 English Grammar Today 的 In fact 條目）。回頭讀前一句：到 2025 年將有超過 27 億人面臨嚴重缺水。這一句說地球上的水本來就只有這麼多——不是換話題，是把前一句背後的事實端出來，正是 in fact 的位置。這是邏輯勾環，線索一定要跨句才看得到。另外注意它夾在兩個逗號中間。in fact 確實常放句首，但插在句子中間同樣正常；101 年學測第 18 題的 in fact 也是插在 is 與 an outdoor museum 之間，同一個考法。【誘答選項】for example（舉例來說）是最像的一個：它後面接的必須是前一句的其中一個個案。「地球的水有限」不是「27 億人缺水」的一個個案，它是背後的原因，方向剛好相反；真要用 for example，後面接的應該是「某個國家今年遭遇乾旱」這種具體的例子。meanwhile（同時）要有兩件同時進行的事；besides（此外）是再加一件新的事，但這一句沒有加新的東西，只是把前一句說得更深。【常考字詞與句型】in fact（事實上）、as a matter of fact（事實上，與 in fact 同義）、in actual fact（實際上，語氣更強）、face severe shortages of（面臨嚴重的……短缺）、a limited amount of（有限的……）、on the planet（在地球上）。"
+    "note": "【你可能會這樣想】in fact 你背的是「事實上」，四個選項代進去中文好像都通，只好憑語感挑一個。問題是這一格不是在考中文翻譯，是在考前後兩句的關係。【怎麼判斷】in fact 是強調用的轉折詞：先講一句話，再用 in fact 對剛剛講過的內容補上更詳細的資訊，把前一句講得更重、更清楚（劍橋 English Grammar Today 的 In fact 條目）。回頭讀前一句：到 2025 年將有超過 27 億人面臨嚴重缺水。這一句說地球上的水本來就只有這麼多——不是換話題，是把前一句背後的事實端出來，正是 in fact 的位置。這是邏輯勾環，線索一定要跨句才看得到。另外注意它夾在兩個逗號中間。in fact 確實常放句首，但插在句子中間同樣正常；101 年學測第 18 題的 in fact 也是插在 is 與 an outdoor museum 之間，同一個考法。【誘答選項】for example（舉例來說）是最像的一個：它後面接的必須是前一句的其中一個個案。「地球的水有限」不是「27 億人缺水」的一個個案，它是背後的原因，方向剛好相反；真要用 for example，後面接的應該是「某個國家今年遭遇乾旱」這種具體的例子。meanwhile（同時）要有兩件同時進行的事；besides（此外）是再加一件新的事，但這一句沒有加新的東西，只是把前一句說得更深。【常考字詞與句型】in fact（事實上）、as a matter of fact（事實上，與 in fact 同義）、in actual fact（實際上，語氣更強）、face severe shortages of（面臨嚴重的……短缺）、a limited amount of（有限的……）、on the planet（在地球上）。"
   },
   {
     "id": "Z91_25",
     "year": "91 年",
     "source": "91 年指考",
     "blankNum": 25,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Any IMO contest brings not only young mathematicians together but also their instructors; __25__, the IMO has its final aim to create opportunities for the exchange of information on math schedules and practice throughout the world.",
     "options": {
       "A": "whereas",
@@ -182,14 +182,14 @@
     "accuracyRate": 42,
     "discrimination": 19,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】分號前面是 not only ... but also ...，很容易讀成「這一句在並列兩件事」，於是找一個表示補充或對比的轉承語。答對率四成二，鑑別度只有 19，是全卷最分不出高低的一題。原因就在這裡：not only ... but also 的框架越熟，越容易把注意力鎖在分號前面那兩個並列的名詞上，沒有回頭問分號後面那一句在做什麼——連高分群考生也大量失手。【怎麼判斷】分號不是句界，前後兩半在同一句裡，關係自己就看得出來。前半：任何一場 IMO 競賽把年輕數學家與他們的指導老師聚在一起。後半：IMO 的最終目標是為全世界數學課程與教學經驗的交流創造機會。人先聚在一起是條件，交流的機會是結果，中間是順接的因果，用 therefore（因此）。這是邏輯勾環：轉承語本身就是線索，先確定前後兩半是哪一種關係，再挑詞。【誘答選項】whereas（然而）：把兩件相反的事並排比較，但前後兩半同向。nevertheless（儘管如此）：要有讓步關係，前半必須是一個會讓後半難以成立的事實，這裡沒有。likewise（同樣地）：後面要接一件與前面平行的事，而後半不是再舉一件同類的事，是前面那件事帶出來的結果。【常考字詞與句型】not only … but also …（不只……而且……）、bring people together（把人聚在一起）、create opportunities for（為……創造機會）、the exchange of information（資訊交流）、throughout the world（在全世界）、whereas（然而，用於前後對比）。"
+    "note": "【你可能會這樣想】分號前面是 not only ... but also ...，很容易讀成「這一句在並列兩件事」，於是找一個表示補充或對比的轉折詞。答對率四成二，鑑別度只有 19，是全卷最分不出高低的一題。原因就在這裡：not only ... but also 的框架越熟，越容易把注意力鎖在分號前面那兩個並列的名詞上，沒有回頭問分號後面那一句在做什麼——連高分群考生也大量失手。【怎麼判斷】分號不是句界，前後兩半在同一句裡，關係自己就看得出來。前半：任何一場 IMO 競賽把年輕數學家與他們的指導老師聚在一起。後半：IMO 的最終目標是為全世界數學課程與教學經驗的交流創造機會。人先聚在一起是條件，交流的機會是結果，中間是順接的因果，用 therefore（因此）。這是邏輯勾環：轉折詞本身就是線索，先確定前後兩半是哪一種關係，再挑詞。【誘答選項】whereas（然而）：把兩件相反的事並排比較，但前後兩半同向。nevertheless（儘管如此）：要有讓步關係，前半必須是一個會讓後半難以成立的事實，這裡沒有。likewise（同樣地）：後面要接一件與前面平行的事，而後半不是再舉一件同類的事，是前面那件事帶出來的結果。【常考字詞與句型】not only … but also …（不只……而且……）、bring people together（把人聚在一起）、create opportunities for（為……創造機會）、the exchange of information（資訊交流）、throughout the world（在全世界）、whereas（然而，用於前後對比）。"
   },
   {
     "id": "Z91_29",
     "year": "91 年",
     "source": "91 年指考",
     "blankNum": 29,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "It is the fans that support the kingdoms of the recording companies; __29__, the industry never gives its feedback to the fans—by lowering the prices of CDs.",
     "options": {
       "A": "indeed",
@@ -205,7 +205,7 @@
     "accuracyRate": 63,
     "discrimination": 34,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】however 你的印象大概是「出現在句首、前面要有句號」，所以看到它要填在分號後面會猶豫。however 屬於連接副詞，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today）；分號後面接 however 再加逗號，是很常見的寫法。【怎麼判斷】分號不是句界，前後兩半在同一句裡。前半：支撐唱片公司王國的是歌迷。後半：業界從未回饋歌迷，也就是從未調降 CD 售價。前面是歌迷付出、後面是業界不回報，一正一負，要的是轉折，用 however（然而）。這是邏輯勾環：先確定前後兩半同向還是反向，再挑轉承語。另外這一句也是強調句型 It is the fans that support ...，被強調的是主詞 the fans（歌迷）；依劍橋 English Grammar Today，焦點是人的時候，that 也可以寫成 who。【誘答選項】indeed（的確）：用來加強、確認前面的說法，方向同向。hence（因此）：表結果，但「歌迷支撐了唱片業」推不出「業界不回饋」，那是相反的事。furthermore（此外）：再加一件同方向的事，同樣表達不出落差。【常考字詞與句型】however（然而，可插在句中）、give feedback to（給……回饋）、lower the price of（調降……的價格）、indeed（的確，用於加強）、hence（因此，表結果）、furthermore（此外，用於補充）。"
+    "note": "【你可能會這樣想】however 你的印象大概是「出現在句首、前面要有句號」，所以看到它要填在分號後面會猶豫。however 屬於連接副詞，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today）；分號後面接 however 再加逗號，是很常見的寫法。【怎麼判斷】分號不是句界，前後兩半在同一句裡。前半：支撐唱片公司王國的是歌迷。後半：業界從未回饋歌迷，也就是從未調降 CD 售價。前面是歌迷付出、後面是業界不回報，一正一負，要的是轉折，用 however（然而）。這是邏輯勾環：先確定前後兩半同向還是反向，再挑轉折詞。另外這一句也是強調句型 It is the fans that support ...，被強調的是主詞 the fans（歌迷）；依劍橋 English Grammar Today，焦點是人的時候，that 也可以寫成 who。【誘答選項】indeed（的確）：用來加強、確認前面的說法，方向同向。hence（因此）：表結果，但「歌迷支撐了唱片業」推不出「業界不回饋」，那是相反的事。furthermore（此外）：再加一件同方向的事，同樣表達不出落差。【常考字詞與句型】however（然而，可插在句中）、give feedback to（給……回饋）、lower the price of（調降……的價格）、indeed（的確，用於加強）、hence（因此，表結果）、furthermore（此外，用於補充）。"
   },
   {
     "id": "Z92_27",
@@ -258,7 +258,7 @@
     "year": "92 年",
     "source": "92 年指考",
     "blankNum": 22,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "The survey __22__ indicated that 45 percent of the school children read at least five books every month; __23__ 45 percent of them read less than three per month.",
     "options": {
       "A": "thus",
@@ -305,7 +305,7 @@
     "year": "92 年",
     "source": "92 年指考",
     "blankNum": 24,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "These materials, __24__ , were undreamed of in the 18th century.",
     "options": {
       "A": "finally",
@@ -329,7 +329,7 @@
     "year": "92 年",
     "source": "92 年指考",
     "blankNum": 26,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__26__ its strength, steel soon became a useful building material.",
     "options": {
       "A": "Prior to",
@@ -538,7 +538,7 @@
     "year": "93 年",
     "source": "93 年指考",
     "blankNum": 22,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Certainly, children must start with enjoyment __22__ their interest in poetry dies.",
     "options": {
       "A": "or",
@@ -561,7 +561,7 @@
     "year": "93 年",
     "source": "93 年指考",
     "blankNum": 26,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__26__ all bird species are thought to be susceptible to infection, domestic poultry flocks are especially vulnerable to infections that can rapidly reach epidemic proportions.",
     "options": {
       "A": "Not",
@@ -607,7 +607,7 @@
     "year": "93 年",
     "source": "93 年指考",
     "blankNum": 30,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "When outbreaks become widespread within a country, control can be extremely difficult. __30__, government authorities usually undertake aggressive emergency control measures as soon as an outbreak is detected.",
     "options": {
       "A": "Instead",
@@ -624,12 +624,12 @@
     "discrimination": 53,
     "contextSpan": "跨句",
     "contextNote": "Therefore 承接前一句「疫情擴散後難以控制」的結果",
-    "note": "【你可能會這樣想】四個選項都是轉承語，位置一樣、形態一樣，你會憑中文挑一個。【怎麼判斷】這是邏輯勾環，線索一定要跨句才看得到。前一句是 When outbreaks become widespread within a country, control can be extremely difficult（疫情一旦在國內擴散，就極難控制）。空格這一句是 government authorities usually undertake aggressive emergency control measures as soon as an outbreak is detected（政府當局通常一偵測到疫情就立刻採取強力的緊急防控措施）。既然擴散之後很難控制，就得趁還沒擴散時趕快動手——前面是原因、後面是因應的做法，方向相同，所以用 Therefore（因此）。填進去讀成 Therefore, government authorities usually undertake aggressive emergency control measures。【誘答選項】Instead（反而、改為）是副詞，自己單獨站著、後面接逗號，形態上完全放得進去，容易被順手選走；但它要求前面那件事是被否定或被放棄的，而這一句並沒有推翻前一句，是順著它往下走。順帶把最常混淆的兩個一次分清楚：instead 是副詞，自己單獨用（I didn't go; I stayed home instead.）；instead of 是介系詞，後面一定要接名詞、代名詞或 V-ing（instead of going out）。柯林斯的 English Usage 特別提醒不可以寫成 instead to do sth。By no means（絕不）是否定用語，放在句首時主要子句要倒裝，本句沒有倒裝；On the contrary（正好相反）要求後面推翻前面，方向不對。【常考字詞與句型】therefore（因此）、instead（反而、改為，副詞自己單獨用）、instead of（而不是）、by no means + 主要子句倒裝（絕不）、on the contrary（正好相反）、undertake measures（採取措施）。"
+    "note": "【你可能會這樣想】四個選項都是轉折詞，位置一樣、形態一樣，你會憑中文挑一個。【怎麼判斷】這是邏輯勾環，線索一定要跨句才看得到。前一句是 When outbreaks become widespread within a country, control can be extremely difficult（疫情一旦在國內擴散，就極難控制）。空格這一句是 government authorities usually undertake aggressive emergency control measures as soon as an outbreak is detected（政府當局通常一偵測到疫情就立刻採取強力的緊急防控措施）。既然擴散之後很難控制，就得趁還沒擴散時趕快動手——前面是原因、後面是因應的做法，方向相同，所以用 Therefore（因此）。填進去讀成 Therefore, government authorities usually undertake aggressive emergency control measures。【誘答選項】Instead（反而、改為）是副詞，自己單獨站著、後面接逗號，形態上完全放得進去，容易被順手選走；但它要求前面那件事是被否定或被放棄的，而這一句並沒有推翻前一句，是順著它往下走。順帶把最常混淆的兩個一次分清楚：instead 是副詞，自己單獨用（I didn't go; I stayed home instead.）；instead of 是介系詞，後面一定要接名詞、代名詞或 V-ing（instead of going out）。柯林斯的 English Usage 特別提醒不可以寫成 instead to do sth。By no means（絕不）是否定用語，放在句首時主要子句要倒裝，本句沒有倒裝；On the contrary（正好相反）要求後面推翻前面，方向不對。【常考字詞與句型】therefore（因此）、instead（反而、改為，副詞自己單獨用）、instead of（而不是）、by no means + 主要子句倒裝（絕不）、on the contrary（正好相反）、undertake measures（採取措施）。"
   },
   {
     "id": "Z93M_18",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 18,
     "category": "關係子句／疑問詞",
     "sentence": "The man then took the worm out of the first jar and put it in the second jar __18__ contained alcohol and said to the audience, “Now watch the reaction.”",
@@ -649,8 +649,8 @@
   },
   {
     "id": "Z93M_21",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 21,
     "category": "關係子句／疑問詞",
     "sentence": "The New Orleans Jazz and Heritage Festival, also called Jazz Fest, is a 10-day cultural feast __21__ thousands of musicians, cooks, and craftspeople welcome 500,000 visitors each year.",
@@ -670,8 +670,8 @@
   },
   {
     "id": "Z93M_22",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 22,
     "category": "介系詞",
     "sentence": "The main events include unforgettable music on 12 stages, delicious Louisiana cuisine in two large food areas, and crafts artisans from the region and __22__ the world purchasing and selling their works.",
@@ -691,8 +691,8 @@
   },
   {
     "id": "Z93M_23",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 23,
     "category": "慣用語／片語",
     "sentence": "The evening concerts __23__ different locations during the 10-day Festival.",
@@ -712,8 +712,8 @@
   },
   {
     "id": "Z93M_27",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 27,
     "category": "慣用語／片語",
     "sentence": "Teams have been known to come from __27__ to win, but the chances of overcoming that kind of lead are slim.",
@@ -733,8 +733,8 @@
   },
   {
     "id": "Z93M_16",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 16,
     "category": "介系詞",
     "sentence": "He displayed two jars in front of the group, one containing water and the other containing alcohol, __16__ a very healthy worm.",
@@ -754,10 +754,10 @@
   },
   {
     "id": "Z93M_17",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 17,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "The group watched closely __17__ the worm floated in the jar, dangling and swimming.",
     "options": {
       "A": "as",
@@ -775,8 +775,8 @@
   },
   {
     "id": "Z93M_28",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 28,
     "category": "字彙選義",
     "sentence": "__28__ of us can be perfectly sure about how things will turn out in the future. But we can, and often do, think of the possibilities.",
@@ -797,8 +797,8 @@
   },
   {
     "id": "Z93M_29",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 29,
     "category": "關係子句／疑問詞",
     "sentence": "We can try to guess __29__ this or that might happen.",
@@ -818,10 +818,10 @@
   },
   {
     "id": "Z93M_26",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 26,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Which would you wear to a football game, a sweater or a raincoat? __26__ the raincoat if you thought there was a good chance of rain.",
     "options": {
       "A": "Probably",
@@ -1078,7 +1078,7 @@
     "year": "95 年",
     "source": "95 年指考",
     "blankNum": 19,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "If you've ever seen the Sean Connery movie Medicine Man, __18__ the annual convention of wizards and witches will be familiar to you. __19__ , get prepared for the overwhelming attack of wizards and witches here.",
     "options": {
       "A": "If any",
@@ -1102,7 +1102,7 @@
     "year": "95 年",
     "source": "95 年指考",
     "blankNum": 12,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__12__ using any thermometer, double check that it covers the right temperature __13__ for your activity or experiment.",
     "options": {
       "A": "After",
@@ -1165,7 +1165,7 @@
     "discrimination": 42,
     "contextSpan": "跨句",
     "contextNote": "for instance 為前一句「先確認溫度範圍」舉例",
-    "note": "【你可能會這樣想】四個選項都是插在主詞與動詞之間的轉承語，位置一樣、形態一樣，你會憑語感挑一個。【怎麼判斷】答對率四成七。這是邏輯勾環，而且線索一定要跨句才看得到。前一句是一句通則：double check that it covers the right temperature {13} for your activity（先確認溫度計適用的溫度到哪裡）。空格這一句 A garden thermometer will burst if you try to use it for boiling liquids（花園用的溫度計拿去量沸騰的液體會爆掉）是那句通則底下的一個具體個案——範圍不夠會出什麼事。從通則走到具體個案，用 for instance（舉例來說）。填進去讀成 A garden thermometer, for instance, will burst...。順帶留意這個位置：轉承語夾在主詞與動詞之間、前後各一個逗號，是常見的擺法，不是只能放句首。for instance 是「舉例」這一組的成員。同一組的 for example 與它完全同義、可以互換；such as 後面只能接名詞，接不了一整句話，這是最快分辨的一條線；that is 與 in other words 又是另一回事，那是換句話說，後面講的還是同一件事。整組的分法寫在學測克漏字 89 年第 27 題的解析裡。for instance 另外考過兩次，都在學測克漏字：85 年第 33 題與 89 年第 29 題。【誘答選項】in short（簡言之）用在把前面講過的歸納成結論，但這一句是往下展開；in turn（依序、轉而）要求前面有一個順序或連鎖關係；by contrast（相較之下）要求前後相反，但這一句正是在支持前一句、不是在反駁它。【常考字詞與句型】for instance（舉例來說）、for example（舉例來說）、in short（簡言之）、in turn（依序、轉而）、by contrast（相較之下）、boiling liquids（沸騰的液體）。"
+    "note": "【你可能會這樣想】四個選項都是插在主詞與動詞之間的轉折詞，位置一樣、形態一樣，你會憑語感挑一個。【怎麼判斷】答對率四成七。這是邏輯勾環，而且線索一定要跨句才看得到。前一句是一句通則：double check that it covers the right temperature {13} for your activity（先確認溫度計適用的溫度到哪裡）。空格這一句 A garden thermometer will burst if you try to use it for boiling liquids（花園用的溫度計拿去量沸騰的液體會爆掉）是那句通則底下的一個具體個案——範圍不夠會出什麼事。從通則走到具體個案，用 for instance（舉例來說）。填進去讀成 A garden thermometer, for instance, will burst...。順帶留意這個位置：轉折詞夾在主詞與動詞之間、前後各一個逗號，是常見的擺法，不是只能放句首。for instance 是「舉例」這一組的成員。同一組的 for example 與它完全同義、可以互換；such as 後面只能接名詞，接不了一整句話，這是最快分辨的一條線；that is 與 in other words 又是另一回事，那是換句話說，後面講的還是同一件事。整組的分法寫在學測克漏字 89 年第 27 題的解析裡。for instance 另外考過兩次，都在學測克漏字：85 年第 33 題與 89 年第 29 題。【誘答選項】in short（簡言之）用在把前面講過的歸納成結論，但這一句是往下展開；in turn（依序、轉而）要求前面有一個順序或連鎖關係；by contrast（相較之下）要求前後相反，但這一句正是在支持前一句、不是在反駁它。【常考字詞與句型】for instance（舉例來說）、for example（舉例來說）、in short（簡言之）、in turn（依序、轉而）、by contrast（相較之下）、boiling liquids（沸騰的液體）。"
   },
   {
     "id": "Z95_16",
@@ -1212,14 +1212,14 @@
     "discrimination": 30,
     "contextSpan": "跨句",
     "contextNote": "In fact 強化前一句對該地的描述",
-    "note": "【你可能會這樣想】四個選項都是 In 開頭的片語，長得很像，容易混淆，你會憑哪個中文順挑一個。【怎麼判斷】這是邏輯勾環，線索一定要跨句才看得到。前一句說卡特馬科湖自前西班牙時期以來一直是另類醫療的中心；空格這一句說這個地區與巫術的關聯可以追溯到兩千多年前的奧爾梅克時期——時間往前推得更遠，是把前一句講的事再加強一層。這種「不只如此，其實還更……」用 In fact（事實上）。填進去讀成 In fact, the area's association with witchcraft dates back to Olmec times。鑑別度只有 30，但它本身不難：四個選項裡只有 In fact 是中學階段常見的轉承語，其餘三個本來就少見，各種程度的人都答得出來，題目自然分不出高低。【誘答選項】In advance（事先）講的是時間上的提前，與這一句的補充說明無關；In all（總計）用在把數量加總；In sum（總之）是收尾用的，但這一句是往下加、不是在收尾。【常考字詞與句型】in fact（事實上）、as a matter of fact（事實上）、in advance（事先）、in all（總計）、in sum（總之）、date back to（追溯到）。"
+    "note": "【你可能會這樣想】四個選項都是 In 開頭的片語，長得很像，容易混淆，你會憑哪個中文順挑一個。【怎麼判斷】這是邏輯勾環，線索一定要跨句才看得到。前一句說卡特馬科湖自前西班牙時期以來一直是另類醫療的中心；空格這一句說這個地區與巫術的關聯可以追溯到兩千多年前的奧爾梅克時期——時間往前推得更遠，是把前一句講的事再加強一層。這種「不只如此，其實還更……」用 In fact（事實上）。填進去讀成 In fact, the area's association with witchcraft dates back to Olmec times。鑑別度只有 30，但它本身不難：四個選項裡只有 In fact 是中學階段常見的轉折詞，其餘三個本來就少見，各種程度的人都答得出來，題目自然分不出高低。【誘答選項】In advance（事先）講的是時間上的提前，與這一句的補充說明無關；In all（總計）用在把數量加總；In sum（總之）是收尾用的，但這一句是往下加、不是在收尾。【常考字詞與句型】in fact（事實上）、as a matter of fact（事實上）、in advance（事先）、in all（總計）、in sum（總之）、date back to（追溯到）。"
   },
   {
     "id": "Z95_18",
     "year": "95 年",
     "source": "95 年指考",
     "blankNum": 18,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "If you've ever seen the Sean Connery movie Medicine Man, __18__ the annual convention of wizards and witches will be familiar to you.",
     "options": {
       "A": "since",
@@ -1258,7 +1258,7 @@
     "accuracyRate": 57,
     "discrimination": 66,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】even 這個字，你的印象大概是「甚至」或「平的、偶數的」，不太會想到它最常見的用法之一就是擺在比較級前面加強語氣。【怎麼判斷】鑑別度高達 66，是本批最會分人的題目之一。空格後面是 shorter，一個比較級，所以要找一個能修飾比較級的字。英文裡能擺在比較級前面加強的字是固定那幾個：even、much、far、a lot、still。四個選項裡只有 even 在這一組裡。填進去讀成 the time span can be even shorter（停留的時間可能更短）。語意也對得上：前一句說一般參觀者平均只花四秒看一件作品，這一句說年輕的參觀者還要更短——「還要更」正是 even 的作用。【誘答選項】almost（幾乎）修飾的是程度接近某個點，不能拿來加強比較級；also（也）是在加另一件事，不是加強程度；meanwhile（同時、在此期間）是轉承語，接不上一個形容詞。三個都是副詞，形態吻合，容易被順手選走。【常考字詞與句型】even + 比較級（更加……）、much + 比較級（……得多）、far + 比較級（遠比……）、a lot + 比較級（……得多）、time span（時間長度、持續時間）、on average（平均而言）。"
+    "note": "【你可能會這樣想】even 這個字，你的印象大概是「甚至」或「平的、偶數的」，不太會想到它最常見的用法之一就是擺在比較級前面加強語氣。【怎麼判斷】鑑別度高達 66，是本批最會分人的題目之一。空格後面是 shorter，一個比較級，所以要找一個能修飾比較級的字。英文裡能擺在比較級前面加強的字是固定那幾個：even、much、far、a lot、still。四個選項裡只有 even 在這一組裡。填進去讀成 the time span can be even shorter（停留的時間可能更短）。語意也對得上：前一句說一般參觀者平均只花四秒看一件作品，這一句說年輕的參觀者還要更短——「還要更」正是 even 的作用。【誘答選項】almost（幾乎）修飾的是程度接近某個點，不能拿來加強比較級；also（也）是在加另一件事，不是加強程度；meanwhile（同時、在此期間）是轉折詞，接不上一個形容詞。三個都是副詞，形態吻合，容易被順手選走。【常考字詞與句型】even + 比較級（更加……）、much + 比較級（……得多）、far + 比較級（遠比……）、a lot + 比較級（……得多）、time span（時間長度、持續時間）、on average（平均而言）。"
   },
   {
     "id": "Z95_25",
@@ -1358,7 +1358,7 @@
     "year": "96 年",
     "source": "96 年指考",
     "blankNum": 13,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "For many of them, the most miserable period in their life is their 40s. __13__ , their levels of happiness climb.",
     "options": {
       "A": "After that",
@@ -1407,7 +1407,7 @@
     "year": "96 年",
     "source": "96 年指考",
     "blankNum": 15,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "The low point seems to last longer for women—throughout their 30s and 40s, only climbing __15__ women reach 50.",
     "options": {
       "A": "once",
@@ -1587,7 +1587,7 @@
     "year": "96 年",
     "source": "96 年指考",
     "blankNum": 23,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Climate change may affect people's health both directly and indirectly. For instance, heat stress and other heat-related health problems are caused directly by very warm temperatures. __23__ , human health can also be affected by ecological disturbances, changes in food and water supplies, as well as coastal flooding.",
     "options": {
       "A": "Suddenly",
@@ -1689,7 +1689,7 @@
     "year": "97 年",
     "source": "97 年指考",
     "blankNum": 13,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "passageId": "97_11-15",
     "sentence": "__13__ they are still called “phones”—a word meaning “voice” in Greek—making voice calls may no longer be their primary function.",
     "options": {
@@ -1755,14 +1755,14 @@
     "discrimination": 61,
     "contextSpan": "跨句",
     "contextNote": "In short 總結前面幾句對未來手機的描述",
-    "note": "【你可能會這樣想】四個選項都是轉承語，你會憑中文挑一個，By the way 尤其眼熟，很容易先被選走。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。鑑別度高達 61，分開的是有沒有看出這一句在收尾。前面幾句一路在鋪陳未來手機的種種變化——外觀看不見、可以嵌進身體、功能一大堆、還能兼作各種裝置；空格這一句 they will be “the remote-control for life”（它們將成為「人生的遙控器」）是把前面那一大串總結成一句話。把講過的內容歸納成結論，用 In short（簡言之、總之）。填進去讀成 In short, they will be “the remote-control for life”。【誘答選項】As yet（迄今為止）多配否定、講的是「到目前為止還沒有」，但這一句講的是未來；By the way（順帶一提）是要換一個不相干的話題，這一句不是插話而是總結；On the contrary（相反地）要求後面推翻前面，但這一句與前面完全同方向。【常考字詞與句型】in short（簡言之、總之）、in a word（總之、一句話）、as yet（迄今為止，多配否定）、by the way（順帶一提）、on the contrary（相反地）、no longer（不再）。"
+    "note": "【你可能會這樣想】四個選項都是轉折詞，你會憑中文挑一個，By the way 尤其眼熟，很容易先被選走。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。鑑別度高達 61，分開的是有沒有看出這一句在收尾。前面幾句一路在鋪陳未來手機的種種變化——外觀看不見、可以嵌進身體、功能一大堆、還能兼作各種裝置；空格這一句 they will be “the remote-control for life”（它們將成為「人生的遙控器」）是把前面那一大串總結成一句話。把講過的內容歸納成結論，用 In short（簡言之、總之）。填進去讀成 In short, they will be “the remote-control for life”。【誘答選項】As yet（迄今為止）多配否定、講的是「到目前為止還沒有」，但這一句講的是未來；By the way（順帶一提）是要換一個不相干的話題，這一句不是插話而是總結；On the contrary（相反地）要求後面推翻前面，但這一句與前面完全同方向。【常考字詞與句型】in short（簡言之、總之）、in a word（總之、一句話）、as yet（迄今為止，多配否定）、by the way（順帶一提）、on the contrary（相反地）、no longer（不再）。"
   },
   {
     "id": "Z97_16",
     "year": "97 年",
     "source": "97 年指考",
     "blankNum": 16,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "passageId": "97_16-20",
     "sentence": "The fruits and vegetables we eat often come in distinctive colors. The rich colors, __16__ , are not there only to attract attention.",
     "options": {
@@ -1947,7 +1947,7 @@
     "fullPassage": "A new year means a new beginning for most of us. On December 28th last year, the New York City sanitation department offered people a new way __26__ farewell to 2007. For one hour on that day, a huge paper-cutting machine was set up in Times Square so people could __27__ their lingering bad memories. Everything from photos of ex-lovers to lousy report cards could be cut into small pieces, as the organizers had announced __28__ the event. Recycling cans were also provided for items such as __29__ CDs and regrettable fashion mistakes. Former schoolteacher Eileen Lawrence won the event's $250 award for the most creative memory destined for __30__. She had created a painting from a photo of her ex-boyfriend, who Lawrence was happy to say goodbye to.",
     "hasFullPassage": true,
     "accuracyRate": 23,
-    "note": "【你可能會這樣想】四個選項的中文有兩個都能講成「之前、事先」，你會想從語意挑一個順的。但這一題語意分不出來，真正決定答案的是詞性——空格後面接了什麼，就決定了空格能放什麼。【怎麼判斷】先看空格後面：緊接著 the event，是一個名詞。後面是名詞，前面就要放介系詞。四個選項裡能當介系詞用、後面直接接名詞的只有 prior to，它是幾個字合起來當一個介系詞，等於 before。這一步句法就把答案鎖定了，不必比語意。這個順序可以固定下來，往後遇到同型的題目都能用：空格後面是名詞，就找介系詞；是完整子句（有主詞有動詞），就找連接詞；後面什麼都沒有、直接接逗號或句號，才輪到副詞。再用文意確認一次。本句 as the organizers had announced ___ the event 用了過去完成式 had announced，本身就標示這是更早之前發生的動作，與「在…之前」的語意吻合。順帶把意思相近但詞性不同的一組整理起來，寫作時最容易用錯的就是這幾個：before 既是介系詞也是連接詞（before the event ／ before the event started）；prior to 只能當介系詞，後面接名詞或動名詞；beforehand 與 in advance 是副詞，單獨使用、多半放句尾。【誘答選項】beforehand 的中文與 prior to 幾乎相同，都是「事先」，但它是副詞，只能單獨用（Let me know beforehand. 請事先告訴我），後面不能再接名詞，寫成 beforehand the event 不成立——這一題的分界就在這裡。until 是「直到」，會讀成「宣布直到活動為止」，時間關係講不通。above all 是「最重要的是」，屬於轉承語，用來標示重點，與時間先後無關，而且它後面也不接名詞。【常考字詞與句型】prior to + N／V-ing（在…之前）、before + N／子句（在…之前）、beforehand（事先，副詞）、in advance（事先）、subsequent to（在…之後）、announce（宣布）。",
+    "note": "【你可能會這樣想】四個選項的中文有兩個都能講成「之前、事先」，你會想從語意挑一個順的。但這一題語意分不出來，真正決定答案的是詞性——空格後面接了什麼，就決定了空格能放什麼。【怎麼判斷】先看空格後面：緊接著 the event，是一個名詞。後面是名詞，前面就要放介系詞。四個選項裡能當介系詞用、後面直接接名詞的只有 prior to，它是幾個字合起來當一個介系詞，等於 before。這一步句法就把答案鎖定了，不必比語意。這個順序可以固定下來，往後遇到同型的題目都能用：空格後面是名詞，就找介系詞；是完整子句（有主詞有動詞），就找連接詞；後面什麼都沒有、直接接逗號或句號，才輪到副詞。再用文意確認一次。本句 as the organizers had announced ___ the event 用了過去完成式 had announced，本身就標示這是更早之前發生的動作，與「在…之前」的語意吻合。順帶把意思相近但詞性不同的一組整理起來，寫作時最容易用錯的就是這幾個：before 既是介系詞也是連接詞（before the event ／ before the event started）；prior to 只能當介系詞，後面接名詞或動名詞；beforehand 與 in advance 是副詞，單獨使用、多半放句尾。【誘答選項】beforehand 的中文與 prior to 幾乎相同，都是「事先」，但它是副詞，只能單獨用（Let me know beforehand. 請事先告訴我），後面不能再接名詞，寫成 beforehand the event 不成立——這一題的分界就在這裡。until 是「直到」，會讀成「宣布直到活動為止」，時間關係講不通。above all 是「最重要的是」，屬於轉折詞，用來標示重點，與時間先後無關，而且它後面也不接名詞。【常考字詞與句型】prior to + N／V-ing（在…之前）、before + N／子句（在…之前）、beforehand（事先，副詞）、in advance（事先）、subsequent to（在…之後）、announce（宣布）。",
     "discrimination": 13,
     "contextSpan": "句內",
     "readMore": {
@@ -2003,7 +2003,7 @@
     "accuracyRate": 53,
     "discrimination": 55,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】四個選項都是 in 開頭的片語，長得很像，容易混淆，你會憑哪個中文順挑一個。【怎麼判斷】鑑別度高達 55，分開的是有沒有注意到空格後面那個 that。空格後是 that the “patient” understands them completely，一個完整的 that 子句；四個選項裡只有 in order 能直接接 that 子句組成 in order that（以便、為了使……），那是表目的的連接詞。填進去讀成 communicate clearly in order that the patient understands them completely（清楚溝通，好讓病人完全聽懂）。同一個意思的三種說法可以一起記：in order that + 子句、so that + 子句、in order to + 原形動詞。【誘答選項】in return（作為回報）後面要接 for + 名詞，不接 that 子句；in case 雖然也能接子句，但它是「以防萬一」，會讀成「以防病人完全聽懂」，語意剛好相反；in addition（此外）是轉承語，後面要接一個獨立的句子或 to + 名詞，接不上這裡的 that 子句。三個都是 in 開頭的片語，形態吻合，容易被順手選走。【常考字詞與句型】in order that + 子句（以便、為了使……）、in order to + 原形動詞（為了）、in return for（作為……的回報）、in addition to（除……之外）、be forced to V（被迫做某事）、communicate clearly（清楚溝通）。"
+    "note": "【你可能會這樣想】四個選項都是 in 開頭的片語，長得很像，容易混淆，你會憑哪個中文順挑一個。【怎麼判斷】鑑別度高達 55，分開的是有沒有注意到空格後面那個 that。空格後是 that the “patient” understands them completely，一個完整的 that 子句；四個選項裡只有 in order 能直接接 that 子句組成 in order that（以便、為了使……），那是表目的的連接詞。填進去讀成 communicate clearly in order that the patient understands them completely（清楚溝通，好讓病人完全聽懂）。同一個意思的三種說法可以一起記：in order that + 子句、so that + 子句、in order to + 原形動詞。【誘答選項】in return（作為回報）後面要接 for + 名詞，不接 that 子句；in case 雖然也能接子句，但它是「以防萬一」，會讀成「以防病人完全聽懂」，語意剛好相反；in addition（此外）是轉折詞，後面要接一個獨立的句子或 to + 名詞，接不上這裡的 that 子句。三個都是 in 開頭的片語，形態吻合，容易被順手選走。【常考字詞與句型】in order that + 子句（以便、為了使……）、in order to + 原形動詞（為了）、in return for（作為……的回報）、in addition to（除……之外）、be forced to V（被迫做某事）、communicate clearly（清楚溝通）。"
   },
   {
     "id": "Z98_16",
@@ -2130,7 +2130,7 @@
     "year": "99 年",
     "source": "99 年指考",
     "blankNum": 15,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "passageId": "99_11-15",
     "sentence": "Solar energy has a lot to offer. To begin with, it is a clean fuel…… __15__ , fossil fuels will run out, but solar energy will continue to reach the Earth long after the last coal has been mined and the last oil well has run dry.",
     "options": {
@@ -2148,7 +2148,7 @@
     "discrimination": 68,
     "contextSpan": "跨句",
     "contextNote": "What's more 累加前一句對化石燃料的批評",
-    "note": "【你可能會這樣想】四個選項都是轉承語，你知道要看前後關係，但這一段前後好像都在講化石燃料的不好，方向看起來一樣，一時分不出該用哪一個。【怎麼判斷】答對率剛好五成，鑑別度高達 68，是本批最會分人的一題，分開的是有沒有看出這一段在列清單。這是邏輯勾環，而且線索要往前跨兩句才完整：Solar energy has a lot to offer（太陽能有很多好處）先開了一個清單，To begin with, it is a clean fuel（首先，它是乾淨的燃料）是清單上的第一項。空格這一句講的是第二項——化石燃料會用完，太陽能不會。既然是在同一個清單上再加一項，用的就是累加的轉承語 What's more（此外、而且）。填進去讀成 What's more, fossil fuels will run out, but solar energy will continue to reach the Earth。填不出來的時候，先確認這一段是不是在列清單、空格落在第幾項，往往一步就定案。【誘答選項】Therefore（因此）要求後面是前面造成的結果，但化石燃料會枯竭並不是「排放有害物質」造成的；In comparison（相比之下）與前一句開頭的 In contrast 撞在一起，同一組對比連著用兩次讀不通，而且這一句真正在做的是加一項、不是再比一次；Otherwise（否則）要求前面先有一個條件或指示，這裡沒有。【常考字詞與句型】what's more（此外、而且）、to begin with（首先）、run out（用完、耗盡）、run dry（枯竭、乾涸）、in comparison（相比之下）、have a lot to offer（有很多好處可提供）。"
+    "note": "【你可能會這樣想】四個選項都是轉折詞，你知道要看前後關係，但這一段前後好像都在講化石燃料的不好，方向看起來一樣，一時分不出該用哪一個。【怎麼判斷】答對率剛好五成，鑑別度高達 68，是本批最會分人的一題，分開的是有沒有看出這一段在列清單。這是邏輯勾環，而且線索要往前跨兩句才完整：Solar energy has a lot to offer（太陽能有很多好處）先開了一個清單，To begin with, it is a clean fuel（首先，它是乾淨的燃料）是清單上的第一項。空格這一句講的是第二項——化石燃料會用完，太陽能不會。既然是在同一個清單上再加一項，用的就是累加的轉折詞 What's more（此外、而且）。填進去讀成 What's more, fossil fuels will run out, but solar energy will continue to reach the Earth。填不出來的時候，先確認這一段是不是在列清單、空格落在第幾項，往往一步就定案。【誘答選項】Therefore（因此）要求後面是前面造成的結果，但化石燃料會枯竭並不是「排放有害物質」造成的；In comparison（相比之下）與前一句開頭的 In contrast 撞在一起，同一組對比連著用兩次讀不通，而且這一句真正在做的是加一項、不是再比一次；Otherwise（否則）要求前面先有一個條件或指示，這裡沒有。【常考字詞與句型】what's more（此外、而且）、to begin with（首先）、run out（用完、耗盡）、run dry（枯竭、乾涸）、in comparison（相比之下）、have a lot to offer（有很多好處可提供）。"
   },
   {
     "id": "Z99_17",
@@ -2232,7 +2232,7 @@
     "year": "100 年",
     "source": "100 年指考",
     "blankNum": 14,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "passageId": "100_11-15",
     "sentence": "An adjustment refusal message requires your best communication skills __14__ it is bad news to the receiver. You have to refuse the claim and retain the customer __15__ .",
     "options": {
@@ -2298,7 +2298,7 @@
     "discrimination": 43,
     "contextSpan": "跨句",
     "contextNote": "for example 為前一句「各文化差異很大」舉例",
-    "note": "【你可能會這樣想】四個選項都是插在主詞與動詞之間的插入語，位置一樣、形態一樣，你會憑語感挑一個。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。前一句是 Cultures sometimes vary greatly in this regard（各種文化在這方面的差異有時很大），是一句通則；本句 A group of researchers in Japan, ______, studied the facial reactions of students to a horror film 講的是日本一組研究者做的一項研究，這是那句通則底下的一個具體個案。從通則走到具體個案，用 for example。填進去讀成 A group of researchers in Japan, for example, studied...（舉例來說，日本一組研究者研究了……）。順帶留意這個位置：轉承語夾在主詞與動詞之間、前後各一個逗號，是常見的擺法，不是只能放句首。【誘答選項】as usual（一如往常）要求前面有一個慣例，這一句是新提出來的研究，不是慣例；in some cases（在某些情況下）雖然也能插在這個位置，但它後面該接的是「某些情況下會怎樣」的通則，而不是一項具體的研究；to be frank（老實說）是說話者要坦白講一件不好說的事，這裡沒有那個語氣。【這一組在題庫裡的落點】把兩個克漏字題庫的答案掃過一遍，這一組的分布很不平均：for example 當過六次答案，指考這邊除了本題還有 103 年第 14 題、104 年第 20 題、110 年第 20 題，學測那邊是 89 年第 27 題與 94 年第 27 題；for instance 三次，指考 95 年第 14 題與學測 85 年第 33 題、89 年第 29 題；such as 兩次，都在學測，指考從來沒考過；in other words 只出現過一次，是學測 107 年第 29 題；that is 一次也沒當過答案，卻反覆出現在誘答選項裡。分法只要記一條：such as 後面直接接名詞，其餘幾個後面接的是一句完整的話。People react to the same situation in very different ways. For example, some passengers stand up at once when an elderly man gets on the bus, while others keep staring at their phones.（面對同一個情況，每個人的反應可以差很多。舉例來說，有些乘客一看到老先生上車就馬上起身，有些人卻繼續盯著手機。）Some passengers, for instance, stand up at once when an elderly man gets on the bus.（換成 for instance 並放到句子中間，意思不變。）Passengers such as students, office workers, and parents with babies all sit in that row.（學生、上班族、帶嬰兒的家長這類乘客，都坐在那一排。）〔情境取材自 102 學測作文題：博愛座前的抉擇〕【常考字詞與句型】for example（舉例來說）、as usual（一如往常）、in some cases（在某些情況下）、to be frank（老實說）、vary greatly（差異很大）、facial reactions（臉部反應）。"
+    "note": "【你可能會這樣想】四個選項都是插在主詞與動詞之間的插入語，位置一樣、形態一樣，你會憑語感挑一個。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。前一句是 Cultures sometimes vary greatly in this regard（各種文化在這方面的差異有時很大），是一句通則；本句 A group of researchers in Japan, ______, studied the facial reactions of students to a horror film 講的是日本一組研究者做的一項研究，這是那句通則底下的一個具體個案。從通則走到具體個案，用 for example。填進去讀成 A group of researchers in Japan, for example, studied...（舉例來說，日本一組研究者研究了……）。順帶留意這個位置：轉折詞夾在主詞與動詞之間、前後各一個逗號，是常見的擺法，不是只能放句首。【誘答選項】as usual（一如往常）要求前面有一個慣例，這一句是新提出來的研究，不是慣例；in some cases（在某些情況下）雖然也能插在這個位置，但它後面該接的是「某些情況下會怎樣」的通則，而不是一項具體的研究；to be frank（老實說）是說話者要坦白講一件不好說的事，這裡沒有那個語氣。【這一組在題庫裡的落點】把兩個克漏字題庫的答案掃過一遍，這一組的分布很不平均：for example 當過六次答案，指考這邊除了本題還有 103 年第 14 題、104 年第 20 題、110 年第 20 題，學測那邊是 89 年第 27 題與 94 年第 27 題；for instance 三次，指考 95 年第 14 題與學測 85 年第 33 題、89 年第 29 題；such as 兩次，都在學測，指考從來沒考過；in other words 只出現過一次，是學測 107 年第 29 題；that is 一次也沒當過答案，卻反覆出現在誘答選項裡。分法只要記一條：such as 後面直接接名詞，其餘幾個後面接的是一句完整的話。People react to the same situation in very different ways. For example, some passengers stand up at once when an elderly man gets on the bus, while others keep staring at their phones.（面對同一個情況，每個人的反應可以差很多。舉例來說，有些乘客一看到老先生上車就馬上起身，有些人卻繼續盯著手機。）Some passengers, for instance, stand up at once when an elderly man gets on the bus.（換成 for instance 並放到句子中間，意思不變。）Passengers such as students, office workers, and parents with babies all sit in that row.（學生、上班族、帶嬰兒的家長這類乘客，都坐在那一排。）〔情境取材自 102 學測作文題：博愛座前的抉擇〕【常考字詞與句型】for example（舉例來說）、as usual（一如往常）、in some cases（在某些情況下）、to be frank（老實說）、vary greatly（差異很大）、facial reactions（臉部反應）。"
   },
   {
     "id": "Z100_17",
@@ -2569,7 +2569,7 @@
     "year": "102 年",
     "source": "102 年指考",
     "blankNum": 14,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "The gurnard species has a wide vocal repertoire and keeps up a constant chatter. Codfish, __14__ , usually keep silent, except when they are laying eggs.",
     "options": {
       "A": "by all means",
@@ -2587,7 +2587,7 @@
     "discrimination": 48,
     "contextSpan": "跨句",
     "contextNote": "前一句 The gurnard species… keeps up a constant chatter 與本句形成對比",
-    "note": "【你可能會這樣想】四個選項都是轉承語，關鍵在於分辨它們各自標示什麼關係：on the other hand ＝ 對比（另一方面）；for example ＝ 舉例；as a result ＝ 因果；by all means ＝ 務必、當然可以。「先確認前後兩句的關係，再挑對應的轉承語，這是所有轉承語題的通則。」【怎麼判斷】線索在前一句：The gurnard species has a wide vocal repertoire and keeps up a constant chatter.（魴鮄類的發聲種類繁多，喋喋不休）；本句 Codfish, ___, usually keep silent（鱈魚則多半保持安靜）。一個吵、一個安靜，是明顯的對比，所以用 on the other hand。這一格必須讀前一句才判斷得出來。【誘答選項】by all means：「務必、當然可以」，用來給人許可或強調同意（\"May I borrow this book?\" \"By all means.\"），不是連接前後句關係的轉承語。for example：需要後句是前句的例子，但鱈魚不是魴鮄的例子，兩者是不同的魚。as a result：需要因果關係，魴鮄很吵不會「導致」鱈魚安靜。【常考字詞與句型】on the one hand… on the other hand…（一方面…另一方面…）、in contrast（相較之下）、whereas（而、然而）、by all means（務必、當然可以）。"
+    "note": "【你可能會這樣想】四個選項都是轉折詞，關鍵在於分辨它們各自標示什麼關係：on the other hand ＝ 對比（另一方面）；for example ＝ 舉例；as a result ＝ 因果；by all means ＝ 務必、當然可以。「先確認前後兩句的關係，再挑對應的轉折詞，這是所有轉折詞題的通則。」【怎麼判斷】線索在前一句：The gurnard species has a wide vocal repertoire and keeps up a constant chatter.（魴鮄類的發聲種類繁多，喋喋不休）；本句 Codfish, ___, usually keep silent（鱈魚則多半保持安靜）。一個吵、一個安靜，是明顯的對比，所以用 on the other hand。這一格必須讀前一句才判斷得出來。【誘答選項】by all means：「務必、當然可以」，用來給人許可或強調同意（\"May I borrow this book?\" \"By all means.\"），不是連接前後句關係的轉折詞。for example：需要後句是前句的例子，但鱈魚不是魴鮄的例子，兩者是不同的魚。as a result：需要因果關係，魴鮄很吵不會「導致」鱈魚安靜。【常考字詞與句型】on the one hand… on the other hand…（一方面…另一方面…）、in contrast（相較之下）、whereas（而、然而）、by all means（務必、當然可以）。"
   },
   {
     "id": "Z102_16",
@@ -2642,7 +2642,7 @@
     "year": "102 年",
     "source": "102 年指考",
     "blankNum": 20,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Post offices would remain open on Saturdays __20__ customers can drop off mail or packages, buy postage stamps, or access their post office boxes.",
     "options": {
       "A": "so that",
@@ -2714,7 +2714,7 @@
     "year": "103 年",
     "source": "103 年指考",
     "blankNum": 14,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "During those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris.",
     "options": {
       "A": "In short",
@@ -2723,7 +2723,7 @@
       "D": "For example"
     },
     "answer": "D",
-    "explanation": "【轉折語】前句提到「有幾種方法可以保持牙刷清潔」，後句舉出具體做法（沖洗牙刷），故用 For example（舉例）承接。In short（簡言之）、Otherwise（否則）、Nevertheless（然而）都不符合舉例語境。",
+    "explanation": "【轉折詞】前句提到「有幾種方法可以保持牙刷清潔」，後句舉出具體做法（沖洗牙刷），故用 For example（舉例）承接。In short（簡言之）、Otherwise（否則）、Nevertheless（然而）都不符合舉例語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "103_11-15",
@@ -2732,7 +2732,7 @@
     "discrimination": 39,
     "contextSpan": "跨句",
     "contextNote": "For example 為前一句「有幾種保養方式」舉例",
-    "note": "【你可能會這樣想】四個選項都是轉承語，你知道要看前後兩句的關係，但前一句只是一句總說，後面又接好幾個祈使句，一時看不出誰跟誰是什麼關係。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。前一句 there are several ways to keep a toothbrush clean（有好幾種保持牙刷清潔的方法）是一句總說；空格之後 rinse your toothbrush thoroughly with tap water、Store your toothbrush in an upright position、do not share toothbrushes 是一條一條的具體做法。從一句通則走到底下的具體個案，用 For example（舉例來說）。填進去讀成 For example, rinse your toothbrush thoroughly with tap water after use。這個方法在克漏字裡很常用：文章若在列清單，先確認空格落在清單的哪個位置，是開頭、中間還是收尾，答案往往就定了。【誘答選項】In short（簡言之）用在把前面講過的內容歸納成一句結論，但空格後面是往下展開不是往回收，方向相反；Nevertheless（儘管如此）要求前後語意有轉折，這裡前後是同一個方向；Otherwise（否則）要求前面先有一個條件或指示、後面講不照做的下場，前一句沒有那個條件。【清單的第一項該用 For example 還是 First】空格後面接著三條具體做法，很容易想成「這是第一點，該用 First 或 To begin with」。差別在你要標的是什麼：First 與 To begin with 標的是順序，用了就必須有第二點、第三點跟上；For example 標的是「這是上一句那個總說的例子」，後面有幾條都可以，不必成串。本篇後面的 Store your toothbrush 與 do not share toothbrushes 前面都沒有 Second 或 Finally，可見作者要的是舉例，不是編號。整組的分法寫在學測克漏字 89 年第 27 題。There are several things you can do when you find a wallet on the floor. For example, hand it to the shop owner before you leave.（在地上撿到錢包時，你可以做的事有好幾件。舉例來說，離開前把它交給店家。）You can, for instance, hand it to the shop owner before you leave.（換成 for instance 並放到句子中間，意思不變。）Small choices such as this one show what kind of person you are.（像這樣的小小抉擇，看得出你是什麼樣的人。）〔情境取材自 99 學測作文題：麵店撿到錢包〕【常考字詞與句型】for example（舉例來說）、in short（簡言之）、nevertheless（儘管如此）、otherwise（否則）、rinse A with B（用 B 沖洗 A）、keep + 受詞 + 形容詞（讓某物保持某個狀態，keep a toothbrush clean）。"
+    "note": "【你可能會這樣想】四個選項都是轉折詞，你知道要看前後兩句的關係，但前一句只是一句總說，後面又接好幾個祈使句，一時看不出誰跟誰是什麼關係。【怎麼判斷】這是邏輯勾環，而且線索一定要跨句才看得到。前一句 there are several ways to keep a toothbrush clean（有好幾種保持牙刷清潔的方法）是一句總說；空格之後 rinse your toothbrush thoroughly with tap water、Store your toothbrush in an upright position、do not share toothbrushes 是一條一條的具體做法。從一句通則走到底下的具體個案，用 For example（舉例來說）。填進去讀成 For example, rinse your toothbrush thoroughly with tap water after use。這個方法在克漏字裡很常用：文章若在列清單，先確認空格落在清單的哪個位置，是開頭、中間還是收尾，答案往往就定了。【誘答選項】In short（簡言之）用在把前面講過的內容歸納成一句結論，但空格後面是往下展開不是往回收，方向相反；Nevertheless（儘管如此）要求前後語意有轉折，這裡前後是同一個方向；Otherwise（否則）要求前面先有一個條件或指示、後面講不照做的下場，前一句沒有那個條件。【清單的第一項該用 For example 還是 First】空格後面接著三條具體做法，很容易想成「這是第一點，該用 First 或 To begin with」。差別在你要標的是什麼：First 與 To begin with 標的是順序，用了就必須有第二點、第三點跟上；For example 標的是「這是上一句那個總說的例子」，後面有幾條都可以，不必成串。本篇後面的 Store your toothbrush 與 do not share toothbrushes 前面都沒有 Second 或 Finally，可見作者要的是舉例，不是編號。整組的分法寫在學測克漏字 89 年第 27 題。There are several things you can do when you find a wallet on the floor. For example, hand it to the shop owner before you leave.（在地上撿到錢包時，你可以做的事有好幾件。舉例來說，離開前把它交給店家。）You can, for instance, hand it to the shop owner before you leave.（換成 for instance 並放到句子中間，意思不變。）Small choices such as this one show what kind of person you are.（像這樣的小小抉擇，看得出你是什麼樣的人。）〔情境取材自 99 學測作文題：麵店撿到錢包〕【常考字詞與句型】for example（舉例來說）、in short（簡言之）、nevertheless（儘管如此）、otherwise（否則）、rinse A with B（用 B 沖洗 A）、keep + 受詞 + 形容詞（讓某物保持某個狀態，keep a toothbrush clean）。"
   },
   {
     "id": "Z103_15",
@@ -2787,7 +2787,7 @@
     "year": "103 年",
     "source": "103 年指考",
     "blankNum": 18,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Lonsdorf has always been interested in animal learning and tool use, __18__ the way young animals grow up and learn their way in the world.",
     "options": {
       "A": "especially",
@@ -2796,7 +2796,7 @@
       "D": "fortunately"
     },
     "answer": "A",
-    "explanation": "【轉折語／副詞】especially 用以強調隆斯多夫特別感興趣的重點——幼小動物如何成長與學習，語意上是對前述「動物學習與工具使用」的進一步聚焦。originally（最初）、consequently（因此）、fortunately（幸運地）都不符合文意。",
+    "explanation": "【轉折詞／副詞】especially 用以強調隆斯多夫特別感興趣的重點——幼小動物如何成長與學習，語意上是對前述「動物學習與工具使用」的進一步聚焦。originally（最初）、consequently（因此）、fortunately（幸運地）都不符合文意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "103_16-20",
@@ -2913,7 +2913,7 @@
     "year": "104 年",
     "source": "104 年指考",
     "blankNum": 20,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Road running is often a community-wide event that highlights or raises money for an issue or project. __20__ , Race for the Cure is held throughout the U.S. to raise breast cancer awareness.",
     "options": {
       "A": "Above all",
@@ -2922,7 +2922,7 @@
       "D": "To some extent"
     },
     "answer": "B",
-    "explanation": "【轉折語】前句概括說明「路跑常是社區性活動，用以宣傳議題或募款」，後句以 Race for the Cure 為具體實例，故用 For example（舉例）承接。Above all（最重要的是）、As it appears（看來）、To some extent（在某種程度上）都不符合舉例語境。",
+    "explanation": "【轉折詞】前句概括說明「路跑常是社區性活動，用以宣傳議題或募款」，後句以 Race for the Cure 為具體實例，故用 For example（舉例）承接。Above all（最重要的是）、As it appears（看來）、To some extent（在某種程度上）都不符合舉例語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "104_16-20",
@@ -2931,7 +2931,7 @@
     "discrimination": 53,
     "contextSpan": "跨句",
     "contextNote": "For example 為前一句「路跑常是社區活動」舉例",
-    "note": "【你可能會這樣想】四個選項都是擺在句首的轉承說法，中文讀起來好像都能硬接，尤其 Above all（最重要的是）看起來像在加強語氣，很容易覺得說得通。【怎麼判斷】轉承語是最好認的邏輯勾環，判斷方式只有一句——先看前一句在做什麼，再看這一句在做什麼，兩者的關係決定填哪一個。前一句 Road running is often a community-wide event that highlights or raises money for an issue or project.（路跑常是全社區的活動，用來凸顯某個議題或為某個計畫募款）講的是通則；這一句 Race for the Cure is held throughout the U.S. to raise breast cancer awareness. 端出來的是一個有名有姓的具體活動。從通則走到具體個案，就是 For example。順便把兩組容易混淆的分清楚：for example 與 for instance 是舉一個具體的例子；that is 與 in other words 是把同一件事換句話說，後面接的還是同一件事。（學測 89 年第 27 題與第 29 題把這兩組擺在同一篇裡考，可以對照著看。）同一篇的第 17 題其實也在做「先講通則再舉例」的事：because it {17} all ages and abilities 是通則，下一句的 first time amateurs 與 world-class 選手就是例子，只是那裡沒有用轉承語標出來。有標記的與沒標記的都要讀得出來。【誘答選項】Above all（最重要的是）用來在好幾件事情裡挑出最重要的一件，但前文沒有列出一串事情讓你挑。As it appears（就目前看來）帶著「只是表面如此、未必確定」的口吻，而 Race for the Cure 是實際在美國各地舉辦的活動，不是看起來如此。To some extent（在某種程度上）是打折扣、退一步的說法，這一句沒有在讓步，是在正面舉證支持前一句。【常考字詞與句型】for example（舉例來說）、in other words（換句話說）、above all（最重要的是）、to some extent（在某種程度上）、raise money for（為……募款）、raise awareness（喚起大眾對某事的重視）。"
+    "note": "【你可能會這樣想】四個選項都是擺在句首的轉承說法，中文讀起來好像都能硬接，尤其 Above all（最重要的是）看起來像在加強語氣，很容易覺得說得通。【怎麼判斷】轉折詞是最好認的邏輯勾環，判斷方式只有一句——先看前一句在做什麼，再看這一句在做什麼，兩者的關係決定填哪一個。前一句 Road running is often a community-wide event that highlights or raises money for an issue or project.（路跑常是全社區的活動，用來凸顯某個議題或為某個計畫募款）講的是通則；這一句 Race for the Cure is held throughout the U.S. to raise breast cancer awareness. 端出來的是一個有名有姓的具體活動。從通則走到具體個案，就是 For example。順便把兩組容易混淆的分清楚：for example 與 for instance 是舉一個具體的例子；that is 與 in other words 是把同一件事換句話說，後面接的還是同一件事。（學測 89 年第 27 題與第 29 題把這兩組擺在同一篇裡考，可以對照著看。）同一篇的第 17 題其實也在做「先講通則再舉例」的事：because it {17} all ages and abilities 是通則，下一句的 first time amateurs 與 world-class 選手就是例子，只是那裡沒有用轉折詞標出來。有標記的與沒標記的都要讀得出來。【誘答選項】Above all（最重要的是）用來在好幾件事情裡挑出最重要的一件，但前文沒有列出一串事情讓你挑。As it appears（就目前看來）帶著「只是表面如此、未必確定」的口吻，而 Race for the Cure 是實際在美國各地舉辦的活動，不是看起來如此。To some extent（在某種程度上）是打折扣、退一步的說法，這一句沒有在讓步，是在正面舉證支持前一句。【常考字詞與句型】for example（舉例來說）、in other words（換句話說）、above all（最重要的是）、to some extent（在某種程度上）、raise money for（為……募款）、raise awareness（喚起大眾對某事的重視）。"
   },
   {
     "id": "Z105_13",
@@ -2985,7 +2985,7 @@
     "discrimination": 59,
     "contextSpan": "跨句",
     "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」",
-    "note": "【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，文法上都放得進去，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定——轉承語是最好認的邏輯勾環，看到 Nevertheless、however、therefore、for example 這一類字，先回頭看前一句，方向就出來了。Nevertheless（然而、儘管如此）要求這一句與前一句相反：前一句剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉——這麼大的貢獻，卻幾乎沒有人聽過他的名字。few（幾乎沒有）本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。順便把 few 與 a few 分清楚：few 是幾乎沒有，a few 是有一些；little 與 a little 同理，差一個冠詞就差很多。這一格的鑑別度高達 59，分開的正是「有沒有回頭讀前一句」——只讀空格所在的這一句，四個選項其實都塞得進去。另外一提：這一篇選文後來被 107 學年度起適用的指考參考試卷沿用，在那份卷子上編為第 17 題，兩邊是同一題，不是網站重複。【誘答選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.），單獨擺在一個陳述事實的肯定句裡當主詞的修飾語並不成立。【常考字詞與句型】few 加可數複數名詞（幾乎沒有）、a few 加可數複數名詞（有一些）、little 加不可數名詞（幾乎沒有）、a little 加不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）。"
+    "note": "【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，文法上都放得進去，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定——轉折詞是最好認的邏輯勾環，看到 Nevertheless、however、therefore、for example 這一類字，先回頭看前一句，方向就出來了。Nevertheless（然而、儘管如此）要求這一句與前一句相反：前一句剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉——這麼大的貢獻，卻幾乎沒有人聽過他的名字。few（幾乎沒有）本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。順便把 few 與 a few 分清楚：few 是幾乎沒有，a few 是有一些；little 與 a little 同理，差一個冠詞就差很多。這一格的鑑別度高達 59，分開的正是「有沒有回頭讀前一句」——只讀空格所在的這一句，四個選項其實都塞得進去。另外一提：這一篇選文後來被 107 學年度起適用的指考參考試卷沿用，在那份卷子上編為第 17 題，兩邊是同一題，不是網站重複。【誘答選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.），單獨擺在一個陳述事實的肯定句裡當主詞的修飾語並不成立。【常考字詞與句型】few 加可數複數名詞（幾乎沒有）、a few 加可數複數名詞（有一些）、little 加不可數名詞（幾乎沒有）、a little 加不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）。"
   },
   {
     "id": "Z105_18",
@@ -3049,7 +3049,7 @@
       "D": "With respect to"
     },
     "answer": "B",
-    "explanation": "【轉折語】句意為「他非但沒有因擊敗納粹的重大貢獻而受到推崇，反而被判有罪」，故用 Instead of（而非）表示強烈對比。Because of（因為）、In addition to（此外）、With respect to（關於）都不符合此處的反差語境。",
+    "explanation": "【轉折詞】句意為「他非但沒有因擊敗納粹的重大貢獻而受到推崇，反而被判有罪」，故用 Instead of（而非）表示強烈對比。Because of（因為）、In addition to（此外）、With respect to（關於）都不符合此處的反差語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "105_16-20",
@@ -3057,7 +3057,7 @@
     "accuracyRate": 44,
     "discrimination": 39,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】空格後面是 being hailed as one of the crucial figures in defeating the Nazis（被譽為擊敗納粹的關鍵人物之一），這是好事，後半句卻是被判罪。很容易先抓到「被譽為英雄」這幾個字，覺得這一句在講他的功績，於是選 Because of，把整句讀成「因為被譽為英雄，所以……」。答對率四成四。【怎麼判斷】四個選項都是幾個字合起來當一個介系詞用，後面接名詞或動名詞（劍橋 English Grammar Today 的 Prepositions 條目），所以 being hailed 這個動名詞誰都接得住，文法上刷不掉任何一個，可見這一格考的是空格兩邊的邏輯關係，屬於邏輯勾環。把兩邊的方向各標一次：前半是「被讚譽為擊敗納粹的關鍵人物」（正面），後半是「被以嚴重猥褻罪定罪」（負面）。一正一負，而且不只是轉折，是「該發生的沒有發生，發生的是相反的事」。Instead of 正是這個意思，不是 A 而是 B，國中的掛鉤是 Let's walk instead of taking a bus.（不搭公車，改用走的）；注意它整組當一個介系詞用，後面接動詞時一定要用動名詞，題幹裡的 being hailed 正好呼應這一點。填進去讀成「非但沒有被當成英雄看待，反而被定罪」，落差才出得來。同一篇的第 17 題在做同一件事，先給一個很正面的事實再整個翻過來，只是那一格用的是轉承語 Nevertheless，這一格用的是介系詞，兩題可以擺在一起看。【誘答選項】Because of（因為）會變成「因為被譽為英雄所以被定罪」，因果講不通，而且真正的原因前一句已經寫了：他是同性戀者，在當時的英國是罪行。In addition to（除了……之外，還）要求前後同方向、可以累加，但這裡一好一壞，加不起來。With respect to（關於、就……而言）用來帶出討論的主題，放在句首會變成「就被譽為英雄這件事而言，他被定罪」，兩半接不上。【instead of、rather than、in place of 三個怎麼分】三個中文都說得成「而不是、代替」，但在題庫裡的地位差很多：instead of 當過五次答案，rather than 兩次（都在學測克漏字 88 年第 23 題與 93 年第 20 題），in place of 一次也沒當過答案，只出現在誘答裡。用法上的差別只有一條要記：rather than 後面可以接原形動詞（She chose to walk rather than take a bus.），instead of 只能接名詞或動名詞，本題的 being hailed 正是動名詞。同一組的其他題：學測克漏字 98 年第 27 題把 instead of 夾在兩個名詞片語中間，指考克漏字 109 年補考第 13 題則是拿它比兩個名字，文意選填學測 94 年第 35 題考的是句首接動名詞片語，四種擺法各出現一次。Instead of running away, the cat walked straight up to her.（那隻貓沒有跑掉，反而直直走向她。）The cat chose to stay rather than run away.（同一件事換成 rather than，後面接的是原形動詞 run。）〔情境取材自 96 學測作文題：女孩與貓的邂逅〕【常考字詞與句型】instead of 加 V-ing（不做 A，而是 B）、be hailed as（被譽為）、be convicted of（被判……罪成立）、in addition to 加名詞（除了……之外，還）、with respect to（關於、就……而言）、crucial（關鍵的、至關重要的）。"
+    "note": "【你可能會這樣想】空格後面是 being hailed as one of the crucial figures in defeating the Nazis（被譽為擊敗納粹的關鍵人物之一），這是好事，後半句卻是被判罪。很容易先抓到「被譽為英雄」這幾個字，覺得這一句在講他的功績，於是選 Because of，把整句讀成「因為被譽為英雄，所以……」。答對率四成四。【怎麼判斷】四個選項都是幾個字合起來當一個介系詞用，後面接名詞或動名詞（劍橋 English Grammar Today 的 Prepositions 條目），所以 being hailed 這個動名詞誰都接得住，文法上刷不掉任何一個，可見這一格考的是空格兩邊的邏輯關係，屬於邏輯勾環。把兩邊的方向各標一次：前半是「被讚譽為擊敗納粹的關鍵人物」（正面），後半是「被以嚴重猥褻罪定罪」（負面）。一正一負，而且不只是轉折，是「該發生的沒有發生，發生的是相反的事」。Instead of 正是這個意思，不是 A 而是 B，國中的掛鉤是 Let's walk instead of taking a bus.（不搭公車，改用走的）；注意它整組當一個介系詞用，後面接動詞時一定要用動名詞，題幹裡的 being hailed 正好呼應這一點。填進去讀成「非但沒有被當成英雄看待，反而被定罪」，落差才出得來。同一篇的第 17 題在做同一件事，先給一個很正面的事實再整個翻過來，只是那一格用的是轉折詞 Nevertheless，這一格用的是介系詞，兩題可以擺在一起看。【誘答選項】Because of（因為）會變成「因為被譽為英雄所以被定罪」，因果講不通，而且真正的原因前一句已經寫了：他是同性戀者，在當時的英國是罪行。In addition to（除了……之外，還）要求前後同方向、可以累加，但這裡一好一壞，加不起來。With respect to（關於、就……而言）用來帶出討論的主題，放在句首會變成「就被譽為英雄這件事而言，他被定罪」，兩半接不上。【instead of、rather than、in place of 三個怎麼分】三個中文都說得成「而不是、代替」，但在題庫裡的地位差很多：instead of 當過五次答案，rather than 兩次（都在學測克漏字 88 年第 23 題與 93 年第 20 題），in place of 一次也沒當過答案，只出現在誘答裡。用法上的差別只有一條要記：rather than 後面可以接原形動詞（She chose to walk rather than take a bus.），instead of 只能接名詞或動名詞，本題的 being hailed 正是動名詞。同一組的其他題：學測克漏字 98 年第 27 題把 instead of 夾在兩個名詞片語中間，指考克漏字 109 年補考第 13 題則是拿它比兩個名字，文意選填學測 94 年第 35 題考的是句首接動名詞片語，四種擺法各出現一次。Instead of running away, the cat walked straight up to her.（那隻貓沒有跑掉，反而直直走向她。）The cat chose to stay rather than run away.（同一件事換成 rather than，後面接的是原形動詞 run。）〔情境取材自 96 學測作文題：女孩與貓的邂逅〕【常考字詞與句型】instead of 加 V-ing（不做 A，而是 B）、be hailed as（被譽為）、be convicted of（被判……罪成立）、in addition to 加名詞（除了……之外，還）、with respect to（關於、就……而言）、crucial（關鍵的、至關重要的）。"
   },
   {
     "id": "Z106_16",
@@ -3136,7 +3136,7 @@
     "year": "106 年",
     "source": "106 年指考",
     "blankNum": 19,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "This is why enzymes are crucial in the sustenance of life on earth. Enzymes, __19__ , do not always function perfectly.",
     "options": {
       "A": "hereafter",
@@ -3145,7 +3145,7 @@
       "D": "however"
     },
     "answer": "D",
-    "explanation": "【轉折語】前句強調酵素對維持生命至關重要，後句卻指出酵素「不是每次都能完美運作」，語意轉折，故用 however（然而）。hereafter（此後）、instead（取而代之）、likewise（同樣地）都不符合此處對比語境。",
+    "explanation": "【轉折詞】前句強調酵素對維持生命至關重要，後句卻指出酵素「不是每次都能完美運作」，語意轉折，故用 however（然而）。hereafter（此後）、instead（取而代之）、likewise（同樣地）都不符合此處對比語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "106_16-20",
@@ -3154,14 +3154,14 @@
     "discrimination": 44,
     "contextSpan": "跨句",
     "contextNote": "however 轉折前一句對酵素的正面評價",
-    "note": "【你可能會這樣想】however 這個字，你的印象大概只有它出現在句首、後面接一個逗號（However, …）。本題它夾在主詞 Enzymes 與動詞 do not always function 之間，前後各一個逗號，位置一陌生就會覺得「這裡放不了 however」，轉而去挑看起來比較像插入語的字。【怎麼判斷】四個選項 hereafter、instead、likewise、however 都是副詞，文法上都插得進兩個逗號中間，可見這一格考的是前後兩句的邏輯方向。前一句 This is why enzymes are crucial in the sustenance of life on earth 說酵素對維繫地球生命至關重要，本句 Enzymes … do not always function perfectly 卻說它們不是每次都能完美運作，一正一反，要的是表相反的轉承語，四個選項裡只有 however 站在反方向。至於位置，therefore、however 這一類詞歸在「連接副詞」（linking adjunct）底下，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today），插在主詞與動詞之間、前後用逗號隔開是很常見的寫法。鑑別度 44，分的是有沒有真的把前後兩句的方向擺在一起比對，而不是只憑哪個字看起來像插入語。【誘答選項】likewise（同樣地）要求前後同向，但前句在說酵素多重要、本句在說它會出錯，方向相反。instead（取而代之）要求「不是 A 而是 B」的替換關係，前一句並沒有被推翻掉。hereafter（此後、今後）是時間副詞，多見於法律與公文，本題前後兩句之間沒有時間先後可分。【常考字詞與句型】not always（不是每次都，部分否定）、function perfectly（運作良好）、be crucial in／to（對…至關重要）、This is why …（這就是為什麼…）、however 插在主詞與動詞之間（前後各用一個逗號隔開）、the sustenance of life（生命的維繫）。"
+    "note": "【你可能會這樣想】however 這個字，你的印象大概只有它出現在句首、後面接一個逗號（However, …）。本題它夾在主詞 Enzymes 與動詞 do not always function 之間，前後各一個逗號，位置一陌生就會覺得「這裡放不了 however」，轉而去挑看起來比較像插入語的字。【怎麼判斷】四個選項 hereafter、instead、likewise、however 都是副詞，文法上都插得進兩個逗號中間，可見這一格考的是前後兩句的邏輯方向。前一句 This is why enzymes are crucial in the sustenance of life on earth 說酵素對維繫地球生命至關重要，本句 Enzymes … do not always function perfectly 卻說它們不是每次都能完美運作，一正一反，要的是表相反的轉折詞，四個選項裡只有 however 站在反方向。至於位置，therefore、however 這一類詞歸在「連接副詞」（linking adjunct）底下，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today），插在主詞與動詞之間、前後用逗號隔開是很常見的寫法。鑑別度 44，分的是有沒有真的把前後兩句的方向擺在一起比對，而不是只憑哪個字看起來像插入語。【誘答選項】likewise（同樣地）要求前後同向，但前句在說酵素多重要、本句在說它會出錯，方向相反。instead（取而代之）要求「不是 A 而是 B」的替換關係，前一句並沒有被推翻掉。hereafter（此後、今後）是時間副詞，多見於法律與公文，本題前後兩句之間沒有時間先後可分。【常考字詞與句型】not always（不是每次都，部分否定）、function perfectly（運作良好）、be crucial in／to（對…至關重要）、This is why …（這就是為什麼…）、however 插在主詞與動詞之間（前後各用一個逗號隔開）、the sustenance of life（生命的維繫）。"
   },
   {
     "id": "Z107_12",
     "year": "107 年",
     "source": "107 年指考",
     "blankNum": 12,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "Generally speaking, the more luxuries people have, the higher their value or social status—or __12__ they believe.",
     "options": {
       "A": "still",
@@ -3233,7 +3233,7 @@
     "year": "107 年",
     "source": "107 年指考",
     "blankNum": 19,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__19__ the source of the injury, these spots typically do not require any treatment and should go away as your nail grows out.",
     "options": {
       "A": "Supposing",
@@ -3299,14 +3299,14 @@
     "accuracyRate": 84,
     "discrimination": 39,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】看到逗號後面要填一個字，你可能會先想「這裡需要一個連接詞或轉承語」，於是 that 或 whether 看起來都有機會。這一題的重點其實不在語意，而在空格前面站的是什麼。【怎麼判斷】規則只有一句話：wh- 詞前面接的是名詞，它就是回頭補充說明那個名詞的關係子句。空格前面是 in Europe 的 Europe，是地點名詞；空格後面 she got an opportunity to interact with various cultures at a young age 是一個成分完整的子句。地點名詞加上成分已滿的子句，要的是關係副詞 where（非限定用法，前面用逗號隔開）。還原成兩句話驗算：She received her education in Europe, and in Europe she got an opportunity to interact with various cultures. where 等於 and there，也可以換成 in which。這一題本身不難，鑑別度 39，分的是有沒有先確認逗號後面已經是一個完整的子句。【誘答選項】there 是副詞，不能引導子句；兩個完整的子句中間只有一個逗號、沒有連接詞，會變成兩個句子沒有連接詞連接的病句。that 是關係代名詞，一定要在子句裡占一個位置（當主詞或受詞），但 she got an opportunity… 的成分已經滿了，沒有位置給它；而且 that 不用在逗號後的非限定用法。whether 是「是否」，帶出的是兩種不確定的可能，與「她在那裡得到機會」接不起來。【常考字詞與句型】where 引導非限定關係子句（等於 and there）、receive one's education（接受教育）、interact with（與…互動）、at a young age（在年幼時）、be born in（出生於）、one of the best-known + 複數名詞（最知名的…之一）。"
+    "note": "【你可能會這樣想】看到逗號後面要填一個字，你可能會先想「這裡需要一個連接詞或轉折詞」，於是 that 或 whether 看起來都有機會。這一題的重點其實不在語意，而在空格前面站的是什麼。【怎麼判斷】規則只有一句話：wh- 詞前面接的是名詞，它就是回頭補充說明那個名詞的關係子句。空格前面是 in Europe 的 Europe，是地點名詞；空格後面 she got an opportunity to interact with various cultures at a young age 是一個成分完整的子句。地點名詞加上成分已滿的子句，要的是關係副詞 where（非限定用法，前面用逗號隔開）。還原成兩句話驗算：She received her education in Europe, and in Europe she got an opportunity to interact with various cultures. where 等於 and there，也可以換成 in which。這一題本身不難，鑑別度 39，分的是有沒有先確認逗號後面已經是一個完整的子句。【誘答選項】there 是副詞，不能引導子句；兩個完整的子句中間只有一個逗號、沒有連接詞，會變成兩個句子沒有連接詞連接的病句。that 是關係代名詞，一定要在子句裡占一個位置（當主詞或受詞），但 she got an opportunity… 的成分已經滿了，沒有位置給它；而且 that 不用在逗號後的非限定用法。whether 是「是否」，帶出的是兩種不確定的可能，與「她在那裡得到機會」接不起來。【常考字詞與句型】where 引導非限定關係子句（等於 and there）、receive one's education（接受教育）、interact with（與…互動）、at a young age（在年幼時）、be born in（出生於）、one of the best-known + 複數名詞（最知名的…之一）。"
   },
   {
     "id": "Z108_13",
     "year": "108 年",
     "source": "108 年指考",
     "blankNum": 13,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__13__ , she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.",
     "options": {
       "A": "Generally",
@@ -3315,7 +3315,7 @@
       "D": "Interestingly"
     },
     "answer": "D",
-    "explanation": "【轉折語】Interestingly 置於句首，用以引出一個令人意外、有趣的事實（她本有法律碩士學位，卻走上時尚設計之路）。Generally（一般而言）、Ideally（理想上）、Relatively（相對而言）都不符合此處強調意外性的語境。",
+    "explanation": "【轉折詞】Interestingly 置於句首，用以引出一個令人意外、有趣的事實（她本有法律碩士學位，卻走上時尚設計之路）。Generally（一般而言）、Ideally（理想上）、Relatively（相對而言）都不符合此處強調意外性的語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_11-15",
@@ -3348,14 +3348,14 @@
     "accuracyRate": 71,
     "discrimination": 43,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】四個選項都是「介系詞加名詞」的片語，都可以掛在名詞後面，讀起來都像是在補充說明那 420 條電纜。如果對這幾個片語只有模糊的印象，這一題就變成猜。【怎麼判斷】先問空格補充的是什麼。there are over 420 submarine cables ___ 講的是現在有超過 420 條海底電纜處於某種狀態，所以空格要的是一個表狀態的片語。in service 就是「使用中、運作中」（劍橋詞典 in service：being used），它有一個天天看得到的對照組，就是公車與捷運車廂上的 Out of Service（暫停服務）。把 in service 擺回去讀一次：如今全世界有超過 420 條海底電纜正在運作，總長超過 70 萬英里，語意完全順。鑑別度 43，分的是認不認得這一組片語，本題不必回頭讀上下文。【誘答選項】at large 有兩個常見意思，the public at large 是「一般大眾」，逃犯 at large 是「在逃」，兩個都掛不到電纜身上。by contrast（相較之下）是轉承語，要用逗號隔開放在句首或句中，用來對比兩件事，這裡既沒有對比的對象，它也不能直接當名詞的修飾語。under control（在控制之下）講的是局面沒有失控（The situation is under control.），電纜不是被控制住的東西。【常考字詞與句型】in service（使用中、運作中）、out of service（暫停服務、故障中）、at large（一般大眾；在逃）、under control（受到控制）、stretch over（綿延、長達）、a submarine cable（海底電纜）。"
+    "note": "【你可能會這樣想】四個選項都是「介系詞加名詞」的片語，都可以掛在名詞後面，讀起來都像是在補充說明那 420 條電纜。如果對這幾個片語只有模糊的印象，這一題就變成猜。【怎麼判斷】先問空格補充的是什麼。there are over 420 submarine cables ___ 講的是現在有超過 420 條海底電纜處於某種狀態，所以空格要的是一個表狀態的片語。in service 就是「使用中、運作中」（劍橋詞典 in service：being used），它有一個天天看得到的對照組，就是公車與捷運車廂上的 Out of Service（暫停服務）。把 in service 擺回去讀一次：如今全世界有超過 420 條海底電纜正在運作，總長超過 70 萬英里，語意完全順。鑑別度 43，分的是認不認得這一組片語，本題不必回頭讀上下文。【誘答選項】at large 有兩個常見意思，the public at large 是「一般大眾」，逃犯 at large 是「在逃」，兩個都掛不到電纜身上。by contrast（相較之下）是轉折詞，要用逗號隔開放在句首或句中，用來對比兩件事，這裡既沒有對比的對象，它也不能直接當名詞的修飾語。under control（在控制之下）講的是局面沒有失控（The situation is under control.），電纜不是被控制住的東西。【常考字詞與句型】in service（使用中、運作中）、out of service（暫停服務、故障中）、at large（一般大眾；在逃）、under control（受到控制）、stretch over（綿延、長達）、a submarine cable（海底電纜）。"
   },
   {
     "id": "Z108_17",
     "year": "108 年",
     "source": "108 年指考",
     "blankNum": 17,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "It is not a new phenomenon, __17__ .",
     "options": {
       "A": "then",
@@ -3364,7 +3364,7 @@
       "D": "though"
     },
     "answer": "D",
-    "explanation": "【轉折語】though 置於句尾，表示「不過／然而」，用來補充轉折語氣，呼應下文說明海底電纜其實早在 1854 年便已出現。then（那麼）、still（仍然）、instead（取而代之）都不符合此處句尾轉折的用法。",
+    "explanation": "【轉折詞】though 置於句尾，表示「不過／然而」，用來補充轉折語氣，呼應下文說明海底電纜其實早在 1854 年便已出現。then（那麼）、still（仍然）、instead（取而代之）都不符合此處句尾轉折的用法。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "108_16-20",
@@ -3515,7 +3515,7 @@
     "passageId": "109_16-20",
     "fullPassage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this __16__ proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he __17__ in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long __18__ dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to __19__ the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance __20__ , however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
     "accuracyRate": 21,
-    "note": "【你可能會這樣想】alone 你記得的是「獨自」（She lives alone.），那個 alone 修飾動詞、放在句尾。本題的 alone 緊跟在名詞 Chance 後面，意思變成「只、光靠」，等於 only——但位置在名詞之後，這個用法教科書著墨少。【怎麼判斷】先抓骨幹。主詞是 Chance，主要動詞是 may not be enough，however 是插入的轉折語。空格緊貼在主詞後面，前後沒有動詞可修飾，所以它修飾的是 Chance 這個名詞，要填的是一個能後位修飾名詞的字，不是一般的方位副詞。alone 正是這一類：它放在名詞後面表示「唯獨、光是」，而且只能放後面，不能像 only 那樣挪到前面。Money alone can't buy happiness.（光靠錢買不到幸福。）／Time alone will tell.（唯有時間能證明。）驗算法：把 alone 換成 only 並移到句首唸一遍——Only chance may not be enough to make key discoveries like this.（光靠機運未必足以促成這樣的重大發現。）意思不變，代換成立，方向就對了。文意也對得上：本句用 however 轉折，前一句講的是偶然帶來的發現，下一句 The scientist must have a prepared and open mind（科學家必須有備而來、心胸開放）補上另一個必要條件——三句合起來就是「光有運氣不夠，還要有準備」。【誘答選項】三個選項都以 a- 開頭，字形接近，但都不能後位修飾名詞。alike 是「相似地、同樣地」，用來說兩者一樣（The twins dress alike.），本句沒有兩個對象可比。above 與 ahead 是方位副詞，一個表示上方、一個表示前方，都用來講位置或順序，機運沒有上下前後可言。分不出來時回到位置這一關：空格修飾的是名詞，這三個修飾的都是動詞。【常考字詞與句型】X alone（光靠 X）、Time alone will tell.（唯有時間能證明）、let alone（更不用說）、leave sb alone（別打擾某人）、alike（同樣地）、serendipity（機緣巧合的發現）。",
+    "note": "【你可能會這樣想】alone 你記得的是「獨自」（She lives alone.），那個 alone 修飾動詞、放在句尾。本題的 alone 緊跟在名詞 Chance 後面，意思變成「只、光靠」，等於 only——但位置在名詞之後，這個用法教科書著墨少。【怎麼判斷】先抓骨幹。主詞是 Chance，主要動詞是 may not be enough，however 是插入的轉折詞。空格緊貼在主詞後面，前後沒有動詞可修飾，所以它修飾的是 Chance 這個名詞，要填的是一個能後位修飾名詞的字，不是一般的方位副詞。alone 正是這一類：它放在名詞後面表示「唯獨、光是」，而且只能放後面，不能像 only 那樣挪到前面。Money alone can't buy happiness.（光靠錢買不到幸福。）／Time alone will tell.（唯有時間能證明。）驗算法：把 alone 換成 only 並移到句首唸一遍——Only chance may not be enough to make key discoveries like this.（光靠機運未必足以促成這樣的重大發現。）意思不變，代換成立，方向就對了。文意也對得上：本句用 however 轉折，前一句講的是偶然帶來的發現，下一句 The scientist must have a prepared and open mind（科學家必須有備而來、心胸開放）補上另一個必要條件——三句合起來就是「光有運氣不夠，還要有準備」。【誘答選項】三個選項都以 a- 開頭，字形接近，但都不能後位修飾名詞。alike 是「相似地、同樣地」，用來說兩者一樣（The twins dress alike.），本句沒有兩個對象可比。above 與 ahead 是方位副詞，一個表示上方、一個表示前方，都用來講位置或順序，機運沒有上下前後可言。分不出來時回到位置這一關：空格修飾的是名詞，這三個修飾的都是動詞。【常考字詞與句型】X alone（光靠 X）、Time alone will tell.（唯有時間能證明）、let alone（更不用說）、leave sb alone（別打擾某人）、alike（同樣地）、serendipity（機緣巧合的發現）。",
     "discrimination": 19,
     "contextSpan": "句內",
     "readMore": {
@@ -3582,7 +3582,7 @@
       "D": "far beyond"
     },
     "answer": "B",
-    "explanation": "【轉折語】instead of 表示「取代」，指另一個名字會「取代」原本想說的名字脫口而出。as for（至於）、due to（由於）、far beyond（遠超過）都不符合此處「替代」的文意。",
+    "explanation": "【轉折詞】instead of 表示「取代」，指另一個名字會「取代」原本想說的名字脫口而出。as for（至於）、due to（由於）、far beyond（遠超過）都不符合此處「替代」的文意。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "109R_11-15",
@@ -3617,7 +3617,7 @@
     "year": "109 年指考補考",
     "source": "109 年指考補考",
     "blankNum": 19,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__19__ researchers are not completely sure, they believe it could be because its atmosphere is composed of light-absorbing chemicals like vaporized sodium or even some elements whose existence is not yet known.",
     "options": {
       "A": "Once",
@@ -3639,7 +3639,7 @@
     "year": "110 年",
     "source": "110 年指考",
     "blankNum": 12,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__12__ our body is in a vulnerable situation, a burst of stress will quickly mobilize the body’s own repair system to defend the damaged areas.",
     "options": {
       "A": "Till",
@@ -3731,7 +3731,7 @@
     "year": "110 年",
     "source": "110 年指考",
     "blankNum": 20,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__20__ , Barringer Crater in the American state of Arizona, measuring 1,200 m in diameter and some 170 m deep, was produced by a meteorite impact.",
     "options": {
       "A": "Indeed",
@@ -3748,11 +3748,11 @@
     "discrimination": 43,
     "contextSpan": "跨句",
     "contextNote": "For example 為前一句「大隕石會造成巨大破壞」舉例",
-    "note": "【你可能會這樣想】四個轉承語擺在一起，很容易憑讀起來順不順挑一個。這一類題目其實有更快的做法：先問前一句在做什麼、本句在做什麼，兩句之間的關係就決定了答案，不必靠語感。【怎麼判斷】前一句是 Large meteorites can cause great explosions and much destruction on the surface of the Earth.（大型隕石可能在地表造成劇烈爆炸與嚴重破壞），這是一句通則。本句搬出亞利桑那州的巴林傑隕石坑，還附上直徑一千二百公尺、深約一百七十公尺這些具體數字。從通則走到一個具體的個案，這正是 For example 的工作。判斷這一類題目，一律先確認本句是把前一句換句話說、再進一步說明，還是舉了一個例子。【誘答選項】Indeed（的確、確實）是把前一句的說法再加重一層，但本句並沒有加重，它是換到一個具體案例上。Nevertheless（然而）要求前後轉折，可是這兩句同向，隕石坑正是破壞力的證據，不是反例。In short（總之）用來把前面講過的一串內容做總結，但本句反而比前一句更細、更具體，方向剛好相反。鑑別度 43，分開的是有沒有動手確認兩句之間的關係，還是停在哪一個讀起來比較順。【看到專有名詞或具體數字，多半就是在舉例】本句搬出 Barringer Crater 這個地名，還附上直徑一千二百公尺、深約一百七十公尺兩個數字。前一句是通則、這一句忽然出現專有名詞或具體數字，幾乎都是在替前一句舉例。指考 104 年第 20 題端出 Race for the Cure 這個活動名稱，100 年第 16 題端出日本的一組研究者，都是同一個訊號。整組的分法寫在學測克漏字 89 年第 27 題。Earthquakes can change a street in seconds. For example, the old apartment building at the corner collapsed before anyone could run out.（地震可以在幾秒之間改變一條街的樣子。舉例來說，轉角那棟舊公寓在大家還來不及跑出來之前就倒了。）The old apartment building at the corner, for instance, collapsed before anyone could run out.（換成 for instance 並放到句子中間，意思不變。）Damage such as cracked walls, broken windows, and fallen signs could be seen everywhere.（牆壁龜裂、玻璃破碎、招牌掉落這類災情，到處都看得到。）〔情境取材自 98 學測作文題：地震後倒塌的房屋〕【常考字詞與句型】for example（舉例來說）、indeed（的確，加強前面的說法）、nevertheless（然而，表轉折）、in short（總之，做總結）、measuring + 尺寸（量起來有……，分詞片語放在名詞後面）、be produced by（由……造成）。"
+    "note": "【你可能會這樣想】四個轉折詞擺在一起，很容易憑讀起來順不順挑一個。這一類題目其實有更快的做法：先問前一句在做什麼、本句在做什麼，兩句之間的關係就決定了答案，不必靠語感。【怎麼判斷】前一句是 Large meteorites can cause great explosions and much destruction on the surface of the Earth.（大型隕石可能在地表造成劇烈爆炸與嚴重破壞），這是一句通則。本句搬出亞利桑那州的巴林傑隕石坑，還附上直徑一千二百公尺、深約一百七十公尺這些具體數字。從通則走到一個具體的個案，這正是 For example 的工作。判斷這一類題目，一律先確認本句是把前一句換句話說、再進一步說明，還是舉了一個例子。【誘答選項】Indeed（的確、確實）是把前一句的說法再加重一層，但本句並沒有加重，它是換到一個具體案例上。Nevertheless（然而）要求前後轉折，可是這兩句同向，隕石坑正是破壞力的證據，不是反例。In short（總之）用來把前面講過的一串內容做總結，但本句反而比前一句更細、更具體，方向剛好相反。鑑別度 43，分開的是有沒有動手確認兩句之間的關係，還是停在哪一個讀起來比較順。【看到專有名詞或具體數字，多半就是在舉例】本句搬出 Barringer Crater 這個地名，還附上直徑一千二百公尺、深約一百七十公尺兩個數字。前一句是通則、這一句忽然出現專有名詞或具體數字，幾乎都是在替前一句舉例。指考 104 年第 20 題端出 Race for the Cure 這個活動名稱，100 年第 16 題端出日本的一組研究者，都是同一個訊號。整組的分法寫在學測克漏字 89 年第 27 題。Earthquakes can change a street in seconds. For example, the old apartment building at the corner collapsed before anyone could run out.（地震可以在幾秒之間改變一條街的樣子。舉例來說，轉角那棟舊公寓在大家還來不及跑出來之前就倒了。）The old apartment building at the corner, for instance, collapsed before anyone could run out.（換成 for instance 並放到句子中間，意思不變。）Damage such as cracked walls, broken windows, and fallen signs could be seen everywhere.（牆壁龜裂、玻璃破碎、招牌掉落這類災情，到處都看得到。）〔情境取材自 98 學測作文題：地震後倒塌的房屋〕【常考字詞與句型】for example（舉例來說）、indeed（的確，加強前面的說法）、nevertheless（然而，表轉折）、in short（總之，做總結）、measuring + 尺寸（量起來有……，分詞片語放在名詞後面）、be produced by（由……造成）。"
   },
   {
     "id": "Z107參_12",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 12,
     "category": "介系詞",
@@ -3773,7 +3773,7 @@
   },
   {
     "id": "Z107參_14",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 14,
     "category": "慣用語／片語",
@@ -3794,7 +3794,7 @@
   },
   {
     "id": "Z107參_15",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 15,
     "category": "介系詞",
@@ -3815,7 +3815,7 @@
   },
   {
     "id": "Z107參_17",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 17,
     "category": "字彙選義",
@@ -3833,11 +3833,11 @@
     "passageId": "Z107參_16-20",
     "contextSpan": "跨句",
     "contextNote": "Nevertheless 轉折前一句「他的破譯拯救了兩百萬人」",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定。Nevertheless（然而、儘管如此）是轉折語，它要求這一句與前面那一句方向相反：前面剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉，這麼大的貢獻，卻幾乎沒有人聽過他的名字。few 是「幾乎沒有」，本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。注意 few 與 a few 差一個冠詞就差很多：few 是幾乎沒有，a few 是有一些，little 與 a little 同理。同一篇的第 19 題也在做同一件事，先給一個很正面的事實，再整個翻過來，只是那一格用的是整組當一個介系詞用的 Instead of，這一格用的是轉承語 Nevertheless，兩題可以擺在一起看。另外一提：這一篇選文取自 105 年指考，在那份卷子上編為第 17 題，兩邊是同一題，不是網站重複。【誘答選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.，通常配情態助動詞或講通則），單獨擺在一個陳述事實的肯定句句首當主詞的修飾語並不成立。【常考字詞與句型】few + 可數複數名詞（幾乎沒有）、a few + 可數複數名詞（有一些）、little + 不可數名詞（幾乎沒有）、a little + 不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）。"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到 people have even heard his name，很容易先讀成「有人聽過他的名字」，覺得 some 或 many 都說得通；even（甚至）看起來像在加強語氣，更會把你往肯定的方向推。【怎麼判斷】四個選項都是數量詞，可見這一格考的是「多還是少」，而方向由句首的 Nevertheless 決定。Nevertheless（然而、儘管如此）是轉折詞，它要求這一句與前面那一句方向相反：前面剛說他的解碼扭轉了二戰局勢、幫忙救了兩百萬條性命，這一句就只能往下掉，這麼大的貢獻，卻幾乎沒有人聽過他的名字。few 是「幾乎沒有」，本身帶著否定意味，正好接得住這個轉折。另一個線索是 even：have even heard his name（連他的名字都聽過）講的是最低限度的一件事，配上 few 才讀得通，連最起碼的「聽過名字」都很少有人做到。注意 few 與 a few 差一個冠詞就差很多：few 是幾乎沒有，a few 是有一些，little 與 a little 同理。同一篇的第 19 題也在做同一件事，先給一個很正面的事實，再整個翻過來，只是那一格用的是整組當一個介系詞用的 Instead of，這一格用的是轉折詞 Nevertheless，兩題可以擺在一起看。另外一提：這一篇選文取自 105 年指考，在那份卷子上編為第 17 題，兩邊是同一題，不是網站重複。【誘答選項】many（許多）與 some（一些）方向都偏肯定，若真的很多人聽過，前一句的貢獻與這一句就沒有落差，Nevertheless 也就沒有存在的理由。any 不能這樣用：它的位置在否定句、疑問句與條件句裡（I don't have any money.、Do you have any questions?），或表示「任何一個」的泛指（Any child can learn it.，通常配情態助動詞或講通則），單獨擺在一個陳述事實的肯定句句首當主詞的修飾語並不成立。【常考字詞與句型】few + 可數複數名詞（幾乎沒有）、a few + 可數複數名詞（有一些）、little + 不可數名詞（幾乎沒有）、a little + 不可數名詞（有一點）、nevertheless（然而、儘管如此）、even（連……也，用來加強最低限度的說法）。"
   },
   {
     "id": "Z107參_18",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 18,
     "category": "時態／語態",
@@ -3858,7 +3858,7 @@
   },
   {
     "id": "Z107參_19",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 19,
     "category": "介系詞",
@@ -3870,7 +3870,7 @@
       "D": "With respect to"
     },
     "answer": "B",
-    "explanation": "【轉折語】句意為「他非但沒有因擊敗納粹的重大貢獻而受到推崇，反而被判有罪」，故用 Instead of（而非）表示強烈對比。Because of（因為）、In addition to（此外）、With respect to（關於）都不符合此處的反差語境。",
+    "explanation": "【轉折詞】句意為「他非但沒有因擊敗納粹的重大貢獻而受到推崇，反而被判有罪」，故用 Instead of（而非）表示強烈對比。Because of（因為）、In addition to（此外）、With respect to（關於）都不符合此處的反差語境。",
     "answer_source": "official_key",
     "hasFullPassage": true,
     "passageId": "Z107參_16-20",
@@ -3879,10 +3879,10 @@
   },
   {
     "id": "Z98參_12",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 12,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__12__ , fossil fuels are readily available and are currently plentiful.",
     "options": {
       "A": "Likely",
@@ -3897,11 +3897,11 @@
     "passageId": "Z98參_11-15",
     "contextSpan": "跨句",
     "contextNote": "Besides 累加前一句已提到的化石燃料優點",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是擺在句首的轉承說法，中文一個一個讀都像「而且、總之、相反地」，很容易憑語感挑。Likely 特別容易被讀成「很可能」而選它。【怎麼判斷】轉承語不能只看它自己的中文，要先確定前後兩句是同方向還是反方向，所以這一格一定要回頭讀前一句。前一句說燒了就能產生大量能源（優點一），這一句說 fossil fuels are readily available and are currently plentiful（容易取得、目前供應充足），還是優點。同方向再加一項，就是 Besides（此外、而且）。同一段的下一句 However 才是真正的反方向，兩個轉承語擺在一起看最清楚：Besides 往上加、However 往回轉。【誘答選項】Likely 是形容詞「可能的」，不是轉承語，不能單獨放在句首帶出一整句；要表達「很可能」得寫成 Most likely 或 It is likely that ...。In sum（總而言之）用在整段收尾做總結，但這一句是在補充新的一點，後面文章還很長。On the contrary 用來否定前面那句話（前面說 A，其實不是 A），這一句沒有推翻前一句，是在加碼。【常考字詞與句型】besides（此外、而且）、in sum（總而言之）、on the contrary（正好相反）、be readily available（容易取得）、plentiful（充足的）、It is likely that ...（很可能……）。"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是擺在句首的轉承說法，中文一個一個讀都像「而且、總之、相反地」，很容易憑語感挑。Likely 特別容易被讀成「很可能」而選它。【怎麼判斷】轉折詞不能只看它自己的中文，要先確定前後兩句是同方向還是反方向，所以這一格一定要回頭讀前一句。前一句說燒了就能產生大量能源（優點一），這一句說 fossil fuels are readily available and are currently plentiful（容易取得、目前供應充足），還是優點。同方向再加一項，就是 Besides（此外、而且）。同一段的下一句 However 才是真正的反方向，兩個轉折詞擺在一起看最清楚：Besides 往上加、However 往回轉。【誘答選項】Likely 是形容詞「可能的」，不是轉折詞，不能單獨放在句首帶出一整句；要表達「很可能」得寫成 Most likely 或 It is likely that ...。In sum（總而言之）用在整段收尾做總結，但這一句是在補充新的一點，後面文章還很長。On the contrary 用來否定前面那句話（前面說 A，其實不是 A），這一句沒有推翻前一句，是在加碼。【常考字詞與句型】besides（此外、而且）、in sum（總而言之）、on the contrary（正好相反）、be readily available（容易取得）、plentiful（充足的）、It is likely that ...（很可能……）。"
   },
   {
     "id": "Z98參_13",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 13,
     "category": "慣用語／片語",
@@ -3923,7 +3923,7 @@
   },
   {
     "id": "Z98參_15",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 15,
     "category": "慣用語／片語",
@@ -3944,10 +3944,10 @@
   },
   {
     "id": "Z98參_18",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 18,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "We forget that it is an art of here and now; because it is with us every day and __18__ we must have houses to live in, we are apt to think of them solely as dwelling places.",
     "options": {
       "A": "although",
@@ -3965,7 +3965,7 @@
   },
   {
     "id": "Z98參_19",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 19,
     "category": "句型結構",
@@ -4400,8 +4400,8 @@
   },
   {
     "id": "Z93M_19",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 19,
     "category": "字彙選義",
     "sentence": "The group saw the worm go down into the water and soon begin to struggle for __19__.",
@@ -4422,8 +4422,8 @@
   },
   {
     "id": "Z93M_20",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 20,
     "category": "慣用語／片語",
     "sentence": "After a long silence, someone from the rear __20__ and said, \"I can see that if I drink alcohol, there will be no more worms in my body.\"",
@@ -4443,8 +4443,8 @@
   },
   {
     "id": "Z93M_24",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 24,
     "category": "字彙選義",
     "sentence": "The Festival __24__ the indigenous music and culture of New Orleans and Louisiana, so the music encompasses every style associated with the __25__ and the state.",
@@ -4464,8 +4464,8 @@
   },
   {
     "id": "Z93M_25",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 25,
     "category": "字彙選義",
     "sentence": "The Festival __24__ the indigenous music and culture of New Orleans and Louisiana, so the music encompasses every style associated with the __25__ and the state: blues, R&B, gospel, Cajun, Afro-Caribbean, folk, Latin, rock, rap, country, bluegrass and everything in between.",
@@ -4485,8 +4485,8 @@
   },
   {
     "id": "Z93M_30",
-    "year": "93 年指考(敏督利颱風應變試題)",
-    "source": "93 年指考敏督利颱風應變試卷",
+    "year": "93 年指考敏督利颱風受災地區考生補救考試",
+    "source": "93 年指考敏督利颱風受災地區考生補救考試",
     "blankNum": 30,
     "category": "字彙選義",
     "sentence": "Probability is the science of __30__. It is among the fastest growing and most useful parts of today's mathematics.",
@@ -5640,7 +5640,7 @@
     "accuracyRate": 64,
     "discrimination": 59,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】四個選項都是動詞加 -ed 的形態，很容易立刻進入文法模式，去分主動被動、去想是不是分詞構句。更麻煩的是這四個字後面都能接 to——be related to、be limited to、be addicted to、contribute to，所以「看介系詞就知道」這個方法在這一題完全失靈。【怎麼判斷】鑑別度高達 59，分開的正是有沒有先把句子的骨幹抓出來。主詞是三個並列的名詞 exhibits, discussions, and reflections（展覽、討論與省思），真正的動詞是後面的 are in focus。中間那一串沒有位置再放一個限定動詞，所以空格填的是掛在名詞後面的分詞，補充說明這三樣東西是什麼樣的東西。這就是後位修飾：分詞單獨一個放在名詞前面（a barking dog、a broken window），一旦後面還帶著東西（這裡帶了 to war, peace, and conflict resolution），整串就得移到名詞後面（the man standing there）。四個都是過去分詞、也都配 to，形態與介系詞都刷不掉任何一個，只能靠語意——這個中心的展覽與討論是「與戰爭、和平、衝突解決有關的」，只有 related 講得通。【誘答選項】be limited to 是「只限於」，會變成「只限這三個主題」，與這一句開頭的 In addition（此外，還有）語意矛盾，那個轉承語正在加東西，不是在設限。be addicted to 是「對……上癮」，只用在人身上，reflections 不會上癮。contribute to 是「對……有所貢獻、促成」，方向相反，reflections contributed to war 會讀成「對戰爭有所貢獻的省思」。【常考字詞與句型】be related to（與……有關）、be limited to（只限於）、be addicted to（對……上癮）、contribute to（對……有所貢獻）、conflict resolution（衝突解決）、in focus（成為焦點）。"
+    "note": "【你可能會這樣想】四個選項都是動詞加 -ed 的形態，很容易立刻進入文法模式，去分主動被動、去想是不是分詞構句。更麻煩的是這四個字後面都能接 to——be related to、be limited to、be addicted to、contribute to，所以「看介系詞就知道」這個方法在這一題完全失靈。【怎麼判斷】鑑別度高達 59，分開的正是有沒有先把句子的骨幹抓出來。主詞是三個並列的名詞 exhibits, discussions, and reflections（展覽、討論與省思），真正的動詞是後面的 are in focus。中間那一串沒有位置再放一個限定動詞，所以空格填的是掛在名詞後面的分詞，補充說明這三樣東西是什麼樣的東西。這就是後位修飾：分詞單獨一個放在名詞前面（a barking dog、a broken window），一旦後面還帶著東西（這裡帶了 to war, peace, and conflict resolution），整串就得移到名詞後面（the man standing there）。四個都是過去分詞、也都配 to，形態與介系詞都刷不掉任何一個，只能靠語意——這個中心的展覽與討論是「與戰爭、和平、衝突解決有關的」，只有 related 講得通。【誘答選項】be limited to 是「只限於」，會變成「只限這三個主題」，與這一句開頭的 In addition（此外，還有）語意矛盾，那個轉折詞正在加東西，不是在設限。be addicted to 是「對……上癮」，只用在人身上，reflections 不會上癮。contribute to 是「對……有所貢獻、促成」，方向相反，reflections contributed to war 會讀成「對戰爭有所貢獻的省思」。【常考字詞與句型】be related to（與……有關）、be limited to（只限於）、be addicted to（對……上癮）、contribute to（對……有所貢獻）、conflict resolution（衝突解決）、in focus（成為焦點）。"
   },
   {
     "id": "Z101_16",
@@ -5763,7 +5763,7 @@
     "year": "102 年",
     "source": "102 年指考",
     "blankNum": 17,
-    "category": "連接詞／轉承語",
+    "category": "連接詞／轉折詞",
     "sentence": "__17__ forbidden to do so by the Congress, the agency for the first time will deliver mail only Monday through Friday.",
     "options": {
       "A": "When",
@@ -6276,7 +6276,7 @@
   },
   {
     "id": "Z107參_11",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 11,
     "category": "字彙選義",
@@ -6297,7 +6297,7 @@
   },
   {
     "id": "Z107參_13",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 13,
     "category": "字彙選義",
@@ -6314,11 +6314,11 @@
     "hasFullPassage": true,
     "passageId": "Z107參_11-15",
     "contextSpan": "句內",
-    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是動詞加 -ed 的形態，很容易立刻進入文法模式，去分主動被動、去想是不是分詞構句。更麻煩的是這四個字後面都能接 to——be related to、be limited to、be addicted to、contribute to，所以「看介系詞就知道」這個方法在這一題完全失靈。【怎麼判斷】先把整句的骨幹抓出來：主詞是三個並列的名詞 exhibits, discussions, and reflections（展覽、討論與省思），真正的動詞是後面的 are in focus。中間那一串沒有位置再放一個限定動詞，所以空格填的是掛在名詞後面的分詞，補充說明這三樣東西是什麼樣的東西。這就是修飾語後置：分詞單獨一個放在名詞前面（a barking dog、a broken window），一旦後面還帶著東西（這裡帶了 to war, peace, and conflict resolution），整串就得移到名詞後面（the man standing there）。四個都是過去分詞、也都配 to，形態與介系詞都刷不掉任何一個，只能靠語意——這個中心的展覽與討論是「與戰爭、和平、衝突解決有關的」，只有 related 講得通。【誘答選項】be limited to 是「只限於」，會變成「只限這三個主題」，與這一句開頭的 In addition（此外，還有）語意矛盾，那個轉承語正在加東西，不是在設限。be addicted to 是「對……上癮」，只用在人身上，reflections 不會上癮。contribute to 是「對……有所貢獻、促成」，方向相反，reflections contributed to war 會讀成「對戰爭有所貢獻的省思」。【常考字詞與句型】be related to（與……有關）、be limited to（只限於）、be addicted to（對……上癮）、contribute to（對……有所貢獻）、conflict resolution（衝突解決）、in focus（成為焦點）。"
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是動詞加 -ed 的形態，很容易立刻進入文法模式，去分主動被動、去想是不是分詞構句。更麻煩的是這四個字後面都能接 to——be related to、be limited to、be addicted to、contribute to，所以「看介系詞就知道」這個方法在這一題完全失靈。【怎麼判斷】先把整句的骨幹抓出來：主詞是三個並列的名詞 exhibits, discussions, and reflections（展覽、討論與省思），真正的動詞是後面的 are in focus。中間那一串沒有位置再放一個限定動詞，所以空格填的是掛在名詞後面的分詞，補充說明這三樣東西是什麼樣的東西。這就是修飾語後置：分詞單獨一個放在名詞前面（a barking dog、a broken window），一旦後面還帶著東西（這裡帶了 to war, peace, and conflict resolution），整串就得移到名詞後面（the man standing there）。四個都是過去分詞、也都配 to，形態與介系詞都刷不掉任何一個，只能靠語意——這個中心的展覽與討論是「與戰爭、和平、衝突解決有關的」，只有 related 講得通。【誘答選項】be limited to 是「只限於」，會變成「只限這三個主題」，與這一句開頭的 In addition（此外，還有）語意矛盾，那個轉折詞正在加東西，不是在設限。be addicted to 是「對……上癮」，只用在人身上，reflections 不會上癮。contribute to 是「對……有所貢獻、促成」，方向相反，reflections contributed to war 會讀成「對戰爭有所貢獻的省思」。【常考字詞與句型】be related to（與……有關）、be limited to（只限於）、be addicted to（對……上癮）、contribute to（對……有所貢獻）、conflict resolution（衝突解決）、in focus（成為焦點）。"
   },
   {
     "id": "Z107參_16",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 16,
     "category": "字彙選義",
@@ -6339,7 +6339,7 @@
   },
   {
     "id": "Z107參_20",
-    "year": "107 學年度起適用參考試卷",
+    "year": "指考參考試卷（107 學年度起適用）",
     "source": "指考參考試卷（107 學年度起適用）",
     "blankNum": 20,
     "category": "字彙選義",
@@ -6817,7 +6817,7 @@
   },
   {
     "id": "Z98參_11",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 11,
     "category": "字彙選義",
@@ -6838,7 +6838,7 @@
   },
   {
     "id": "Z98參_14",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 14,
     "category": "字彙選義",
@@ -6859,7 +6859,7 @@
   },
   {
     "id": "Z98參_16",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 16,
     "category": "介系詞",
@@ -6880,7 +6880,7 @@
   },
   {
     "id": "Z98參_17",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 17,
     "category": "字彙選義",
@@ -6902,7 +6902,7 @@
   },
   {
     "id": "Z98參_20",
-    "year": "95 課綱適用參考試卷(98 年施測)",
+    "year": "指考參考試卷（95 課綱適用，98 年施測）",
     "source": "指考參考試卷（95 課綱適用，98 年施測）",
     "blankNum": 20,
     "category": "字彙選義",
@@ -6923,7 +6923,7 @@
   },
   {
     "id": "Z102參_11",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 11,
     "category": "分詞／動狀詞",
@@ -6944,7 +6944,7 @@
   },
   {
     "id": "Z102參_12",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 12,
     "category": "慣用語／片語",
@@ -6965,7 +6965,7 @@
   },
   {
     "id": "Z102參_13",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 13,
     "category": "介系詞",
@@ -6986,7 +6986,7 @@
   },
   {
     "id": "Z102參_14",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 14,
     "category": "字彙選義",
@@ -7008,7 +7008,7 @@
   },
   {
     "id": "Z102參_15",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 15,
     "category": "關係子句／疑問詞",
@@ -7029,7 +7029,7 @@
   },
   {
     "id": "Z102參_16",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 16,
     "category": "字彙選義",
@@ -7050,7 +7050,7 @@
   },
   {
     "id": "Z102參_17",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 17,
     "category": "介系詞",
@@ -7071,7 +7071,7 @@
   },
   {
     "id": "Z102參_18",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 18,
     "category": "字彙選義",
@@ -7092,7 +7092,7 @@
   },
   {
     "id": "Z102參_19",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 19,
     "category": "分詞／動狀詞",
@@ -7113,7 +7113,7 @@
   },
   {
     "id": "Z102參_20",
-    "year": "99 課綱適用參考試卷(102 年施測)",
+    "year": "指考參考試卷（99 課綱適用，102 年施測）",
     "source": "指考參考試卷（99 課綱適用，102 年施測）",
     "blankNum": 20,
     "category": "句型結構",
