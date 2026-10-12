@@ -414,6 +414,7 @@
     "accuracyRate": 28,
     "note": "【你可能會這樣想】beyond 你大概只用在具體的距離（beyond the mountains 在山的那一邊）。把它想成「越過那條界線」，抽象的用法就通了——界線可以是空間，也可以是理解、能力、懷疑的界線。【怎麼判斷】空格後面接名詞 the obvious，前面要放介系詞，四個選項都是介系詞，句法一樣過關，要靠語意決定。先弄清楚 the obvious 是什麼意思：the + 形容詞可以指一整類事物，the obvious 就是「顯而易見的那些東西」，也就是字面上看得到的表層。句子說最小的孩子也能學會 see implications ___ the obvious（看出…表層的言外之意），言外之意在哪裡？在表層「之外、更深的那一邊」——這正是 beyond 的界線意象。驗算在下一句：To read for hidden meanings is to identify with the poet, to ask the poet's questions.（為讀出隱藏的意義而讀，就是與詩人心意相通，提出詩人會問的問題。）hidden meanings 與 beyond the obvious 講的是同一件事，一個說「藏起來的」、一個說「表層之外的」。beyond 的抽象用法值得整組一起記，共同點都是「越過某條界線」：beyond doubt（無庸置疑，越過懷疑的界線）、beyond one's reach（能力所不及）、beyond description（難以形容）、beyond repair（無法修復）、go beyond（超出）。【誘答選項】三個都是介系詞，錯在空間關係。among 是「在…之中」，要接複數或群體，會讀成「在那些明顯的事物裡面找言外之意」，但言外之意的定義就是不在表層裡面。near 是「靠近」，講的是距離上的接近，接近表層仍然是表層，說不出「更深一層」。without 是「沒有」，會讀成「沒有明顯之處的言外之意」，語意接不上，而且句子要講的是兩層的關係，不是有無。【常考字詞與句型】beyond the obvious（超越表面所見）、beyond doubt（無庸置疑）、beyond one's reach（能力所不及）、beyond description（難以形容）、the + 形容詞（指一整類事物）、implication（言外之意、含意）。",
     "discrimination": 10,
+    "discriminationNote": "鑑別度 10，高低分群的差距不大。本題答對率二成八——大考中心《選才電子報》第 307 期說明鑑別度時提到，鑑別度低表示高、低分群考生的答對率差距小，原因很多，而且它與答對率一樣，只是推論試題品質的指標之一。這一題的難處在於 beyond 的抽象用法：beyond 最先想到的是具體的距離，這一格用的卻是「越過某條界線」的抽象意思，implications beyond the obvious 講的是表層之外、更深一層的言外之意，與下一句的 hidden meanings 說的是同一件事。",
     "contextSpan": "句內"
   },
   {
@@ -577,6 +578,7 @@
     "accuracyRate": 26,
     "note": "【你可能會這樣想】while 你最熟的大概是「當…的時候」（While I was cooking, the phone rang.），所以看到句首的 While 就往時間去想，讀不出轉折。它還有一個同樣常考的意思：「雖然、儘管」，功能等同 although。【怎麼判斷】先看句子的結構。空格後面是 all bird species are thought to be susceptible to infection，有主詞有動詞，是完整子句；逗號後面 domestic poultry flocks are especially vulnerable… 又是一個完整子句。兩個完整子句要接在一起，中間必須有從屬連接詞。這一步就能刷掉 Not——它是副詞，接不了子句，放在句首也不會構成「不是所有鳥類都…」那種說法（那要寫成 Not all bird species are…，而本句逗號後另有主要子句，結構上容不下）。剩下三個都是從屬連接詞，改看邏輯。前半說「所有鳥類都可能受感染」，後半說「家禽群特別容易爆發疫情」——一個是普遍情況、一個是特例，兩者是對比不是因果。句中的 especially（特別是）也在標示「從普遍中拉出特例」，正是讓步的形狀。驗算法：把空格換成 although 唸一遍，意思不變，就是讓步用法。while 的三個意思一起記：「當…的時候」（時間）、「雖然」（讓步）、「而、然而」（對比並列）：Some people like coffee, while others prefer tea.（有些人愛咖啡，有些人則偏好茶。）分辨的方法是看前後兩個子句的關係——同時發生是時間，互相牴觸是讓步，平行對照是對比。【誘答選項】Not 如前所述是副詞，結構上就進不來。Since 當連接詞是「因為」，會讀成「因為所有鳥類都可能受感染，所以家禽特別容易爆發疫情」——但「所有鳥類都會被感染」推不出「家禽特別嚴重」，中間沒有因果。Unless 是「除非」，等於 if…not，會讀成「除非所有鳥類都可能受感染，否則家禽特別容易爆發疫情」，條件與結果的關係講不通。【常考字詞與句型】While…, …（雖然，讓步）、although／though（雖然）、whereas（而、然而）、be susceptible to（易受…影響）、be vulnerable to（易受…傷害）、reach epidemic proportions（達到流行病的規模）。",
     "discrimination": 7,
+    "discriminationNote": "鑑別度 7，高低分群的差距不大。本題答對率二成六——大考中心《選才電子報》第 307 期說明鑑別度時提到，鑑別度低表示高、低分群考生的答對率差距小，原因很多，而且它與答對率一樣，只是推論試題品質的指標之一。這一題的難處在於 while 的哪一個意思：while 最先想到的是「當…的時候」，這一格用的卻是讓步的「雖然」，功能等同 although；前半說所有鳥類都可能受感染，後半說家禽群特別容易爆發疫情，一個是普遍情況、一個是特例，要先看出這是對比而不是因果。",
     "contextSpan": "句內"
   },
   {
@@ -1579,6 +1581,7 @@
     "hasFullPassage": true,
     "accuracyRate": 39,
     "discrimination": 10,
+    "discriminationNote": "鑑別度 10，高低分群的差距不大。本題答對率三成九——大考中心《選才電子報》第 307 期說明鑑別度時提到，鑑別度低表示高、低分群考生的答對率差距小，原因很多，而且它與答對率一樣，只是推論試題品質的指標之一。這一題的難處在於 as never before 是固定說法，意思是「前所未有地」：ever before 眼熟，容易順手填 ever，但 as ever 與 as always 都是「一如往常」，與 This may not sound like much, but… 這個先退後進的轉折相反；後半句要把程度拉高，只有 never 做得到。",
     "contextSpan": "句內",
     "note": "【你可能會這樣想】as ___ before 這個結構看起來像少了什麼，你可能想填 ever，因為 ever before 眼熟。但 ever 通常跟在比較級或否定詞之後（better than ever before、hardly ever）；as ever 雖然也是個說法，意思卻是「一如往常」。as never before 才是固定說法，意思是「以前所未有的方式、程度前所未見」：The country is changing as never before.（這個國家正以前所未有的方式改變。）【怎麼判斷】先看句子的語氣走向。本句用 This may not sound like much, but… 起頭（這聽起來似乎不多，但是…），這是一個先退後進的句式：前半先承認讀者的第一印象，後半要把它推翻。既然是推翻，後半必須把嚴重性拉高，而且拉得越高，這個轉折才站得住。四個選項裡只有 never 能把程度推到頂——「以前從來沒有過的程度」。前一句提到科學家預估未來一百年的升溫幅度是華氏二到六度，數字本身確實不起眼，正是這個句式要處理的第一印象。驗算法：把 as never before 換成中文的「前所未有地」唸一遍——它可能以前所未有的程度改變地球氣候，語氣與 but 的轉折對得上。看到 may not sound…, but… 這個形狀，就知道作者要推翻你的第一印象，答案一定落在「把程度拉高」那一側。【誘答選項】ever 放進來是 as ever，如前所述意思是「一如往常」，與 as always 相同，會把事情說成常態，與 but 的轉折相反。always 是「總是」，as always 確實是個說法，但意思是「一如往常」，放進來會變成「像往常一樣改變氣候」，語氣不但沒拉高，反而把事情說成常態，與 but 的轉折相反。yet 當副詞用於否定句與疑問句（not yet 尚未），也常見於 the best yet（目前為止最好的），但沒有 as yet before 這種說法，形式上就不成立。【常考字詞與句型】as never before（以前所未有地）、better than ever before（比以往更好）、hardly ever（幾乎從不）、as always（一如往常）、not yet（尚未）、This may not sound like much, but…（這聽起來似乎不多，但…）。"
   },
@@ -1653,6 +1656,7 @@
     "accuracyRate": 23,
     "note": "【你可能會這樣想】exception 你認得名詞「例外」，卻不見得知道 with the exception of 是幾個字合起來當一個介系詞用，功能等同 except for。四個選項都是這種「多字介系詞」，長得像，差別全在它們表達的邏輯關係。【怎麼判斷】先確認空格的身分。逗號後面接的是名詞片語 a small strip of subtropical plains，不是完整子句，所以要填介系詞，四個選項句法上都過關，要靠邏輯關係決定。接著看主要子句在講什麼：The entire country is mountainous（全境都是山地）——The entire 宣告的是一個「全部」的敘述。一個句子既然說了「全部」，後面補的那一段自然是把例外扣掉。看到 entire、all、every、no one 這類涵蓋全體的字，就往「排除」的方向找。驗算法：把句子拆成兩句唸一遍——The entire country is mountainous. The small strip of plains in the south is the only exception.（全境都是山地，南端那一小條平原是唯一的例外。）拆得開，就是排除關係。同樣的邏輯 94 年第 25 題也考過一次，那一年給的是 except for，配的線索字是 virtually all；這一年換成 with the exception of，線索字換成 The entire。判斷方式一模一樣：先找宣告全體的那個字。【誘答選項】三個都是多字介系詞，錯在邏輯關係不同。in terms of 是「就…而言」，用來限定討論的角度（in terms of cost 就成本而言），本句不是在切換角度。as a part of 是「作為…的一部分」，會讀成「平原是山地的一部分」，但平原與山地正是相對的兩種地形，自相矛盾。in accordance with 是「依照」，後面接的是規定、法律或標準，一片平原不是可以依照的東西。【常考字詞與句型】with the exception of（除…之外）、except for（除…之外）、without exception（無一例外）、make an exception（破例）、in terms of（就…而言）、in accordance with（依照）。",
     "discrimination": 18,
+    "discriminationNote": "鑑別度 18，高低分群的差距不算大。本題答對率二成三，屬於難度偏高的題目——大考中心《選才電子報》第 307 期說明鑑別度時，就把答對率低的難題列為鑑別度偏低的原因之一：高、低分群考生在這類題目上的答對率差距不大，鑑別度的數值就會比較小。這一題比較像是不分程度的考生都停在同一處：四個選項都是多字介系詞，長得像，差別全在邏輯關係；with the exception of 要先認得它等於 except for，再看主要子句裡 The entire 宣告的「全部」，後面那一段才讀得出是把例外扣掉。",
     "contextSpan": "句內",
     "readMore": {
       "label": "延伸閱讀：with the exception of，先講全部，再扣掉例外",
@@ -1949,6 +1953,7 @@
     "accuracyRate": 23,
     "note": "【你可能會這樣想】四個選項的中文有兩個都能講成「之前、事先」，你會想從語意挑一個順的。但這兩個靠語意分不出來，真正決定答案的是詞性——空格後面接了什麼，就決定了空格能放什麼。【怎麼判斷】先看空格後面：緊接著 the event，是一個名詞。後面是名詞，前面就要放介系詞。四個選項裡能當介系詞用、後面直接接名詞的有 until 與 prior to；prior to 是兩個字合起來當一個介系詞，等於 before。這一步先刷掉 above all 與 beforehand，剩下兩個再比語意。這個順序可以固定下來，往後遇到同型的題目都能用：空格後面是名詞，就找介系詞；是完整子句（有主詞有動詞），就找連接詞；後面什麼都沒有、直接接逗號或句號，才輪到副詞。再用文意確認一次。本句 as the organizers had announced ___ the event 用了過去完成式 had announced，本身就標示這是更早之前發生的動作，與「在…之前」的語意吻合。順帶把意思相近但詞性不同的一組整理起來，寫作時最容易用錯的就是這幾個：before 既是介系詞也是連接詞（before the event ／ before the event started）；prior to 只能當介系詞，後面接名詞或動名詞；beforehand 與 in advance 是副詞，單獨使用、多半放句尾。【誘答選項】beforehand 的中文與 prior to 幾乎相同，都是「事先」，但它是副詞，只能單獨用（Let me know beforehand. 請事先告訴我），後面不能再接名詞，寫成 beforehand the event 不成立——這一題的分界就在這裡。until 是「直到」，會讀成「宣布直到活動為止」，時間關係講不通。above all 是「最重要的是」，屬於轉折詞，用來標示重點，與時間先後無關，而且它後面也不接名詞。【常考字詞與句型】prior to + N／V-ing（在…之前）、before + N／子句（在…之前）、beforehand（事先，副詞）、in advance（事先）、subsequent to（在…之後）、announce（宣布）。",
     "discrimination": 13,
+    "discriminationNote": "鑑別度 13，高低分群的差距不大。本題答對率二成三，屬於難度偏高的題目——大考中心《選才電子報》第 307 期說明鑑別度時，就把答對率低的難題列為鑑別度偏低的原因之一：高、低分群考生在這類題目上的答對率差距不大，鑑別度的數值就會比較小。這一題比較像是不分程度的考生都在同一個地方分不開：prior to 與 beforehand 的中文都是「事先」，分界在詞性——空格後面緊接名詞 the event，前面要放介系詞；prior to 是多字介系詞，beforehand 是副詞，後面不能再接名詞。",
     "contextSpan": "句內",
     "readMore": {
       "label": "延伸閱讀：prior to，後面接名詞的「在…之前」",
@@ -2682,6 +2687,7 @@
     "fullPassage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can __11__ in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends __12__ a new toothbrush every three to four months. Children's toothbrushes may need to be changed more __13__ .\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. __14__ , rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let __15__ air dry. Most importantly, do not share toothbrushes.",
     "accuracyRate": 36,
     "discrimination": 13,
+    "discriminationNote": "鑑別度 13，高低分群的差距不大。本題答對率三成六——大考中心《選才電子報》第 307 期說明鑑別度時提到，鑑別度低表示高、低分群考生的答對率差距小，原因很多，而且它與答對率一樣，只是推論試題品質的指標之一。這一題的難處在於 recommend 的用法規定：中文「建議」容易直覺接不定詞，但 recommend 後面接動作時用的是動名詞或 that 子句，不直接接不定詞；四個選項是同一個動詞的四種形態，考的是這個動詞要求後面跟什麼形式，屬於用法而不是字義。",
     "contextSpan": "句內",
     "note": "【你可能會這樣想】recommend 的中文是「建議」，你大概直覺想接不定詞，寫成 recommend to use。但英文裡 recommend 後面要接一個動作時，用的是動名詞或 that 子句，不直接接不定詞。【怎麼判斷】這一題考的是這個動詞要求後面跟什麼形式，屬於用法而非字義，句法一關就能定案。空格前是主要動詞 recommends，空格處要填的是它的受詞。recommend 後面接動作時有兩種寫法：recommend + V-ing（The ADA recommends using a new toothbrush every three to four months.）以及 recommend + that + S + (should) + 原形 V（The ADA recommends that you should use a new toothbrush…）。本句空格後面沒有 that、也沒有主詞，只有名詞片語 a new toothbrush，所以走的是第一種，填 using。驗算法：把兩種寫法都試著唸一遍，能唸通的那一種就是句子要的形式；若填的字讓 recommend 後面既不是動名詞也不是完整子句，那一定不對。這一組要接動名詞的動詞值得一起記：suggest、recommend、avoid、enjoy、finish、mind、practice、consider、admit。與它們對照的是慣接不定詞的那一組：want、hope、plan、decide、promise、agree——這一組多半帶著「還沒做、打算去做」的意味。兩組分開記，寫作時最不容易出錯。【誘答選項】use 是原形動詞，recommend 後面不直接接原形動詞。to use 是不定詞，形式上像個受詞，但 recommend 不收不定詞當受詞，這是這個字的用法規定，記下來就好。used 有兩個身分——過去式與過去分詞，兩種都當不了 recommends 的受詞：當過去式會讓句子出現第二個限定動詞，當過去分詞要修飾後面的 toothbrush，就得放在冠詞後面（a used toothbrush），而且「用過的」與 new 意思相反。【常考字詞與句型】recommend + V-ing（建議做…）、recommend + that + S + (should) + V（建議…）、suggest + V-ing（建議做…）、avoid + V-ing（避免做）、consider + V-ing（考慮做）、mind + V-ing（介意做）、decide + to V（決定做）。"
   },
