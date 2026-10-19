@@ -1314,7 +1314,7 @@ function renderSingle(){
   const optsDiv = document.getElementById('singleOptions');
   optsDiv.innerHTML = ['A','B','C','D'].filter(L=>it.options[L]).map(L=>
     `<div class="opt" data-letter="${L}" onclick="if(event.target.closest('.spk'))return;answerSingle('${L}')">
-      <span class="letter">${L}</span><span>${escapeHtml(it.options[L])}</span>${window.SPK?SPK.html(it.options[L]):''}<span class="mark">${L===it.answer?'✓':'✕'}</span>
+      <span class="letter">${L}</span><span>${escapeHtml(it.options[L])}</span>${window.SPK?SPK.html(it.options[L],true):''}<span class="mark">${L===it.answer?'✓':'✕'}</span>
     </div>`
   ).join('');
   document.getElementById('singleExplain').classList.remove('show');
