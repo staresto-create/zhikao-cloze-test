@@ -440,6 +440,38 @@ details.skill[open] > summary::after{content:'－ 收合';}
 .cc-note{font-size:12px;line-height:1.8;color:#8a8278;margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
+<style id="print-paper">
+/* 紙本列印版面（2026-10-23）：只影響列印，畫面不變。印出來像考卷，且不印任何會透露答案的東西：
+   題型標籤、難度標籤、主旨句與轉折詞標記、大綱、解析、翻譯、答題回饋都不印；全文模式的下拉選單改印成空格加選項列表。
+   已批改的全文畫面含答案，整頁不印，改印一行說明。 */
+.print-blank, .print-opts{display:none;}
+@media print{
+  body{background:#fff !important;}
+  .wrap{max-width:none !important; padding:0 !important;}
+  .sc-back, .scr-strip, .scr-card, .quiz-meta, .progress-bar, .hint-toggle-row, .level-caption, .hint-legend, .q-tag, .spk, .opt .mark, .context-row, #singleTranslation, #singleExplain, #fullOutlineBox, #fullSubmitBtn, .next-row, .full-review, .full-select, .toBar, #historyView, .report-btn, .report-row, footer > div:first-child{display:none !important;}
+  #singleYearTag, #fullYearTag{display:inline-block !important; font-size:10pt; margin-bottom:6px;}
+  header.top{padding-bottom:6px !important; margin-bottom:10px !important;}
+  .card{border:0 !important; box-shadow:none !important; padding:0 !important; margin:0 !important; background:none !important;}
+  .passage-text{font-size:11.5pt !important; line-height:1.9 !important;}
+  .passage-text .topic-sent, .passage-text .trans-word, .passage-text .main-thesis, .passage-text .dual-role{background:none !important; font-weight:inherit !important; color:inherit !important; border:0 !important; text-decoration:none !important; box-shadow:none !important;}
+  .print-blank{display:inline !important; white-space:nowrap;}
+  .print-opts{display:grid !important; grid-template-columns:1fr 1fr; gap:3px 18px; margin:12px 0 0; font-size:11pt; line-height:1.5;}
+  .print-opts .po{break-inside:avoid;}
+  .options{display:grid !important; grid-template-columns:1fr 1fr; gap:3px 18px; margin:10px 0 !important;}
+  .opt, .opt.correct, .opt.wrong{border:0 !important; background:none !important; padding:2px 0 !important; font-size:11.5pt !important; opacity:1 !important; color:#000 !important; box-shadow:none !important;}
+  .opt .letter, .opt.correct .letter, .opt.wrong .letter{background:none !important; border:0 !important; color:#000 !important; width:auto !important; font-weight:700;}
+  .blank-slot, .blank-slot.active{background:none !important; color:#000 !important;}
+  .blank-slot.filled, .blank-slot.filled.wrong{background:none !important; border:1px solid #000 !important; color:#000 !important; font-size:0 !important; min-width:3em !important;}
+  .blank-slot.filled::before{content:"\3000\3000\3000"; font-size:11.5pt;}
+  .blank-slot.filled .blank-num{font-size:8pt !important; color:#000 !important;}
+  footer{font-size:8.5pt !important; line-height:1.5 !important; margin-top:8px !important; padding-top:6px !important; text-align:left !important;}
+  .cc-note{font-size:8.5pt !important; line-height:1.5 !important; margin:4px 0 0 !important; padding:0 !important; max-width:none !important;}
+  #full.isGraded .card > *{display:none !important;}
+  #full.isGraded .card::before{content:"這一頁是批改後的畫面，含答案與解析，所以不列印。要印空白試卷，請按「下一篇」或重新整理頁面後再印。"; display:block; font-size:12pt; line-height:1.8; padding:20mm 0;}
+  body::after{content:"指考克漏字・staresto-create.github.io/zhikao-cloze-test・免費資源，請勿販售" !important; position:fixed !important; top:auto !important; bottom:0 !important; left:0 !important; right:0 !important; transform:none !important; font-size:8pt !important; line-height:1.4 !important; color:#777 !important; text-align:center !important;}
+  @page{margin:12mm 14mm 14mm;}
+}
+</style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
@@ -1682,9 +1714,11 @@ function renderFull(){
     const opts = ['A','B','C','D'].filter(L=>it.options[L])
       .map(L=>`<option value="${L}">${L}. ${escapeHtml(it.options[L])}</option>`).join('');
     const sel = `<select class="full-select" id="fsel_${it.id}" data-id="${it.id}">
-      <option value="">?${it.blankNum}</option>${opts}</select>`;
+      <option value="">?${it.blankNum}</option>${opts}</select><span class="print-blank">___(${it.blankNum})___</span>`;
     html = html.replace(token, sel);
   });
+  html += '<div class="print-opts">' + items.map(it => '<div class="po"><b>' + it.blankNum + '.</b> ' + ['A','B','C','D'].filter(L=>it.options[L]).map(L => '(' + L + ') ' + escapeHtml(it.options[L])).join('　') + '</div>').join('') + '</div>';
+  document.getElementById('full').classList.remove('isGraded');
   document.getElementById('fullPassage').innerHTML = html;
 
   renderOutlineBox();
@@ -1735,6 +1769,7 @@ function gradeFull(){
   document.getElementById('fullSubmitBtn').style.display = 'none';
   document.getElementById('fullNextBtn').style.display = '';
   fullGraded = true;
+  document.getElementById('full').classList.add('isGraded');
   renderOutlineBox();
 }
 
