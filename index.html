@@ -440,6 +440,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
 .cc-note{font-size:12px;line-height:1.8;color:#8a8278;margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
 <div class="wrap">
@@ -947,7 +948,8 @@ async function init(){
   refreshWrongCount();
   refreshHomeStats();
   fillSpanStats();
-  startFromSetHash();
+  scrMountStrip();
+  startFromSetHash() || startFromQHash() || startFromFullHash();
 }
 
 /* 線索範圍統計：由 ITEMS 現算，新增年度後自動更新。
@@ -1142,6 +1144,32 @@ function selectMode(m){
 function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
 function escapeAttr(s){ return escapeHtml(s).replace(/"/g,'&quot;'); }
 
+/* 接續上次（2026-10-23）：記下這一題，供各站首頁與總站的「接續上次」使用。
+   只存在這台裝置的這個瀏覽器；共用模組讀不到時，下面每一處都安靜略過，不影響作答。 */
+function scr(f){
+  try{
+    if(window.SCResume) f(window.SCResume);
+    else window.addEventListener('load', function(){ try{ if(window.SCResume) f(window.SCResume); }catch(e){} });
+  }catch(e){}
+}
+/* 年度名稱太長的卷別（參考試卷、補救考試）縮短成接續卡片放得下的寫法 */
+function scrYear(y){
+  return String(y).replace(/（\d+ 課綱適用，(\d+ 年施測)）/, '（$1）').replace(/^(\d+ 年指考)敏督利颱風受災地區考生補救考試$/, '$1補救考試');
+}
+function scrMountStrip(){ scr(function(R){ R.mountStrip(document.getElementById('home'), 'zhikao-cloze'); }); }
+function scrSaveSingle(it, passage){
+  scr(function(R){ R.save('zhikao-cloze', scrYear(it.year) + '第 ' + it.blankNum + ' 題', '#q-' + it.id); });
+}
+function scrSaveFull(pid, passage){
+  if(window.__scrMute) return;
+  scr(function(R){
+    const its = ITEMS.filter(x => x.passageId === pid).sort((a,b) => a.blankNum - b.blankNum);
+    if(!its.length) return;
+    const nums = its.length > 1 ? '第 ' + its[0].blankNum + '–' + its[its.length-1].blankNum + ' 題整篇' : '第 ' + its[0].blankNum + ' 題整篇';
+    R.save('zhikao-cloze', scrYear(its[0].year) + nums, '#full-' + pid);
+  });
+}
+
 /* ---------------- SINGLE MODE ---------------- */
 let singleQueue = [];
 let singleIdx = 0;
@@ -1178,6 +1206,37 @@ function startFromSetHash(){
   showScreen('single');
   renderSingle();
   if(miss > 0) alert('這條作業連結有 ' + miss + ' 題已不存在，已自動略過，其餘 ' + queue.length + ' 題照常作答。');
+  return true;
+}
+
+/* #q- 單題連結（與字彙站同形）：落在這一題所屬那一篇之中，依題號排序，按「下一題」順著同一篇往下。
+   只讀 hash、不寫 hash。 */
+function startFromQHash(){
+  const m = decodeURIComponent(location.hash || '').match(/^#q-(.+)$/);
+  if(!m) return false;
+  const target = ITEMS.find(it => it.id === m[1]);
+  if(!target) return false;
+  testMode = document.getElementById('testModeToggle').checked;
+  clearSetLabel();
+  const queue = ITEMS.filter(it => it.passageId === target.passageId).sort((a,b) => a.blankNum - b.blankNum);
+  singleQueue = queue;
+  singleIdx = Math.max(0, queue.findIndex(it => it.id === target.id));
+  showScreen('single');
+  renderSingle();
+  return true;
+}
+/* #full- 整篇連結：落在這一篇，按「下一篇」順著整份試題的順序往下。只讀 hash、不寫 hash。 */
+function startFromFullHash(){
+  const m = decodeURIComponent(location.hash || '').match(/^#full-(.+)$/);
+  if(!m) return false;
+  if(!ITEMS.some(it => it.passageId === m[1])) return false;
+  testMode = document.getElementById('testModeToggle').checked;
+  window.__scrMute = true;
+  try{ startFullMode(() => true); } finally { window.__scrMute = false; }
+  const i = fullPassageIds.indexOf(m[1]);
+  if(i < 0) return false;
+  fullIdx = i;
+  renderFull();
   return true;
 }
 
@@ -1241,7 +1300,7 @@ function showScreen(id){
   document.getElementById('full').style.display = id==='full' ? 'block' : 'none';
   document.getElementById('history').style.display = id==='history' ? 'block' : 'none';
 }
-function backHome(){ showScreen('home'); refreshWrongCount(); refreshHomeStats(); }
+function backHome(){ showScreen('home'); refreshWrongCount(); refreshHomeStats(); scrMountStrip(); }
 
 function extractSentence(text, blankNum){
   const token = '{'+blankNum+'}';
@@ -1317,6 +1376,7 @@ function renderSingle(){
   const it = singleQueue[singleIdx];
   const passage = PASSAGES[it.passageId];
   const allNums = ITEMS.filter(x=>x.passageId===it.passageId).map(x=>x.blankNum);
+  scrSaveSingle(it, passage);
 
   document.getElementById('singleProgress').textContent = (singleIdx+1)+' / '+singleQueue.length;
   document.getElementById('singleProgressFill').style.width = ((singleIdx)/singleQueue.length*100)+'%';
@@ -1607,6 +1667,7 @@ function renderFull(){
   fullGraded = false;
   const pid = fullPassageIds[fullIdx];
   const passage = PASSAGES[pid];
+  scrSaveFull(pid, passage);
   const items = ITEMS.filter(it => it.passageId===pid).sort((a,b)=>a.blankNum-b.blankNum);
 
   document.getElementById('fullProgress').textContent = (fullIdx+1)+' / '+fullPassageIds.length;
