@@ -440,6 +440,11 @@ details.skill[open] > summary::after{content:'－ 收合';}
 .cc-note{font-size:12px;line-height:1.8;color:#8a8278;margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/kk.js"></script>
+<script>
+/* 選項單字的音標（2026-10-23）：只有單字（含連字號詞）附音標；片語、多字選項只放喇叭。音標讀全站表 kk_data.json */
+function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w && !/\s/.test(w)) ? KK.html(w) : ''; }
+</script>
 <style id="print-paper">
 /* 紙本列印版面（2026-10-23）：只影響列印，畫面不變。印出來像考卷，且不印任何會透露答案的東西：
    題型標籤、難度標籤、主旨句與轉折詞標記、大綱、解析、翻譯、答題回饋都不印；全文模式的下拉選單改印成空格加選項列表。
@@ -448,7 +453,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
 @media print{
   body{background:#fff !important;}
   .wrap{max-width:none !important; padding:0 !important;}
-  .sc-back, .scr-strip, .scr-card, .quiz-meta, .progress-bar, .hint-toggle-row, .level-caption, .hint-legend, .q-tag, .spk, .opt .mark, .context-row, #singleTranslation, #singleExplain, #fullOutlineBox, #fullSubmitBtn, .next-row, .full-review, .full-select, .toBar, #historyView, .report-btn, .report-row, footer > div:first-child{display:none !important;}
+  .sc-back, .scr-strip, .scr-card, .quiz-meta, .progress-bar, .hint-toggle-row, .level-caption, .hint-legend, .q-tag, .spk, .kkp, .opt .mark, .context-row, #singleTranslation, #singleExplain, #fullOutlineBox, #fullSubmitBtn, .next-row, .full-review, .full-select, .toBar, #historyView, .report-btn, .report-row, footer > div:first-child{display:none !important;}
   #singleYearTag, #fullYearTag{display:inline-block !important; font-size:10pt; margin-bottom:6px;}
   header.top{padding-bottom:6px !important; margin-bottom:10px !important;}
   .card{border:0 !important; box-shadow:none !important; padding:0 !important; margin:0 !important; background:none !important;}
@@ -983,6 +988,7 @@ function renderHistory(){
 }
 
 async function init(){
+  if(window.KK) await KK.ready;
   const [pRes, iRes] = await Promise.all([
     fetch('zhikao_grammar_passages.json'),
     fetch('zhikao_grammar_items.json')
@@ -1443,7 +1449,7 @@ function renderSingle(){
   const optsDiv = document.getElementById('singleOptions');
   optsDiv.innerHTML = ['A','B','C','D'].filter(L=>it.options[L]).map(L=>
     `<div class="opt" data-letter="${L}" onclick="if(event.target.closest('.spk'))return;answerSingle('${L}')">
-      <span class="letter">${L}</span><span>${escapeHtml(it.options[L])}</span>${window.SPK?SPK.html(it.options[L],true):''}<span class="mark">${L===it.answer?'✓':'✕'}</span>
+      <span class="letter">${L}</span><span>${escapeHtml(it.options[L])}${kkOpt(it.options[L])}</span>${window.SPK?SPK.html(it.options[L],true):''}<span class="mark">${L===it.answer?'✓':'✕'}</span>
     </div>`
   ).join('');
   document.getElementById('singleExplain').classList.remove('show');
