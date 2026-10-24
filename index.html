@@ -489,6 +489,29 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
 #full.isGraded .printBar{display:none;}
 @media print{.printBar{display:none !important;}}
 </style>
+<style id="print-wrong">
+/* 列印錯題考卷（2026-10-24）：只在按下「列印錯題考卷」時使用；內容由題庫資料直接產生，不含答案與解析 */
+#printSheet{display:none;}
+.pwBar{margin:10px 0 0;font-family:'Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;}
+.pwBtn{font:inherit;font-weight:700;font-size:15px;line-height:1.4;padding:9px 18px;border:2px solid currentColor;border-radius:6px;background:transparent;color:var(--link-crimson,#9C2C1E);cursor:pointer;}
+.pwBtn:disabled{opacity:.4;cursor:default;}
+.pwSub{font-size:13px;line-height:1.7;opacity:.85;margin:6px 0 0;}
+@media print{
+  body.hasSheet #home, body.hasSheet #single, body.hasSheet #full, body.hasSheet #history{display:none !important;}
+  body.hasSheet #printSheet{display:block !important;}
+  #printSheet{font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif; color:#000;}
+  #printSheet .ps-head{font-size:13pt; font-weight:700; margin:0 0 4px;}
+  #printSheet .ps-note{font-size:10.5pt; margin:0 0 12px; padding-bottom:6px; border-bottom:1px solid #000;}
+  #printSheet .pw-p{break-inside:avoid; margin:0 0 16px; padding-bottom:8px;}
+  #printSheet .pw-t{font-size:10pt; font-weight:700; margin:0 0 4px;}
+  #printSheet .passage-text{font-size:11.5pt; line-height:1.9;}
+  #printSheet .passage-para{margin:0 0 6px;}
+  #printSheet .pw-b{white-space:nowrap; font-weight:700;}
+  #printSheet .print-opts{display:grid !important; grid-template-columns:1fr 1fr; gap:3px 18px; margin:10px 0 0; font-size:11pt; line-height:1.5;}
+  #printSheet .po{break-inside:avoid;}
+  .pwBar{display:none !important;}
+}
+</style>
 </head>
 <body>
 <div class="wrap">
@@ -802,6 +825,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
       <div class="home-lead">錯題本</div>
       <div class="stat-line"><span>目前累積錯題</span><span class="stat-badge" id="wrongCount">0</span></div>
       <button class="ghost-btn" id="reviewBtn" onclick="startWrongReview()" style="margin-top:12px;">複習錯題 →</button>
+      <div class="pwBar"><button type="button" class="pwBtn" id="printWrongBtn" onclick="printWrongPassages()" disabled>🖨️ 列印錯題考卷</button><p class="pwSub" id="printWrongSub">把你答錯的題目所在的整篇文章印成考卷：有星號（★）的是上次答錯的格子，其他格可以順便重做；空白試卷，不含答案和解析。錯題本只存在這台裝置的這個瀏覽器，紙本重做不會更新它，要回到畫面上再答對一次，才會從錯題本移除。</p></div>
       <button class="ghost-btn" style="margin-top:8px; width:100%;" onclick="if(confirm('確定要清除錯題本嗎？此動作無法復原（學習歷程統計不會被清除）。')){localStorage.removeItem(WRONG_KEY);refreshWrongCount();}">清除錯題本</button>
     </div>
 
@@ -898,6 +922,8 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
     </div>
   </div>
 
+  <div id="printSheet" aria-hidden="true"></div>
+
   <footer><div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:var(--link-crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:var(--link-crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>資料來源：91–110 年指考歷屆文法與轉折詞克漏字（大考中心公布），分類依文法點手動整理<br>© 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms" style="color:var(--link-crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">📖 使用與著作權</a><p class="cc-note">本題庫自己寫的部分（解析、中譯、分類、標註與編排）採用 <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant" target="_blank" rel="license noopener">CC BY-NC 4.0</a>（姓名標示─非商業性）授權：可以分享，但須註明出處，不得用於商業用途。試題來源與完整說明請見<a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms">使用與著作權</a>。</p>
 </footer>
 </div>
@@ -927,6 +953,7 @@ function refreshWrongCount(){
   const n = loadWrongIds().size;
   document.getElementById('wrongCount').textContent = n;
   document.getElementById('reviewBtn').disabled = n === 0;
+  if(typeof updatePrintWrongSub==='function') updatePrintWrongSub();
 }
 
 const HISTORY_KEY = 'zhikao_cloze_history_v1';
@@ -1347,7 +1374,49 @@ function startWrongReview(){
   renderSingle();
 }
 
+/* 列印錯題考卷：把含有錯題的「整篇文章」排成考卷。所有空格都開放作答、附完整選項，答錯的空格加星號（★）；
+   不印答案、解析與學生上次選了什麼。一次最多印 4 篇，免得一次印太多。 */
+const WRONG_PRINT_MAX = 4;
+function wrongPassageGroups(){
+  const w = loadWrongIds(), order = [], map = {};
+  ITEMS.forEach(it => { if(w.has(it.id)){ if(!map[it.passageId]){ map[it.passageId] = new Set(); order.push(it.passageId); } map[it.passageId].add(it.id); } });
+  return {order, map};
+}
+function updatePrintWrongSub(){
+  const btn = document.getElementById('printWrongBtn'); if(!btn) return;
+  const g = wrongPassageGroups(), n = g.order.length;
+  btn.disabled = n === 0;
+  const sub = document.getElementById('printWrongSub'); if(!sub) return;
+  const base = '把你答錯的題目所在的整篇文章印成考卷：有星號（★）的是上次答錯的格子，其他格可以順便重做；空白試卷，不含答案和解析。';
+  const tail = '錯題本只存在這台裝置的這個瀏覽器，紙本重做不會更新它，要回到畫面上再答對一次，才會從錯題本移除。';
+  const cnt = n === 0 ? '' : (n > WRONG_PRINT_MAX ? '你的錯題分布在 ' + n + ' 篇文章，一次只印前 ' + WRONG_PRINT_MAX + ' 篇；等這幾篇的錯題在畫面上答對、移出錯題本後，再按一次就會印到後面的。' : '目前共 ' + n + ' 篇，會全部印出。');
+  sub.textContent = base + cnt + tail;
+}
+function buildWrongSheet(){
+  const box = document.getElementById('printSheet');
+  const g = wrongPassageGroups();
+  const list = g.order.slice(0, WRONG_PRINT_MAX);
+  if(!list.length){ box.innerHTML = ''; document.body.classList.remove('hasSheet'); return false; }
+  const parts = list.map(pid => {
+    const p = PASSAGES[pid];
+    const its = ITEMS.filter(it => it.passageId === pid).sort((a,b) => a.blankNum - b.blankNum);
+    const star = {}; its.forEach(it => { if(g.map[pid].has(it.id)) star[it.blankNum] = true; });
+    let html = renderMarkedPlain(p.text || p.textMarked);
+    html = html.replace(/\{(\d+)\}/g, (m, n) => '<span class="pw-b">' + (star[n] ? '★' : '') + '(' + n + ') ＿＿＿＿＿＿</span>');
+    const opts = its.map(it => '<div class="po"><b>' + (star[it.blankNum] ? '★' : '') + it.blankNum + '.</b> ' + ['A','B','C','D'].filter(L => it.options[L]).map(L => '<span style="white-space:nowrap">(' + L + ') ' + escapeHtml(it.options[L]) + '</span>').join('　') + '</div>').join('');
+    return '<div class="pw-p"><div class="pw-t">' + escapeHtml(((its[0] && its[0].year) || p.year)) + '</div><div class="passage-text">' + html + '</div><div class="print-opts">' + opts + '</div></div>';
+  }).join('');
+  box.innerHTML = '<div class="ps-head">克漏字錯題考卷（共 ' + list.length + ' 篇' + (g.order.length > list.length ? '，另有 ' + (g.order.length - list.length) + ' 篇未印' : '') + '）</div>'
+    + '<div class="ps-note">請依文意與文法，為每一格選出最適當的答案。有星號（★）的是你上次答錯的題，其他格可以順便重做。</div>' + parts;
+  document.body.classList.add('hasSheet');
+  return true;
+}
+function clearWrongSheet(){ const b = document.getElementById('printSheet'); if(b) b.innerHTML = ''; document.body.classList.remove('hasSheet'); }
+function printWrongPassages(){ if(buildWrongSheet()) window.print(); }
+window.addEventListener('afterprint', clearWrongSheet);
+
 function showScreen(id){
+  clearWrongSheet();
   document.getElementById('home').style.display = id==='home' ? 'block' : 'none';
   document.getElementById('single').style.display = id==='single' ? 'block' : 'none';
   document.getElementById('full').style.display = id==='full' ? 'block' : 'none';
