@@ -217,3 +217,15 @@ footer::after{display:block;margin-top:10px;font-size:12px;line-height:1.8;color
   body .hardlist .enh{background:var(--tint-crimson);}
   .hero .big{color:#fff;}
 }
+
+/* 深入解析預設收起來：先給一句話結論，想看完整分析再展開（2026-10-25） */
+details.deep>summary{cursor:pointer; list-style:none;}
+details.deep>summary::-webkit-details-marker{display:none;}
+details.deep>summary::marker{content:"";}
+details.deep>summary h2{display:inline; margin:0; padding:0; border:0;}
+details.deep>summary::before{content:"▸"; color:var(--crimson); font-size:15px; margin-right:9px; display:inline-block; transition:transform .15s;}
+details.deep[open]>summary::before{transform:rotate(90deg);}
+details.deep>summary .deepSub{display:block; font-family:'Noto Sans TC',sans-serif; font-weight:400; font-size:13px; color:var(--ink-soft); margin-top:3px; padding-left:24px; line-height:1.7;}
+details.deep[open]>summary{margin-bottom:12px;}
+details.deep>summary:focus-visible{outline:2px solid var(--crimson); outline-offset:4px;}
+@media (prefers-reduced-motion: reduce){ details.deep>summary::before{transition:none;} }
