@@ -478,6 +478,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
   @page{margin:10mm 14mm 14mm; @bottom-center{content:"指考克漏字・staresto-create.github.io/zhikao-cloze-test・免費資源，請勿販售"; font-size:8pt; color:#777; font-family:"Noto Sans TC",sans-serif;}}
 }
 </style>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/progress.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/start.js" defer></script>
 <style id="print-entry">
@@ -534,6 +535,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
     </div>
 
     <button class="big-btn" id="u-start" style="margin-top:0; margin-bottom:20px;" onclick="quickStart()">立即開始 · 隨機 10 題</button>
+    <div id="progressHost" style="margin:-8px 0 20px;"></div>
 
     <div class="status-banner">
       <b>現況說明：</b>目前題庫涵蓋 91–110 年<b>指考</b>文法與轉折詞克漏字（共 <span class="jsTotal">305</span> 題，含補考、敏督利颱風受災地區考生補救考試、課綱參考試卷；每篇文章每個空格都已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯（補考/參考試卷因非正式施測，大考中心無官方統計）。題庫與解析都已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
@@ -943,7 +945,7 @@ function loadWrongIds(){
   try{ return new Set(JSON.parse(localStorage.getItem(WRONG_KEY) || '[]')); }catch(e){ return new Set(); }
 }
 function saveWrongIds(set){
-  localStorage.setItem(WRONG_KEY, JSON.stringify(Array.from(set)));
+  try{ localStorage.setItem(WRONG_KEY, JSON.stringify(Array.from(set))); }catch(e){}
 }
 function addWrong(id){
   const s = loadWrongIds(); s.add(id); saveWrongIds(s); refreshWrongCount();
@@ -966,7 +968,7 @@ function loadHistory(){
 function addHistoryEntry(item, correct){
   const hist = loadHistory();
   hist.push({ id: item.id, category: item.category, correct: correct, t: Date.now() });
-  localStorage.setItem(HISTORY_KEY, JSON.stringify(hist));
+  try{ localStorage.setItem(HISTORY_KEY, JSON.stringify(hist)); }catch(e){}
   refreshHomeStats();
 }
 function clearHistory(){
@@ -1031,6 +1033,7 @@ async function init(){
   refreshHomeStats();
   fillSpanStats();
   scrMountStrip();
+  renderProgress();
   startFromSetHash() || startFromQHash() || startFromFullHash();
 }
 
@@ -1424,7 +1427,11 @@ function showScreen(id){
   document.getElementById('full').style.display = id==='full' ? 'block' : 'none';
   document.getElementById('history').style.display = id==='history' ? 'block' : 'none';
 }
-function backHome(){ showScreen('home'); refreshWrongCount(); refreshHomeStats(); scrMountStrip(); }
+function backHome(){ showScreen('home'); refreshWrongCount(); refreshHomeStats(); scrMountStrip(); renderProgress(); }
+/* 完成度：單題模式作答就算做過；整篇模式按「交卷」才算整篇的題目都做過；測試模式不留紀錄 */
+function renderProgress(){
+  try{ if(window.SCProgress) SCProgress.mountBar(document.getElementById('progressHost'), 'zhikao-cloze', ITEMS.map(x => x.id)); }catch(e){}
+}
 
 function extractSentence(text, blankNum){
   const token = '{'+blankNum+'}';
@@ -1569,6 +1576,7 @@ function answerSingle(letter){
     if(correct){ removeWrong(it.id); }
     else{ addWrong(it.id); }
     addHistoryEntry(it, correct);
+    try{ if(window.SCProgress) SCProgress.mark('zhikao-cloze', it.id); }catch(e){}
   }
 
   document.getElementById('singleNote').textContent = correct
@@ -1852,6 +1860,7 @@ function gradeFull(){
       <span>${isCorrect ? '✓ 正確' : '✕ 正解 '+it.answer+'（'+escapeHtml(it.options[it.answer])+'）'}<span class="fcat">${escapeHtml(it.category)}</span>${spanHtml}${accHtml}${noteHtml}${discHtml}</span>
     </div>`;
   });
+  if(!testMode){ try{ if(window.SCProgress) SCProgress.markMany('zhikao-cloze', items.filter(x=>{ const e=document.getElementById('fsel_'+x.id); return e && e.value; }).map(x=>x.id)); }catch(e){} }
   document.getElementById('fullScore').textContent = correctCount+' / '+items.length;
   document.getElementById('fullReviewList').innerHTML = reviewHtml;
   const passage = PASSAGES[items[0] ? items[0].passageId : ''];
