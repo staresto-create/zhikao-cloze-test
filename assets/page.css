@@ -229,3 +229,16 @@ details.deep>summary .deepSub{display:block; font-family:'Noto Sans TC',sans-ser
 details.deep[open]>summary{margin-bottom:12px;}
 details.deep>summary:focus-visible{outline:2px solid var(--crimson); outline-offset:4px;}
 @media (prefers-reduced-motion: reduce){ details.deep>summary::before{transition:none;} }
+
+/* 兩色標線索（試點）：句內＝橘紅底＋實線；跨句＝紫底＋虛線，不靠顏色也分得出來 */
+:root{--cl-a-bg:#FAD9CC; --cl-a-line:#AE3626; --cl-b-bg:#E2D8F3; --cl-b-line:#6A4FA3;}
+mark.cl-a{background:var(--cl-a-bg); color:inherit; border-bottom:2px solid var(--cl-a-line); padding:0 1px; border-radius:2px;}
+mark.cl-b{background:var(--cl-b-bg); color:inherit; border-bottom:2px dashed var(--cl-b-line); padding:0 1px; border-radius:2px;}
+.clueKey{font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:1.9; color:var(--ink-soft); margin:8px 0 0;}
+.clueKey mark{font-weight:700; margin-right:4px;}
+.clueX{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif; font-size:15.5px; line-height:1.85; margin:8px 0 0; padding:6px 10px; border-left:3px solid var(--cl-b-line); background:var(--tint-warm);}
+.clueXlab{font-family:'Noto Sans TC',sans-serif; font-size:12px; font-weight:700; color:var(--ink-soft); margin-right:8px;}
+.sblank.sm{min-width:30px;}
+@media screen and (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){--cl-a-bg:#5A2D25; --cl-a-line:#E57B68; --cl-b-bg:#3F3560; --cl-b-line:#B7A1EA;}
+}
