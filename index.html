@@ -504,6 +504,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
 }
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/progress.js"></script>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/idiom-link.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/start.js" defer></script>
 <style id="print-entry">
@@ -1841,6 +1842,7 @@ function answerSingle(letter){
     discBox.classList.remove('show');
   }
 
+  try{ if(window.IDIOMLINK) IDIOMLINK.run([whyBox, document.getElementById('singleNoteBox'), ctxBox, discBox]); }catch(e){}
   // 答題後：翻譯框自動顯示（沿用答題前是否已展開上下文的狀態）
   updateTranslationBox();
 }
@@ -2045,6 +2047,7 @@ function gradeFull(){
   if(!testMode){ try{ if(window.SCProgress) SCProgress.markMany('zhikao-cloze', items.filter(x=>{ const e=document.getElementById('fsel_'+x.id); return e && e.value; }).map(x=>x.id)); }catch(e){} }
   document.getElementById('fullScore').textContent = correctCount+' / '+items.length;
   document.getElementById('fullReviewList').innerHTML = reviewHtml;
+  try{ if(window.IDIOMLINK) IDIOMLINK.run([document.getElementById('fullReviewList')]); }catch(e){}
   const passage = PASSAGES[items[0] ? items[0].passageId : ''];
   document.getElementById('fullTranslation').innerHTML = (passage && passage.zh) ? escapeHtml(passage.zh) : '（無中譯）';
   document.getElementById('fullReview').style.display = '';
