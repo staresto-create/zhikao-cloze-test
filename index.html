@@ -551,7 +551,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
 
   <!-- HOME -->
   <div id="home">
-  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">第一次使用？</span><a href="../JCEE-vocab-questions/howto.html">怎麼使用這個題庫</a><a href="../JCEE-vocab-questions/find.html">找功能</a></div><div class="ubrow"><span class="ublab">同一題庫</span><a href="y/">詳解總覽</a><a href="hard/">歷屆最難的 15 題</a><a href="map/">題目地圖</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-start">開始練習</a><a href="#u-topic">篩選文章主題</a><a href="#catFilterSection">篩選文法點</a><a href="#u-year">篩選年份</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
+  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">第一次使用？</span><a href="../JCEE-vocab-questions/howto.html">怎麼使用這個題庫</a><a href="../JCEE-vocab-questions/find.html">找功能</a></div><div class="ubrow"><span class="ublab">同一題庫</span><a href="y/">歷屆詳解總覽</a><a href="hard/">歷屆最難的 15 題</a><a href="map/">題目地圖</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-start">開始練習</a><a href="#u-topic">篩選文章主題</a><a href="#catFilterSection">篩選文法點</a><a href="#u-year">篩選年份</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
     <div data-start-here></div>
     <p class="home-desc print-note" style="margin:0 0 14px"><b>想用紙本練習？</b>進到題目畫面後，按最上方的「🖨️ 列印成考卷」，印出來就是考卷：空格留白，不含答案、解析和提示。手機和電腦都能印（也可以存成 PDF）。</p>
     <div style="background:var(--tint-sage2); border-left:3px solid var(--sage); border-radius:0; padding:13px 16px; margin-bottom:18px; font-size:13.5px; line-height:1.8; color:var(--ink);">
@@ -564,7 +564,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
     <div id="progressHost" style="margin:-8px 0 20px;"></div>
 
     <div class="status-banner">
-      <b>現況說明：</b>目前題庫涵蓋 91–110 年<b>指考</b>文法與轉折詞克漏字（共 <span class="jsTotal">305</span> 題，含補考、敏督利颱風受災地區考生補救考試、課綱參考試卷；每篇文章每個空格都已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目全體考生的答對率特別低（補考/參考試卷因非正式施測，大考中心無官方統計）。題庫與解析都已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
+      <b>現況說明：</b>目前題庫涵蓋 91–110 年<b>指考</b>文法與轉折詞克漏字（共 <span class="jsTotal">305</span> 題，含補考、敏督利颱風受災地區考生補救考試與參考試卷；每篇文章每個空格都已補齊完整選項），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目全體考生的答對率特別低（補考、補救考試與參考試卷，大考中心沒有公布逐題答對率）。題庫與解析都已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！
     </div>
 
     <div class="ann-box">
@@ -680,8 +680,8 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
       有些空格只看本句就能填，有些必須回頭看前後句。<b>作答前先判斷這一格屬於哪一種</b>——判斷錯了會白花時間。
       <div class="dh-body" id="spanHelpBody"><!--DIFFTAG-S-->克漏字（綜合測驗）的每個空格，需要的線索範圍並不一樣。本題庫已經替全部 <span id="statTotalA">305</span> 題逐題標上兩種標籤：<b>句內</b>、<b>跨句</b>。學測克漏字另有<b>篇章</b>標籤，指考克漏字則沒有需要掌握整段論述走向才能作答的題目。標籤會在你作答之後才出現，先自己判斷一次，再對照答案，練久了就判斷得出來。（這個題型官方在考什麼，見下方「📋 這個題型官方在考什麼」。）<br>
       本題庫把指考克漏字的 <span class="num"><span id="statTotalC">305</span> 道試題全部逐題檢查</span>，替每一題標上線索範圍，標下來的結果是「句內」<span class="num"><span id="statInnerN">249</span> 題，占 <span id="statInnerPct2">81.6%</span></span>——要判斷的是空格附近的詞語本身，不是整篇文章的內容。（<b>題目來自大考中心官方歷屆試題，涵蓋全部年度；線索範圍的標籤則是本題庫依題目內容自行判定的，大考中心沒有公布這項分類。</b>）<br>
-      跨句題共 <span id="statCrossN">56</span> 題（<span id="statCrossPct">18.4%</span>），沒有「篇章」題。分布很不平均：<b>連接詞／轉折詞</b> 46%、<b>代名詞／指示詞</b> 33%、<b>字彙選義</b> 23%、<b>比較級</b> 20%、<b>慣用語／片語</b> 13%、<b>時態／語態</b> 10%，其餘四類（介系詞、分詞／動狀詞、關係子句／疑問詞、句型結構）在本題庫的判定裡沒有跨句題。<b>連接詞／轉折詞幾乎每兩題就有一題要跨句</b>，這一類不能只盯著空格那一句看。至於「代名詞／指示詞」要判斷的「這個字指前面哪一個」，大考中心在閱讀測驗的評量點清單裡稱為「解讀上下文中的<b>指涉關係</b>」；本題庫的分類名稱是詞類的講法，官方那個是功能的講法，說的是同一件事。另外，答對率低於 40% 的 <span class="jsHardN">64</span> 道難題裡，只有 <span class="jsHardCross">7</span> 題是跨句——難處主要在字彙選義（<span class="jsHardCat" data-cat="字彙選義">23</span> 題）與慣用語／片語（<span class="jsHardCat" data-cat="慣用語／片語">18</span> 題）本身。<br>
-      <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對完答案不要只記正確選項，要把四個選項的差別、以及該字的常見字詞搭配一起記下來，難題的關鍵幾乎都在這裡。
+      跨句題共 <span id="statCrossN">56</span> 題（<span id="statCrossPct">18.4%</span>），沒有「篇章」題。分布很不平均：<b>連接詞／轉折詞</b> 46%、<b>代名詞／指示詞</b> 33%、<b>字彙選義</b> 23%、<b>比較級</b> 20%、<b>慣用語／片語</b> 13%、<b>時態／語態</b> 10%，其餘四類（介系詞、分詞／動狀詞、關係子句／疑問詞、句型結構）在本題庫的判定裡沒有跨句題。<b>連接詞／轉折詞幾乎每兩題就有一題要跨句</b>，這一類不能只盯著空格那一句看。至於「代名詞／指示詞」要判斷的「這個字指前面哪一個」，大考中心在閱讀測驗的評量點清單裡稱為「解讀上下文中的<b>指涉關係</b>」；本題庫的分類名稱是詞類的講法，官方那個是功能的講法，說的是同一件事。另外，答對率 25% 以下的難題共 <span class="jsHard25N">15</span> 題，加上答對率在 26% 到 39% 之間的 <span class="jsLowMidN">49</span> 題，這 <span class="jsHardN">64</span> 題裡只有 <span class="jsHardCross">7</span> 題是跨句——難處主要在字彙選義（<span class="jsHardCat" data-cat="字彙選義">23</span> 題）與慣用語／片語（<span class="jsHardCat" data-cat="慣用語／片語">18</span> 題）本身。<br>
+      <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對答案時不要只記住答案是哪一個字，要把四個選項的差別、以及該字的常見字詞搭配一起記下來，難題的關鍵幾乎都在這裡。
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
     </div>
@@ -748,10 +748,10 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
 <div class="span-box">
       <div class="stitle">📊 關於本題庫的答對率（P 值）與鑑別度（D 值）</div>
       題目下方的兩個數字全部來自<b>大考中心公布的官方統計</b>：<b>答對率</b>愈低代表題目愈難，<b>鑑別度</b>愈高代表愈能區分程度。
-      <div class="dh-body" id="accHelpBody"><!--DIFFTAG-S-->題目下方標示的兩個數字，全部來自<b>大考中心公布的官方統計</b>，不是老師自行估算，也不是從網路蒐集的印象值。（補考、敏督利颱風受災地區考生補救考試與課綱參考試卷不是正式施測，大考中心沒有官方統計，所以這些題目不會顯示數據，不是資料漏收。）<br>
-      <b>答對率（P 值）</b>是全體考生答對這一題的百分比，數字愈低代表題目愈難。本題庫依這個數字分成三級：<b>難</b>（P ≤ 25%）／<b>中</b>（P 介於 25% 至 75%）／<b>易</b>（P &gt; 75%）。<br>
-      <b>鑑別度（D 值）</b>＝高分群考生答對率 － 低分群考生答對率，用來看這一題能不能區分出程度差異。D 值愈高，代表這一題愈能把程度不同的人分開；大考中心官方說明指出，良好試題的鑑別度應大於 0。<br>
-      <b>D 值為負數的題目，本題庫另外標為「特殊」。</b>負值代表低分群考生的答對率反而高於高分群，也就是讀得愈懂的人反而愈容易選錯——通常是某個誘答選項特別容易讓有基礎的人選錯。<b>你在這幾題失手，不必懷疑自己的實力</b>，它們反而是最值得拿出來討論的題目，本題庫會在該題下方另外附上鑑別度分析。<br>
+      <div class="dh-body" id="accHelpBody"><!--DIFFTAG-S-->題目下方標示的兩個數字，全部來自<b>大考中心公布的官方統計</b>，不是老師自行估算，也不是從網路蒐集的印象值。（補考、敏督利颱風受災地區考生補救考試與參考試卷，大考中心沒有公布逐題答對率，所以這些題目不會顯示數據，不是資料漏收。）<br>
+      <b>答對率（P 值）</b>是全體考生答對這一題的百分比，數字愈低代表題目愈難。本題庫依這個數字分成三級：<b>難</b>（25% 以下）／<b>中</b>（26–75%）／<b>易</b>（76% 以上）；大考中心公布的答對率都是整數。<br>
+      <b>鑑別度（D 值）</b>＝高分組考生答對率 － 低分組考生答對率，用來看這一題能不能區分出程度差異。D 值愈高，代表這一題愈能把程度不同的人分開；大考中心說明「良好試題的鑑別度應該要大於0」。<br>
+      <b>D 值為負數的題目，本題庫另外標為「特殊：鑑別度為負」</b>（這類題目仍照答對率算在難、中、易裡）。負值代表低分組考生的答對率反而比高分組高，也就是讀得愈懂的人反而愈容易選錯——通常是某個誘答選項特別容易讓有基礎的人選錯。<b>你在這幾題失手，不必懷疑自己的實力</b>，它們反而是最值得拿出來討論的題目，本題庫會在該題下方另外附上鑑別度分析。<br>
       資料來源：大考中心<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&amp;qunit=0J066614378153514816&amp;sid=0K042343829406896328" target="_blank" rel="noopener">《一起來認識學測與指考的試題答對率》↗</a>、<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&amp;qunit=0J066614378153514816&amp;sid=0K073687789378174143" target="_blank" rel="noopener">《一起來認識學測與指考的試題鑑別度》↗</a>，都收在「選才電子報 → 數字真相」專欄。
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
@@ -852,7 +852,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
       <div class="sec-title">依難易度篩選<span class="diff-hint">（選填，可複選；勾選後就能不限文法分類直接開始練習）</span></div>
       <div class="cat-grid" id="diffGrid"></div>
       <div class="diff-note">
-        難易度依大考中心公布的「全體考生答對率」（P 值）分成三級：<b>難</b>（答對率≤25%）／<b>中</b>（25~75%，難易適中，此區間刻意設得較寬，因為難易適中的題目最能區分學生程度）／<b>易</b>（＞75%），為教育測驗學界通用切法，大考中心本身未明訂切點百分比。<b>特殊</b>指鑑別度（D 值＝高分群答對率－低分群答對率）為負值的題目——大考中心官方說明指出「良好試題的鑑別度應大於 0」，若為負值，代表低分群考生答對率反而高於高分群，是官方標準認定設計有瑕疵的題目，特別適合拿來討論、練習。<br>
+        難易度依大考中心公布的「全體考生答對率」（P 值）分成三級：<b>難</b>（25% 以下）／<b>中</b>（26–75%）／<b>易</b>（76% 以上）。大考中心公布的答對率都是整數；本題庫以 25%、75% 為切點分成難、中、易。<b>特殊：鑑別度為負</b>是另外的標記，這類題目仍照答對率算在難、中、易裡。鑑別度（D 值）＝高分組答對率－低分組答對率；大考中心說明「良好試題的鑑別度應該要大於0」，若為負值，代表低分組考生的答對率反而比高分組高。<br>
         資料來源：大考中心<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&amp;qunit=0J066614378153514816&amp;sid=0K042343829406896328" target="_blank" rel="noopener">《一起來認識學測與指考的試題答對率》↗</a>、<a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&amp;qunit=0J066614378153514816&amp;sid=0K073687789378174143" target="_blank" rel="noopener">《一起來認識學測與指考的試題鑑別度》↗</a>，都收在「選才電子報 → 數字真相」專欄。
       </div>
 
@@ -1115,9 +1115,11 @@ function fillSpanStats(){
                    .map(it => it.accuracyRate);
     if (a.length) el.textContent = Math.round(a.reduce((x, y) => x + y, 0) / a.length) + '%';
   });
-  // 難題門檻：低於 40%（不含 40），兩站一致
+  // 答對率偏低：39% 以下（大考中心答對率都是整數），兩站一致；其中 25% 以下才是地圖與 hard/ 的「難」
   const hard = ITEMS.filter(it => it.accuracyRate != null && it.accuracyRate < 40);
   setAll('jsHardN', hard.length);
+  setAll('jsHard25N', hard.filter(it => it.accuracyRate <= 25).length);
+  setAll('jsLowMidN', hard.filter(it => it.accuracyRate > 25).length);
   setAll('jsHardCross', hard.filter(it => it.contextSpan !== '句內').length);
   document.querySelectorAll('.jsHardCat').forEach(el => {
     el.textContent = hard.filter(it => it.category === el.dataset.cat).length;
@@ -1207,7 +1209,7 @@ function refreshAvail(){
   const full = currentMode === 'full';
   const catOkI = it => full || selectedCats.size === 0 || selectedCats.has(it.category);
   const yearOkI = it => selectedYears.size === 0 || selectedYears.has(it.year);
-  const diffOkI = it => selectedDiffs.size === 0 || selectedDiffs.has(getDiffTier(it));
+  const diffOkI = it => diffMatch(it);
   const base = it => catOkI(it) && yearOkI(it) && diffOkI(it);
   const cancelled = [];
   const labelOf = el => el.textContent.replace(/\s*\(\d+(?: 篇)?\)\s*$/, '').trim();
@@ -1233,7 +1235,7 @@ function refreshAvail(){
     }
     document.querySelectorAll('#diffGrid .cat-chip').forEach(el => {
       const d = el.dataset.diff;
-      changed = setState(el, ITEMS.some(it => getDiffTier(it) === d && catOkI(it) && yearOkI(it) && topicOk(it)), selectedDiffs, d) || changed;
+      changed = setState(el, ITEMS.some(it => (d === 'special' ? isSpecial(it) : getDiffTier(it) === d) && catOkI(it) && yearOkI(it) && topicOk(it)), selectedDiffs, d) || changed;
     });
     document.querySelectorAll('#topicGrid .cat-chip').forEach(el => {
       const t = el.dataset.topic;
@@ -1348,7 +1350,7 @@ function buildYearChips(){
   const grid = document.getElementById('yearGrid');
   selectedYears = new Set();  // 預設全不選，避免「點一下＝取消其他全部」的誤觸
   grid.innerHTML = years.map(y =>
-    `<div class="cat-chip" data-year="${escapeAttr(y)}" onclick="toggleYear(this)">${escapeHtml(y)}</div>`
+    `<div class="cat-chip" data-year="${escapeAttr(y)}" onclick="toggleYear(this)">${escapeHtml(yShow(y))}</div>`
   ).join('');
 }
 function toggleYear(el){
@@ -1370,8 +1372,11 @@ function toggleAllYears(on){
 function updateYearAvailability(){ refreshAvail(); }
 function updateCategoryAvailability(){ refreshAvail(); }
 
+/* 難／中／易只看答對率，每題都歸其中一級（各級加總＝有答對率的題數）。
+   「特殊：鑑別度為負」是另外的標記，不從難中易扣掉；篩選時與難中易同組，符合其中一個就算。 */
+function isSpecial(it){ return typeof it.discrimination === 'number' && it.discrimination < 0; }
+function diffMatch(it){ return selectedDiffs.size === 0 || selectedDiffs.has(getDiffTier(it)) || (selectedDiffs.has('special') && isSpecial(it)); }
 function getDiffTier(it){
-  if(it.discrimination !== undefined && it.discrimination < 0) return 'special';
   if(typeof it.accuracyRate !== 'number') return null;
   if(it.accuracyRate <= 25) return 'hard';
   if(it.accuracyRate <= 75) return 'mid';
@@ -1379,9 +1384,9 @@ function getDiffTier(it){
 }
 let selectedDiffs = new Set();
 function buildDiffChips(){
-  const labels = {hard:'難（≤25%）', mid:'中（25~75%）', easy:'易（＞75%）', special:'特殊（鑑別度為負）'};
+  const labels = {hard:'難（25% 以下）', mid:'中（26–75%）', easy:'易（76% 以上）', special:'特殊：鑑別度為負'};
   const counts = {hard:0, mid:0, easy:0, special:0};
-  ITEMS.forEach(it => { const t = getDiffTier(it); if(t) counts[t]++; });
+  ITEMS.forEach(it => { const t = getDiffTier(it); if(t) counts[t]++; if(isSpecial(it)) counts.special++; });
   const grid = document.getElementById('diffGrid');
   selectedDiffs = new Set();
   grid.innerHTML = ['hard','mid','easy','special'].map(t =>
@@ -1420,6 +1425,8 @@ function scr(f){
     else window.addEventListener('load', function(){ try{ if(window.SCResume) f(window.SCResume); }catch(e){} });
   }catch(e){}
 }
+/* 畫面上的年度名稱：補救考試與地圖寫法一致 */
+function yShow(y){ return String(y).replace(/^(\d+ 年指考)敏督利颱風受災地區考生補救考試$/, '$1補救考試（敏督利颱風受災地區）'); }
 /* 年度名稱太長的卷別（參考試卷、補救考試）縮短成接續卡片放得下的寫法 */
 function scrYear(y){
   return String(y).replace(/（\d+ 課綱適用，(\d+ 年施測)）/, '（$1）').replace(/^(\d+ 年指考)敏督利颱風受災地區考生補救考試$/, '$1補救考試');
@@ -1520,7 +1527,7 @@ function buildQueue(filterFn){
 
 function startSession(){
   testMode = document.getElementById('testModeToggle').checked;
-  const diffOk = it => selectedDiffs.size===0 || selectedDiffs.has(getDiffTier(it));
+  const diffOk = it => diffMatch(it);
   const catOk = it => selectedCats.size===0 || selectedCats.has(it.category);
   const yearOk = it => selectedYears.size===0 || selectedYears.has(it.year);
   if(currentMode === 'single'){
@@ -1592,7 +1599,7 @@ function buildWrongSheet(){
     let html = renderMarkedPlain(p.text || p.textMarked);
     html = html.replace(/\{(\d+)\}/g, (m, n) => '<span class="pw-b">' + (star[n] ? '★' : '') + '(' + n + ') ＿＿＿＿＿＿</span>');
     const opts = its.map(it => '<div class="po"><b>' + (star[it.blankNum] ? '★' : '') + it.blankNum + '.</b> ' + ['A','B','C','D'].filter(L => it.options[L]).map(L => '<span style="white-space:nowrap">(' + L + ') ' + escapeHtml(it.options[L]) + '</span>').join('　') + '</div>').join('');
-    return '<div class="pw-p"><div class="pw-t">' + escapeHtml(((its[0] && its[0].year) || p.year)) + '</div><div class="passage-text">' + html + '</div><div class="print-opts">' + opts + '</div></div>';
+    return '<div class="pw-p"><div class="pw-t">' + escapeHtml(yShow((its[0] && its[0].year) || p.year)) + '</div><div class="passage-text">' + html + '</div><div class="print-opts">' + opts + '</div></div>';
   }).join('');
   box.innerHTML = '<div class="ps-head">克漏字錯題考卷（共 ' + list.length + ' 篇' + (g.order.length > list.length ? '，另有 ' + (g.order.length - list.length) + ' 篇未印' : '') + '）</div>'
     + '<div class="ps-note">請依文意與文法，為每一格選出最適當的答案。有星號（★）的是你上次答錯的題，其他格可以順便重做。</div>' + parts;
@@ -1695,7 +1702,7 @@ function renderSingle(){
   document.getElementById('singleProgress').textContent = (singleIdx+1)+' / '+singleQueue.length;
   document.getElementById('singleProgressFill').style.width = ((singleIdx)/singleQueue.length*100)+'%';
   document.getElementById('singleWrongBadge').innerHTML = testMode ? '<span style="color:var(--gold);">● 測試模式中</span>' : '';
-  document.getElementById('singleYearTag').textContent = it.year;
+  document.getElementById('singleYearTag').textContent = yShow(it.year);
   document.getElementById('singleCatTag').textContent = it.category;
 
   const { snippet, start, end } = extractSentence(passage.text, it.blankNum);
@@ -1989,7 +1996,7 @@ function renderFull(){
   document.getElementById('fullProgress').textContent = (fullIdx+1)+' / '+fullPassageIds.length;
   document.getElementById('fullWrongBadge').innerHTML = testMode ? '<span style="color:var(--gold);">● 測試模式中</span>' : '';
   document.getElementById('fullProgressFill').style.width = (fullIdx/fullPassageIds.length*100)+'%';
-  document.getElementById('fullYearTag').textContent = items.length ? items[0].year : passage.year;
+  document.getElementById('fullYearTag').textContent = yShow(items.length ? items[0].year : passage.year);
 
   let html = renderMarkedPlain(passage.textMarked || passage.text);
   items.forEach(it=>{
